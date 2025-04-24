@@ -1,0 +1,1748 @@
+{
+  "components": [
+    {
+      "id": "2SD1048-8",
+      "name": "2SD1048-8",
+      "type": "NPN Transistor",
+      "description": "O236 \n- BJT Cross-Reference Search\n2SD1048-8 Datasheet (PDF)\n7.1. Size:239K sanyo\n2sb815 2sd1048.pdf \nOrdering number : ENN694F2SB815 / 2SD1048PNP / NPN Epitaxial Planar Silicon Transistors2SB815 / 2SD1048General-Purpose AF Amplifier ApplicationsFeaturesPackage Dimensions Ultrasmall package allows miniaturizationunit : mmin end products.2018B Large current capacity (IC=0.7A) and low-saturation[2SB815 / 2SD1048]voltage.0.40.1630 to 0.11 0.95 0.95 21.9\n7.2. Size:21K sanyo\n2sd1048.pdf \nOrdering number : ENN694F2SB815 / 2SD1048PNP / NPN Epitaxial Planar Silicon Transistors2SB815 / 2SD1048General-Purpose AF Amplifier ApplicationsFeaturesPackage Dimensions Ultrasmall package allows miniaturizationunit : mmin end products.2018B Large current capacity (IC=0.7A) and low-saturation[2SB815 / 2SD1048]voltage.0.40.1630 to 0.11 0.95 0.95 21.9\n7.3. Size:190K onsemi\n2sb815 2sd1048.pdf \nOrdering number : EN694H2SB815/2SD1048Bipolar Transistorhttp://onsemi.com() () ( ) ( )15V, 0.7A, Low VCE sat , PNP NPN Single CPFeatures Ultrasmall package allows miniaturization in end products Large current capacity (IC=0.7A) and low-saturation voltage( ): 2SB815Specifications Absolute Maximum Ratings at Ta=25CParameter Symbol Conditions Ratings UnitCol\n7.4. Size:705K kexin\n2sd1048.pdf \nSMD Type TransistorsNPN Transistors2SD1048SOT-23Unit: mm+0.12.9 -0.1+0.10.4-0.13 Features Large current capacity (IC=0.7A) and low-saturation voltage. Complimentary to 2SB8151 2+0.1+0.050.95 -0.1 0.1 -0.01+0.11.9 -0.11.Base2.Emitter3.collector Absolute Maximum Ratings Ta = 25Parameter Symbol Rating Unit Collector - Base Voltage VC\nDatasheet: 2SD1046 , 2SD1046D , 2SD1046E , 2SD1047 , 2SD1047O , 2SD1048 , 2SD1048-6 , 2SD1048-7 , 2N5401 , 2SD1049 , 2SD105 , 2SD1050 , 2SD1051 , 2SD1052 , 2SD1052A , 2SD1053 , 2SD1054 . \nHistory: 2SD1048-6 | 2SD1046E | 2SD1046 | 2SD1044A | 2SD1044 | 2SD1043 | 2SD1042 \nKeywords - 2SD1048-8 transistor datasheet\n2SD1048-8 cross reference\n2SD1048-8 equivalent finder\n2SD1048-8 lookup\n2SD1048-8 substitution\n2SD1048-8 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO236",
+      "maxCollectorCurrent": 0.7,
+      "maxCollectorEmitterVoltage": 15,
+      "maxCollectorBaseVoltage": 20,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.2,
+      "maxJunctionTemperature": 125,
+      "transitionFrequency": 250,
+      "collectorCapacitance": 8,
+      "hFE": 450,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO236",
+        "Collector Power Dissipation": "0.2W",
+        "Collector-Base Voltage": "20V",
+        "Collector-Emitter Voltage": "15V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.7A",
+        "Current Gain (hFE)": "450",
+        "Junction Temperature": "125°C",
+        "Transition Frequency": "250MHz",
+        "Collector Capacitance": "8pF"
+      },
+      "datasheets": [
+        {
+          "name": "sanyo (21K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd1048.pdf&dire=_sanyo"
+        },
+        {
+          "name": "kexin (705K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd1048.pdf&dire=_kexin"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD1046",
+          "name": "2SD1046",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-8",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046"
+        },
+        {
+          "id": "2SD1046D",
+          "name": "2SD1046D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-8",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046D"
+        },
+        {
+          "id": "2SD1046E",
+          "name": "2SD1046E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-8",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046E"
+        },
+        {
+          "id": "2SD1047",
+          "name": "2SD1047",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-8",
+          "manufacturer": "Various",
+          "href": "/component/2SD1047"
+        },
+        {
+          "id": "2SD1047O",
+          "name": "2SD1047O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-8",
+          "manufacturer": "Various",
+          "href": "/component/2SD1047O"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-8",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-8",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-8",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1049",
+          "name": "2SD1049",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-8",
+          "manufacturer": "Various",
+          "href": "/component/2SD1049"
+        },
+        {
+          "id": "2SD105",
+          "name": "2SD105",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-8",
+          "manufacturer": "Various",
+          "href": "/component/2SD105"
+        },
+        {
+          "id": "2SD1050",
+          "name": "2SD1050",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-8",
+          "manufacturer": "Various",
+          "href": "/component/2SD1050"
+        },
+        {
+          "id": "2SD1051",
+          "name": "2SD1051",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-8",
+          "manufacturer": "Various",
+          "href": "/component/2SD1051"
+        },
+        {
+          "id": "2SD1052",
+          "name": "2SD1052",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-8",
+          "manufacturer": "Various",
+          "href": "/component/2SD1052"
+        },
+        {
+          "id": "2SD1052A",
+          "name": "2SD1052A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-8",
+          "manufacturer": "Various",
+          "href": "/component/2SD1052A"
+        },
+        {
+          "id": "2SD1053",
+          "name": "2SD1053",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-8",
+          "manufacturer": "Various",
+          "href": "/component/2SD1053"
+        },
+        {
+          "id": "2SD1054",
+          "name": "2SD1054",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-8",
+          "manufacturer": "Various",
+          "href": "/component/2SD1054"
+        }
+      ],
+      "href": "/component/2SD1048-8"
+    },
+    {
+      "id": "2SD1048-7",
+      "name": "2SD1048-7",
+      "type": "NPN Transistor",
+      "description": "O236 \n- BJT Cross-Reference Search\n2SD1048-7 Datasheet (PDF)\n7.1. Size:239K sanyo\n2sb815 2sd1048.pdf \nOrdering number : ENN694F2SB815 / 2SD1048PNP / NPN Epitaxial Planar Silicon Transistors2SB815 / 2SD1048General-Purpose AF Amplifier ApplicationsFeaturesPackage Dimensions Ultrasmall package allows miniaturizationunit : mmin end products.2018B Large current capacity (IC=0.7A) and low-saturation[2SB815 / 2SD1048]voltage.0.40.1630 to 0.11 0.95 0.95 21.9\n7.2. Size:21K sanyo\n2sd1048.pdf \nOrdering number : ENN694F2SB815 / 2SD1048PNP / NPN Epitaxial Planar Silicon Transistors2SB815 / 2SD1048General-Purpose AF Amplifier ApplicationsFeaturesPackage Dimensions Ultrasmall package allows miniaturizationunit : mmin end products.2018B Large current capacity (IC=0.7A) and low-saturation[2SB815 / 2SD1048]voltage.0.40.1630 to 0.11 0.95 0.95 21.9\n7.3. Size:190K onsemi\n2sb815 2sd1048.pdf \nOrdering number : EN694H2SB815/2SD1048Bipolar Transistorhttp://onsemi.com() () ( ) ( )15V, 0.7A, Low VCE sat , PNP NPN Single CPFeatures Ultrasmall package allows miniaturization in end products Large current capacity (IC=0.7A) and low-saturation voltage( ): 2SB815Specifications Absolute Maximum Ratings at Ta=25CParameter Symbol Conditions Ratings UnitCol\n7.4. Size:705K kexin\n2sd1048.pdf \nSMD Type TransistorsNPN Transistors2SD1048SOT-23Unit: mm+0.12.9 -0.1+0.10.4-0.13 Features Large current capacity (IC=0.7A) and low-saturation voltage. Complimentary to 2SB8151 2+0.1+0.050.95 -0.1 0.1 -0.01+0.11.9 -0.11.Base2.Emitter3.collector Absolute Maximum Ratings Ta = 25Parameter Symbol Rating Unit Collector - Base Voltage VC\nDatasheet: 2SD1045 , 2SD1046 , 2SD1046D , 2SD1046E , 2SD1047 , 2SD1047O , 2SD1048 , 2SD1048-6 , TIP41 , 2SD1048-8 , 2SD1049 , 2SD105 , 2SD1050 , 2SD1051 , 2SD1052 , 2SD1052A , 2SD1053 . \nHistory: 2SD1048-6 | 2SD1046E | 2SD1046 | 2SD1044A | 2SD1044 | 2SD1043 | 2SD1042 \nKeywords - 2SD1048-7 transistor datasheet\n2SD1048-7 cross reference\n2SD1048-7 equivalent finder\n2SD1048-7 lookup\n2SD1048-7 substitution\n2SD1048-7 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO236",
+      "maxCollectorCurrent": 0.7,
+      "maxCollectorEmitterVoltage": 15,
+      "maxCollectorBaseVoltage": 20,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.2,
+      "maxJunctionTemperature": 125,
+      "transitionFrequency": 250,
+      "collectorCapacitance": 8,
+      "hFE": 300,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO236",
+        "Collector Power Dissipation": "0.2W",
+        "Collector-Base Voltage": "20V",
+        "Collector-Emitter Voltage": "15V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.7A",
+        "Current Gain (hFE)": "300",
+        "Junction Temperature": "125°C",
+        "Transition Frequency": "250MHz",
+        "Collector Capacitance": "8pF"
+      },
+      "datasheets": [
+        {
+          "name": "sanyo (21K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd1048.pdf&dire=_sanyo"
+        },
+        {
+          "name": "kexin (705K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd1048.pdf&dire=_kexin"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD1045",
+          "name": "2SD1045",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-7",
+          "manufacturer": "Various",
+          "href": "/component/2SD1045"
+        },
+        {
+          "id": "2SD1046",
+          "name": "2SD1046",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-7",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046"
+        },
+        {
+          "id": "2SD1046D",
+          "name": "2SD1046D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-7",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046D"
+        },
+        {
+          "id": "2SD1046E",
+          "name": "2SD1046E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-7",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046E"
+        },
+        {
+          "id": "2SD1047",
+          "name": "2SD1047",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-7",
+          "manufacturer": "Various",
+          "href": "/component/2SD1047"
+        },
+        {
+          "id": "2SD1047O",
+          "name": "2SD1047O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-7",
+          "manufacturer": "Various",
+          "href": "/component/2SD1047O"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-7",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-7",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "TIP41",
+          "name": "TIP41",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-7",
+          "manufacturer": "Various",
+          "href": "/component/TIP41"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-7",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1049",
+          "name": "2SD1049",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-7",
+          "manufacturer": "Various",
+          "href": "/component/2SD1049"
+        },
+        {
+          "id": "2SD105",
+          "name": "2SD105",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-7",
+          "manufacturer": "Various",
+          "href": "/component/2SD105"
+        },
+        {
+          "id": "2SD1050",
+          "name": "2SD1050",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-7",
+          "manufacturer": "Various",
+          "href": "/component/2SD1050"
+        },
+        {
+          "id": "2SD1051",
+          "name": "2SD1051",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-7",
+          "manufacturer": "Various",
+          "href": "/component/2SD1051"
+        },
+        {
+          "id": "2SD1052",
+          "name": "2SD1052",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-7",
+          "manufacturer": "Various",
+          "href": "/component/2SD1052"
+        },
+        {
+          "id": "2SD1052A",
+          "name": "2SD1052A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-7",
+          "manufacturer": "Various",
+          "href": "/component/2SD1052A"
+        },
+        {
+          "id": "2SD1053",
+          "name": "2SD1053",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-7",
+          "manufacturer": "Various",
+          "href": "/component/2SD1053"
+        }
+      ],
+      "href": "/component/2SD1048-7"
+    },
+    {
+      "id": "2SD105",
+      "name": "2SD105",
+      "type": "NPN Transistor",
+      "description": "O1 \n- BJT Cross-Reference Search\n2SD105 Datasheet (PDF)\n0.2. Size:113K toshiba\n2sd1052a.pdf \nThis Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer \n0.3. Size:124K rohm\n2sd1055 2sd1766.pdf \nTransistorsMedium Power Transistor (32V, 2A)2SD1766 / 2SD1758 / 2SD1862 / 2SD1055 /2SD1919 / 2SD1227MFFeatures FExternal dimensions (Units: mm)1) Low VCE(sat).VCE(sat) = 0.5V (Typ.)(IC / IB = 2A / 0.2A)2) Complements the2SB1188 / 2SB1182 / 2SB1240 /2SB891F / 2SB822 / 2SB1277 /2SB911MFStructureEpitaxial planar typeNPN silicon transistor(96-217-B24)2562SD1766 / \n0.4. Size:44K panasonic\n2sd1051 e.pdf \nTransistor2SD1051Silicon NPN epitaxial planer typeFor low-frequency power amplificationUnit: mmComplementary to 2SB8196.9 0.1 2.5 0.11.51.5 R0.9 1.0R0.9FeaturesHigh collector to emitter voltage VCEO.Large collector power dissipation PC.M type package allowing easy automatic and manual insertion aswell as stand-alone fixing to the printed circuit board.0.850.5\nDatasheet: 2SD1046E , 2SD1047 , 2SD1047O , 2SD1048 , 2SD1048-6 , 2SD1048-7 , 2SD1048-8 , 2SD1049 , 2N2222 , 2SD1050 , 2SD1051 , 2SD1052 , 2SD1052A , 2SD1053 , 2SD1054 , 2SD1055 , 2SD1056 . \nHistory: 2SD1049 \nKeywords - 2SD105 transistor datasheet\n2SD105 cross reference\n2SD105 equivalent finder\n2SD105 lookup\n2SD105 substitution\n2SD105 replacement",
+      "manufacturer": "This Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer \n0",
+      "polarity": "NPN",
+      "material": "Ge",
+      "package": "TO1",
+      "maxCollectorCurrent": 0.4,
+      "maxCollectorEmitterVoltage": 20,
+      "maxCollectorBaseVoltage": 20,
+      "maxEmitterBaseVoltage": 6,
+      "maxPowerDissipation": 0.15,
+      "maxJunctionTemperature": 125,
+      "hFE": 35,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Ge",
+        "Package": "TO1",
+        "Collector Power Dissipation": "0.15W",
+        "Collector-Base Voltage": "20V",
+        "Collector-Emitter Voltage": "20V",
+        "Emitter-Base Voltage": "6V",
+        "Collector Current": "0.4A",
+        "Current Gain (hFE)": "35",
+        "Junction Temperature": "125°C",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "toshiba (113K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd1052a.pdf&dire=_toshiba"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD1046E",
+          "name": "2SD1046E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD105",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046E"
+        },
+        {
+          "id": "2SD1047",
+          "name": "2SD1047",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD105",
+          "manufacturer": "Various",
+          "href": "/component/2SD1047"
+        },
+        {
+          "id": "2SD1047O",
+          "name": "2SD1047O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD105",
+          "manufacturer": "Various",
+          "href": "/component/2SD1047O"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD105",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD105",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD105",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD105",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1049",
+          "name": "2SD1049",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD105",
+          "manufacturer": "Various",
+          "href": "/component/2SD1049"
+        },
+        {
+          "id": "2SD1050",
+          "name": "2SD1050",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD105",
+          "manufacturer": "Various",
+          "href": "/component/2SD1050"
+        },
+        {
+          "id": "2SD1051",
+          "name": "2SD1051",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD105",
+          "manufacturer": "Various",
+          "href": "/component/2SD1051"
+        },
+        {
+          "id": "2SD1052",
+          "name": "2SD1052",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD105",
+          "manufacturer": "Various",
+          "href": "/component/2SD1052"
+        },
+        {
+          "id": "2SD1052A",
+          "name": "2SD1052A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD105",
+          "manufacturer": "Various",
+          "href": "/component/2SD1052A"
+        },
+        {
+          "id": "2SD1053",
+          "name": "2SD1053",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD105",
+          "manufacturer": "Various",
+          "href": "/component/2SD1053"
+        },
+        {
+          "id": "2SD1054",
+          "name": "2SD1054",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD105",
+          "manufacturer": "Various",
+          "href": "/component/2SD1054"
+        },
+        {
+          "id": "2SD1055",
+          "name": "2SD1055",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD105",
+          "manufacturer": "Various",
+          "href": "/component/2SD1055"
+        },
+        {
+          "id": "2SD1056",
+          "name": "2SD1056",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD105",
+          "manufacturer": "Various",
+          "href": "/component/2SD1056"
+        }
+      ],
+      "href": "/component/2SD105"
+    },
+    {
+      "id": "2SD1049",
+      "name": "2SD1049",
+      "type": "NPN Transistor",
+      "description": "With TO-3PN package High current, High speed switching High reliability APPLICATIONS Switching regulators Motor controls High frequency inverters General purpose power amplifiers PINNING PIN DESCRIPTION1 Base Collector;connected to 2 mounting base 3 Emi\n..3. Size:213K inchange semiconductor\n2sd1049.pdf",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TOP3",
+      "maxCollectorCurrent": 25,
+      "maxCollectorBaseVoltage": 120,
+      "maxEmitterBaseVoltage": 7,
+      "maxPowerDissipation": 80,
+      "maxJunctionTemperature": 150,
+      "hFE": 20,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TOP3",
+        "Collector Power Dissipation": "80W",
+        "Collector-Base Voltage": "120V",
+        "Collector-Emitter Voltage": "N/A",
+        "Emitter-Base Voltage": "7V",
+        "Collector Current": "25A",
+        "Current Gain (hFE)": "20",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "fuji (102K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd1049.pdf&dire=_fuji"
+        },
+        {
+          "name": "jmnic (115K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd1049.pdf&dire=_jmnic"
+        },
+        {
+          "name": "inchange semiconductor (213K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd1049.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "st (185K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd1047.pdf&dire=_st"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD1046D",
+          "name": "2SD1046D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1049",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046D"
+        },
+        {
+          "id": "2SD1046E",
+          "name": "2SD1046E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1049",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046E"
+        },
+        {
+          "id": "2SD1047",
+          "name": "2SD1047",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1049",
+          "manufacturer": "Various",
+          "href": "/component/2SD1047"
+        },
+        {
+          "id": "2SD1047O",
+          "name": "2SD1047O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1049",
+          "manufacturer": "Various",
+          "href": "/component/2SD1047O"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1049",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1049",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1049",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1049",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD105",
+          "name": "2SD105",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1049",
+          "manufacturer": "Various",
+          "href": "/component/2SD105"
+        },
+        {
+          "id": "2SD1050",
+          "name": "2SD1050",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1049",
+          "manufacturer": "Various",
+          "href": "/component/2SD1050"
+        },
+        {
+          "id": "2SD1051",
+          "name": "2SD1051",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1049",
+          "manufacturer": "Various",
+          "href": "/component/2SD1051"
+        },
+        {
+          "id": "2SD1052",
+          "name": "2SD1052",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1049",
+          "manufacturer": "Various",
+          "href": "/component/2SD1052"
+        },
+        {
+          "id": "2SD1052A",
+          "name": "2SD1052A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1049",
+          "manufacturer": "Various",
+          "href": "/component/2SD1052A"
+        },
+        {
+          "id": "2SD1053",
+          "name": "2SD1053",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1049",
+          "manufacturer": "Various",
+          "href": "/component/2SD1053"
+        },
+        {
+          "id": "2SD1054",
+          "name": "2SD1054",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1049",
+          "manufacturer": "Various",
+          "href": "/component/2SD1054"
+        },
+        {
+          "id": "2SD1055",
+          "name": "2SD1055",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1049",
+          "manufacturer": "Various",
+          "href": "/component/2SD1055"
+        }
+      ],
+      "href": "/component/2SD1049"
+    },
+    {
+      "id": "2SD1050",
+      "name": "2SD1050",
+      "type": "NPN Transistor",
+      "description": "T-200 \n- BJT Cross-Reference Search\n2SD1050 Datasheet (PDF)\n8.2. Size:113K toshiba\n2sd1052a.pdf \nThis Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer \n8.3. Size:124K rohm\n2sd1055 2sd1766.pdf \nTransistorsMedium Power Transistor (32V, 2A)2SD1766 / 2SD1758 / 2SD1862 / 2SD1055 /2SD1919 / 2SD1227MFFeatures FExternal dimensions (Units: mm)1) Low VCE(sat).VCE(sat) = 0.5V (Typ.)(IC / IB = 2A / 0.2A)2) Complements the2SB1188 / 2SB1182 / 2SB1240 /2SB891F / 2SB822 / 2SB1277 /2SB911MFStructureEpitaxial planar typeNPN silicon transistor(96-217-B24)2562SD1766 / \n8.4. Size:44K panasonic\n2sd1051 e.pdf \nTransistor2SD1051Silicon NPN epitaxial planer typeFor low-frequency power amplificationUnit: mmComplementary to 2SB8196.9 0.1 2.5 0.11.51.5 R0.9 1.0R0.9FeaturesHigh collector to emitter voltage VCEO.Large collector power dissipation PC.M type package allowing easy automatic and manual insertion aswell as stand-alone fixing to the printed circuit board.0.850.5\nDatasheet: 2SD1047 , 2SD1047O , 2SD1048 , 2SD1048-6 , 2SD1048-7 , 2SD1048-8 , 2SD1049 , 2SD105 , 13007 , 2SD1051 , 2SD1052 , 2SD1052A , 2SD1053 , 2SD1054 , 2SD1055 , 2SD1056 , 2SD1059 . \nHistory: 2SD105 | 2SD1049 \nKeywords - 2SD1050 transistor datasheet\n2SD1050 cross reference\n2SD1050 equivalent finder\n2SD1050 lookup\n2SD1050 substitution\n2SD1050 replacement",
+      "manufacturer": "This Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer \n8",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "MT-200",
+      "maxCollectorCurrent": 9,
+      "maxCollectorEmitterVoltage": 100,
+      "maxPowerDissipation": 80,
+      "maxJunctionTemperature": 150,
+      "hFE": 10000,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "MT-200",
+        "Collector Power Dissipation": "80W",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "100V",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "9A",
+        "Current Gain (hFE)": "10000",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "toshiba (113K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd1052a.pdf&dire=_toshiba"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD1047",
+          "name": "2SD1047",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1050",
+          "manufacturer": "Various",
+          "href": "/component/2SD1047"
+        },
+        {
+          "id": "2SD1047O",
+          "name": "2SD1047O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1050",
+          "manufacturer": "Various",
+          "href": "/component/2SD1047O"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1050",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1050",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1050",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1050",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1049",
+          "name": "2SD1049",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1050",
+          "manufacturer": "Various",
+          "href": "/component/2SD1049"
+        },
+        {
+          "id": "2SD105",
+          "name": "2SD105",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1050",
+          "manufacturer": "Various",
+          "href": "/component/2SD105"
+        },
+        {
+          "id": "2SD1051",
+          "name": "2SD1051",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1050",
+          "manufacturer": "Various",
+          "href": "/component/2SD1051"
+        },
+        {
+          "id": "2SD1052",
+          "name": "2SD1052",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1050",
+          "manufacturer": "Various",
+          "href": "/component/2SD1052"
+        },
+        {
+          "id": "2SD1052A",
+          "name": "2SD1052A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1050",
+          "manufacturer": "Various",
+          "href": "/component/2SD1052A"
+        },
+        {
+          "id": "2SD1053",
+          "name": "2SD1053",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1050",
+          "manufacturer": "Various",
+          "href": "/component/2SD1053"
+        },
+        {
+          "id": "2SD1054",
+          "name": "2SD1054",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1050",
+          "manufacturer": "Various",
+          "href": "/component/2SD1054"
+        },
+        {
+          "id": "2SD1055",
+          "name": "2SD1055",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1050",
+          "manufacturer": "Various",
+          "href": "/component/2SD1055"
+        },
+        {
+          "id": "2SD1056",
+          "name": "2SD1056",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1050",
+          "manufacturer": "Various",
+          "href": "/component/2SD1056"
+        },
+        {
+          "id": "2SD1059",
+          "name": "2SD1059",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1050",
+          "manufacturer": "Various",
+          "href": "/component/2SD1059"
+        }
+      ],
+      "href": "/component/2SD1050"
+    },
+    {
+      "id": "BC557B",
+      "name": "BC557B",
+      "type": "PNP Transistor",
+      "description": "O92 \n- BJT Cross-Reference Search\nBC557B Datasheet (PDF)\n..1. Size:70K st\nbc557b.pdf \nBC557BSMALL SIGNAL PNP TRANSISTOROrdering Code Marking Package / ShipmentBC557B BC557B TO-92 / BulkBC557B-AP BC557B TO-92 / Ammopack SILICON EPITAXIAL PLANAR PNPTRANSISTOR TO-92 PACKAGE SUITABLE FORTHROUGH-HOLE PCB ASSEMBLY THE NPN COMPLEMENTARY TYPE ISBC547BTO-92 TO-92Bulk AmmopackAPPLICATIONS WELL SUITABLE FOR TV AND HOMEAPPLIANCE EQUIPMENT SMALL LOAD SWIT\n9.1. Size:159K motorola\nbc556 bc557 bc558.pdf \nMOTOROLAOrder this documentSEMICONDUCTOR TECHNICAL DATAby BC556/DAmplifier TransistorsBC556,BPNP SiliconBC557A,B,CCOLLECTORBC558B12BASE3EMITTERMAXIMUM RATINGS12BC BC BC3556 557 558Rating Symbol UnitCASE 2904, STYLE 17CollectorEmitter Voltage VCEO 65 45 30 VdcTO92 (TO226AA)CollectorBase Voltage VCBO 80 50 30 Vdc\nDatasheet: BC556A , BC556AP , BC556B , BC556BP , BC556VI , BC557 , BC557A , BC557AP , MJE340 , BC557BP , BC557C , BC557VI , BC558 , BC558A , BC558AP , BC558B , BC558BP . \nHistory: 2SD1050 | 2SD105 | 2SD1049 \nKeywords - BC557B transistor datasheet\nBC557B cross reference\nBC557B equivalent finder\nBC557B lookup\nBC557B substitution\nBC557B replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.1,
+      "maxCollectorEmitterVoltage": 45,
+      "maxCollectorBaseVoltage": 50,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.5,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 75,
+      "collectorCapacitance": 9,
+      "hFE": 200,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.5W",
+        "Collector-Base Voltage": "50V",
+        "Collector-Emitter Voltage": "45V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.1A",
+        "Current Gain (hFE)": "200",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "75MHz",
+        "Collector Capacitance": "9pF"
+      },
+      "datasheets": [
+        {
+          "name": "st (70K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=bc557b.pdf&dire=_st"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "MJE340",
+          "name": "MJE340",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC557B",
+          "manufacturer": "Various",
+          "href": "/component/MJE340"
+        }
+      ],
+      "href": "/component/BC557B"
+    },
+    {
+      "id": "BC557BP",
+      "name": "BC557BP",
+      "type": "PNP Transistor",
+      "description": "O92 \n- BJT Cross-Reference Search\nBC557BP Datasheet (PDF)\n8.1. Size:70K st\nbc557b.pdf \nBC557BSMALL SIGNAL PNP TRANSISTOROrdering Code Marking Package / ShipmentBC557B BC557B TO-92 / BulkBC557B-AP BC557B TO-92 / Ammopack SILICON EPITAXIAL PLANAR PNPTRANSISTOR TO-92 PACKAGE SUITABLE FORTHROUGH-HOLE PCB ASSEMBLY THE NPN COMPLEMENTARY TYPE ISBC547BTO-92 TO-92Bulk AmmopackAPPLICATIONS WELL SUITABLE FOR TV AND HOMEAPPLIANCE EQUIPMENT SMALL LOAD SWIT\nDatasheet: BC556AP , BC556B , BC556BP , BC556VI , BC557 , BC557A , BC557AP , BC557B , TIP31C , BC557C , BC557VI , BC558 , BC558A , BC558AP , BC558B , BC558BP , BC558C . \nHistory: 2SD1050 | 2SD105 | 2SD1049 \nKeywords - BC557BP transistor datasheet\nBC557BP cross reference\nBC557BP equivalent finder\nBC557BP lookup\nBC557BP substitution\nBC557BP replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.1,
+      "maxCollectorEmitterVoltage": 45,
+      "maxCollectorBaseVoltage": 50,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.5,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 75,
+      "collectorCapacitance": 7,
+      "hFE": 200,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.5W",
+        "Collector-Base Voltage": "50V",
+        "Collector-Emitter Voltage": "45V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.1A",
+        "Current Gain (hFE)": "200",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "75MHz",
+        "Collector Capacitance": "7pF"
+      },
+      "datasheets": [
+        {
+          "name": "st (70K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=bc557b.pdf&dire=_st"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "TIP31C",
+          "name": "TIP31C",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC557BP",
+          "manufacturer": "Various",
+          "href": "/component/TIP31C"
+        }
+      ],
+      "href": "/component/BC557BP"
+    },
+    {
+      "id": "BC557C",
+      "name": "BC557C",
+      "type": "PNP Transistor",
+      "description": "Low voltage (max. 65 V).1 emitter2 baseAPPLICATIONS\n9.3. Size:70K st",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.1,
+      "maxCollectorEmitterVoltage": 45,
+      "maxCollectorBaseVoltage": 50,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.5,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 75,
+      "collectorCapacitance": 7,
+      "hFE": 450,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.5W",
+        "Collector-Base Voltage": "50V",
+        "Collector-Emitter Voltage": "45V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.1A",
+        "Current Gain (hFE)": "450",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "75MHz",
+        "Collector Capacitance": "7pF"
+      },
+      "datasheets": [
+        {
+          "name": "st (70K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=bc557b.pdf&dire=_st"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SA1837",
+          "name": "2SA1837",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC557C",
+          "manufacturer": "Various",
+          "href": "/component/2SA1837"
+        }
+      ],
+      "href": "/component/BC557C"
+    },
+    {
+      "id": "BC558A",
+      "name": "BC558A",
+      "type": "PNP Transistor",
+      "description": "O92 \n- BJT Cross-Reference Search\nBC558A Datasheet (PDF)\n9.1. Size:159K motorola\nbc556 bc557 bc558.pdf \nMOTOROLAOrder this documentSEMICONDUCTOR TECHNICAL DATAby BC556/DAmplifier TransistorsBC556,BPNP SiliconBC557A,B,CCOLLECTORBC558B12BASE3EMITTERMAXIMUM RATINGS12BC BC BC3556 557 558Rating Symbol UnitCASE 2904, STYLE 17CollectorEmitter Voltage VCEO 65 45 30 VdcTO92 (TO226AA)CollectorBase Voltage VCBO 80 50 30 Vdc\n9.2. Size:43K fairchild semi\nbc556 bc557 bc558 bc559 bc560.pdf \nBC556/557/558/559/560Switching and Amplifier High Voltage: BC556, VCEO= -65V Low Noise: BC559, BC560 Complement to BC546 ... BC 550TO-9211. Collector 2. Base 3. EmitterPNP Epitaxial Silicon TransistorAbsolute Maximum Ratings Ta=25C unless otherwise noted Symbol Parameter Value UnitsVCBO Collector-Base Voltage : BC556 -80 V: BC557/560 -50 V: BC558/559 -30 V\nDatasheet: BC557 , BC557A , BC557AP , BC557B , BC557BP , BC557C , BC557VI , BC558 , TIP35C , BC558AP , BC558B , BC558BP , BC558C , BC558CP , BC558VI , BC559 , BC559A . \nHistory: BC557C | 2SD1050 | 2SD105 | 2SD1049 \nKeywords - BC558A transistor datasheet\nBC558A cross reference\nBC558A equivalent finder\nBC558A lookup\nBC558A substitution\nBC558A replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.1,
+      "maxCollectorEmitterVoltage": 25,
+      "maxCollectorBaseVoltage": 30,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.5,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 75,
+      "collectorCapacitance": 7,
+      "hFE": 125,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.5W",
+        "Collector-Base Voltage": "30V",
+        "Collector-Emitter Voltage": "25V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.1A",
+        "Current Gain (hFE)": "125",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "75MHz",
+        "Collector Capacitance": "7pF"
+      },
+      "datasheets": [],
+      "equivalents": [
+        {
+          "id": "TIP35C",
+          "name": "TIP35C",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC558A",
+          "manufacturer": "Various",
+          "href": "/component/TIP35C"
+        }
+      ],
+      "href": "/component/BC558A"
+    },
+    {
+      "id": "BC557VI",
+      "name": "BC557VI",
+      "type": "PNP Transistor",
+      "description": "Low voltage (max. 65 V).1 emitter2 baseAPPLICATIONS\n9.3. Size:70K st",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.2,
+      "maxCollectorEmitterVoltage": 45,
+      "maxCollectorBaseVoltage": 50,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.5,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 75,
+      "collectorCapacitance": 9,
+      "hFE": 75,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.5W",
+        "Collector-Base Voltage": "50V",
+        "Collector-Emitter Voltage": "45V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.2A",
+        "Current Gain (hFE)": "75",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "75MHz",
+        "Collector Capacitance": "9pF"
+      },
+      "datasheets": [
+        {
+          "name": "st (70K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=bc557b.pdf&dire=_st"
+        }
+      ],
+      "equivalents": [],
+      "href": "/component/BC557VI"
+    },
+    {
+      "id": "BC558",
+      "name": "BC558",
+      "type": "PNP Transistor",
+      "description": "SYMBOL BC556 BC557 BC558 UNITSCollector Emi\n..4. Size:465K jiangsu",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.1,
+      "maxCollectorEmitterVoltage": 25,
+      "maxCollectorBaseVoltage": 30,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.5,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 75,
+      "hFE": 75,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.5W",
+        "Collector-Base Voltage": "30V",
+        "Collector-Emitter Voltage": "25V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.1A",
+        "Current Gain (hFE)": "75",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "75MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [],
+      "equivalents": [],
+      "href": "/component/BC558"
+    },
+    {
+      "id": "BC551",
+      "name": "BC551",
+      "type": "PNP Transistor",
+      "description": "O92 \n- BJT Cross-Reference Search\nBC551 Datasheet (PDF)\nNO PDF!\nDatasheet: 2SB858B , 2SB858C , 2SB858D , 2SB859 , 2SB859B , 2SB859C , 2SB86 , 2SB860 , 2SC2625 , 2SB861B , 2SB861C , 2SB862 , 2SB863 , 2SB863O , 2SB863R , 2SB864 , 2SB865 . \nHistory: BC550CP \nKeywords - BC551 transistor datasheet\nBC551 cross reference\nBC551 equivalent finder\nBC551 lookup\nBC551 substitution\nBC551 replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.1,
+      "maxCollectorEmitterVoltage": 45,
+      "maxCollectorBaseVoltage": 50,
+      "maxPowerDissipation": 0.5,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 200,
+      "hFE": 140,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.5W",
+        "Collector-Base Voltage": "50V",
+        "Collector-Emitter Voltage": "45V",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "0.1A",
+        "Current Gain (hFE)": "140",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "200MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [],
+      "equivalents": [
+        {
+          "id": "2SB858B",
+          "name": "2SB858B",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC551",
+          "manufacturer": "Various",
+          "href": "/component/2SB858B"
+        },
+        {
+          "id": "2SB858C",
+          "name": "2SB858C",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC551",
+          "manufacturer": "Various",
+          "href": "/component/2SB858C"
+        },
+        {
+          "id": "2SB858D",
+          "name": "2SB858D",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC551",
+          "manufacturer": "Various",
+          "href": "/component/2SB858D"
+        },
+        {
+          "id": "2SB859",
+          "name": "2SB859",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC551",
+          "manufacturer": "Various",
+          "href": "/component/2SB859"
+        },
+        {
+          "id": "2SB859B",
+          "name": "2SB859B",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC551",
+          "manufacturer": "Various",
+          "href": "/component/2SB859B"
+        },
+        {
+          "id": "2SB859C",
+          "name": "2SB859C",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC551",
+          "manufacturer": "Various",
+          "href": "/component/2SB859C"
+        },
+        {
+          "id": "2SB86",
+          "name": "2SB86",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC551",
+          "manufacturer": "Various",
+          "href": "/component/2SB86"
+        },
+        {
+          "id": "2SB860",
+          "name": "2SB860",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC551",
+          "manufacturer": "Various",
+          "href": "/component/2SB860"
+        },
+        {
+          "id": "2SC2625",
+          "name": "2SC2625",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC551",
+          "manufacturer": "Various",
+          "href": "/component/2SC2625"
+        },
+        {
+          "id": "2SB861B",
+          "name": "2SB861B",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC551",
+          "manufacturer": "Various",
+          "href": "/component/2SB861B"
+        },
+        {
+          "id": "2SB861C",
+          "name": "2SB861C",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC551",
+          "manufacturer": "Various",
+          "href": "/component/2SB861C"
+        },
+        {
+          "id": "2SB862",
+          "name": "2SB862",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC551",
+          "manufacturer": "Various",
+          "href": "/component/2SB862"
+        },
+        {
+          "id": "2SB863",
+          "name": "2SB863",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC551",
+          "manufacturer": "Various",
+          "href": "/component/2SB863"
+        },
+        {
+          "id": "2SB863O",
+          "name": "2SB863O",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC551",
+          "manufacturer": "Various",
+          "href": "/component/2SB863O"
+        },
+        {
+          "id": "2SB863R",
+          "name": "2SB863R",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC551",
+          "manufacturer": "Various",
+          "href": "/component/2SB863R"
+        },
+        {
+          "id": "2SB864",
+          "name": "2SB864",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC551",
+          "manufacturer": "Various",
+          "href": "/component/2SB864"
+        },
+        {
+          "id": "2SB865",
+          "name": "2SB865",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC551",
+          "manufacturer": "Various",
+          "href": "/component/2SB865"
+        }
+      ],
+      "href": "/component/BC551"
+    },
+    {
+      "id": "BC550CP",
+      "name": "BC550CP",
+      "type": "NPN Transistor",
+      "description": "O92 \n- BJT Cross-Reference Search\nBC550CP Datasheet (PDF)\nDatasheet: 2SB858B , 2SB858C , 2SB858D , 2SB859 , 2SB859B , 2SB859C , 2SB86 , 2SB860 , 2SC2625 , 2SB861B , 2SB861C , 2SB862 , 2SB863 , 2SB863O , 2SB863R , 2SB864 , 2SB865 . \nKeywords - BC550CP transistor datasheet\nBC550CP cross reference\nBC550CP equivalent finder\nBC550CP lookup\nBC550CP substitution\nBC550CP replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.1,
+      "maxCollectorEmitterVoltage": 45,
+      "maxCollectorBaseVoltage": 50,
+      "maxEmitterBaseVoltage": 6,
+      "maxPowerDissipation": 0.5,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 200,
+      "collectorCapacitance": 4.5,
+      "hFE": 420,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.5W",
+        "Collector-Base Voltage": "50V",
+        "Collector-Emitter Voltage": "45V",
+        "Emitter-Base Voltage": "6V",
+        "Collector Current": "0.1A",
+        "Current Gain (hFE)": "420",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "200MHz",
+        "Collector Capacitance": "4.5pF"
+      },
+      "datasheets": [],
+      "equivalents": [
+        {
+          "id": "2SB858B",
+          "name": "2SB858B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC550CP",
+          "manufacturer": "Various",
+          "href": "/component/2SB858B"
+        },
+        {
+          "id": "2SB858C",
+          "name": "2SB858C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC550CP",
+          "manufacturer": "Various",
+          "href": "/component/2SB858C"
+        },
+        {
+          "id": "2SB858D",
+          "name": "2SB858D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC550CP",
+          "manufacturer": "Various",
+          "href": "/component/2SB858D"
+        },
+        {
+          "id": "2SB859",
+          "name": "2SB859",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC550CP",
+          "manufacturer": "Various",
+          "href": "/component/2SB859"
+        },
+        {
+          "id": "2SB859B",
+          "name": "2SB859B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC550CP",
+          "manufacturer": "Various",
+          "href": "/component/2SB859B"
+        },
+        {
+          "id": "2SB859C",
+          "name": "2SB859C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC550CP",
+          "manufacturer": "Various",
+          "href": "/component/2SB859C"
+        },
+        {
+          "id": "2SB86",
+          "name": "2SB86",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC550CP",
+          "manufacturer": "Various",
+          "href": "/component/2SB86"
+        },
+        {
+          "id": "2SB860",
+          "name": "2SB860",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC550CP",
+          "manufacturer": "Various",
+          "href": "/component/2SB860"
+        },
+        {
+          "id": "2SC2625",
+          "name": "2SC2625",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC550CP",
+          "manufacturer": "Various",
+          "href": "/component/2SC2625"
+        },
+        {
+          "id": "2SB861B",
+          "name": "2SB861B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC550CP",
+          "manufacturer": "Various",
+          "href": "/component/2SB861B"
+        },
+        {
+          "id": "2SB861C",
+          "name": "2SB861C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC550CP",
+          "manufacturer": "Various",
+          "href": "/component/2SB861C"
+        },
+        {
+          "id": "2SB862",
+          "name": "2SB862",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC550CP",
+          "manufacturer": "Various",
+          "href": "/component/2SB862"
+        },
+        {
+          "id": "2SB863",
+          "name": "2SB863",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC550CP",
+          "manufacturer": "Various",
+          "href": "/component/2SB863"
+        },
+        {
+          "id": "2SB863O",
+          "name": "2SB863O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC550CP",
+          "manufacturer": "Various",
+          "href": "/component/2SB863O"
+        },
+        {
+          "id": "2SB863R",
+          "name": "2SB863R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC550CP",
+          "manufacturer": "Various",
+          "href": "/component/2SB863R"
+        },
+        {
+          "id": "2SB864",
+          "name": "2SB864",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC550CP",
+          "manufacturer": "Various",
+          "href": "/component/2SB864"
+        },
+        {
+          "id": "2SB865",
+          "name": "2SB865",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC550CP",
+          "manufacturer": "Various",
+          "href": "/component/2SB865"
+        }
+      ],
+      "href": "/component/BC550CP"
+    },
+    {
+      "id": "BC556",
+      "name": "BC556",
+      "type": "PNP Transistor",
+      "description": "Low voltage (max. 65 V).1 emitter2 baseAPPLICATIONS\n..3. Size:43K fairchild semi",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.1,
+      "maxCollectorEmitterVoltage": 65,
+      "maxCollectorBaseVoltage": 80,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.5,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 150,
+      "collectorCapacitance": 8,
+      "hFE": 75,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.5W",
+        "Collector-Base Voltage": "80V",
+        "Collector-Emitter Voltage": "65V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.1A",
+        "Current Gain (hFE)": "75",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "150MHz",
+        "Collector Capacitance": "8pF"
+      },
+      "datasheets": [],
+      "equivalents": [],
+      "href": "/component/BC556"
+    },
+    {
+      "id": "BC556A",
+      "name": "BC556A",
+      "type": "PNP Transistor",
+      "description": "Low voltage (max. 65 V).1 emitter2 baseAPPLICATIONS",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.1,
+      "maxCollectorEmitterVoltage": 65,
+      "maxCollectorBaseVoltage": 80,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.5,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 150,
+      "collectorCapacitance": 8,
+      "hFE": 125,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.5W",
+        "Collector-Base Voltage": "80V",
+        "Collector-Emitter Voltage": "65V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.1A",
+        "Current Gain (hFE)": "125",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "150MHz",
+        "Collector Capacitance": "8pF"
+      },
+      "datasheets": [],
+      "equivalents": [],
+      "href": "/component/BC556A"
+    },
+    {
+      "id": "BC556B",
+      "name": "BC556B",
+      "type": "PNP Transistor",
+      "description": "O92 \n- BJT Cross-Reference Search\nBC556B Datasheet (PDF)\n..1. Size:81K onsemi\nbc556b bc557a-b-c bc558b.pdf \nBC556B, BC557A, B, C,BC558BAmplifier TransistorsPNP Siliconhttp://onsemi.comFeatures Pb-Free Packages are Available*COLLECTOR1MAXIMUM RATINGS 2BASERating Symbol Value UnitCollector - Emitter Voltage VCEO Vdc3BC556 -65EMITTERBC557 -45BC558 -30Collector - Base Voltage VCBO VdcBC556 -80BC557 -50BC558 -30TO-92Emitter - Base Voltage VEBO -5.0 Vdc CASE\n9.1. Size:159K motorola\nbc556 bc557 bc558.pdf \nMOTOROLAOrder this documentSEMICONDUCTOR TECHNICAL DATAby BC556/DAmplifier TransistorsBC556,BPNP SiliconBC557A,B,CCOLLECTORBC558B12BASE3EMITTERMAXIMUM RATINGS12BC BC BC3556 557 558Rating Symbol UnitCASE 2904, STYLE 17CollectorEmitter Voltage VCEO 65 45 30 VdcTO92 (TO226AA)CollectorBase Voltage VCBO 80 50 30 Vdc\nDatasheet: BC550B , BC550BP , BC550C , BC550CP , BC551 , BC556 , BC556A , BC556AP , 2SC4793 , BC556BP , BC556VI , BC557 , BC557A , BC557AP , BC557B , BC557BP , BC557C . \nHistory: BC556A \nKeywords - BC556B transistor datasheet\nBC556B cross reference\nBC556B equivalent finder\nBC556B lookup\nBC556B substitution\nBC556B replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.1,
+      "maxCollectorEmitterVoltage": 65,
+      "maxCollectorBaseVoltage": 80,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.5,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 150,
+      "collectorCapacitance": 8,
+      "hFE": 240,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.5W",
+        "Collector-Base Voltage": "80V",
+        "Collector-Emitter Voltage": "65V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.1A",
+        "Current Gain (hFE)": "240",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "150MHz",
+        "Collector Capacitance": "8pF"
+      },
+      "datasheets": [],
+      "equivalents": [
+        {
+          "id": "2SC4793",
+          "name": "2SC4793",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC556B",
+          "manufacturer": "Various",
+          "href": "/component/2SC4793"
+        }
+      ],
+      "href": "/component/BC556B"
+    },
+    {
+      "id": "BC556BP",
+      "name": "BC556BP",
+      "type": "PNP Transistor",
+      "description": "O92 \n- BJT Cross-Reference Search\nBC556BP Datasheet (PDF)\n8.2. Size:81K onsemi\nbc556b bc557a-b-c bc558b.pdf \nBC556B, BC557A, B, C,BC558BAmplifier TransistorsPNP Siliconhttp://onsemi.comFeatures Pb-Free Packages are Available*COLLECTOR1MAXIMUM RATINGS 2BASERating Symbol Value UnitCollector - Emitter Voltage VCEO Vdc3BC556 -65EMITTERBC557 -45BC558 -30Collector - Base Voltage VCBO VdcBC556 -80BC557 -50BC558 -30TO-92Emitter - Base Voltage VEBO -5.0 Vdc CASE\nDatasheet: BC550BP , BC550C , BC550CP , BC551 , BC556 , BC556A , BC556AP , BC556B , 13003 , BC556VI , BC557 , BC557A , BC557AP , BC557B , BC557BP , BC557C , BC557VI . \nHistory: BC556A \nKeywords - BC556BP transistor datasheet\nBC556BP cross reference\nBC556BP equivalent finder\nBC556BP lookup\nBC556BP substitution\nBC556BP replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.1,
+      "maxCollectorEmitterVoltage": 65,
+      "maxCollectorBaseVoltage": 80,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.5,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 150,
+      "collectorCapacitance": 8,
+      "hFE": 240,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.5W",
+        "Collector-Base Voltage": "80V",
+        "Collector-Emitter Voltage": "65V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.1A",
+        "Current Gain (hFE)": "240",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "150MHz",
+        "Collector Capacitance": "8pF"
+      },
+      "datasheets": [],
+      "equivalents": [],
+      "href": "/component/BC556BP"
+    },
+    {
+      "id": "BC556VI",
+      "name": "BC556VI",
+      "type": "PNP Transistor",
+      "description": "Low voltage (max. 65 V).1 emitter2 baseAPPLICATIONS\n9.3. Size:43K fairchild semi",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.2,
+      "maxCollectorEmitterVoltage": 65,
+      "maxCollectorBaseVoltage": 80,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.5,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 75,
+      "collectorCapacitance": 9,
+      "hFE": 75,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.5W",
+        "Collector-Base Voltage": "80V",
+        "Collector-Emitter Voltage": "65V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.2A",
+        "Current Gain (hFE)": "75",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "75MHz",
+        "Collector Capacitance": "9pF"
+      },
+      "datasheets": [],
+      "equivalents": [],
+      "href": "/component/BC556VI"
+    },
+    {
+      "id": "BC556AP",
+      "name": "BC556AP",
+      "type": "PNP Transistor",
+      "description": "Low voltage (max. 65 V).1 emitter2 baseAPPLICATIONS",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.1,
+      "maxCollectorEmitterVoltage": 65,
+      "maxCollectorBaseVoltage": 80,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.5,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 150,
+      "collectorCapacitance": 8,
+      "hFE": 125,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.5W",
+        "Collector-Base Voltage": "80V",
+        "Collector-Emitter Voltage": "65V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.1A",
+        "Current Gain (hFE)": "125",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "150MHz",
+        "Collector Capacitance": "8pF"
+      },
+      "datasheets": [],
+      "equivalents": [],
+      "href": "/component/BC556AP"
+    },
+    {
+      "id": "BC557A",
+      "name": "BC557A",
+      "type": "PNP Transistor",
+      "description": "O92 \n- BJT Cross-Reference Search\nBC557A Datasheet (PDF)\n0.2. Size:81K onsemi\nbc556b bc557a-b-c bc558b.pdf \nBC556B, BC557A, B, C,BC558BAmplifier TransistorsPNP Siliconhttp://onsemi.comFeatures Pb-Free Packages are Available*COLLECTOR1MAXIMUM RATINGS 2BASERating Symbol Value UnitCollector - Emitter Voltage VCEO Vdc3BC556 -65EMITTERBC557 -45BC558 -30Collector - Base Voltage VCBO VdcBC556 -80BC557 -50BC558 -30TO-92Emitter - Base Voltage VEBO -5.0 Vdc CASE\nDatasheet: BC551 , BC556 , BC556A , BC556AP , BC556B , BC556BP , BC556VI , BC557 , S9014 , BC557AP , BC557B , BC557BP , BC557C , BC557VI , BC558 , BC558A , BC558AP . \nHistory: BC556B | BC556A \nKeywords - BC557A transistor datasheet\nBC557A cross reference\nBC557A equivalent finder\nBC557A lookup\nBC557A substitution\nBC557A replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.1,
+      "maxCollectorEmitterVoltage": 45,
+      "maxCollectorBaseVoltage": 50,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.5,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 75,
+      "hFE": 125,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.5W",
+        "Collector-Base Voltage": "50V",
+        "Collector-Emitter Voltage": "45V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.1A",
+        "Current Gain (hFE)": "125",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "75MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [],
+      "equivalents": [],
+      "href": "/component/BC557A"
+    }
+  ]
+}

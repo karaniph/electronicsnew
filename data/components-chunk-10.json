@@ -1,0 +1,3603 @@
+{
+  "components": [
+    {
+      "id": "FJB102",
+      "name": "FJB102",
+      "type": "NPN Transistor",
+      "description": "O263 \n- BJT Cross-Reference Search\nFJB102 Datasheet (PDF)\n..1. Size:159K fairchild semi\nfjb102.pdf \nFJB102High Voltage Power Darlington TransistorFeatures High DC Current Gain : hFE=1000 @ VCE=4V, IC=3A (Min.) Low Collector-Emitter Saturation Voltage High Collector-Emitter Sustaining Voltage Monolithic Construction with Built-in Base-Emitter Shunt Resistors Industrial UseEquivalent CircuitCBD2-PAK1R1 R21.Base 2.Collector 3.EmitterER1 10k\nDatasheet: 2SB858B , 2SB858C , 2SB858D , 2SB859 , 2SB859B , 2SB859C , 2SB86 , 2SB860 , 2SC2625 , 2SB861B , 2SB861C , 2SB862 , 2SB863 , 2SB863O , 2SB863R , 2SB864 , 2SB865 . \nHistory: FJA4310 \nKeywords - FJB102 transistor datasheet\nFJB102 cross reference\nFJB102 equivalent finder\nFJB102 lookup\nFJB102 substitution\nFJB102 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO263",
+      "maxCollectorCurrent": 8,
+      "maxCollectorEmitterVoltage": 100,
+      "maxCollectorBaseVoltage": 100,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 80,
+      "hFE": 1000,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO263",
+        "Collector Power Dissipation": "80W",
+        "Collector-Base Voltage": "100V",
+        "Collector-Emitter Voltage": "100V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "8A",
+        "Current Gain (hFE)": "1000",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "fairchild semi (159K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=fjb102.pdf&dire=_fairchild_semi"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SB858B",
+          "name": "2SB858B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for FJB102",
+          "manufacturer": "Various",
+          "href": "/component/2SB858B"
+        },
+        {
+          "id": "2SB858C",
+          "name": "2SB858C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for FJB102",
+          "manufacturer": "Various",
+          "href": "/component/2SB858C"
+        },
+        {
+          "id": "2SB858D",
+          "name": "2SB858D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for FJB102",
+          "manufacturer": "Various",
+          "href": "/component/2SB858D"
+        },
+        {
+          "id": "2SB859",
+          "name": "2SB859",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for FJB102",
+          "manufacturer": "Various",
+          "href": "/component/2SB859"
+        },
+        {
+          "id": "2SB859B",
+          "name": "2SB859B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for FJB102",
+          "manufacturer": "Various",
+          "href": "/component/2SB859B"
+        },
+        {
+          "id": "2SB859C",
+          "name": "2SB859C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for FJB102",
+          "manufacturer": "Various",
+          "href": "/component/2SB859C"
+        },
+        {
+          "id": "2SB86",
+          "name": "2SB86",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for FJB102",
+          "manufacturer": "Various",
+          "href": "/component/2SB86"
+        },
+        {
+          "id": "2SB860",
+          "name": "2SB860",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for FJB102",
+          "manufacturer": "Various",
+          "href": "/component/2SB860"
+        },
+        {
+          "id": "2SC2625",
+          "name": "2SC2625",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for FJB102",
+          "manufacturer": "Various",
+          "href": "/component/2SC2625"
+        },
+        {
+          "id": "2SB861B",
+          "name": "2SB861B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for FJB102",
+          "manufacturer": "Various",
+          "href": "/component/2SB861B"
+        },
+        {
+          "id": "2SB861C",
+          "name": "2SB861C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for FJB102",
+          "manufacturer": "Various",
+          "href": "/component/2SB861C"
+        },
+        {
+          "id": "2SB862",
+          "name": "2SB862",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for FJB102",
+          "manufacturer": "Various",
+          "href": "/component/2SB862"
+        },
+        {
+          "id": "2SB863",
+          "name": "2SB863",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for FJB102",
+          "manufacturer": "Various",
+          "href": "/component/2SB863"
+        },
+        {
+          "id": "2SB863O",
+          "name": "2SB863O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for FJB102",
+          "manufacturer": "Various",
+          "href": "/component/2SB863O"
+        },
+        {
+          "id": "2SB863R",
+          "name": "2SB863R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for FJB102",
+          "manufacturer": "Various",
+          "href": "/component/2SB863R"
+        },
+        {
+          "id": "2SB864",
+          "name": "2SB864",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for FJB102",
+          "manufacturer": "Various",
+          "href": "/component/2SB864"
+        },
+        {
+          "id": "2SB865",
+          "name": "2SB865",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for FJB102",
+          "manufacturer": "Various",
+          "href": "/component/2SB865"
+        }
+      ],
+      "href": "/component/FJB102"
+    },
+    {
+      "id": "ZXTP2027F",
+      "name": "ZXTP2027F",
+      "type": "PNP Transistor",
+      "description": "OT23 \n- BJT Cross-Reference Search\nZXTP2027F Datasheet (PDF)\n..1. Size:444K diodes\nzxtp2027f.pdf \nZXTP2027F 60V PNP MEDIUM POWER TRANSISTOR IN SOT23 Features Mechanical Data BVCEO > -60V Case: SOT23 IC = -4A High Continuous Collector Current Case Material: Molded Plastic, Green Molding Compound. ICM = -10A Peak Pulse Current UL Flammability Classification Rating 94V-0 Low Saturation Voltage -60mV Max @ IC = -1A. Moisture Sensitivity: Level 1 per\n7.1. Size:432K diodes\nzxtp2029f.pdf \nZXTP2029F100V, SOT23, PNP medium power transistorSummary V(BR)CEV > -130V, V(BR)CEO > -100VIC(cont) = -3A RCE(sat) = 45m typicalVCE(sat) \n7.2. Size:506K diodes\nzxtp2025f.pdf \nZXTP2025F50V, SOT23, PNP medium power transistorSummary V(BR)CEO > -50VIC(cont) = -5A RCE(sat) = 30m typicalVCE(sat) \n8.1. Size:413K diodes\nzxtp2013g.pdf \nA Product Line of Diodes Incorporated GreenZXTP2013G 100V PNP MEDIUM POWER LOW SATURATION TRANSISTOR IN SOT223 Features Mechanical Data BVCEO > -100V Case: SOT223 IC = -5A High Continuous Collector Current Case Material: Molded Plastic. Green Molding Compound; ICM = -10A Peak Pulse Current UL Flammability Rating 94V-0 Low Saturation Voltage VCE(S\nDatasheet: ZXTP19060CZ , ZXTP19100CFF , ZXTP19100CG , ZXTP19100CZ , ZXTP2012G , ZXTP2012Z , ZXTP2013G , ZXTP2013Z , 2SB817 , ZXTP2029F , ZXTP2039F , ZXTP25060BFH , ZXTP25100BFH , ZXTP25100CFH , ZXTP25100CZ , ZXTP722MA , 2SA1943 . \nKeywords - ZXTP2027F transistor datasheet\nZXTP2027F cross reference\nZXTP2027F equivalent finder\nZXTP2027F lookup\nZXTP2027F substitution\nZXTP2027F replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "SOT23",
+      "maxCollectorCurrent": 4,
+      "maxCollectorEmitterVoltage": 60,
+      "maxPowerDissipation": 1.2,
+      "transitionFrequency": 165,
+      "hFE": 100,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "SOT23",
+        "Collector Power Dissipation": "1.2W",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "60V",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "4A",
+        "Current Gain (hFE)": "100",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "165MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "diodes (444K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=zxtp2027f.pdf&dire=_diodes"
+        },
+        {
+          "name": "diodes (432K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=zxtp2029f.pdf&dire=_diodes"
+        },
+        {
+          "name": "diodes (506K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=zxtp2025f.pdf&dire=_diodes"
+        },
+        {
+          "name": "diodes (413K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=zxtp2013g.pdf&dire=_diodes"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "ZXTP19060CZ",
+          "name": "ZXTP19060CZ",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2027F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP19060CZ"
+        },
+        {
+          "id": "ZXTP19100CFF",
+          "name": "ZXTP19100CFF",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2027F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP19100CFF"
+        },
+        {
+          "id": "ZXTP19100CG",
+          "name": "ZXTP19100CG",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2027F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP19100CG"
+        },
+        {
+          "id": "ZXTP19100CZ",
+          "name": "ZXTP19100CZ",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2027F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP19100CZ"
+        },
+        {
+          "id": "ZXTP2012G",
+          "name": "ZXTP2012G",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2027F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2012G"
+        },
+        {
+          "id": "ZXTP2012Z",
+          "name": "ZXTP2012Z",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2027F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2012Z"
+        },
+        {
+          "id": "ZXTP2013G",
+          "name": "ZXTP2013G",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2027F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2013G"
+        },
+        {
+          "id": "ZXTP2013Z",
+          "name": "ZXTP2013Z",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2027F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2013Z"
+        },
+        {
+          "id": "2SB817",
+          "name": "2SB817",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2027F",
+          "manufacturer": "Various",
+          "href": "/component/2SB817"
+        },
+        {
+          "id": "ZXTP2029F",
+          "name": "ZXTP2029F",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2027F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2029F"
+        },
+        {
+          "id": "ZXTP2039F",
+          "name": "ZXTP2039F",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2027F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2039F"
+        },
+        {
+          "id": "ZXTP25060BFH",
+          "name": "ZXTP25060BFH",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2027F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25060BFH"
+        },
+        {
+          "id": "ZXTP25100BFH",
+          "name": "ZXTP25100BFH",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2027F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25100BFH"
+        },
+        {
+          "id": "ZXTP25100CFH",
+          "name": "ZXTP25100CFH",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2027F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25100CFH"
+        },
+        {
+          "id": "ZXTP25100CZ",
+          "name": "ZXTP25100CZ",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2027F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25100CZ"
+        },
+        {
+          "id": "ZXTP722MA",
+          "name": "ZXTP722MA",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2027F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP722MA"
+        },
+        {
+          "id": "2SA1943",
+          "name": "2SA1943",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2027F",
+          "manufacturer": "Various",
+          "href": "/component/2SA1943"
+        }
+      ],
+      "href": "/component/ZXTP2027F"
+    },
+    {
+      "id": "ZXTP2029F",
+      "name": "ZXTP2029F",
+      "type": "PNP Transistor",
+      "description": "OT23 \n- BJT Cross-Reference Search\nZXTP2029F Datasheet (PDF)\n..1. Size:432K diodes\nzxtp2029f.pdf \nZXTP2029F100V, SOT23, PNP medium power transistorSummary V(BR)CEV > -130V, V(BR)CEO > -100VIC(cont) = -3A RCE(sat) = 45m typicalVCE(sat) \n7.1. Size:444K diodes\nzxtp2027f.pdf \nZXTP2027F 60V PNP MEDIUM POWER TRANSISTOR IN SOT23 Features Mechanical Data BVCEO > -60V Case: SOT23 IC = -4A High Continuous Collector Current Case Material: Molded Plastic, Green Molding Compound. ICM = -10A Peak Pulse Current UL Flammability Classification Rating 94V-0 Low Saturation Voltage -60mV Max @ IC = -1A. Moisture Sensitivity: Level 1 per\n7.2. Size:506K diodes\nzxtp2025f.pdf \nZXTP2025F50V, SOT23, PNP medium power transistorSummary V(BR)CEO > -50VIC(cont) = -5A RCE(sat) = 30m typicalVCE(sat) \n8.1. Size:413K diodes\nzxtp2013g.pdf \nA Product Line of Diodes Incorporated GreenZXTP2013G 100V PNP MEDIUM POWER LOW SATURATION TRANSISTOR IN SOT223 Features Mechanical Data BVCEO > -100V Case: SOT223 IC = -5A High Continuous Collector Current Case Material: Molded Plastic. Green Molding Compound; ICM = -10A Peak Pulse Current UL Flammability Rating 94V-0 Low Saturation Voltage VCE(S\nDatasheet: ZXTP19100CFF , ZXTP19100CG , ZXTP19100CZ , ZXTP2012G , ZXTP2012Z , ZXTP2013G , ZXTP2013Z , ZXTP2027F , 2SC945 , ZXTP2039F , ZXTP25060BFH , ZXTP25100BFH , ZXTP25100CFH , ZXTP25100CZ , ZXTP722MA , 2SA1943 , 2SC5200 . \nHistory: ZXTP2027F \nKeywords - ZXTP2029F transistor datasheet\nZXTP2029F cross reference\nZXTP2029F equivalent finder\nZXTP2029F lookup\nZXTP2029F substitution\nZXTP2029F replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "SOT23",
+      "maxCollectorCurrent": 3,
+      "maxCollectorEmitterVoltage": 100,
+      "maxPowerDissipation": 1.2,
+      "transitionFrequency": 150,
+      "hFE": 100,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "SOT23",
+        "Collector Power Dissipation": "1.2W",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "100V",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "3A",
+        "Current Gain (hFE)": "100",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "150MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "diodes (432K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=zxtp2029f.pdf&dire=_diodes"
+        },
+        {
+          "name": "diodes (444K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=zxtp2027f.pdf&dire=_diodes"
+        },
+        {
+          "name": "diodes (506K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=zxtp2025f.pdf&dire=_diodes"
+        },
+        {
+          "name": "diodes (413K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=zxtp2013g.pdf&dire=_diodes"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "ZXTP19100CFF",
+          "name": "ZXTP19100CFF",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2029F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP19100CFF"
+        },
+        {
+          "id": "ZXTP19100CG",
+          "name": "ZXTP19100CG",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2029F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP19100CG"
+        },
+        {
+          "id": "ZXTP19100CZ",
+          "name": "ZXTP19100CZ",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2029F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP19100CZ"
+        },
+        {
+          "id": "ZXTP2012G",
+          "name": "ZXTP2012G",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2029F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2012G"
+        },
+        {
+          "id": "ZXTP2012Z",
+          "name": "ZXTP2012Z",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2029F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2012Z"
+        },
+        {
+          "id": "ZXTP2013G",
+          "name": "ZXTP2013G",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2029F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2013G"
+        },
+        {
+          "id": "ZXTP2013Z",
+          "name": "ZXTP2013Z",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2029F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2013Z"
+        },
+        {
+          "id": "ZXTP2027F",
+          "name": "ZXTP2027F",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2029F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2027F"
+        },
+        {
+          "id": "2SC945",
+          "name": "2SC945",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2029F",
+          "manufacturer": "Various",
+          "href": "/component/2SC945"
+        },
+        {
+          "id": "ZXTP2039F",
+          "name": "ZXTP2039F",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2029F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2039F"
+        },
+        {
+          "id": "ZXTP25060BFH",
+          "name": "ZXTP25060BFH",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2029F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25060BFH"
+        },
+        {
+          "id": "ZXTP25100BFH",
+          "name": "ZXTP25100BFH",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2029F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25100BFH"
+        },
+        {
+          "id": "ZXTP25100CFH",
+          "name": "ZXTP25100CFH",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2029F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25100CFH"
+        },
+        {
+          "id": "ZXTP25100CZ",
+          "name": "ZXTP25100CZ",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2029F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25100CZ"
+        },
+        {
+          "id": "ZXTP722MA",
+          "name": "ZXTP722MA",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2029F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP722MA"
+        },
+        {
+          "id": "2SA1943",
+          "name": "2SA1943",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2029F",
+          "manufacturer": "Various",
+          "href": "/component/2SA1943"
+        },
+        {
+          "id": "2SC5200",
+          "name": "2SC5200",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2029F",
+          "manufacturer": "Various",
+          "href": "/component/2SC5200"
+        }
+      ],
+      "href": "/component/ZXTP2029F"
+    },
+    {
+      "id": "ZXTP2039F",
+      "name": "ZXTP2039F",
+      "type": "PNP Transistor",
+      "description": "OT23 \n- BJT Cross-Reference Search\nZXTP2039F Datasheet (PDF)\n..1. Size:155K diodes\nzxtp2039f.pdf \nZXTP2039FSOT23 80 volt PNP silicon planar medium power transistorSummary V(BR)CEV > -80VV(BR)CEO > -60VIc(cont) = -1A Vce(sat) \n8.1. Size:432K diodes\nzxtp2029f.pdf \nZXTP2029F100V, SOT23, PNP medium power transistorSummary V(BR)CEV > -130V, V(BR)CEO > -100VIC(cont) = -3A RCE(sat) = 45m typicalVCE(sat) \n8.2. Size:413K diodes\nzxtp2013g.pdf \nA Product Line of Diodes Incorporated GreenZXTP2013G 100V PNP MEDIUM POWER LOW SATURATION TRANSISTOR IN SOT223 Features Mechanical Data BVCEO > -100V Case: SOT223 IC = -5A High Continuous Collector Current Case Material: Molded Plastic. Green Molding Compound; ICM = -10A Peak Pulse Current UL Flammability Rating 94V-0 Low Saturation Voltage VCE(S\n8.3. Size:427K diodes\nzxtp2012z.pdf \nZXTP2012Z Green60V PNP LOW SATURATION MEDIUM POWER TRANSISTOR IN SOT89 Features Mechanical Data BVCEO > -60V Case: SOT89 IC = -4.3A High Continuous Current Case Material: Molded Plastic. Green Molding Compound. UL RSAT = 32m for a Low Equivalent On-Resistance Flammability Rating 94V-0 Low Saturation Voltage VCE(SAT) \nDatasheet: ZXTP19100CG , ZXTP19100CZ , ZXTP2012G , ZXTP2012Z , ZXTP2013G , ZXTP2013Z , ZXTP2027F , ZXTP2029F , 2SD313 , ZXTP25060BFH , ZXTP25100BFH , ZXTP25100CFH , ZXTP25100CZ , ZXTP722MA , 2SA1943 , 2SC5200 , BDW94CF . \nHistory: ZXTP2029F | ZXTP2027F \nKeywords - ZXTP2039F transistor datasheet\nZXTP2039F cross reference\nZXTP2039F equivalent finder\nZXTP2039F lookup\nZXTP2039F substitution\nZXTP2039F replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "SOT23",
+      "maxCollectorCurrent": 1,
+      "maxCollectorEmitterVoltage": 60,
+      "maxPowerDissipation": 0.35,
+      "transitionFrequency": 150,
+      "hFE": 100,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "SOT23",
+        "Collector Power Dissipation": "0.35W",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "60V",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "1A",
+        "Current Gain (hFE)": "100",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "150MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "diodes (155K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=zxtp2039f.pdf&dire=_diodes"
+        },
+        {
+          "name": "diodes (432K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=zxtp2029f.pdf&dire=_diodes"
+        },
+        {
+          "name": "diodes (413K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=zxtp2013g.pdf&dire=_diodes"
+        },
+        {
+          "name": "diodes (427K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=zxtp2012z.pdf&dire=_diodes"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "ZXTP19100CG",
+          "name": "ZXTP19100CG",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2039F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP19100CG"
+        },
+        {
+          "id": "ZXTP19100CZ",
+          "name": "ZXTP19100CZ",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2039F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP19100CZ"
+        },
+        {
+          "id": "ZXTP2012G",
+          "name": "ZXTP2012G",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2039F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2012G"
+        },
+        {
+          "id": "ZXTP2012Z",
+          "name": "ZXTP2012Z",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2039F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2012Z"
+        },
+        {
+          "id": "ZXTP2013G",
+          "name": "ZXTP2013G",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2039F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2013G"
+        },
+        {
+          "id": "ZXTP2013Z",
+          "name": "ZXTP2013Z",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2039F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2013Z"
+        },
+        {
+          "id": "ZXTP2027F",
+          "name": "ZXTP2027F",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2039F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2027F"
+        },
+        {
+          "id": "ZXTP2029F",
+          "name": "ZXTP2029F",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2039F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2029F"
+        },
+        {
+          "id": "2SD313",
+          "name": "2SD313",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2039F",
+          "manufacturer": "Various",
+          "href": "/component/2SD313"
+        },
+        {
+          "id": "ZXTP25060BFH",
+          "name": "ZXTP25060BFH",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2039F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25060BFH"
+        },
+        {
+          "id": "ZXTP25100BFH",
+          "name": "ZXTP25100BFH",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2039F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25100BFH"
+        },
+        {
+          "id": "ZXTP25100CFH",
+          "name": "ZXTP25100CFH",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2039F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25100CFH"
+        },
+        {
+          "id": "ZXTP25100CZ",
+          "name": "ZXTP25100CZ",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2039F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25100CZ"
+        },
+        {
+          "id": "ZXTP722MA",
+          "name": "ZXTP722MA",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2039F",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP722MA"
+        },
+        {
+          "id": "2SA1943",
+          "name": "2SA1943",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2039F",
+          "manufacturer": "Various",
+          "href": "/component/2SA1943"
+        },
+        {
+          "id": "2SC5200",
+          "name": "2SC5200",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2039F",
+          "manufacturer": "Various",
+          "href": "/component/2SC5200"
+        },
+        {
+          "id": "BDW94CF",
+          "name": "BDW94CF",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP2039F",
+          "manufacturer": "Various",
+          "href": "/component/BDW94CF"
+        }
+      ],
+      "href": "/component/ZXTP2039F"
+    },
+    {
+      "id": "ZXTP25060BFH",
+      "name": "ZXTP25060BFH",
+      "type": "PNP Transistor",
+      "description": "Mechanical Data Advanced process capability and packaging maximize the power Case: SOT23F handling and performance of this small outline transistor. The reverse Case Material: Molded Plastic. Green Molding Compound. blocking capability of the transistor can often result in the elimination UL Flammability",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "SOT23",
+      "maxCollectorCurrent": 3,
+      "maxCollectorEmitterVoltage": 60,
+      "maxPowerDissipation": 1.25,
+      "transitionFrequency": 250,
+      "hFE": 100,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "SOT23",
+        "Collector Power Dissipation": "1.25W",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "60V",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "3A",
+        "Current Gain (hFE)": "100",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "250MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "diodes (223K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=zxtp25060bfh.pdf&dire=_diodes"
+        },
+        {
+          "name": "diodes (327K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=zxtp25012efh.pdf&dire=_diodes"
+        },
+        {
+          "name": "diodes (388K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=zxtp25012ez.pdf&dire=_diodes"
+        },
+        {
+          "name": "diodes (351K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=zxtp25020cff.pdf&dire=_diodes"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "ZXTP19100CZ",
+          "name": "ZXTP19100CZ",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25060BFH",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP19100CZ"
+        },
+        {
+          "id": "ZXTP2012G",
+          "name": "ZXTP2012G",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25060BFH",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2012G"
+        },
+        {
+          "id": "ZXTP2012Z",
+          "name": "ZXTP2012Z",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25060BFH",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2012Z"
+        },
+        {
+          "id": "ZXTP2013G",
+          "name": "ZXTP2013G",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25060BFH",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2013G"
+        },
+        {
+          "id": "ZXTP2013Z",
+          "name": "ZXTP2013Z",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25060BFH",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2013Z"
+        },
+        {
+          "id": "ZXTP2027F",
+          "name": "ZXTP2027F",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25060BFH",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2027F"
+        },
+        {
+          "id": "ZXTP2029F",
+          "name": "ZXTP2029F",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25060BFH",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2029F"
+        },
+        {
+          "id": "ZXTP2039F",
+          "name": "ZXTP2039F",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25060BFH",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2039F"
+        },
+        {
+          "id": "ZXTP25100BFH",
+          "name": "ZXTP25100BFH",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25060BFH",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25100BFH"
+        },
+        {
+          "id": "ZXTP25100CFH",
+          "name": "ZXTP25100CFH",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25060BFH",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25100CFH"
+        },
+        {
+          "id": "ZXTP25100CZ",
+          "name": "ZXTP25100CZ",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25060BFH",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25100CZ"
+        },
+        {
+          "id": "ZXTP722MA",
+          "name": "ZXTP722MA",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25060BFH",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP722MA"
+        },
+        {
+          "id": "2SA1943",
+          "name": "2SA1943",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25060BFH",
+          "manufacturer": "Various",
+          "href": "/component/2SA1943"
+        },
+        {
+          "id": "2SC5200",
+          "name": "2SC5200",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25060BFH",
+          "manufacturer": "Various",
+          "href": "/component/2SC5200"
+        },
+        {
+          "id": "BDW94CF",
+          "name": "BDW94CF",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25060BFH",
+          "manufacturer": "Various",
+          "href": "/component/BDW94CF"
+        },
+        {
+          "id": "FJA13009",
+          "name": "FJA13009",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25060BFH",
+          "manufacturer": "Various",
+          "href": "/component/FJA13009"
+        }
+      ],
+      "href": "/component/ZXTP25060BFH"
+    },
+    {
+      "id": "ZXTP25100BFH",
+      "name": "ZXTP25100BFH",
+      "type": "PNP Transistor",
+      "description": "OT23 \n- BJT Cross-Reference Search\nZXTP25100BFH Datasheet (PDF)\n..1. Size:946K diodes\nzxtp25100bfh.pdf \nZXTP25100BFH 100V PNP MEDIUM POWER TRANSISTOR IN SOT23 Features Mechanical Data BVCEO > -100V Case: SOT23 BVECO > -7V Case Material: Molded Plastic, Green Molding Compound. UL IC = -2A Continuous Collector Current Flammability Classification Rating 94V-0 VCE(SAT) \n5.1. Size:409K diodes\nzxtp25100cz.pdf \nZXTP25100CZ 100V PNP MEDIUM POWER TRANSISTOR IN SOT89 Features Mechanical Data BVCEO > -100V Case: SOT89 BVECO > -7V Case Material: Molded Plastic. Green Molding Compound. IC = -1A Continuous Collector Current UL Flammability Rating 94V-0 ICM = -3A Peak Collector Current Moisture Sensitivity: Level 1 per J-STD-020 VCE(SAT) \n5.2. Size:195K diodes\nzxtp25100cfh.pdf \nA Product Line ofDiodes IncorporatedZXTP25100CFH100V PNP MEDIUM POWER TRANSISTOR IN SOT23 Features Mechanical Data BVCEO > -100V Case: SOT23 Maximum Continuous Collector Current IC = -1A UL Flammability Rating 94V-0 VCE(sat) \n7.1. Size:388K diodes\nzxtp25140bfh.pdf \nZXTP25140BFH140V, SOT23, PNP medium power transistorSummaryBV(BR)CEX > -180V; BV(BR)CEO > -140VBV(BR)ECO > -7V ;IC(cont) = -1ARce(sat) = 180 m typicalVce(sat) \nDatasheet: ZXTP2012G , ZXTP2012Z , ZXTP2013G , ZXTP2013Z , ZXTP2027F , ZXTP2029F , ZXTP2039F , ZXTP25060BFH , 8550 , ZXTP25100CFH , ZXTP25100CZ , ZXTP722MA , 2SA1943 , 2SC5200 , BDW94CF , FJA13009 , FJA4210 . \nHistory: ZXTP2039F | ZXTP2029F | ZXTP2027F \nKeywords - ZXTP25100BFH transistor datasheet\nZXTP25100BFH cross reference\nZXTP25100BFH equivalent finder\nZXTP25100BFH lookup\nZXTP25100BFH substitution\nZXTP25100BFH replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "SOT23",
+      "maxCollectorCurrent": 2,
+      "maxCollectorEmitterVoltage": 100,
+      "maxPowerDissipation": 1.25,
+      "transitionFrequency": 200,
+      "hFE": 100,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "SOT23",
+        "Collector Power Dissipation": "1.25W",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "100V",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "2A",
+        "Current Gain (hFE)": "100",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "200MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "diodes (946K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=zxtp25100bfh.pdf&dire=_diodes"
+        },
+        {
+          "name": "diodes (409K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=zxtp25100cz.pdf&dire=_diodes"
+        },
+        {
+          "name": "diodes (195K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=zxtp25100cfh.pdf&dire=_diodes"
+        },
+        {
+          "name": "diodes (388K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=zxtp25140bfh.pdf&dire=_diodes"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "ZXTP2012G",
+          "name": "ZXTP2012G",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100BFH",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2012G"
+        },
+        {
+          "id": "ZXTP2012Z",
+          "name": "ZXTP2012Z",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100BFH",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2012Z"
+        },
+        {
+          "id": "ZXTP2013G",
+          "name": "ZXTP2013G",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100BFH",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2013G"
+        },
+        {
+          "id": "ZXTP2013Z",
+          "name": "ZXTP2013Z",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100BFH",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2013Z"
+        },
+        {
+          "id": "ZXTP2027F",
+          "name": "ZXTP2027F",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100BFH",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2027F"
+        },
+        {
+          "id": "ZXTP2029F",
+          "name": "ZXTP2029F",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100BFH",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2029F"
+        },
+        {
+          "id": "ZXTP2039F",
+          "name": "ZXTP2039F",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100BFH",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2039F"
+        },
+        {
+          "id": "ZXTP25060BFH",
+          "name": "ZXTP25060BFH",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100BFH",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25060BFH"
+        },
+        {
+          "id": "ZXTP25100CFH",
+          "name": "ZXTP25100CFH",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100BFH",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25100CFH"
+        },
+        {
+          "id": "ZXTP25100CZ",
+          "name": "ZXTP25100CZ",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100BFH",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25100CZ"
+        },
+        {
+          "id": "ZXTP722MA",
+          "name": "ZXTP722MA",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100BFH",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP722MA"
+        },
+        {
+          "id": "2SA1943",
+          "name": "2SA1943",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100BFH",
+          "manufacturer": "Various",
+          "href": "/component/2SA1943"
+        },
+        {
+          "id": "2SC5200",
+          "name": "2SC5200",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100BFH",
+          "manufacturer": "Various",
+          "href": "/component/2SC5200"
+        },
+        {
+          "id": "BDW94CF",
+          "name": "BDW94CF",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100BFH",
+          "manufacturer": "Various",
+          "href": "/component/BDW94CF"
+        },
+        {
+          "id": "FJA13009",
+          "name": "FJA13009",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100BFH",
+          "manufacturer": "Various",
+          "href": "/component/FJA13009"
+        },
+        {
+          "id": "FJA4210",
+          "name": "FJA4210",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100BFH",
+          "manufacturer": "Various",
+          "href": "/component/FJA4210"
+        }
+      ],
+      "href": "/component/ZXTP25100BFH"
+    },
+    {
+      "id": "ZXTP25100CZ",
+      "name": "ZXTP25100CZ",
+      "type": "PNP Transistor",
+      "description": "OT89 \n- BJT Cross-Reference Search\nZXTP25100CZ Datasheet (PDF)\n..1. Size:409K diodes\nzxtp25100cz.pdf \nZXTP25100CZ 100V PNP MEDIUM POWER TRANSISTOR IN SOT89 Features Mechanical Data BVCEO > -100V Case: SOT89 BVECO > -7V Case Material: Molded Plastic. Green Molding Compound. IC = -1A Continuous Collector Current UL Flammability Rating 94V-0 ICM = -3A Peak Collector Current Moisture Sensitivity: Level 1 per J-STD-020 VCE(SAT) \n4.1. Size:195K diodes\nzxtp25100cfh.pdf \nA Product Line ofDiodes IncorporatedZXTP25100CFH100V PNP MEDIUM POWER TRANSISTOR IN SOT23 Features Mechanical Data BVCEO > -100V Case: SOT23 Maximum Continuous Collector Current IC = -1A UL Flammability Rating 94V-0 VCE(sat) \n5.1. Size:946K diodes\nzxtp25100bfh.pdf \nZXTP25100BFH 100V PNP MEDIUM POWER TRANSISTOR IN SOT23 Features Mechanical Data BVCEO > -100V Case: SOT23 BVECO > -7V Case Material: Molded Plastic, Green Molding Compound. UL IC = -2A Continuous Collector Current Flammability Classification Rating 94V-0 VCE(SAT) \n7.1. Size:388K diodes\nzxtp25140bfh.pdf \nZXTP25140BFH140V, SOT23, PNP medium power transistorSummaryBV(BR)CEX > -180V; BV(BR)CEO > -140VBV(BR)ECO > -7V ;IC(cont) = -1ARce(sat) = 180 m typicalVce(sat) \nDatasheet: ZXTP2013G , ZXTP2013Z , ZXTP2027F , ZXTP2029F , ZXTP2039F , ZXTP25060BFH , ZXTP25100BFH , ZXTP25100CFH , D882P , ZXTP722MA , 2SA1943 , 2SC5200 , BDW94CF , FJA13009 , FJA4210 , FJA4213 , FJA4310 . \nHistory: ZXTP2039F | ZXTP2029F | ZXTP2027F \nKeywords - ZXTP25100CZ transistor datasheet\nZXTP25100CZ cross reference\nZXTP25100CZ equivalent finder\nZXTP25100CZ lookup\nZXTP25100CZ substitution\nZXTP25100CZ replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "SOT89",
+      "maxCollectorCurrent": 1,
+      "maxCollectorEmitterVoltage": 100,
+      "maxPowerDissipation": 2.4,
+      "transitionFrequency": 180,
+      "hFE": 180,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "SOT89",
+        "Collector Power Dissipation": "2.4W",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "100V",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "1A",
+        "Current Gain (hFE)": "180",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "180MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "diodes (409K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=zxtp25100cz.pdf&dire=_diodes"
+        },
+        {
+          "name": "diodes (195K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=zxtp25100cfh.pdf&dire=_diodes"
+        },
+        {
+          "name": "diodes (946K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=zxtp25100bfh.pdf&dire=_diodes"
+        },
+        {
+          "name": "diodes (388K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=zxtp25140bfh.pdf&dire=_diodes"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "ZXTP2013G",
+          "name": "ZXTP2013G",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100CZ",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2013G"
+        },
+        {
+          "id": "ZXTP2013Z",
+          "name": "ZXTP2013Z",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100CZ",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2013Z"
+        },
+        {
+          "id": "ZXTP2027F",
+          "name": "ZXTP2027F",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100CZ",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2027F"
+        },
+        {
+          "id": "ZXTP2029F",
+          "name": "ZXTP2029F",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100CZ",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2029F"
+        },
+        {
+          "id": "ZXTP2039F",
+          "name": "ZXTP2039F",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100CZ",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2039F"
+        },
+        {
+          "id": "ZXTP25060BFH",
+          "name": "ZXTP25060BFH",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100CZ",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25060BFH"
+        },
+        {
+          "id": "ZXTP25100BFH",
+          "name": "ZXTP25100BFH",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100CZ",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25100BFH"
+        },
+        {
+          "id": "ZXTP25100CFH",
+          "name": "ZXTP25100CFH",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100CZ",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25100CFH"
+        },
+        {
+          "id": "ZXTP722MA",
+          "name": "ZXTP722MA",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100CZ",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP722MA"
+        },
+        {
+          "id": "2SA1943",
+          "name": "2SA1943",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100CZ",
+          "manufacturer": "Various",
+          "href": "/component/2SA1943"
+        },
+        {
+          "id": "2SC5200",
+          "name": "2SC5200",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100CZ",
+          "manufacturer": "Various",
+          "href": "/component/2SC5200"
+        },
+        {
+          "id": "BDW94CF",
+          "name": "BDW94CF",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100CZ",
+          "manufacturer": "Various",
+          "href": "/component/BDW94CF"
+        },
+        {
+          "id": "FJA13009",
+          "name": "FJA13009",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100CZ",
+          "manufacturer": "Various",
+          "href": "/component/FJA13009"
+        },
+        {
+          "id": "FJA4210",
+          "name": "FJA4210",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100CZ",
+          "manufacturer": "Various",
+          "href": "/component/FJA4210"
+        },
+        {
+          "id": "FJA4213",
+          "name": "FJA4213",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100CZ",
+          "manufacturer": "Various",
+          "href": "/component/FJA4213"
+        },
+        {
+          "id": "FJA4310",
+          "name": "FJA4310",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100CZ",
+          "manufacturer": "Various",
+          "href": "/component/FJA4310"
+        }
+      ],
+      "href": "/component/ZXTP25100CZ"
+    },
+    {
+      "id": "ZXTP25100CFH",
+      "name": "ZXTP25100CFH",
+      "type": "PNP Transistor",
+      "description": "OT23 \n- BJT Cross-Reference Search\nZXTP25100CFH Datasheet (PDF)\n..1. Size:195K diodes\nzxtp25100cfh.pdf \nA Product Line ofDiodes IncorporatedZXTP25100CFH100V PNP MEDIUM POWER TRANSISTOR IN SOT23 Features Mechanical Data BVCEO > -100V Case: SOT23 Maximum Continuous Collector Current IC = -1A UL Flammability Rating 94V-0 VCE(sat) \n4.1. Size:409K diodes\nzxtp25100cz.pdf \nZXTP25100CZ 100V PNP MEDIUM POWER TRANSISTOR IN SOT89 Features Mechanical Data BVCEO > -100V Case: SOT89 BVECO > -7V Case Material: Molded Plastic. Green Molding Compound. IC = -1A Continuous Collector Current UL Flammability Rating 94V-0 ICM = -3A Peak Collector Current Moisture Sensitivity: Level 1 per J-STD-020 VCE(SAT) \n5.1. Size:946K diodes\nzxtp25100bfh.pdf \nZXTP25100BFH 100V PNP MEDIUM POWER TRANSISTOR IN SOT23 Features Mechanical Data BVCEO > -100V Case: SOT23 BVECO > -7V Case Material: Molded Plastic, Green Molding Compound. UL IC = -2A Continuous Collector Current Flammability Classification Rating 94V-0 VCE(SAT) \n7.1. Size:388K diodes\nzxtp25140bfh.pdf \nZXTP25140BFH140V, SOT23, PNP medium power transistorSummaryBV(BR)CEX > -180V; BV(BR)CEO > -140VBV(BR)ECO > -7V ;IC(cont) = -1ARce(sat) = 180 m typicalVce(sat) \nDatasheet: ZXTP2012Z , ZXTP2013G , ZXTP2013Z , ZXTP2027F , ZXTP2029F , ZXTP2039F , ZXTP25060BFH , ZXTP25100BFH , 2SD669A , ZXTP25100CZ , ZXTP722MA , 2SA1943 , 2SC5200 , BDW94CF , FJA13009 , FJA4210 , FJA4213 . \nHistory: ZXTP2039F | ZXTP2029F | ZXTP2027F \nKeywords - ZXTP25100CFH transistor datasheet\nZXTP25100CFH cross reference\nZXTP25100CFH equivalent finder\nZXTP25100CFH lookup\nZXTP25100CFH substitution\nZXTP25100CFH replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "SOT23",
+      "maxCollectorCurrent": 1,
+      "maxCollectorEmitterVoltage": 100,
+      "maxPowerDissipation": 1.25,
+      "transitionFrequency": 180,
+      "hFE": 180,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "SOT23",
+        "Collector Power Dissipation": "1.25W",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "100V",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "1A",
+        "Current Gain (hFE)": "180",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "180MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "diodes (195K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=zxtp25100cfh.pdf&dire=_diodes"
+        },
+        {
+          "name": "diodes (409K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=zxtp25100cz.pdf&dire=_diodes"
+        },
+        {
+          "name": "diodes (946K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=zxtp25100bfh.pdf&dire=_diodes"
+        },
+        {
+          "name": "diodes (388K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=zxtp25140bfh.pdf&dire=_diodes"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "ZXTP2012Z",
+          "name": "ZXTP2012Z",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100CFH",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2012Z"
+        },
+        {
+          "id": "ZXTP2013G",
+          "name": "ZXTP2013G",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100CFH",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2013G"
+        },
+        {
+          "id": "ZXTP2013Z",
+          "name": "ZXTP2013Z",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100CFH",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2013Z"
+        },
+        {
+          "id": "ZXTP2027F",
+          "name": "ZXTP2027F",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100CFH",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2027F"
+        },
+        {
+          "id": "ZXTP2029F",
+          "name": "ZXTP2029F",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100CFH",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2029F"
+        },
+        {
+          "id": "ZXTP2039F",
+          "name": "ZXTP2039F",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100CFH",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2039F"
+        },
+        {
+          "id": "ZXTP25060BFH",
+          "name": "ZXTP25060BFH",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100CFH",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25060BFH"
+        },
+        {
+          "id": "ZXTP25100BFH",
+          "name": "ZXTP25100BFH",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100CFH",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25100BFH"
+        },
+        {
+          "id": "2SD669A",
+          "name": "2SD669A",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100CFH",
+          "manufacturer": "Various",
+          "href": "/component/2SD669A"
+        },
+        {
+          "id": "ZXTP25100CZ",
+          "name": "ZXTP25100CZ",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100CFH",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25100CZ"
+        },
+        {
+          "id": "ZXTP722MA",
+          "name": "ZXTP722MA",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100CFH",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP722MA"
+        },
+        {
+          "id": "2SA1943",
+          "name": "2SA1943",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100CFH",
+          "manufacturer": "Various",
+          "href": "/component/2SA1943"
+        },
+        {
+          "id": "2SC5200",
+          "name": "2SC5200",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100CFH",
+          "manufacturer": "Various",
+          "href": "/component/2SC5200"
+        },
+        {
+          "id": "BDW94CF",
+          "name": "BDW94CF",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100CFH",
+          "manufacturer": "Various",
+          "href": "/component/BDW94CF"
+        },
+        {
+          "id": "FJA13009",
+          "name": "FJA13009",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100CFH",
+          "manufacturer": "Various",
+          "href": "/component/FJA13009"
+        },
+        {
+          "id": "FJA4210",
+          "name": "FJA4210",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100CFH",
+          "manufacturer": "Various",
+          "href": "/component/FJA4210"
+        },
+        {
+          "id": "FJA4213",
+          "name": "FJA4213",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP25100CFH",
+          "manufacturer": "Various",
+          "href": "/component/FJA4213"
+        }
+      ],
+      "href": "/component/ZXTP25100CFH"
+    },
+    {
+      "id": "2SD718R",
+      "name": "2SD718R",
+      "type": "NPN Transistor",
+      "description": "O3P \n- BJT Cross-Reference Search\n2SD718R Datasheet (PDF)\n..1. Size:195K cn sptech\n2sd718r 2sd718o.pdf \nSPTECH Product SpecificationSPTECH Silicon NPN Power Transistor 2SD718DESCRIPTIONCollector-Emitter Breakdown Voltage-: V = 120V(Min)(BR)CEOGood Linearity of hFEComplement to Type 2SB688APPLICATIONSAudio frequency power amplifier applicationsRecommend for 45-50W audio frequency amplifieroutput stage applicationsABSOLUTE MAXIMUM RATINGS(T =25)aSYMBOL PAR\n8.1. Size:106K utc\n2sd718.pdf \nUTC 2SD718 NPN EPITAXIAL SILICON TRANSISTOR HIGH POWER AMPLIFIER APPLICATION FEATURES *Recommended for 45~50W Audio Frequency *Amplifier Output Stage. *Complementary to 2SB688. 1TO-3P 1: BASE 2:COLLECTOR 3: EMITTER ABSOLUTE MAXIMUM RATINGS (Ta=25) PARAMETER SYMBOL RATINGS UNITCollector-Base Voltage VCBO 120 VCollector-Emitter Voltage VCEO 120 VEmitter-Base Voltage\n8.3. Size:610K jilin sino\n2sd718.pdf \nNPN Silicon NPN Triple Diffused Transistor R 2SD718 SERIES APPLICATIONS Power Amplifier Applications FEATURES V =110V (min) High collector voltageV =110V (min) CEO CEOV =180V (min) V =180V (min) CEO CEO 2SB688 Complementary to 2SB688 \nDatasheet: 2SD716 , 2SD716O , 2SD716R , 2SD717 , 2SD717O , 2SD717Y , 2SD718 , 2SD718O , A1013 , 2SD72 , 2SD720 , 2SD721 , 2SD722 , 2SD723 , 2SD724 , 2SD725 , 2SD726 . \nHistory: ZXTP2039F | ZXTP2029F | ZXTP2027F \nKeywords - 2SD718R transistor datasheet\n2SD718R cross reference\n2SD718R equivalent finder\n2SD718R lookup\n2SD718R substitution\n2SD718R replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO3P",
+      "maxCollectorCurrent": 8,
+      "maxCollectorEmitterVoltage": 120,
+      "maxCollectorBaseVoltage": 120,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 80,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 6,
+      "collectorCapacitance": 170,
+      "hFE": 55,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO3P",
+        "Collector Power Dissipation": "80W",
+        "Collector-Base Voltage": "120V",
+        "Collector-Emitter Voltage": "120V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "8A",
+        "Current Gain (hFE)": "55",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "6MHz",
+        "Collector Capacitance": "170pF"
+      },
+      "datasheets": [
+        {
+          "name": "utc (106K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd718.pdf&dire=_utc"
+        },
+        {
+          "name": "jilin sino (610K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd718.pdf&dire=_jilin_sino"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD716",
+          "name": "2SD716",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD718R",
+          "manufacturer": "Various",
+          "href": "/component/2SD716"
+        },
+        {
+          "id": "2SD716O",
+          "name": "2SD716O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD718R",
+          "manufacturer": "Various",
+          "href": "/component/2SD716O"
+        },
+        {
+          "id": "2SD716R",
+          "name": "2SD716R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD718R",
+          "manufacturer": "Various",
+          "href": "/component/2SD716R"
+        },
+        {
+          "id": "2SD717",
+          "name": "2SD717",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD718R",
+          "manufacturer": "Various",
+          "href": "/component/2SD717"
+        },
+        {
+          "id": "2SD717O",
+          "name": "2SD717O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD718R",
+          "manufacturer": "Various",
+          "href": "/component/2SD717O"
+        },
+        {
+          "id": "2SD717Y",
+          "name": "2SD717Y",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD718R",
+          "manufacturer": "Various",
+          "href": "/component/2SD717Y"
+        },
+        {
+          "id": "2SD718",
+          "name": "2SD718",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD718R",
+          "manufacturer": "Various",
+          "href": "/component/2SD718"
+        },
+        {
+          "id": "2SD718O",
+          "name": "2SD718O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD718R",
+          "manufacturer": "Various",
+          "href": "/component/2SD718O"
+        },
+        {
+          "id": "2SD72",
+          "name": "2SD72",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD718R",
+          "manufacturer": "Various",
+          "href": "/component/2SD72"
+        },
+        {
+          "id": "2SD720",
+          "name": "2SD720",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD718R",
+          "manufacturer": "Various",
+          "href": "/component/2SD720"
+        },
+        {
+          "id": "2SD721",
+          "name": "2SD721",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD718R",
+          "manufacturer": "Various",
+          "href": "/component/2SD721"
+        },
+        {
+          "id": "2SD722",
+          "name": "2SD722",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD718R",
+          "manufacturer": "Various",
+          "href": "/component/2SD722"
+        },
+        {
+          "id": "2SD723",
+          "name": "2SD723",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD718R",
+          "manufacturer": "Various",
+          "href": "/component/2SD723"
+        },
+        {
+          "id": "2SD724",
+          "name": "2SD724",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD718R",
+          "manufacturer": "Various",
+          "href": "/component/2SD724"
+        },
+        {
+          "id": "2SD725",
+          "name": "2SD725",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD718R",
+          "manufacturer": "Various",
+          "href": "/component/2SD725"
+        },
+        {
+          "id": "2SD726",
+          "name": "2SD726",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD718R",
+          "manufacturer": "Various",
+          "href": "/component/2SD726"
+        }
+      ],
+      "href": "/component/2SD718R"
+    },
+    {
+      "id": "ZXTP722MA",
+      "name": "ZXTP722MA",
+      "type": "PNP Transistor",
+      "description": "-DFN2020 \n- BJT Cross-Reference Search\nZXTP722MA Datasheet (PDF)\n..1. Size:199K diodes\nzxtp722ma.pdf \nA Product Line ofDiodes IncorporatedZXTP722MA70V PNP LOW SATURATION TRANSISTOR Features and Benefits Mechanical Data BVCEO > -70V Case: DFN2020B-3 IC = -2.5A Continuous Collector Current Case material: Molded Plastic. Green Molding Compound. Low Saturation Voltage (-220mV max @ -1A) Terminals: Pre-Plated NiPdAu leadframe. RSAT = 117 m for a \n8.1. Size:216K diodes\nzxtp720ma.pdf \nA Product Line ofDiodes IncorporatedZXTP720MA40V PNP LOW SATURATION SWITCHING TRANSISTOR Features and Benefits Mechanical Data BVCEO > -40V Case: DFN2020B-3 IC = -3A Continuous Collector Current Case material: Molded Plastic. Green Molding Compound. Low Saturation Voltage (-220mV max @ -1A) Terminals: Pre-Plated NiPdAu leadframe. RSAT = 104 m\n9.1. Size:158K diodes\nzxtp717ma.pdf \nA Product Line ofDiodes IncorporatedZXTP717MA12V PNP LOW SATURATION SWITCHING TRANSISTOR Features and Benefits Mechanical Data BVCEO > -12V Case: DFN2020B-3 IC = -4A Continuous Collector Current Case Material: Molded Plastic. Green Molding Compound. Low Saturation Voltage (-140mV max @ -1A) Terminals: Pre-Plated NiPdAu leadframe. RSAT = 60 m\n9.2. Size:384K diodes\nzxtp749f.pdf \nZXTP749F 25V PNP LOW SATURATION TRANSISTOR IN SOT23 Features Mechanical Data BVCEO > -25V Case: SOT23 BVCEO > -35V forward blocking voltage Case Material: Molded Plastic, Green Molding Compound IC = -3A Continuous Collector Current UL Flammability Classification Rating 94V-0 Low Saturation Voltage, VCE(SAT) \nDatasheet: ZXTP2013Z , ZXTP2027F , ZXTP2029F , ZXTP2039F , ZXTP25060BFH , ZXTP25100BFH , ZXTP25100CFH , ZXTP25100CZ , 13001-A , 2SA1943 , 2SC5200 , BDW94CF , FJA13009 , FJA4210 , FJA4213 , FJA4310 , FJA4313 . \nHistory: ZXTP2039F | ZXTP2029F | ZXTP2027F \nKeywords - ZXTP722MA transistor datasheet\nZXTP722MA cross reference\nZXTP722MA equivalent finder\nZXTP722MA lookup\nZXTP722MA substitution\nZXTP722MA replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "U-DFN2020",
+      "maxCollectorCurrent": 2.5,
+      "maxCollectorEmitterVoltage": 70,
+      "maxPowerDissipation": 1.5,
+      "transitionFrequency": 150,
+      "hFE": 300,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "U-DFN2020",
+        "Collector Power Dissipation": "1.5W",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "70V",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "2.5A",
+        "Current Gain (hFE)": "300",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "150MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "diodes (199K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=zxtp722ma.pdf&dire=_diodes"
+        },
+        {
+          "name": "diodes (216K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=zxtp720ma.pdf&dire=_diodes"
+        },
+        {
+          "name": "diodes (158K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=zxtp717ma.pdf&dire=_diodes"
+        },
+        {
+          "name": "diodes (384K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=zxtp749f.pdf&dire=_diodes"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "ZXTP2013Z",
+          "name": "ZXTP2013Z",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP722MA",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2013Z"
+        },
+        {
+          "id": "ZXTP2027F",
+          "name": "ZXTP2027F",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP722MA",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2027F"
+        },
+        {
+          "id": "ZXTP2029F",
+          "name": "ZXTP2029F",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP722MA",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2029F"
+        },
+        {
+          "id": "ZXTP2039F",
+          "name": "ZXTP2039F",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP722MA",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2039F"
+        },
+        {
+          "id": "ZXTP25060BFH",
+          "name": "ZXTP25060BFH",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP722MA",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25060BFH"
+        },
+        {
+          "id": "ZXTP25100BFH",
+          "name": "ZXTP25100BFH",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP722MA",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25100BFH"
+        },
+        {
+          "id": "ZXTP25100CFH",
+          "name": "ZXTP25100CFH",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP722MA",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25100CFH"
+        },
+        {
+          "id": "ZXTP25100CZ",
+          "name": "ZXTP25100CZ",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP722MA",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25100CZ"
+        },
+        {
+          "id": "2SA1943",
+          "name": "2SA1943",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP722MA",
+          "manufacturer": "Various",
+          "href": "/component/2SA1943"
+        },
+        {
+          "id": "2SC5200",
+          "name": "2SC5200",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP722MA",
+          "manufacturer": "Various",
+          "href": "/component/2SC5200"
+        },
+        {
+          "id": "BDW94CF",
+          "name": "BDW94CF",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP722MA",
+          "manufacturer": "Various",
+          "href": "/component/BDW94CF"
+        },
+        {
+          "id": "FJA13009",
+          "name": "FJA13009",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP722MA",
+          "manufacturer": "Various",
+          "href": "/component/FJA13009"
+        },
+        {
+          "id": "FJA4210",
+          "name": "FJA4210",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP722MA",
+          "manufacturer": "Various",
+          "href": "/component/FJA4210"
+        },
+        {
+          "id": "FJA4213",
+          "name": "FJA4213",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP722MA",
+          "manufacturer": "Various",
+          "href": "/component/FJA4213"
+        },
+        {
+          "id": "FJA4310",
+          "name": "FJA4310",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP722MA",
+          "manufacturer": "Various",
+          "href": "/component/FJA4310"
+        },
+        {
+          "id": "FJA4313",
+          "name": "FJA4313",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for ZXTP722MA",
+          "manufacturer": "Various",
+          "href": "/component/FJA4313"
+        }
+      ],
+      "href": "/component/ZXTP722MA"
+    },
+    {
+      "id": "2SD72",
+      "name": "2SD72",
+      "type": "NPN Transistor",
+      "description": "O1 \n- BJT Cross-Reference Search\n2SD72 Datasheet (PDF)\n0.2. Size:211K inchange semiconductor\n2sd725.pdf \nINCHANGE Semiconductorisc Silicon NPN Power Transistor 2SD725DESCRIPTIONWith TO-3 PackageLow collector saturation voltageMinimum Lot-to-Lot variations for robust device performanceand reliable operation.APPLICATIONSDesigned for color TV horizontal deflection driverABSOLUTE MAXIMUM RATINGS(T =25)aSYMBOL PARAMETER VALUE UNITV Collector-Base Voltage 1500 VCBO\n0.3. Size:213K inchange semiconductor\n2sd728.pdf \nisc Silicon NPN Power Transistor 2SD728DESCRIPTIONCollector-Emitter Breakdown Voltage-: V = 100V(Min)(BR)CEOGood Linearity of hFEWide Area of Safe OperationComplement to Type 2SB692Minimum Lot-to-Lot variations for robust deviceperformance and reliable operationAPPLICATIONSDesigned for low frequency power amplifier and powerswitching applications.ABSOLUTE\nDatasheet: 2SD716O , 2SD716R , 2SD717 , 2SD717O , 2SD717Y , 2SD718 , 2SD718O , 2SD718R , C3198 , 2SD720 , 2SD721 , 2SD722 , 2SD723 , 2SD724 , 2SD725 , 2SD726 , 2SD727 . \nHistory: ZXTP2039F | ZXTP2029F | ZXTP2027F \nKeywords - 2SD72 transistor datasheet\n2SD72 cross reference\n2SD72 equivalent finder\n2SD72 lookup\n2SD72 substitution\n2SD72 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Ge",
+      "package": "TO1",
+      "maxCollectorCurrent": 0.6,
+      "maxCollectorEmitterVoltage": 25,
+      "maxCollectorBaseVoltage": 25,
+      "maxEmitterBaseVoltage": 12,
+      "maxPowerDissipation": 0.21,
+      "maxJunctionTemperature": 125,
+      "transitionFrequency": 0.3,
+      "hFE": 60,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Ge",
+        "Package": "TO1",
+        "Collector Power Dissipation": "0.21W",
+        "Collector-Base Voltage": "25V",
+        "Collector-Emitter Voltage": "25V",
+        "Emitter-Base Voltage": "12V",
+        "Collector Current": "0.6A",
+        "Current Gain (hFE)": "60",
+        "Junction Temperature": "125°C",
+        "Transition Frequency": "0.3MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "inchange semiconductor (211K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd725.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "inchange semiconductor (213K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd728.pdf&dire=_inchange_semiconductor"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD716O",
+          "name": "2SD716O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD72",
+          "manufacturer": "Various",
+          "href": "/component/2SD716O"
+        },
+        {
+          "id": "2SD716R",
+          "name": "2SD716R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD72",
+          "manufacturer": "Various",
+          "href": "/component/2SD716R"
+        },
+        {
+          "id": "2SD717",
+          "name": "2SD717",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD72",
+          "manufacturer": "Various",
+          "href": "/component/2SD717"
+        },
+        {
+          "id": "2SD717O",
+          "name": "2SD717O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD72",
+          "manufacturer": "Various",
+          "href": "/component/2SD717O"
+        },
+        {
+          "id": "2SD717Y",
+          "name": "2SD717Y",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD72",
+          "manufacturer": "Various",
+          "href": "/component/2SD717Y"
+        },
+        {
+          "id": "2SD718",
+          "name": "2SD718",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD72",
+          "manufacturer": "Various",
+          "href": "/component/2SD718"
+        },
+        {
+          "id": "2SD718O",
+          "name": "2SD718O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD72",
+          "manufacturer": "Various",
+          "href": "/component/2SD718O"
+        },
+        {
+          "id": "2SD718R",
+          "name": "2SD718R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD72",
+          "manufacturer": "Various",
+          "href": "/component/2SD718R"
+        },
+        {
+          "id": "2SD720",
+          "name": "2SD720",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD72",
+          "manufacturer": "Various",
+          "href": "/component/2SD720"
+        },
+        {
+          "id": "2SD721",
+          "name": "2SD721",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD72",
+          "manufacturer": "Various",
+          "href": "/component/2SD721"
+        },
+        {
+          "id": "2SD722",
+          "name": "2SD722",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD72",
+          "manufacturer": "Various",
+          "href": "/component/2SD722"
+        },
+        {
+          "id": "2SD723",
+          "name": "2SD723",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD72",
+          "manufacturer": "Various",
+          "href": "/component/2SD723"
+        },
+        {
+          "id": "2SD724",
+          "name": "2SD724",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD72",
+          "manufacturer": "Various",
+          "href": "/component/2SD724"
+        },
+        {
+          "id": "2SD725",
+          "name": "2SD725",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD72",
+          "manufacturer": "Various",
+          "href": "/component/2SD725"
+        },
+        {
+          "id": "2SD726",
+          "name": "2SD726",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD72",
+          "manufacturer": "Various",
+          "href": "/component/2SD726"
+        },
+        {
+          "id": "2SD727",
+          "name": "2SD727",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD72",
+          "manufacturer": "Various",
+          "href": "/component/2SD727"
+        }
+      ],
+      "href": "/component/2SD72"
+    },
+    {
+      "id": "2SD720",
+      "name": "2SD720",
+      "type": "NPN Transistor",
+      "description": "O3 \n- BJT Cross-Reference Search\n2SD720 Datasheet (PDF)\n9.3. Size:211K inchange semiconductor\n2sd725.pdf \nINCHANGE Semiconductorisc Silicon NPN Power Transistor 2SD725DESCRIPTIONWith TO-3 PackageLow collector saturation voltageMinimum Lot-to-Lot variations for robust device performanceand reliable operation.APPLICATIONSDesigned for color TV horizontal deflection driverABSOLUTE MAXIMUM RATINGS(T =25)aSYMBOL PARAMETER VALUE UNITV Collector-Base Voltage 1500 VCBO\n9.4. Size:213K inchange semiconductor\n2sd728.pdf \nisc Silicon NPN Power Transistor 2SD728DESCRIPTIONCollector-Emitter Breakdown Voltage-: V = 100V(Min)(BR)CEOGood Linearity of hFEWide Area of Safe OperationComplement to Type 2SB692Minimum Lot-to-Lot variations for robust deviceperformance and reliable operationAPPLICATIONSDesigned for low frequency power amplifier and powerswitching applications.ABSOLUTE\nDatasheet: 2SD716R , 2SD717 , 2SD717O , 2SD717Y , 2SD718 , 2SD718O , 2SD718R , 2SD72 , BC558 , 2SD721 , 2SD722 , 2SD723 , 2SD724 , 2SD725 , 2SD726 , 2SD727 , 2SD728 . \nHistory: 2SD72 | ZXTP2039F | ZXTP2029F | ZXTP2027F \nKeywords - 2SD720 transistor datasheet\n2SD720 cross reference\n2SD720 equivalent finder\n2SD720 lookup\n2SD720 substitution\n2SD720 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO3",
+      "maxCollectorCurrent": 7,
+      "maxCollectorEmitterVoltage": 400,
+      "maxCollectorBaseVoltage": 400,
+      "maxEmitterBaseVoltage": 10,
+      "maxPowerDissipation": 100,
+      "maxJunctionTemperature": 135,
+      "hFE": 400,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO3",
+        "Collector Power Dissipation": "100W",
+        "Collector-Base Voltage": "400V",
+        "Collector-Emitter Voltage": "400V",
+        "Emitter-Base Voltage": "10V",
+        "Collector Current": "7A",
+        "Current Gain (hFE)": "400",
+        "Junction Temperature": "135°C",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "inchange semiconductor (211K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd725.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "inchange semiconductor (213K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd728.pdf&dire=_inchange_semiconductor"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD716R",
+          "name": "2SD716R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD720",
+          "manufacturer": "Various",
+          "href": "/component/2SD716R"
+        },
+        {
+          "id": "2SD717",
+          "name": "2SD717",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD720",
+          "manufacturer": "Various",
+          "href": "/component/2SD717"
+        },
+        {
+          "id": "2SD717O",
+          "name": "2SD717O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD720",
+          "manufacturer": "Various",
+          "href": "/component/2SD717O"
+        },
+        {
+          "id": "2SD717Y",
+          "name": "2SD717Y",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD720",
+          "manufacturer": "Various",
+          "href": "/component/2SD717Y"
+        },
+        {
+          "id": "2SD718",
+          "name": "2SD718",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD720",
+          "manufacturer": "Various",
+          "href": "/component/2SD718"
+        },
+        {
+          "id": "2SD718O",
+          "name": "2SD718O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD720",
+          "manufacturer": "Various",
+          "href": "/component/2SD718O"
+        },
+        {
+          "id": "2SD718R",
+          "name": "2SD718R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD720",
+          "manufacturer": "Various",
+          "href": "/component/2SD718R"
+        },
+        {
+          "id": "2SD72",
+          "name": "2SD72",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD720",
+          "manufacturer": "Various",
+          "href": "/component/2SD72"
+        },
+        {
+          "id": "2SD721",
+          "name": "2SD721",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD720",
+          "manufacturer": "Various",
+          "href": "/component/2SD721"
+        },
+        {
+          "id": "2SD722",
+          "name": "2SD722",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD720",
+          "manufacturer": "Various",
+          "href": "/component/2SD722"
+        },
+        {
+          "id": "2SD723",
+          "name": "2SD723",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD720",
+          "manufacturer": "Various",
+          "href": "/component/2SD723"
+        },
+        {
+          "id": "2SD724",
+          "name": "2SD724",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD720",
+          "manufacturer": "Various",
+          "href": "/component/2SD724"
+        },
+        {
+          "id": "2SD725",
+          "name": "2SD725",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD720",
+          "manufacturer": "Various",
+          "href": "/component/2SD725"
+        },
+        {
+          "id": "2SD726",
+          "name": "2SD726",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD720",
+          "manufacturer": "Various",
+          "href": "/component/2SD726"
+        },
+        {
+          "id": "2SD727",
+          "name": "2SD727",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD720",
+          "manufacturer": "Various",
+          "href": "/component/2SD727"
+        },
+        {
+          "id": "2SD728",
+          "name": "2SD728",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD720",
+          "manufacturer": "Various",
+          "href": "/component/2SD728"
+        }
+      ],
+      "href": "/component/2SD720"
+    },
+    {
+      "id": "2SD721",
+      "name": "2SD721",
+      "type": "NPN Transistor",
+      "description": "O220 \n- BJT Cross-Reference Search\n2SD721 Datasheet (PDF)\n9.2. Size:211K inchange semiconductor\n2sd725.pdf \nINCHANGE Semiconductorisc Silicon NPN Power Transistor 2SD725DESCRIPTIONWith TO-3 PackageLow collector saturation voltageMinimum Lot-to-Lot variations for robust device performanceand reliable operation.APPLICATIONSDesigned for color TV horizontal deflection driverABSOLUTE MAXIMUM RATINGS(T =25)aSYMBOL PARAMETER VALUE UNITV Collector-Base Voltage 1500 VCBO\n9.3. Size:213K inchange semiconductor\n2sd728.pdf \nisc Silicon NPN Power Transistor 2SD728DESCRIPTIONCollector-Emitter Breakdown Voltage-: V = 100V(Min)(BR)CEOGood Linearity of hFEWide Area of Safe OperationComplement to Type 2SB692Minimum Lot-to-Lot variations for robust deviceperformance and reliable operationAPPLICATIONSDesigned for low frequency power amplifier and powerswitching applications.ABSOLUTE\nDatasheet: 2SD717 , 2SD717O , 2SD717Y , 2SD718 , 2SD718O , 2SD718R , 2SD72 , 2SD720 , BD135 , 2SD722 , 2SD723 , 2SD724 , 2SD725 , 2SD726 , 2SD727 , 2SD728 , 2SD729 . \nHistory: 2SD72 | ZXTP2039F | ZXTP2029F | ZXTP2027F \nKeywords - 2SD721 transistor datasheet\n2SD721 cross reference\n2SD721 equivalent finder\n2SD721 lookup\n2SD721 substitution\n2SD721 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO220",
+      "maxCollectorCurrent": 10,
+      "maxCollectorEmitterVoltage": 80,
+      "maxCollectorBaseVoltage": 100,
+      "maxEmitterBaseVoltage": 1,
+      "maxPowerDissipation": 80,
+      "maxJunctionTemperature": 135,
+      "hFE": 500,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO220",
+        "Collector Power Dissipation": "80W",
+        "Collector-Base Voltage": "100V",
+        "Collector-Emitter Voltage": "80V",
+        "Emitter-Base Voltage": "1V",
+        "Collector Current": "10A",
+        "Current Gain (hFE)": "500",
+        "Junction Temperature": "135°C",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "inchange semiconductor (211K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd725.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "inchange semiconductor (213K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd728.pdf&dire=_inchange_semiconductor"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD717",
+          "name": "2SD717",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD721",
+          "manufacturer": "Various",
+          "href": "/component/2SD717"
+        },
+        {
+          "id": "2SD717O",
+          "name": "2SD717O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD721",
+          "manufacturer": "Various",
+          "href": "/component/2SD717O"
+        },
+        {
+          "id": "2SD717Y",
+          "name": "2SD717Y",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD721",
+          "manufacturer": "Various",
+          "href": "/component/2SD717Y"
+        },
+        {
+          "id": "2SD718",
+          "name": "2SD718",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD721",
+          "manufacturer": "Various",
+          "href": "/component/2SD718"
+        },
+        {
+          "id": "2SD718O",
+          "name": "2SD718O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD721",
+          "manufacturer": "Various",
+          "href": "/component/2SD718O"
+        },
+        {
+          "id": "2SD718R",
+          "name": "2SD718R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD721",
+          "manufacturer": "Various",
+          "href": "/component/2SD718R"
+        },
+        {
+          "id": "2SD72",
+          "name": "2SD72",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD721",
+          "manufacturer": "Various",
+          "href": "/component/2SD72"
+        },
+        {
+          "id": "2SD720",
+          "name": "2SD720",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD721",
+          "manufacturer": "Various",
+          "href": "/component/2SD720"
+        },
+        {
+          "id": "2SD722",
+          "name": "2SD722",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD721",
+          "manufacturer": "Various",
+          "href": "/component/2SD722"
+        },
+        {
+          "id": "2SD723",
+          "name": "2SD723",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD721",
+          "manufacturer": "Various",
+          "href": "/component/2SD723"
+        },
+        {
+          "id": "2SD724",
+          "name": "2SD724",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD721",
+          "manufacturer": "Various",
+          "href": "/component/2SD724"
+        },
+        {
+          "id": "2SD725",
+          "name": "2SD725",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD721",
+          "manufacturer": "Various",
+          "href": "/component/2SD725"
+        },
+        {
+          "id": "2SD726",
+          "name": "2SD726",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD721",
+          "manufacturer": "Various",
+          "href": "/component/2SD726"
+        },
+        {
+          "id": "2SD727",
+          "name": "2SD727",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD721",
+          "manufacturer": "Various",
+          "href": "/component/2SD727"
+        },
+        {
+          "id": "2SD728",
+          "name": "2SD728",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD721",
+          "manufacturer": "Various",
+          "href": "/component/2SD728"
+        },
+        {
+          "id": "2SD729",
+          "name": "2SD729",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD721",
+          "manufacturer": "Various",
+          "href": "/component/2SD729"
+        }
+      ],
+      "href": "/component/2SD721"
+    },
+    {
+      "id": "2SD722",
+      "name": "2SD722",
+      "type": "NPN Transistor",
+      "description": "O220 \n- BJT Cross-Reference Search\n2SD722 Datasheet (PDF)\n9.3. Size:211K inchange semiconductor\n2sd725.pdf \nINCHANGE Semiconductorisc Silicon NPN Power Transistor 2SD725DESCRIPTIONWith TO-3 PackageLow collector saturation voltageMinimum Lot-to-Lot variations for robust device performanceand reliable operation.APPLICATIONSDesigned for color TV horizontal deflection driverABSOLUTE MAXIMUM RATINGS(T =25)aSYMBOL PARAMETER VALUE UNITV Collector-Base Voltage 1500 VCBO\n9.4. Size:213K inchange semiconductor\n2sd728.pdf \nisc Silicon NPN Power Transistor 2SD728DESCRIPTIONCollector-Emitter Breakdown Voltage-: V = 100V(Min)(BR)CEOGood Linearity of hFEWide Area of Safe OperationComplement to Type 2SB692Minimum Lot-to-Lot variations for robust deviceperformance and reliable operationAPPLICATIONSDesigned for low frequency power amplifier and powerswitching applications.ABSOLUTE\nDatasheet: 2SD717O , 2SD717Y , 2SD718 , 2SD718O , 2SD718R , 2SD72 , 2SD720 , 2SD721 , 2SC2383Y , 2SD723 , 2SD724 , 2SD725 , 2SD726 , 2SD727 , 2SD728 , 2SD729 , 2SD729H . \nHistory: 2SD721 | 2SD72 | ZXTP2039F | ZXTP2029F | ZXTP2027F \nKeywords - 2SD722 transistor datasheet\n2SD722 cross reference\n2SD722 equivalent finder\n2SD722 lookup\n2SD722 substitution\n2SD722 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO220",
+      "maxCollectorCurrent": 10,
+      "maxCollectorEmitterVoltage": 100,
+      "maxCollectorBaseVoltage": 120,
+      "maxEmitterBaseVoltage": 1,
+      "maxPowerDissipation": 100,
+      "maxJunctionTemperature": 135,
+      "hFE": 500,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO220",
+        "Collector Power Dissipation": "100W",
+        "Collector-Base Voltage": "120V",
+        "Collector-Emitter Voltage": "100V",
+        "Emitter-Base Voltage": "1V",
+        "Collector Current": "10A",
+        "Current Gain (hFE)": "500",
+        "Junction Temperature": "135°C",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "inchange semiconductor (211K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd725.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "inchange semiconductor (213K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd728.pdf&dire=_inchange_semiconductor"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD717O",
+          "name": "2SD717O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD722",
+          "manufacturer": "Various",
+          "href": "/component/2SD717O"
+        },
+        {
+          "id": "2SD717Y",
+          "name": "2SD717Y",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD722",
+          "manufacturer": "Various",
+          "href": "/component/2SD717Y"
+        },
+        {
+          "id": "2SD718",
+          "name": "2SD718",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD722",
+          "manufacturer": "Various",
+          "href": "/component/2SD718"
+        },
+        {
+          "id": "2SD718O",
+          "name": "2SD718O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD722",
+          "manufacturer": "Various",
+          "href": "/component/2SD718O"
+        },
+        {
+          "id": "2SD718R",
+          "name": "2SD718R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD722",
+          "manufacturer": "Various",
+          "href": "/component/2SD718R"
+        },
+        {
+          "id": "2SD72",
+          "name": "2SD72",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD722",
+          "manufacturer": "Various",
+          "href": "/component/2SD72"
+        },
+        {
+          "id": "2SD720",
+          "name": "2SD720",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD722",
+          "manufacturer": "Various",
+          "href": "/component/2SD720"
+        },
+        {
+          "id": "2SD721",
+          "name": "2SD721",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD722",
+          "manufacturer": "Various",
+          "href": "/component/2SD721"
+        },
+        {
+          "id": "2SC2383Y",
+          "name": "2SC2383Y",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD722",
+          "manufacturer": "Various",
+          "href": "/component/2SC2383Y"
+        },
+        {
+          "id": "2SD723",
+          "name": "2SD723",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD722",
+          "manufacturer": "Various",
+          "href": "/component/2SD723"
+        },
+        {
+          "id": "2SD724",
+          "name": "2SD724",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD722",
+          "manufacturer": "Various",
+          "href": "/component/2SD724"
+        },
+        {
+          "id": "2SD725",
+          "name": "2SD725",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD722",
+          "manufacturer": "Various",
+          "href": "/component/2SD725"
+        },
+        {
+          "id": "2SD726",
+          "name": "2SD726",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD722",
+          "manufacturer": "Various",
+          "href": "/component/2SD726"
+        },
+        {
+          "id": "2SD727",
+          "name": "2SD727",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD722",
+          "manufacturer": "Various",
+          "href": "/component/2SD727"
+        },
+        {
+          "id": "2SD728",
+          "name": "2SD728",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD722",
+          "manufacturer": "Various",
+          "href": "/component/2SD728"
+        },
+        {
+          "id": "2SD729",
+          "name": "2SD729",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD722",
+          "manufacturer": "Various",
+          "href": "/component/2SD729"
+        },
+        {
+          "id": "2SD729H",
+          "name": "2SD729H",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD722",
+          "manufacturer": "Various",
+          "href": "/component/2SD729H"
+        }
+      ],
+      "href": "/component/2SD722"
+    },
+    {
+      "id": "2SD723",
+      "name": "2SD723",
+      "type": "NPN Transistor",
+      "description": "O220 \n- BJT Cross-Reference Search\n2SD723 Datasheet (PDF)\n..1. Size:186K inchange semiconductor\n2sd723.pdf \nisc Product Specificationisc Silicon NPN Power Transistor 2SD723DESCRIPTIONCollector-Emitter Breakdown Voltage-: V = 100V(Min)(BR) CEODC Current Gain -h = 50(Min)@ I = 0.5AFE CFast Switching Speed100% avalanche testedMinimum Lot-to-Lot variations for robust deviceperformance and reliable operationAPPLICATIONSDesigned for use in general purpose amplifier and\n9.3. Size:211K inchange semiconductor\n2sd725.pdf \nINCHANGE Semiconductorisc Silicon NPN Power Transistor 2SD725DESCRIPTIONWith TO-3 PackageLow collector saturation voltageMinimum Lot-to-Lot variations for robust device performanceand reliable operation.APPLICATIONSDesigned for color TV horizontal deflection driverABSOLUTE MAXIMUM RATINGS(T =25)aSYMBOL PARAMETER VALUE UNITV Collector-Base Voltage 1500 VCBO\nDatasheet: 2SD717Y , 2SD718 , 2SD718O , 2SD718R , 2SD72 , 2SD720 , 2SD721 , 2SD722 , 2SC2655 , 2SD724 , 2SD725 , 2SD726 , 2SD727 , 2SD728 , 2SD729 , 2SD729H , 2SD72K . \nKeywords - 2SD723 transistor datasheet\n2SD723 cross reference\n2SD723 equivalent finder\n2SD723 lookup\n2SD723 substitution\n2SD723 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO220",
+      "maxCollectorCurrent": 4,
+      "maxCollectorEmitterVoltage": 100,
+      "maxCollectorBaseVoltage": 100,
+      "maxEmitterBaseVoltage": 4,
+      "maxPowerDissipation": 40,
+      "maxJunctionTemperature": 135,
+      "hFE": 50,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO220",
+        "Collector Power Dissipation": "40W",
+        "Collector-Base Voltage": "100V",
+        "Collector-Emitter Voltage": "100V",
+        "Emitter-Base Voltage": "4V",
+        "Collector Current": "4A",
+        "Current Gain (hFE)": "50",
+        "Junction Temperature": "135°C",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "inchange semiconductor (186K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd723.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "inchange semiconductor (211K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd725.pdf&dire=_inchange_semiconductor"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD717Y",
+          "name": "2SD717Y",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD723",
+          "manufacturer": "Various",
+          "href": "/component/2SD717Y"
+        },
+        {
+          "id": "2SD718",
+          "name": "2SD718",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD723",
+          "manufacturer": "Various",
+          "href": "/component/2SD718"
+        },
+        {
+          "id": "2SD718O",
+          "name": "2SD718O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD723",
+          "manufacturer": "Various",
+          "href": "/component/2SD718O"
+        },
+        {
+          "id": "2SD718R",
+          "name": "2SD718R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD723",
+          "manufacturer": "Various",
+          "href": "/component/2SD718R"
+        },
+        {
+          "id": "2SD72",
+          "name": "2SD72",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD723",
+          "manufacturer": "Various",
+          "href": "/component/2SD72"
+        },
+        {
+          "id": "2SD720",
+          "name": "2SD720",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD723",
+          "manufacturer": "Various",
+          "href": "/component/2SD720"
+        },
+        {
+          "id": "2SD721",
+          "name": "2SD721",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD723",
+          "manufacturer": "Various",
+          "href": "/component/2SD721"
+        },
+        {
+          "id": "2SD722",
+          "name": "2SD722",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD723",
+          "manufacturer": "Various",
+          "href": "/component/2SD722"
+        },
+        {
+          "id": "2SC2655",
+          "name": "2SC2655",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD723",
+          "manufacturer": "Various",
+          "href": "/component/2SC2655"
+        },
+        {
+          "id": "2SD724",
+          "name": "2SD724",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD723",
+          "manufacturer": "Various",
+          "href": "/component/2SD724"
+        },
+        {
+          "id": "2SD725",
+          "name": "2SD725",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD723",
+          "manufacturer": "Various",
+          "href": "/component/2SD725"
+        },
+        {
+          "id": "2SD726",
+          "name": "2SD726",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD723",
+          "manufacturer": "Various",
+          "href": "/component/2SD726"
+        },
+        {
+          "id": "2SD727",
+          "name": "2SD727",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD723",
+          "manufacturer": "Various",
+          "href": "/component/2SD727"
+        },
+        {
+          "id": "2SD728",
+          "name": "2SD728",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD723",
+          "manufacturer": "Various",
+          "href": "/component/2SD728"
+        },
+        {
+          "id": "2SD729",
+          "name": "2SD729",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD723",
+          "manufacturer": "Various",
+          "href": "/component/2SD729"
+        },
+        {
+          "id": "2SD729H",
+          "name": "2SD729H",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD723",
+          "manufacturer": "Various",
+          "href": "/component/2SD729H"
+        },
+        {
+          "id": "2SD72K",
+          "name": "2SD72K",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD723",
+          "manufacturer": "Various",
+          "href": "/component/2SD72K"
+        }
+      ],
+      "href": "/component/2SD723"
+    },
+    {
+      "id": "2SD724",
+      "name": "2SD724",
+      "type": "NPN Transistor",
+      "description": "O220 \n- BJT Cross-Reference Search\n2SD724 Datasheet (PDF)\n9.3. Size:211K inchange semiconductor\n2sd725.pdf \nINCHANGE Semiconductorisc Silicon NPN Power Transistor 2SD725DESCRIPTIONWith TO-3 PackageLow collector saturation voltageMinimum Lot-to-Lot variations for robust device performanceand reliable operation.APPLICATIONSDesigned for color TV horizontal deflection driverABSOLUTE MAXIMUM RATINGS(T =25)aSYMBOL PARAMETER VALUE UNITV Collector-Base Voltage 1500 VCBO\n9.4. Size:213K inchange semiconductor\n2sd728.pdf \nisc Silicon NPN Power Transistor 2SD728DESCRIPTIONCollector-Emitter Breakdown Voltage-: V = 100V(Min)(BR)CEOGood Linearity of hFEWide Area of Safe OperationComplement to Type 2SB692Minimum Lot-to-Lot variations for robust deviceperformance and reliable operationAPPLICATIONSDesigned for low frequency power amplifier and powerswitching applications.ABSOLUTE\nDatasheet: 2SD718 , 2SD718O , 2SD718R , 2SD72 , 2SD720 , 2SD721 , 2SD722 , 2SD723 , TIP127 , 2SD725 , 2SD726 , 2SD727 , 2SD728 , 2SD729 , 2SD729H , 2SD72K , 2SD73 . \nHistory: 2SD723 \nKeywords - 2SD724 transistor datasheet\n2SD724 cross reference\n2SD724 equivalent finder\n2SD724 lookup\n2SD724 substitution\n2SD724 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO220",
+      "maxCollectorCurrent": 4,
+      "maxCollectorEmitterVoltage": 80,
+      "maxCollectorBaseVoltage": 200,
+      "maxPowerDissipation": 30,
+      "maxJunctionTemperature": 150,
+      "hFE": 80,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO220",
+        "Collector Power Dissipation": "30W",
+        "Collector-Base Voltage": "200V",
+        "Collector-Emitter Voltage": "80V",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "4A",
+        "Current Gain (hFE)": "80",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "inchange semiconductor (211K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd725.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "inchange semiconductor (213K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd728.pdf&dire=_inchange_semiconductor"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD718",
+          "name": "2SD718",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD724",
+          "manufacturer": "Various",
+          "href": "/component/2SD718"
+        },
+        {
+          "id": "2SD718O",
+          "name": "2SD718O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD724",
+          "manufacturer": "Various",
+          "href": "/component/2SD718O"
+        },
+        {
+          "id": "2SD718R",
+          "name": "2SD718R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD724",
+          "manufacturer": "Various",
+          "href": "/component/2SD718R"
+        },
+        {
+          "id": "2SD72",
+          "name": "2SD72",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD724",
+          "manufacturer": "Various",
+          "href": "/component/2SD72"
+        },
+        {
+          "id": "2SD720",
+          "name": "2SD720",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD724",
+          "manufacturer": "Various",
+          "href": "/component/2SD720"
+        },
+        {
+          "id": "2SD721",
+          "name": "2SD721",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD724",
+          "manufacturer": "Various",
+          "href": "/component/2SD721"
+        },
+        {
+          "id": "2SD722",
+          "name": "2SD722",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD724",
+          "manufacturer": "Various",
+          "href": "/component/2SD722"
+        },
+        {
+          "id": "2SD723",
+          "name": "2SD723",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD724",
+          "manufacturer": "Various",
+          "href": "/component/2SD723"
+        },
+        {
+          "id": "TIP127",
+          "name": "TIP127",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD724",
+          "manufacturer": "Various",
+          "href": "/component/TIP127"
+        },
+        {
+          "id": "2SD725",
+          "name": "2SD725",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD724",
+          "manufacturer": "Various",
+          "href": "/component/2SD725"
+        },
+        {
+          "id": "2SD726",
+          "name": "2SD726",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD724",
+          "manufacturer": "Various",
+          "href": "/component/2SD726"
+        },
+        {
+          "id": "2SD727",
+          "name": "2SD727",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD724",
+          "manufacturer": "Various",
+          "href": "/component/2SD727"
+        },
+        {
+          "id": "2SD728",
+          "name": "2SD728",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD724",
+          "manufacturer": "Various",
+          "href": "/component/2SD728"
+        },
+        {
+          "id": "2SD729",
+          "name": "2SD729",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD724",
+          "manufacturer": "Various",
+          "href": "/component/2SD729"
+        },
+        {
+          "id": "2SD729H",
+          "name": "2SD729H",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD724",
+          "manufacturer": "Various",
+          "href": "/component/2SD729H"
+        },
+        {
+          "id": "2SD72K",
+          "name": "2SD72K",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD724",
+          "manufacturer": "Various",
+          "href": "/component/2SD72K"
+        },
+        {
+          "id": "2SD73",
+          "name": "2SD73",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD724",
+          "manufacturer": "Various",
+          "href": "/component/2SD73"
+        }
+      ],
+      "href": "/component/2SD724"
+    },
+    {
+      "id": "2SD713",
+      "name": "2SD713",
+      "type": "NPN Transistor",
+      "description": "Silicon NPN high frequency, high power transistors in a plastic envelope, primarily for use in audio and general purposeTO-3P(I)DQUICK REFERENCE DATASYMBOL PARAMETER CONDITIONS MIN MAX UNITCollector-emitter voltage peak value VBE = 0VVCESM - 100 VCollector-emitter voltage (open base)VCEO - 100 VCollector curre",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO220",
+      "maxCollectorCurrent": 5,
+      "maxCollectorEmitterVoltage": 100,
+      "maxCollectorBaseVoltage": 100,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 40,
+      "maxJunctionTemperature": 175,
+      "transitionFrequency": 4,
+      "collectorCapacitance": 75,
+      "hFE": 55,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO220",
+        "Collector Power Dissipation": "40W",
+        "Collector-Base Voltage": "100V",
+        "Collector-Emitter Voltage": "100V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "5A",
+        "Current Gain (hFE)": "55",
+        "Junction Temperature": "175°C",
+        "Transition Frequency": "4MHz",
+        "Collector Capacitance": "75pF"
+      },
+      "datasheets": [
+        {
+          "name": "utc (106K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd718.pdf&dire=_utc"
+        },
+        {
+          "name": "fuji (309K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd711.pdf&dire=_fuji"
+        },
+        {
+          "name": "wingshing (89K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd716.pdf&dire=_wingshing"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD707",
+          "name": "2SD707",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD713",
+          "manufacturer": "Various",
+          "href": "/component/2SD707"
+        },
+        {
+          "id": "2SD708",
+          "name": "2SD708",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD713",
+          "manufacturer": "Various",
+          "href": "/component/2SD708"
+        },
+        {
+          "id": "2SD709",
+          "name": "2SD709",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD713",
+          "manufacturer": "Various",
+          "href": "/component/2SD709"
+        },
+        {
+          "id": "2SD71",
+          "name": "2SD71",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD713",
+          "manufacturer": "Various",
+          "href": "/component/2SD71"
+        },
+        {
+          "id": "2SD710",
+          "name": "2SD710",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD713",
+          "manufacturer": "Various",
+          "href": "/component/2SD710"
+        },
+        {
+          "id": "2SD711A",
+          "name": "2SD711A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD713",
+          "manufacturer": "Various",
+          "href": "/component/2SD711A"
+        },
+        {
+          "id": "2SD712",
+          "name": "2SD712",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD713",
+          "manufacturer": "Various",
+          "href": "/component/2SD712"
+        },
+        {
+          "id": "2SD712A",
+          "name": "2SD712A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD713",
+          "manufacturer": "Various",
+          "href": "/component/2SD712A"
+        },
+        {
+          "id": "TSB145",
+          "name": "TSB145",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD713",
+          "manufacturer": "Various",
+          "href": "/component/TSB145"
+        },
+        {
+          "id": "2SD715",
+          "name": "2SD715",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD713",
+          "manufacturer": "Various",
+          "href": "/component/2SD715"
+        },
+        {
+          "id": "2SD716",
+          "name": "2SD716",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD713",
+          "manufacturer": "Various",
+          "href": "/component/2SD716"
+        },
+        {
+          "id": "2SD716O",
+          "name": "2SD716O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD713",
+          "manufacturer": "Various",
+          "href": "/component/2SD716O"
+        },
+        {
+          "id": "2SD716R",
+          "name": "2SD716R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD713",
+          "manufacturer": "Various",
+          "href": "/component/2SD716R"
+        },
+        {
+          "id": "2SD717",
+          "name": "2SD717",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD713",
+          "manufacturer": "Various",
+          "href": "/component/2SD717"
+        },
+        {
+          "id": "2SD717O",
+          "name": "2SD717O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD713",
+          "manufacturer": "Various",
+          "href": "/component/2SD717O"
+        },
+        {
+          "id": "2SD717Y",
+          "name": "2SD717Y",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD713",
+          "manufacturer": "Various",
+          "href": "/component/2SD717Y"
+        },
+        {
+          "id": "2SD718",
+          "name": "2SD718",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD713",
+          "manufacturer": "Various",
+          "href": "/component/2SD718"
+        }
+      ],
+      "href": "/component/2SD713"
+    },
+    {
+      "id": "2SD715",
+      "name": "2SD715",
+      "type": "NPN Transistor",
+      "description": "OP3 \n- BJT Cross-Reference Search\n2SD715 Datasheet (PDF)\n..1. Size:194K inchange semiconductor\n2sd715.pdf \nINCHANGE Semiconductorisc Silicon NPN Darlington Power Transistor 2SD715DESCRIPTIONHigh DC Current Gain: h = 2000(Min)@ I = 1AFE CCollector-Emitter Sustaining Voltage-: V = 110V(Min)CEO(SUS)High Reliability100% avalanche testedMinimum Lot-to-Lot variations for robust deviceperformance and reliable operationAPPLICATIONSDesigned for audio frequency power am\n9.1. Size:106K utc\n2sd718.pdf \nUTC 2SD718 NPN EPITAXIAL SILICON TRANSISTOR HIGH POWER AMPLIFIER APPLICATION FEATURES *Recommended for 45~50W Audio Frequency *Amplifier Output Stage. *Complementary to 2SB688. 1TO-3P 1: BASE 2:COLLECTOR 3: EMITTER ABSOLUTE MAXIMUM RATINGS (Ta=25) PARAMETER SYMBOL RATINGS UNITCollector-Base Voltage VCBO 120 VCollector-Emitter Voltage VCEO 120 VEmitter-Base Voltage\n9.2. Size:309K fuji\n2sd711.pdf \n2SD711 FUJI POWER TRANSISTORTRIPLE DIFFUSED PLANER TYPEHIGH POWER DARLINGTON\nDatasheet: 2SD708 , 2SD709 , 2SD71 , 2SD710 , 2SD711A , 2SD712 , 2SD712A , 2SD713 , 8050 , 2SD716 , 2SD716O , 2SD716R , 2SD717 , 2SD717O , 2SD717Y , 2SD718 , 2SD718O . \nHistory: 2SD718 | 2SD724 | 2SD723 \nKeywords - 2SD715 transistor datasheet\n2SD715 cross reference\n2SD715 equivalent finder\n2SD715 lookup\n2SD715 substitution\n2SD715 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TOP3",
+      "maxCollectorCurrent": 7,
+      "maxCollectorEmitterVoltage": 110,
+      "maxCollectorBaseVoltage": 110,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 80,
+      "maxJunctionTemperature": 150,
+      "hFE": 18000,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TOP3",
+        "Collector Power Dissipation": "80W",
+        "Collector-Base Voltage": "110V",
+        "Collector-Emitter Voltage": "110V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "7A",
+        "Current Gain (hFE)": "18000",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "inchange semiconductor (194K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd715.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "utc (106K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd718.pdf&dire=_utc"
+        },
+        {
+          "name": "fuji (309K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd711.pdf&dire=_fuji"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD708",
+          "name": "2SD708",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD715",
+          "manufacturer": "Various",
+          "href": "/component/2SD708"
+        },
+        {
+          "id": "2SD709",
+          "name": "2SD709",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD715",
+          "manufacturer": "Various",
+          "href": "/component/2SD709"
+        },
+        {
+          "id": "2SD71",
+          "name": "2SD71",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD715",
+          "manufacturer": "Various",
+          "href": "/component/2SD71"
+        },
+        {
+          "id": "2SD710",
+          "name": "2SD710",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD715",
+          "manufacturer": "Various",
+          "href": "/component/2SD710"
+        },
+        {
+          "id": "2SD711A",
+          "name": "2SD711A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD715",
+          "manufacturer": "Various",
+          "href": "/component/2SD711A"
+        },
+        {
+          "id": "2SD712",
+          "name": "2SD712",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD715",
+          "manufacturer": "Various",
+          "href": "/component/2SD712"
+        },
+        {
+          "id": "2SD712A",
+          "name": "2SD712A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD715",
+          "manufacturer": "Various",
+          "href": "/component/2SD712A"
+        },
+        {
+          "id": "2SD713",
+          "name": "2SD713",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD715",
+          "manufacturer": "Various",
+          "href": "/component/2SD713"
+        },
+        {
+          "id": "2SD716",
+          "name": "2SD716",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD715",
+          "manufacturer": "Various",
+          "href": "/component/2SD716"
+        },
+        {
+          "id": "2SD716O",
+          "name": "2SD716O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD715",
+          "manufacturer": "Various",
+          "href": "/component/2SD716O"
+        },
+        {
+          "id": "2SD716R",
+          "name": "2SD716R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD715",
+          "manufacturer": "Various",
+          "href": "/component/2SD716R"
+        },
+        {
+          "id": "2SD717",
+          "name": "2SD717",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD715",
+          "manufacturer": "Various",
+          "href": "/component/2SD717"
+        },
+        {
+          "id": "2SD717O",
+          "name": "2SD717O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD715",
+          "manufacturer": "Various",
+          "href": "/component/2SD717O"
+        },
+        {
+          "id": "2SD717Y",
+          "name": "2SD717Y",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD715",
+          "manufacturer": "Various",
+          "href": "/component/2SD717Y"
+        },
+        {
+          "id": "2SD718",
+          "name": "2SD718",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD715",
+          "manufacturer": "Various",
+          "href": "/component/2SD718"
+        },
+        {
+          "id": "2SD718O",
+          "name": "2SD718O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD715",
+          "manufacturer": "Various",
+          "href": "/component/2SD718O"
+        }
+      ],
+      "href": "/component/2SD715"
+    },
+    {
+      "id": "2SD716O",
+      "name": "2SD716O",
+      "type": "NPN Transistor",
+      "description": "Silicon NPN high frequency, high power transistors in a plastic envelope, primarily for use in audio and general purposeTO-3P(I)DQUICK REFERENCE DATASYMBOL PARAMETER CONDITIONS MIN MAX UNITCollector-emitter voltage peak value VBE = 0VVCESM - 100 VCollector-emitter voltage (open base)VCEO - 100 VCollector curre\n8.2. Size:219K inchange semiconductor\n2sd716.pdf",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO247",
+      "maxCollectorCurrent": 6,
+      "maxCollectorEmitterVoltage": 100,
+      "maxCollectorBaseVoltage": 100,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 60,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 6,
+      "collectorCapacitance": 100,
+      "hFE": 80,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO247",
+        "Collector Power Dissipation": "60W",
+        "Collector-Base Voltage": "100V",
+        "Collector-Emitter Voltage": "100V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "6A",
+        "Current Gain (hFE)": "80",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "6MHz",
+        "Collector Capacitance": "100pF"
+      },
+      "datasheets": [
+        {
+          "name": "wingshing (89K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd716.pdf&dire=_wingshing"
+        },
+        {
+          "name": "inchange semiconductor (219K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd716.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "utc (106K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd718.pdf&dire=_utc"
+        },
+        {
+          "name": "fuji (309K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd711.pdf&dire=_fuji"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD71",
+          "name": "2SD71",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716O",
+          "manufacturer": "Various",
+          "href": "/component/2SD71"
+        },
+        {
+          "id": "2SD710",
+          "name": "2SD710",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716O",
+          "manufacturer": "Various",
+          "href": "/component/2SD710"
+        },
+        {
+          "id": "2SD711A",
+          "name": "2SD711A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716O",
+          "manufacturer": "Various",
+          "href": "/component/2SD711A"
+        },
+        {
+          "id": "2SD712",
+          "name": "2SD712",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716O",
+          "manufacturer": "Various",
+          "href": "/component/2SD712"
+        },
+        {
+          "id": "2SD712A",
+          "name": "2SD712A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716O",
+          "manufacturer": "Various",
+          "href": "/component/2SD712A"
+        },
+        {
+          "id": "2SD713",
+          "name": "2SD713",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716O",
+          "manufacturer": "Various",
+          "href": "/component/2SD713"
+        },
+        {
+          "id": "2SD715",
+          "name": "2SD715",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716O",
+          "manufacturer": "Various",
+          "href": "/component/2SD715"
+        },
+        {
+          "id": "2SD716",
+          "name": "2SD716",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716O",
+          "manufacturer": "Various",
+          "href": "/component/2SD716"
+        },
+        {
+          "id": "TIP31",
+          "name": "TIP31",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716O",
+          "manufacturer": "Various",
+          "href": "/component/TIP31"
+        },
+        {
+          "id": "2SD716R",
+          "name": "2SD716R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716O",
+          "manufacturer": "Various",
+          "href": "/component/2SD716R"
+        },
+        {
+          "id": "2SD717",
+          "name": "2SD717",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716O",
+          "manufacturer": "Various",
+          "href": "/component/2SD717"
+        },
+        {
+          "id": "2SD717O",
+          "name": "2SD717O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716O",
+          "manufacturer": "Various",
+          "href": "/component/2SD717O"
+        },
+        {
+          "id": "2SD717Y",
+          "name": "2SD717Y",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716O",
+          "manufacturer": "Various",
+          "href": "/component/2SD717Y"
+        },
+        {
+          "id": "2SD718",
+          "name": "2SD718",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716O",
+          "manufacturer": "Various",
+          "href": "/component/2SD718"
+        },
+        {
+          "id": "2SD718O",
+          "name": "2SD718O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716O",
+          "manufacturer": "Various",
+          "href": "/component/2SD718O"
+        },
+        {
+          "id": "2SD718R",
+          "name": "2SD718R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716O",
+          "manufacturer": "Various",
+          "href": "/component/2SD718R"
+        },
+        {
+          "id": "2SD72",
+          "name": "2SD72",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716O",
+          "manufacturer": "Various",
+          "href": "/component/2SD72"
+        }
+      ],
+      "href": "/component/2SD716O"
+    },
+    {
+      "id": "2SD717O",
+      "name": "2SD717O",
+      "type": "NPN Transistor",
+      "description": "Silicon NPN high frequency, high power transistors in a plastic envelope, primarily for use in audio and general purposeTO-3P(I)DQUICK REFERENCE DATASYMBOL PARAMETER CONDITIONS TYP MAX UNITCollector-emitter voltage peak value V = 0VBEV - 70 VCBOCollector-emitter voltage (open base)V - 70 VCEOCollector\n8.2. Size:218K inchange semiconductor\n2sd717.pdf",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO247",
+      "maxCollectorCurrent": 10,
+      "maxCollectorEmitterVoltage": 50,
+      "maxCollectorBaseVoltage": 70,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 80,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 5,
+      "collectorCapacitance": 350,
+      "hFE": 80,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO247",
+        "Collector Power Dissipation": "80W",
+        "Collector-Base Voltage": "70V",
+        "Collector-Emitter Voltage": "50V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "10A",
+        "Current Gain (hFE)": "80",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "5MHz",
+        "Collector Capacitance": "350pF"
+      },
+      "datasheets": [
+        {
+          "name": "wingshing (88K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd717.pdf&dire=_wingshing"
+        },
+        {
+          "name": "inchange semiconductor (218K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd717.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "utc (106K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd718.pdf&dire=_utc"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD712",
+          "name": "2SD712",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717O",
+          "manufacturer": "Various",
+          "href": "/component/2SD712"
+        },
+        {
+          "id": "2SD712A",
+          "name": "2SD712A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717O",
+          "manufacturer": "Various",
+          "href": "/component/2SD712A"
+        },
+        {
+          "id": "2SD713",
+          "name": "2SD713",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717O",
+          "manufacturer": "Various",
+          "href": "/component/2SD713"
+        },
+        {
+          "id": "2SD715",
+          "name": "2SD715",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717O",
+          "manufacturer": "Various",
+          "href": "/component/2SD715"
+        },
+        {
+          "id": "2SD716",
+          "name": "2SD716",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717O",
+          "manufacturer": "Various",
+          "href": "/component/2SD716"
+        },
+        {
+          "id": "2SD716O",
+          "name": "2SD716O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717O",
+          "manufacturer": "Various",
+          "href": "/component/2SD716O"
+        },
+        {
+          "id": "2SD716R",
+          "name": "2SD716R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717O",
+          "manufacturer": "Various",
+          "href": "/component/2SD716R"
+        },
+        {
+          "id": "2SD717",
+          "name": "2SD717",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717O",
+          "manufacturer": "Various",
+          "href": "/component/2SD717"
+        },
+        {
+          "id": "2SC1815",
+          "name": "2SC1815",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717O",
+          "manufacturer": "Various",
+          "href": "/component/2SC1815"
+        },
+        {
+          "id": "2SD717Y",
+          "name": "2SD717Y",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717O",
+          "manufacturer": "Various",
+          "href": "/component/2SD717Y"
+        },
+        {
+          "id": "2SD718",
+          "name": "2SD718",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717O",
+          "manufacturer": "Various",
+          "href": "/component/2SD718"
+        },
+        {
+          "id": "2SD718O",
+          "name": "2SD718O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717O",
+          "manufacturer": "Various",
+          "href": "/component/2SD718O"
+        },
+        {
+          "id": "2SD718R",
+          "name": "2SD718R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717O",
+          "manufacturer": "Various",
+          "href": "/component/2SD718R"
+        },
+        {
+          "id": "2SD72",
+          "name": "2SD72",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717O",
+          "manufacturer": "Various",
+          "href": "/component/2SD72"
+        },
+        {
+          "id": "2SD720",
+          "name": "2SD720",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717O",
+          "manufacturer": "Various",
+          "href": "/component/2SD720"
+        },
+        {
+          "id": "2SD721",
+          "name": "2SD721",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717O",
+          "manufacturer": "Various",
+          "href": "/component/2SD721"
+        },
+        {
+          "id": "2SD722",
+          "name": "2SD722",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717O",
+          "manufacturer": "Various",
+          "href": "/component/2SD722"
+        }
+      ],
+      "href": "/component/2SD717O"
+    }
+  ]
+}

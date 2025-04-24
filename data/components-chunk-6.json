@@ -1,0 +1,2878 @@
+{
+  "components": [
+    {
+      "id": "A1015",
+      "name": "A1015",
+      "type": "PNP Transistor",
+      "description": "OT23 \n- BJT Cross-Reference Search\nA1015 Datasheet (PDF)\n..1. Size:443K secos\na1015.pdf \nA1015 -0.15A , -50V PNP Plastic-Encapsulated Transistor Elektronische Bauelemente RoHS Compliant Product A suffix of -C specifies halogen & lead-free TO-92 FEATURES Power Dissipation G H1Emitter 1112Collector 222J3Base 333CLASSIFICATION OF hFE A DMillimeter Product-Rank A1015-O A1015-Y A1015-GR REF. BMin. Max. A 4.40 4.70 Rang\n..2. Size:136K jiangsu\na1015.pdf \nJIANGSU CHANGJIANG ELECTRONICS TECHNOLOGY CO., LTD SOT-23 Plastic-Encapsulate Transistors A1015 TRANSISTOR (PNP) SOT-23 FEATURES High voltage and high current Excellent hFE Linearity 1. BASE Low niose 2. EMITTER Complementary to C1815 3. COLLECTOR MARKING: BA MAXIMUM RATINGS (Ta=25 unless otherwise noted) Symbol Parameter Value UnitVCBO Collector-Ba\n..3. Size:337K htsemi\na1015.pdf \nA1015TRANSISTOR (PNP) SOT-23 FEATURES High voltage and high current Excellent hFE Linearity 1. BASE Low niose 2. EMITTER Complementary to C1815 3. COLLECTOR MARKING: BA MAXIMUM RATINGS (TA=25 unless otherwise noted) Symbol Parameter Value UnitsVCBO Collector-Base Voltage -50 V VCEO Collector-Emitter Voltage -50 V VEBO Emitter-Base Voltage -5 V IC Co\n..4. Size:192K lge\na1015 to-92.pdf \nA1015Transistor(PNP)TO-921.EMITTER 2.COLLECTOR 3.BASE Features Power dissipation MAXIMUM RATINGS (TA=25 unless otherwise noted) Symbol Parameter Value UnitsVCBO Collector-Base Voltage -50 V VCEO Collector-Emitter Voltage -50 V Dimensions in inches and (millimeters)VEBO Emitter-Base Voltage -5 V IC Collector Current -Continuous -150 mA PD Collector Power Dissip\nDatasheet: 2SD0602A , 2SD2098 , 2SD2114 , 2SD2142 , 2SD2150 , 2SD2413 , 2SD965A , 3DK2222A , MPSA42 , A42 , A44 , A733 , A92 , A94 , B772 , C1815 , C945 . \nHistory: TIP3055 | 2N3904 \nKeywords - A1015 transistor datasheet\nA1015 cross reference\nA1015 equivalent finder\nA1015 lookup\nA1015 substitution\nA1015 replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "SOT23",
+      "maxCollectorCurrent": 0.15,
+      "maxCollectorEmitterVoltage": 50,
+      "maxCollectorBaseVoltage": 50,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.2,
+      "maxJunctionTemperature": 125,
+      "transitionFrequency": 80,
+      "hFE": 130,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "SOT23",
+        "Collector Power Dissipation": "0.2W",
+        "Collector-Base Voltage": "50V",
+        "Collector-Emitter Voltage": "50V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.15A",
+        "Current Gain (hFE)": "130",
+        "Junction Temperature": "125°C",
+        "Transition Frequency": "80MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "secos (443K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=a1015.pdf&dire=_secos"
+        },
+        {
+          "name": "jiangsu (136K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=a1015.pdf&dire=_jiangsu"
+        },
+        {
+          "name": "htsemi (337K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=a1015.pdf&dire=_htsemi"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD0602A",
+          "name": "2SD0602A",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for A1015",
+          "manufacturer": "Various",
+          "href": "/component/2SD0602A"
+        },
+        {
+          "id": "2SD2098",
+          "name": "2SD2098",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for A1015",
+          "manufacturer": "Various",
+          "href": "/component/2SD2098"
+        },
+        {
+          "id": "2SD2114",
+          "name": "2SD2114",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for A1015",
+          "manufacturer": "Various",
+          "href": "/component/2SD2114"
+        },
+        {
+          "id": "2SD2142",
+          "name": "2SD2142",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for A1015",
+          "manufacturer": "Various",
+          "href": "/component/2SD2142"
+        },
+        {
+          "id": "2SD2150",
+          "name": "2SD2150",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for A1015",
+          "manufacturer": "Various",
+          "href": "/component/2SD2150"
+        },
+        {
+          "id": "2SD2413",
+          "name": "2SD2413",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for A1015",
+          "manufacturer": "Various",
+          "href": "/component/2SD2413"
+        },
+        {
+          "id": "2SD965A",
+          "name": "2SD965A",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for A1015",
+          "manufacturer": "Various",
+          "href": "/component/2SD965A"
+        },
+        {
+          "id": "3DK2222A",
+          "name": "3DK2222A",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for A1015",
+          "manufacturer": "Various",
+          "href": "/component/3DK2222A"
+        },
+        {
+          "id": "MPSA42",
+          "name": "MPSA42",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for A1015",
+          "manufacturer": "Various",
+          "href": "/component/MPSA42"
+        }
+      ],
+      "href": "/component/A1015"
+    },
+    {
+      "id": "BD140",
+      "name": "BD140",
+      "type": "PNP Transistor",
+      "description": "Low voltage (max. 80 V).1 emitter2 collector, connected to met\n..3. Size:141K st",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TO126",
+      "maxCollectorCurrent": 1,
+      "maxCollectorEmitterVoltage": 80,
+      "maxCollectorBaseVoltage": 80,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 12,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 50,
+      "hFE": 40,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TO126",
+        "Collector Power Dissipation": "12W",
+        "Collector-Base Voltage": "80V",
+        "Collector-Emitter Voltage": "80V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "1A",
+        "Current Gain (hFE)": "40",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "50MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [],
+      "equivalents": [
+        {
+          "id": "TIP122",
+          "name": "TIP122",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BD140",
+          "manufacturer": "Various",
+          "href": "/component/TIP122"
+        }
+      ],
+      "href": "/component/BD140"
+    },
+    {
+      "id": "SGT40N60NPFDPN",
+      "name": "SGT40N60NPFDPN",
+      "type": "Transistor",
+      "description": "O3P \nSGT40N60NPFDPN substitution\n- IGBT ⓘ Cross-Reference\nSGT40N60NPFDPN Datasheet (PDF)\n..1. Size:293K silan\nsgt40n60npfdpn.pdf \nSGT40N60NPFDPN 40A600V C 2SGT40N60NPFDPN Field Stop1G UPSSMPS PFC 3 E 40A600V\n6.1. Size:260K silan\nsgt40n60fd1p7.pdf \nSGT40N60FD1P7 40A, 600V C 2SGT40N60FD1P7 1G UPSSMPS PFC 3E 40A, 600V, VCE(sat) =1.8V@IC=40A \n6.2. Size:273K silan\nsgt40n60f2p7.pdf \nSGT40N60F2P7 40A, 600V C2SGT40N60F2P7 1Field Stop IIG UPSSMPS PFC 3E 4\nDatasheet: SGM75HF12A1TFDT4 , SGM75HF12A1TLD , SGT15T60QD1F , SGT20T60SDM1P7 , SGT25T120FD1P7 , SGT25U120FD1P7 , SGT40N60FD2PN , SGT40N60FD2P7 , IXGH60N60 , SGT50T65FD1PN , SGT50T65FD1P7 , SGT50T65FD1PS , SGT50T65FD1PT , SGTP5T60SD1D , SGTP5T60SD1F , SGTP5T60SD1S , AU40N120T3A2 . \nHistory: SGT50T65FD1PT | FGPF4536 \nKeywords - SGT40N60NPFDPN transistor datasheet\nSGT40N60NPFDPN cross reference\nSGT40N60NPFDPN equivalent finder\nSGT40N60NPFDPN lookup\nSGT40N60NPFDPN substitution\nSGT40N60NPFDPN replacement",
+      "manufacturer": "Various",
+      "polarity": "",
+      "material": "",
+      "package": "TO3P",
+      "specs": {
+        "Polarity": "",
+        "Material": "",
+        "Package": "TO3P",
+        "Collector Power Dissipation": "N/A",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "N/A",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "N/A",
+        "Current Gain (hFE)": "N/A",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "silan (293K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=sgt40n60npfdpn.pdf&dire=_silan"
+        },
+        {
+          "name": "silan (260K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=sgt40n60fd1p7.pdf&dire=_silan"
+        },
+        {
+          "name": "silan (273K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=sgt40n60f2p7.pdf&dire=_silan"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "SGM75HF12A1TFDT4",
+          "name": "SGM75HF12A1TFDT4",
+          "type": "Transistor",
+          "description": "Potential equivalent for SGT40N60NPFDPN",
+          "manufacturer": "Various",
+          "href": "/component/SGM75HF12A1TFDT4"
+        },
+        {
+          "id": "SGM75HF12A1TLD",
+          "name": "SGM75HF12A1TLD",
+          "type": "Transistor",
+          "description": "Potential equivalent for SGT40N60NPFDPN",
+          "manufacturer": "Various",
+          "href": "/component/SGM75HF12A1TLD"
+        },
+        {
+          "id": "SGT15T60QD1F",
+          "name": "SGT15T60QD1F",
+          "type": "Transistor",
+          "description": "Potential equivalent for SGT40N60NPFDPN",
+          "manufacturer": "Various",
+          "href": "/component/SGT15T60QD1F"
+        },
+        {
+          "id": "SGT20T60SDM1P7",
+          "name": "SGT20T60SDM1P7",
+          "type": "Transistor",
+          "description": "Potential equivalent for SGT40N60NPFDPN",
+          "manufacturer": "Various",
+          "href": "/component/SGT20T60SDM1P7"
+        },
+        {
+          "id": "SGT25T120FD1P7",
+          "name": "SGT25T120FD1P7",
+          "type": "Transistor",
+          "description": "Potential equivalent for SGT40N60NPFDPN",
+          "manufacturer": "Various",
+          "href": "/component/SGT25T120FD1P7"
+        },
+        {
+          "id": "SGT25U120FD1P7",
+          "name": "SGT25U120FD1P7",
+          "type": "Transistor",
+          "description": "Potential equivalent for SGT40N60NPFDPN",
+          "manufacturer": "Various",
+          "href": "/component/SGT25U120FD1P7"
+        },
+        {
+          "id": "SGT40N60FD2PN",
+          "name": "SGT40N60FD2PN",
+          "type": "Transistor",
+          "description": "Potential equivalent for SGT40N60NPFDPN",
+          "manufacturer": "Various",
+          "href": "/component/SGT40N60FD2PN"
+        },
+        {
+          "id": "SGT40N60FD2P7",
+          "name": "SGT40N60FD2P7",
+          "type": "Transistor",
+          "description": "Potential equivalent for SGT40N60NPFDPN",
+          "manufacturer": "Various",
+          "href": "/component/SGT40N60FD2P7"
+        },
+        {
+          "id": "IXGH60N60",
+          "name": "IXGH60N60",
+          "type": "Transistor",
+          "description": "Potential equivalent for SGT40N60NPFDPN",
+          "manufacturer": "Various",
+          "href": "/component/IXGH60N60"
+        },
+        {
+          "id": "SGT50T65FD1PN",
+          "name": "SGT50T65FD1PN",
+          "type": "Transistor",
+          "description": "Potential equivalent for SGT40N60NPFDPN",
+          "manufacturer": "Various",
+          "href": "/component/SGT50T65FD1PN"
+        },
+        {
+          "id": "SGT50T65FD1P7",
+          "name": "SGT50T65FD1P7",
+          "type": "Transistor",
+          "description": "Potential equivalent for SGT40N60NPFDPN",
+          "manufacturer": "Various",
+          "href": "/component/SGT50T65FD1P7"
+        },
+        {
+          "id": "SGT50T65FD1PS",
+          "name": "SGT50T65FD1PS",
+          "type": "Transistor",
+          "description": "Potential equivalent for SGT40N60NPFDPN",
+          "manufacturer": "Various",
+          "href": "/component/SGT50T65FD1PS"
+        },
+        {
+          "id": "SGT50T65FD1PT",
+          "name": "SGT50T65FD1PT",
+          "type": "Transistor",
+          "description": "Potential equivalent for SGT40N60NPFDPN",
+          "manufacturer": "Various",
+          "href": "/component/SGT50T65FD1PT"
+        },
+        {
+          "id": "SGTP5T60SD1D",
+          "name": "SGTP5T60SD1D",
+          "type": "Transistor",
+          "description": "Potential equivalent for SGT40N60NPFDPN",
+          "manufacturer": "Various",
+          "href": "/component/SGTP5T60SD1D"
+        },
+        {
+          "id": "SGTP5T60SD1F",
+          "name": "SGTP5T60SD1F",
+          "type": "Transistor",
+          "description": "Potential equivalent for SGT40N60NPFDPN",
+          "manufacturer": "Various",
+          "href": "/component/SGTP5T60SD1F"
+        },
+        {
+          "id": "SGTP5T60SD1S",
+          "name": "SGTP5T60SD1S",
+          "type": "Transistor",
+          "description": "Potential equivalent for SGT40N60NPFDPN",
+          "manufacturer": "Various",
+          "href": "/component/SGTP5T60SD1S"
+        },
+        {
+          "id": "AU40N120T3A2",
+          "name": "AU40N120T3A2",
+          "type": "Transistor",
+          "description": "Potential equivalent for SGT40N60NPFDPN",
+          "manufacturer": "Various",
+          "href": "/component/AU40N120T3A2"
+        }
+      ],
+      "href": "/component/SGT40N60NPFDPN"
+    },
+    {
+      "id": "FGH60N60SMD",
+      "name": "FGH60N60SMD",
+      "type": "Transistor",
+      "description": "Maximum Junction Temperature : TJ =175oC Using Novel Field Stop IGBT Technology, Fairchilds new series of Field Stop IGBTs offer the optimum performance for Solar Positive Temperaure Co-efficient for easy parallel operatingInverter, UPS, SMPS, IH and PFC applications where low con- High c\n..2. Size:693K onsemi",
+      "manufacturer": "Various",
+      "polarity": "",
+      "material": "",
+      "package": "TO247",
+      "specs": {
+        "Polarity": "",
+        "Material": "",
+        "Package": "TO247",
+        "Collector Power Dissipation": "N/A",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "N/A",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "N/A",
+        "Current Gain (hFE)": "N/A",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "fairchild semi (391K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=fgh60n60smd.pdf&dire=_fairchild_semi"
+        },
+        {
+          "name": "onsemi (693K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=fgh60n60smd.pdf&dire=_onsemi"
+        },
+        {
+          "name": "fairchild semi (756K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=fgh60n60sfd.pdf&dire=_fairchild_semi"
+        },
+        {
+          "name": "fairchild semi (647K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=fgh60n60sf.pdf&dire=_fairchild_semi"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "FGH40N60SMD",
+          "name": "FGH40N60SMD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGH60N60SMD",
+          "manufacturer": "Various",
+          "href": "/component/FGH40N60SMD"
+        },
+        {
+          "id": "FGH40N60SMDF",
+          "name": "FGH40N60SMDF",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGH60N60SMD",
+          "manufacturer": "Various",
+          "href": "/component/FGH40N60SMDF"
+        },
+        {
+          "id": "FGH40N60UF",
+          "name": "FGH40N60UF",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGH60N60SMD",
+          "manufacturer": "Various",
+          "href": "/component/FGH40N60UF"
+        },
+        {
+          "id": "FGH40N60UFD",
+          "name": "FGH40N60UFD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGH60N60SMD",
+          "manufacturer": "Various",
+          "href": "/component/FGH40N60UFD"
+        },
+        {
+          "id": "FGH40N65UFD",
+          "name": "FGH40N65UFD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGH60N60SMD",
+          "manufacturer": "Various",
+          "href": "/component/FGH40N65UFD"
+        },
+        {
+          "id": "FGH50N3",
+          "name": "FGH50N3",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGH60N60SMD",
+          "manufacturer": "Various",
+          "href": "/component/FGH50N3"
+        },
+        {
+          "id": "FGH60N60SF",
+          "name": "FGH60N60SF",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGH60N60SMD",
+          "manufacturer": "Various",
+          "href": "/component/FGH60N60SF"
+        },
+        {
+          "id": "FGH60N60SFD",
+          "name": "FGH60N60SFD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGH60N60SMD",
+          "manufacturer": "Various",
+          "href": "/component/FGH60N60SFD"
+        },
+        {
+          "id": "GT30J124",
+          "name": "GT30J124",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGH60N60SMD",
+          "manufacturer": "Various",
+          "href": "/component/GT30J124"
+        },
+        {
+          "id": "FGH60N60UFD",
+          "name": "FGH60N60UFD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGH60N60SMD",
+          "manufacturer": "Various",
+          "href": "/component/FGH60N60UFD"
+        },
+        {
+          "id": "FGH75N60UF",
+          "name": "FGH75N60UF",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGH60N60SMD",
+          "manufacturer": "Various",
+          "href": "/component/FGH75N60UF"
+        },
+        {
+          "id": "FGH80N60FD",
+          "name": "FGH80N60FD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGH60N60SMD",
+          "manufacturer": "Various",
+          "href": "/component/FGH80N60FD"
+        },
+        {
+          "id": "FGH80N60FD2",
+          "name": "FGH80N60FD2",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGH60N60SMD",
+          "manufacturer": "Various",
+          "href": "/component/FGH80N60FD2"
+        },
+        {
+          "id": "FGL35N120FTD",
+          "name": "FGL35N120FTD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGH60N60SMD",
+          "manufacturer": "Various",
+          "href": "/component/FGL35N120FTD"
+        },
+        {
+          "id": "FGL60N100BNTD",
+          "name": "FGL60N100BNTD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGH60N60SMD",
+          "manufacturer": "Various",
+          "href": "/component/FGL60N100BNTD"
+        },
+        {
+          "id": "FGP20N60UFD",
+          "name": "FGP20N60UFD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGH60N60SMD",
+          "manufacturer": "Various",
+          "href": "/component/FGP20N60UFD"
+        },
+        {
+          "id": "FGP5N60LS",
+          "name": "FGP5N60LS",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGH60N60SMD",
+          "manufacturer": "Various",
+          "href": "/component/FGP5N60LS"
+        }
+      ],
+      "href": "/component/FGH60N60SMD"
+    },
+    {
+      "id": "RJP30E2DPP-M0",
+      "name": "RJP30E2DPP-M0",
+      "type": "Transistor",
+      "description": "O220F \nRJP30E2DPP-M0 substitution\n- IGBT ⓘ Cross-Reference\nRJP30E2DPP-M0 Datasheet (PDF)\n..1. Size:149K renesas\nrjp30e2dpp-m0.pdf \nPreliminary Datasheet RJP30E2DPP-M0 R07DS0347EJ0200Silicon N Channel IGBT Rev.2.00High Speed Power Switching Apr 12, 2011Features Trench gate technology (G5H series) Low collector to emitter saturation voltage VCE(sat) = 1.7 V typ High speed switching tf = 150 ns typ Low leak current ICES = 1 A max Isolated package TO-220FL Outline RENESAS Pack\n4.1. Size:152K renesas\nrjp30e2dpp rjh30e2 equivalent no diode.pdf \nPreliminary Datasheet RJP30E2DPP-M0 R07DS0347EJ0200Silicon N Channel IGBT Rev.2.00High Speed Power Switching Apr 12, 2011Features Trench gate technology (G5H series) Low collector to emitter saturation voltage VCE(sat) = 1.7 V typ High speed switching tf = 150 ns typ Low leak current ICES = 1 A max Isolated package TO-220FL Outline RENESAS Pack\n4.2. Size:152K renesas\nr07ds0347ej rjp30e2dpp.pdf \nPreliminary Datasheet RJP30E2DPP-M0 R07DS0347EJ0200Silicon N Channel IGBT Rev.2.00High Speed Power Switching Apr 12, 2011Features Trench gate technology (G5H series) Low collector to emitter saturation voltage VCE(sat) = 1.7 V typ High speed switching tf = 150 ns typ Low leak current ICES = 1 A max Isolated package TO-220FL Outline RENESAS Pack\n8.1. Size:190K renesas\nr07ds0353ej rjp30e3dpp.pdf \nPreliminary Datasheet RJP30E3DPP-M0 R07DS0353EJ0200Silicon N Channel IGBT Rev.2.00High Speed Power Switching Apr 15, 2011Features Trench gate technology (G5H series) Low collector to emitter saturation voltage VCE(sat) = 1.6 V typ High speed switching tf = 150 ns typ Low leak current ICES = 1 A max Isolated package TO-220FL Outline RENESAS Pack\nDatasheet: RJH60M2DPP-M0 , RJH60M3DPE , RJH60M3DPP-M0 , RJH60M3DPQ-A0 , RJH60M5DPQ-A0 , RJH60M6DPQ-A0 , RJH60M7DPQ-A0 , RJH60T4DPQ-A0 , GT30F125 , RJP30E3DPP-M0 , RJP30H1DPD , RJP30H1DPP-M0 , RJP30H2DPK-M0 , RJP30K3DPP-M0 , RJP6065DPM , RJP60D0DPE , RJP60D0DPP-M0 . \nHistory: SGT50T65FD1PT | FGPF4536 \nKeywords - RJP30E2DPP-M0 transistor datasheet\nRJP30E2DPP-M0 cross reference\nRJP30E2DPP-M0 equivalent finder\nRJP30E2DPP-M0 lookup\nRJP30E2DPP-M0 substitution\nRJP30E2DPP-M0 replacement",
+      "manufacturer": "Various",
+      "polarity": "",
+      "material": "",
+      "package": "TO220F",
+      "specs": {
+        "Polarity": "",
+        "Material": "",
+        "Package": "TO220F",
+        "Collector Power Dissipation": "N/A",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "N/A",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "N/A",
+        "Current Gain (hFE)": "N/A",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "renesas (149K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=rjp30e2dpp-m0.pdf&dire=_renesas"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "RJH60M2DPP",
+          "name": "RJH60M2DPP",
+          "type": "Transistor",
+          "description": "Potential equivalent for RJP30E2DPP-M0",
+          "manufacturer": "Various",
+          "href": "/component/RJH60M2DPP"
+        },
+        {
+          "id": "RJH60M3DPE",
+          "name": "RJH60M3DPE",
+          "type": "Transistor",
+          "description": "Potential equivalent for RJP30E2DPP-M0",
+          "manufacturer": "Various",
+          "href": "/component/RJH60M3DPE"
+        },
+        {
+          "id": "RJH60M3DPP",
+          "name": "RJH60M3DPP",
+          "type": "Transistor",
+          "description": "Potential equivalent for RJP30E2DPP-M0",
+          "manufacturer": "Various",
+          "href": "/component/RJH60M3DPP"
+        },
+        {
+          "id": "RJH60M3DPQ",
+          "name": "RJH60M3DPQ",
+          "type": "Transistor",
+          "description": "Potential equivalent for RJP30E2DPP-M0",
+          "manufacturer": "Various",
+          "href": "/component/RJH60M3DPQ"
+        },
+        {
+          "id": "RJH60M5DPQ",
+          "name": "RJH60M5DPQ",
+          "type": "Transistor",
+          "description": "Potential equivalent for RJP30E2DPP-M0",
+          "manufacturer": "Various",
+          "href": "/component/RJH60M5DPQ"
+        },
+        {
+          "id": "RJH60M6DPQ",
+          "name": "RJH60M6DPQ",
+          "type": "Transistor",
+          "description": "Potential equivalent for RJP30E2DPP-M0",
+          "manufacturer": "Various",
+          "href": "/component/RJH60M6DPQ"
+        },
+        {
+          "id": "RJH60M7DPQ",
+          "name": "RJH60M7DPQ",
+          "type": "Transistor",
+          "description": "Potential equivalent for RJP30E2DPP-M0",
+          "manufacturer": "Various",
+          "href": "/component/RJH60M7DPQ"
+        },
+        {
+          "id": "RJH60T4DPQ",
+          "name": "RJH60T4DPQ",
+          "type": "Transistor",
+          "description": "Potential equivalent for RJP30E2DPP-M0",
+          "manufacturer": "Various",
+          "href": "/component/RJH60T4DPQ"
+        },
+        {
+          "id": "GT30F125",
+          "name": "GT30F125",
+          "type": "Transistor",
+          "description": "Potential equivalent for RJP30E2DPP-M0",
+          "manufacturer": "Various",
+          "href": "/component/GT30F125"
+        },
+        {
+          "id": "RJP30E3DPP",
+          "name": "RJP30E3DPP",
+          "type": "Transistor",
+          "description": "Potential equivalent for RJP30E2DPP-M0",
+          "manufacturer": "Various",
+          "href": "/component/RJP30E3DPP"
+        },
+        {
+          "id": "RJP30H1DPD",
+          "name": "RJP30H1DPD",
+          "type": "Transistor",
+          "description": "Potential equivalent for RJP30E2DPP-M0",
+          "manufacturer": "Various",
+          "href": "/component/RJP30H1DPD"
+        },
+        {
+          "id": "RJP30H1DPP",
+          "name": "RJP30H1DPP",
+          "type": "Transistor",
+          "description": "Potential equivalent for RJP30E2DPP-M0",
+          "manufacturer": "Various",
+          "href": "/component/RJP30H1DPP"
+        },
+        {
+          "id": "RJP30H2DPK",
+          "name": "RJP30H2DPK",
+          "type": "Transistor",
+          "description": "Potential equivalent for RJP30E2DPP-M0",
+          "manufacturer": "Various",
+          "href": "/component/RJP30H2DPK"
+        },
+        {
+          "id": "RJP30K3DPP",
+          "name": "RJP30K3DPP",
+          "type": "Transistor",
+          "description": "Potential equivalent for RJP30E2DPP-M0",
+          "manufacturer": "Various",
+          "href": "/component/RJP30K3DPP"
+        },
+        {
+          "id": "RJP6065DPM",
+          "name": "RJP6065DPM",
+          "type": "Transistor",
+          "description": "Potential equivalent for RJP30E2DPP-M0",
+          "manufacturer": "Various",
+          "href": "/component/RJP6065DPM"
+        },
+        {
+          "id": "RJP60D0DPE",
+          "name": "RJP60D0DPE",
+          "type": "Transistor",
+          "description": "Potential equivalent for RJP30E2DPP-M0",
+          "manufacturer": "Various",
+          "href": "/component/RJP60D0DPE"
+        },
+        {
+          "id": "RJP60D0DPP",
+          "name": "RJP60D0DPP",
+          "type": "Transistor",
+          "description": "Potential equivalent for RJP30E2DPP-M0",
+          "manufacturer": "Various",
+          "href": "/component/RJP60D0DPP"
+        }
+      ],
+      "href": "/component/RJP30E2DPP-M0"
+    },
+    {
+      "id": "IRF630",
+      "name": "IRF630",
+      "type": "Transistor",
+      "description": "O220 \n- MOSFET Cross-Reference Search\nIRF630 Datasheet (PDF)\n..3. Size:1372K international rectifier\nirf630pbf.pdf \nPD- 95916IRF630PbF Lead-Free9/27/04Document Number: 91031 www.vishay.com1IRF630PbFDocument Number: 91031 www.vishay.com2IRF630PbFDocument Number: 91031 www.vishay.com3IRF630PbFDocument Number: 91031 www.vishay.com4IRF630PbFDocument Number: 91031 www.vishay.com5IRF630PbFDocument Number: 91031 www.vishay.com6IRF630PbFPeak Diode Recovery dv/dt T\n..4. Size:99K philips\nirf630 s 1.pdf \nPhilips Semiconductors Product specification N-channel TrenchMOS transistor IRF630, IRF630S FEATURES SYMBOL QUICK REFERENCE DATA Trench technology d Low on-state resistance VDSS = 200 V Fast switching Low thermal resistance ID = 9 AgRDS(ON) 400 msGENERAL DESCRIPTIONN-channel, enhancement mode field-effect power transistor using Trench technology\nDatasheet: IRF6215L , IRF6215S , IRF622 , IRF623 , IRF624 , IRF624A , IRF624S , IRF625 , IRFZ24N , IRF630A , IRF630FI , IRF630S , IRF631 , IRF632 , IRF633 , IRF634 , IRF634A . \nKeywords - IRF630 MOSFET datasheet\nIRF630 cross reference\nIRF630 equivalent finder\nIRF630 lookup\nIRF630 substitution\nIRF630 replacement",
+      "manufacturer": "Various",
+      "polarity": "",
+      "material": "",
+      "package": "TO220",
+      "specs": {
+        "Polarity": "",
+        "Material": "",
+        "Package": "TO220",
+        "Collector Power Dissipation": "N/A",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "N/A",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "N/A",
+        "Current Gain (hFE)": "N/A",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "international rectifier (1372K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=irf630pbf.pdf&dire=_international_rectifier"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "IRF6215L",
+          "name": "IRF6215L",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF630",
+          "manufacturer": "Various",
+          "href": "/component/IRF6215L"
+        },
+        {
+          "id": "IRF6215S",
+          "name": "IRF6215S",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF630",
+          "manufacturer": "Various",
+          "href": "/component/IRF6215S"
+        },
+        {
+          "id": "IRF622",
+          "name": "IRF622",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF630",
+          "manufacturer": "Various",
+          "href": "/component/IRF622"
+        },
+        {
+          "id": "IRF623",
+          "name": "IRF623",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF630",
+          "manufacturer": "Various",
+          "href": "/component/IRF623"
+        },
+        {
+          "id": "IRF624",
+          "name": "IRF624",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF630",
+          "manufacturer": "Various",
+          "href": "/component/IRF624"
+        },
+        {
+          "id": "IRF624A",
+          "name": "IRF624A",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF630",
+          "manufacturer": "Various",
+          "href": "/component/IRF624A"
+        },
+        {
+          "id": "IRF624S",
+          "name": "IRF624S",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF630",
+          "manufacturer": "Various",
+          "href": "/component/IRF624S"
+        },
+        {
+          "id": "IRF625",
+          "name": "IRF625",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF630",
+          "manufacturer": "Various",
+          "href": "/component/IRF625"
+        },
+        {
+          "id": "IRFZ24N",
+          "name": "IRFZ24N",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF630",
+          "manufacturer": "Various",
+          "href": "/component/IRFZ24N"
+        },
+        {
+          "id": "IRF630A",
+          "name": "IRF630A",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF630",
+          "manufacturer": "Various",
+          "href": "/component/IRF630A"
+        },
+        {
+          "id": "IRF630FI",
+          "name": "IRF630FI",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF630",
+          "manufacturer": "Various",
+          "href": "/component/IRF630FI"
+        },
+        {
+          "id": "IRF630S",
+          "name": "IRF630S",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF630",
+          "manufacturer": "Various",
+          "href": "/component/IRF630S"
+        },
+        {
+          "id": "IRF631",
+          "name": "IRF631",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF630",
+          "manufacturer": "Various",
+          "href": "/component/IRF631"
+        },
+        {
+          "id": "IRF632",
+          "name": "IRF632",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF630",
+          "manufacturer": "Various",
+          "href": "/component/IRF632"
+        },
+        {
+          "id": "IRF633",
+          "name": "IRF633",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF630",
+          "manufacturer": "Various",
+          "href": "/component/IRF633"
+        },
+        {
+          "id": "IRF634",
+          "name": "IRF634",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF630",
+          "manufacturer": "Various",
+          "href": "/component/IRF634"
+        },
+        {
+          "id": "IRF634A",
+          "name": "IRF634A",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF630",
+          "manufacturer": "Various",
+          "href": "/component/IRF634A"
+        }
+      ],
+      "href": "/component/IRF630"
+    },
+    {
+      "id": "IRFB4227",
+      "name": "IRFB4227",
+      "type": "Transistor",
+      "description": "O220AB \n- MOSFET Cross-Reference Search\nIRFB4227 Datasheet (PDF)\n..1. Size:284K international rectifier\nirfb4227pbf.pdf \nPD - 97035DIRFB4227PbFFeaturesKey Parametersl Advanced Process TechnologyVDS max 200 Vl Key Parameters Optimized for PDP Sustain, Energy Recovery and Pass Switch ApplicationsVDS (Avalanche) typ. 240 Vl Low EPULSE Rating to Reduce PowermRDS(ON) typ. @ 10V 19.7 Dissipation in PDP Sustain, Energy RecoveryIRP max @ TC= 100C 130 A and Pass Switch ApplicationsTJ max 17\n..2. Size:244K inchange semiconductor\nirfb4227.pdf \nisc N-Channel MOSFET Transistor IRFB4227IIRFB4227FEATURESStatic drain-source on-resistance:RDS(on) 24mEnhancement modeFast Switching Speed100% avalanche testedMinimum Lot-to-Lot variations for robust deviceperformance and reliable operationDESCRITION175 operating junction temperature and high repetitive peakcurrent capabilityABSOLUTE MAXIMUM\n7.1. Size:292K international rectifier\nirfb4229pbf.pdf \nPD - 97078AIRFB4229PbFFeaturesl Advanced Process TechnologyKey Parametersl Key Parameters Optimized for PDP Sustain,VDS min250 V Energy Recovery and Pass Switch ApplicationsVDS (Avalanche) typ.300 Vl Low EPULSE Rating to Reduce PowerRDS(ON) typ. @ 10V m38 Dissipation in PDP Sustain, Energy RecoveryIRP max @ TC= 100C and Pass Switch Applications 91 Al Low QG f\n7.2. Size:292K international rectifier\nirfb4228pbf.pdf \nPD - 97227AIRFB4228PbFPDP SWITCHFeaturesKey Parametersl Advanced Process TechnologyVDS min150 Vl Key Parameters Optimized for PDP Sustain,VDS (Avalanche) typ.180 V Energy Recovery and Pass Switch ApplicationsRDS(ON) typ. @ 10V ml Low EPULSE Rating to Reduce Power 12 Dissipation in PDP Sustain, Energy RecoveryIRP max @ TC= 100C170 A and Pass Switch Application\nDatasheet: IRFB4110 , IRFB4110G , IRFB4110Q , IRFB4115 , IRFB4115G , IRFB4127 , IRFB41N15D , IRFB4212 , 50N06 , IRFB4229 , IRFB4233 , IRFB42N20D , IRFB4310 , IRFB4310G , IRFB4310Z , IRFB4310ZG , IRFB4321 . \nKeywords - IRFB4227 MOSFET datasheet\nIRFB4227 cross reference\nIRFB4227 equivalent finder\nIRFB4227 lookup\nIRFB4227 substitution\nIRFB4227 replacement",
+      "manufacturer": "Various",
+      "polarity": "",
+      "material": "",
+      "package": "TO220AB",
+      "specs": {
+        "Polarity": "",
+        "Material": "",
+        "Package": "TO220AB",
+        "Collector Power Dissipation": "N/A",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "N/A",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "N/A",
+        "Current Gain (hFE)": "N/A",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "international rectifier (284K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=irfb4227pbf.pdf&dire=_international_rectifier"
+        },
+        {
+          "name": "inchange semiconductor (244K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=irfb4227.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "international rectifier (292K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=irfb4229pbf.pdf&dire=_international_rectifier"
+        },
+        {
+          "name": "international rectifier (292K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=irfb4228pbf.pdf&dire=_international_rectifier"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "IRFB4110",
+          "name": "IRFB4110",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFB4227",
+          "manufacturer": "Various",
+          "href": "/component/IRFB4110"
+        },
+        {
+          "id": "IRFB4110G",
+          "name": "IRFB4110G",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFB4227",
+          "manufacturer": "Various",
+          "href": "/component/IRFB4110G"
+        },
+        {
+          "id": "IRFB4110Q",
+          "name": "IRFB4110Q",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFB4227",
+          "manufacturer": "Various",
+          "href": "/component/IRFB4110Q"
+        },
+        {
+          "id": "IRFB4115",
+          "name": "IRFB4115",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFB4227",
+          "manufacturer": "Various",
+          "href": "/component/IRFB4115"
+        },
+        {
+          "id": "IRFB4115G",
+          "name": "IRFB4115G",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFB4227",
+          "manufacturer": "Various",
+          "href": "/component/IRFB4115G"
+        },
+        {
+          "id": "IRFB4127",
+          "name": "IRFB4127",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFB4227",
+          "manufacturer": "Various",
+          "href": "/component/IRFB4127"
+        },
+        {
+          "id": "IRFB41N15D",
+          "name": "IRFB41N15D",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFB4227",
+          "manufacturer": "Various",
+          "href": "/component/IRFB41N15D"
+        },
+        {
+          "id": "IRFB4212",
+          "name": "IRFB4212",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFB4227",
+          "manufacturer": "Various",
+          "href": "/component/IRFB4212"
+        },
+        {
+          "id": "50N06",
+          "name": "50N06",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFB4227",
+          "manufacturer": "Various",
+          "href": "/component/50N06"
+        },
+        {
+          "id": "IRFB4229",
+          "name": "IRFB4229",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFB4227",
+          "manufacturer": "Various",
+          "href": "/component/IRFB4229"
+        },
+        {
+          "id": "IRFB4233",
+          "name": "IRFB4233",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFB4227",
+          "manufacturer": "Various",
+          "href": "/component/IRFB4233"
+        },
+        {
+          "id": "IRFB42N20D",
+          "name": "IRFB42N20D",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFB4227",
+          "manufacturer": "Various",
+          "href": "/component/IRFB42N20D"
+        },
+        {
+          "id": "IRFB4310",
+          "name": "IRFB4310",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFB4227",
+          "manufacturer": "Various",
+          "href": "/component/IRFB4310"
+        },
+        {
+          "id": "IRFB4310G",
+          "name": "IRFB4310G",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFB4227",
+          "manufacturer": "Various",
+          "href": "/component/IRFB4310G"
+        },
+        {
+          "id": "IRFB4310Z",
+          "name": "IRFB4310Z",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFB4227",
+          "manufacturer": "Various",
+          "href": "/component/IRFB4310Z"
+        },
+        {
+          "id": "IRFB4310ZG",
+          "name": "IRFB4310ZG",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFB4227",
+          "manufacturer": "Various",
+          "href": "/component/IRFB4310ZG"
+        },
+        {
+          "id": "IRFB4321",
+          "name": "IRFB4321",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFB4227",
+          "manufacturer": "Various",
+          "href": "/component/IRFB4321"
+        }
+      ],
+      "href": "/component/IRFB4227"
+    },
+    {
+      "id": "TIP122",
+      "name": "TIP122",
+      "type": "NPN Transistor",
+      "description": "The TIP120, TIP121 and TIP122 are siliconEpitaxial-Base NPN power transistors inmonolithic Darlington configuration mounted inJedec TO-220 plastic package. They are intentedfor use in power linear and switching applications.32The complement\n..2. Size:45K fairchild semi",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO220",
+      "maxCollectorCurrent": 5,
+      "maxCollectorEmitterVoltage": 100,
+      "maxCollectorBaseVoltage": 100,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 65,
+      "maxJunctionTemperature": 150,
+      "hFE": 1000,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO220",
+        "Collector Power Dissipation": "65W",
+        "Collector-Base Voltage": "100V",
+        "Collector-Emitter Voltage": "100V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "5A",
+        "Current Gain (hFE)": "1000",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "fairchild semi (45K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=tip122.pdf&dire=_fairchild_semi"
+        },
+        {
+          "name": "mcc (408K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=tip122.pdf&dire=_mcc"
+        },
+        {
+          "name": "utc (21K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=tip122.pdf&dire=_utc"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "TIP110",
+          "name": "TIP110",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP122",
+          "manufacturer": "Various",
+          "href": "/component/TIP110"
+        },
+        {
+          "id": "TIP111",
+          "name": "TIP111",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP122",
+          "manufacturer": "Various",
+          "href": "/component/TIP111"
+        },
+        {
+          "id": "TIP112",
+          "name": "TIP112",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP122",
+          "manufacturer": "Various",
+          "href": "/component/TIP112"
+        },
+        {
+          "id": "TIP115",
+          "name": "TIP115",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP122",
+          "manufacturer": "Various",
+          "href": "/component/TIP115"
+        },
+        {
+          "id": "TIP116",
+          "name": "TIP116",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP122",
+          "manufacturer": "Various",
+          "href": "/component/TIP116"
+        },
+        {
+          "id": "TIP117",
+          "name": "TIP117",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP122",
+          "manufacturer": "Various",
+          "href": "/component/TIP117"
+        },
+        {
+          "id": "TIP120",
+          "name": "TIP120",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP122",
+          "manufacturer": "Various",
+          "href": "/component/TIP120"
+        },
+        {
+          "id": "TIP121",
+          "name": "TIP121",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP122",
+          "manufacturer": "Various",
+          "href": "/component/TIP121"
+        },
+        {
+          "id": "2SC5200",
+          "name": "2SC5200",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP122",
+          "manufacturer": "Various",
+          "href": "/component/2SC5200"
+        },
+        {
+          "id": "TIP125",
+          "name": "TIP125",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP122",
+          "manufacturer": "Various",
+          "href": "/component/TIP125"
+        },
+        {
+          "id": "TIP126",
+          "name": "TIP126",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP122",
+          "manufacturer": "Various",
+          "href": "/component/TIP126"
+        },
+        {
+          "id": "TIP127",
+          "name": "TIP127",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP122",
+          "manufacturer": "Various",
+          "href": "/component/TIP127"
+        },
+        {
+          "id": "TIP130",
+          "name": "TIP130",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP122",
+          "manufacturer": "Various",
+          "href": "/component/TIP130"
+        },
+        {
+          "id": "TIP131",
+          "name": "TIP131",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP122",
+          "manufacturer": "Various",
+          "href": "/component/TIP131"
+        },
+        {
+          "id": "TIP132",
+          "name": "TIP132",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP122",
+          "manufacturer": "Various",
+          "href": "/component/TIP132"
+        },
+        {
+          "id": "TIP135",
+          "name": "TIP135",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP122",
+          "manufacturer": "Various",
+          "href": "/component/TIP135"
+        },
+        {
+          "id": "TIP136",
+          "name": "TIP136",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP122",
+          "manufacturer": "Various",
+          "href": "/component/TIP136"
+        }
+      ],
+      "href": "/component/TIP122"
+    },
+    {
+      "id": "A1941",
+      "name": "A1941",
+      "type": "PNP Transistor",
+      "description": "SYMBOL UNITCollector Base Voltage VCBO 160 VCollector Emitter Voltage VCEO 160 VEmitter Bas\n0.1. Size:157K toshiba\n2sa1941r 2sa1941o.pdf \n2SA1941 TOSHIBA Transistor Silicon PNP Triple Diffused Type 2SA1941 Power Amplifier Applications Unit: mm High breakdown voltage: VCEO = -140 V (min) Complementary to 2SC5198 Recommended for 70-W high-fidelity audio frequency amplifier output stage. Absolute Maximum Ratings (Ta = 25C) Characteristics Symbol Rating UnitCollector-base voltage VCBO -140 VColle\n0.2. Size:157K toshiba\n2sa1941.pdf \n2SA1941 TOSHIBA Transistor Silicon PNP Triple Diffused Type 2SA1941 Power Amplifier Applications Unit: mm High breakdown voltage: VCEO = -140 V (min) Complementary to 2SC5198 Recommended for 70-W high-fidelity audio frequency amplifier output stage. Absolute Maximum Ratings (Ta = 25C) Characteristics Symbol Rating UnitCollector-base voltage VCBO -140 VColle\n0.3. Size:196K jmnic\n2sa1941.pdf",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TO-3PN",
+      "maxCollectorCurrent": 10,
+      "maxCollectorEmitterVoltage": 160,
+      "maxCollectorBaseVoltage": 160,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 100,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 30,
+      "collectorCapacitance": 480,
+      "hFE": 55,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TO-3PN",
+        "Collector Power Dissipation": "100W",
+        "Collector-Base Voltage": "160V",
+        "Collector-Emitter Voltage": "160V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "10A",
+        "Current Gain (hFE)": "55",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "30MHz",
+        "Collector Capacitance": "480pF"
+      },
+      "datasheets": [
+        {
+          "name": "toshiba (157K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sa1941.pdf&dire=_toshiba"
+        },
+        {
+          "name": "jmnic (196K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sa1941.pdf&dire=_jmnic"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "P2N2907A",
+          "name": "P2N2907A",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for A1941",
+          "manufacturer": "Various",
+          "href": "/component/P2N2907A"
+        },
+        {
+          "id": "2CF2325",
+          "name": "2CF2325",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for A1941",
+          "manufacturer": "Various",
+          "href": "/component/2CF2325"
+        },
+        {
+          "id": "NJW0281G",
+          "name": "NJW0281G",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for A1941",
+          "manufacturer": "Various",
+          "href": "/component/NJW0281G"
+        },
+        {
+          "id": "BUF508A",
+          "name": "BUF508A",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for A1941",
+          "manufacturer": "Various",
+          "href": "/component/BUF508A"
+        },
+        {
+          "id": "BUX84A",
+          "name": "BUX84A",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for A1941",
+          "manufacturer": "Various",
+          "href": "/component/BUX84A"
+        }
+      ],
+      "href": "/component/A1941"
+    },
+    {
+      "id": "IXGH60N60",
+      "name": "IXGH60N60",
+      "type": "Transistor",
+      "description": "O247 \n- IGBT ⓘ Cross-Reference\nIXGH60N60 Datasheet (PDF)\n..1. Size:94K ixys\nixgh60n60.pdf \nVCES = 600 VUltra-Low VCE(sat) IGBT IXGH 60N60IC25 = 75 AIXGK 60N60 VCE(sat) = 1.7 VIXGT 60N60Symbol Test Conditions Maximum RatingsTO-247 AD (IXGH)VCES TJ = 25C to 150C 600 VVCGR TJ = 25C to 150C; RGE = 1 MW 600 VGCVGES Continuous 20 VEVGEM Transient 30 VTO-268IC25 TC = 25C, limited by leads 75 A(IXGT)IC90 TC = 90C60 AGEICM TC = 25C, \n..2. Size:95K ixys\nixgh60n60 ixgk60n60 ixgt60n60.pdf \nVCES = 600 VUltra-Low VCE(sat) IGBT IXGH 60N60IC25 = 75 AIXGK 60N60 VCE(sat) = 1.7 VIXGT 60N60Symbol Test Conditions Maximum RatingsTO-247 AD (IXGH)VCES TJ = 25C to 150C 600 VVCGR TJ = 25C to 150C; RGE = 1 MW 600 VGCVGES Continuous 20 VEVGEM Transient 30 VTO-268IC25 TC = 25C, limited by leads 75 A(IXGT)IC90 TC = 90C60 AGEICM TC = 25C, \n0.1. Size:583K ixys\nixgh60n60c2 ixgt60n60c2.pdf \nAdvance Technical DataVCES = 600 VIXGH 60N60C2HiPerFASTTM IGBTIC25 = 75 AC2-Class High Speed IGBTs IXGT 60N60C2VCE(sat) = 2.5 Vtfi typ = 35 nsSymbol Test Conditions Maximum Ratings TO-247 AD (IXGH)VCES TJ = 25C to 150C 600 VVCGR TJ = 25C to 150C; RGE = 1 M 600 VC (TAB)VGES Continuous 20 VGCVGEM Transient 30 VETO-268IC25 TC = 25C (limited by\n0.2. Size:163K ixys\nixgh60n60c3.pdf \nGenX3TM 600V VCES = 600VIXGH60N60C3IGBT IC110 = 60A VCE(sat) 2.5V tfi (typ) = 50nsHigh Speed PT IGBT for40-100kHz SwitchingTO-247 ADSymbol Test Conditions Maximum RatingsVCES TJ = 25C to 150C 600 VVCGR TJ = 25C to 150C, RGE = 1M 600 VGVGES Continuous 20 VC TabEVGEM Transient 30 VIC25 TC = 25C (Limited by Leads) 75 AG \nDatasheet: IXGH40N30 , IXGH40N30S , IXGH40N30A , IXGH40N30B , IXGH40N30BD1 , IXGH41N60 , IXGH50N60A , IXGH50N60B , STGW60V60DF , IXGK120N60B , IXGK50N50BU1 , IXGK50N60AU1 , IXGK50N60B , IXGK50N60BD1 , IXGK50N60BU1 , IXGK60N60 , IXGK80N60A . \nHistory: RJP30E2DPP-M0 | SGT50T65FD1PT | FGPF4536 \nKeywords - IXGH60N60 transistor datasheet\nIXGH60N60 cross reference\nIXGH60N60 equivalent finder\nIXGH60N60 lookup\nIXGH60N60 substitution\nIXGH60N60 replacement",
+      "manufacturer": "Various",
+      "polarity": "",
+      "material": "",
+      "package": "TO247",
+      "specs": {
+        "Polarity": "",
+        "Material": "",
+        "Package": "TO247",
+        "Collector Power Dissipation": "N/A",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "N/A",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "N/A",
+        "Current Gain (hFE)": "N/A",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "ixys (94K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=ixgh60n60.pdf&dire=_ixys"
+        },
+        {
+          "name": "ixys (163K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=ixgh60n60c3.pdf&dire=_ixys"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "IXGH40N30",
+          "name": "IXGH40N30",
+          "type": "Transistor",
+          "description": "Potential equivalent for IXGH60N60",
+          "manufacturer": "Various",
+          "href": "/component/IXGH40N30"
+        },
+        {
+          "id": "IXGH40N30S",
+          "name": "IXGH40N30S",
+          "type": "Transistor",
+          "description": "Potential equivalent for IXGH60N60",
+          "manufacturer": "Various",
+          "href": "/component/IXGH40N30S"
+        },
+        {
+          "id": "IXGH40N30A",
+          "name": "IXGH40N30A",
+          "type": "Transistor",
+          "description": "Potential equivalent for IXGH60N60",
+          "manufacturer": "Various",
+          "href": "/component/IXGH40N30A"
+        },
+        {
+          "id": "IXGH40N30B",
+          "name": "IXGH40N30B",
+          "type": "Transistor",
+          "description": "Potential equivalent for IXGH60N60",
+          "manufacturer": "Various",
+          "href": "/component/IXGH40N30B"
+        },
+        {
+          "id": "IXGH40N30BD1",
+          "name": "IXGH40N30BD1",
+          "type": "Transistor",
+          "description": "Potential equivalent for IXGH60N60",
+          "manufacturer": "Various",
+          "href": "/component/IXGH40N30BD1"
+        },
+        {
+          "id": "IXGH41N60",
+          "name": "IXGH41N60",
+          "type": "Transistor",
+          "description": "Potential equivalent for IXGH60N60",
+          "manufacturer": "Various",
+          "href": "/component/IXGH41N60"
+        },
+        {
+          "id": "IXGH50N60A",
+          "name": "IXGH50N60A",
+          "type": "Transistor",
+          "description": "Potential equivalent for IXGH60N60",
+          "manufacturer": "Various",
+          "href": "/component/IXGH50N60A"
+        },
+        {
+          "id": "IXGH50N60B",
+          "name": "IXGH50N60B",
+          "type": "Transistor",
+          "description": "Potential equivalent for IXGH60N60",
+          "manufacturer": "Various",
+          "href": "/component/IXGH50N60B"
+        },
+        {
+          "id": "STGW60V60DF",
+          "name": "STGW60V60DF",
+          "type": "Transistor",
+          "description": "Potential equivalent for IXGH60N60",
+          "manufacturer": "Various",
+          "href": "/component/STGW60V60DF"
+        },
+        {
+          "id": "IXGK120N60B",
+          "name": "IXGK120N60B",
+          "type": "Transistor",
+          "description": "Potential equivalent for IXGH60N60",
+          "manufacturer": "Various",
+          "href": "/component/IXGK120N60B"
+        },
+        {
+          "id": "IXGK50N50BU1",
+          "name": "IXGK50N50BU1",
+          "type": "Transistor",
+          "description": "Potential equivalent for IXGH60N60",
+          "manufacturer": "Various",
+          "href": "/component/IXGK50N50BU1"
+        },
+        {
+          "id": "IXGK50N60AU1",
+          "name": "IXGK50N60AU1",
+          "type": "Transistor",
+          "description": "Potential equivalent for IXGH60N60",
+          "manufacturer": "Various",
+          "href": "/component/IXGK50N60AU1"
+        },
+        {
+          "id": "IXGK50N60B",
+          "name": "IXGK50N60B",
+          "type": "Transistor",
+          "description": "Potential equivalent for IXGH60N60",
+          "manufacturer": "Various",
+          "href": "/component/IXGK50N60B"
+        },
+        {
+          "id": "IXGK50N60BD1",
+          "name": "IXGK50N60BD1",
+          "type": "Transistor",
+          "description": "Potential equivalent for IXGH60N60",
+          "manufacturer": "Various",
+          "href": "/component/IXGK50N60BD1"
+        },
+        {
+          "id": "IXGK50N60BU1",
+          "name": "IXGK50N60BU1",
+          "type": "Transistor",
+          "description": "Potential equivalent for IXGH60N60",
+          "manufacturer": "Various",
+          "href": "/component/IXGK50N60BU1"
+        },
+        {
+          "id": "IXGK60N60",
+          "name": "IXGK60N60",
+          "type": "Transistor",
+          "description": "Potential equivalent for IXGH60N60",
+          "manufacturer": "Various",
+          "href": "/component/IXGK60N60"
+        },
+        {
+          "id": "IXGK80N60A",
+          "name": "IXGK80N60A",
+          "type": "Transistor",
+          "description": "Potential equivalent for IXGH60N60",
+          "manufacturer": "Various",
+          "href": "/component/IXGK80N60A"
+        }
+      ],
+      "href": "/component/IXGH60N60"
+    },
+    {
+      "id": "D882",
+      "name": "D882",
+      "type": "NPN Transistor",
+      "description": "OT89 \n- BJT Cross-Reference Search\nD882 Datasheet (PDF)\n..1. Size:271K secos\nd882.pdf \nD882NPN Type Elektronische Bauelemente Plastic Encapsulate Transistors RoHS Compliant ProductA suffix of \"-C\" specifies halogen & lead-freeTO-1263.20.28.00.22.00.24.140.1FeaturesO2.80.1 O3.20.111.00.21.40.11 2 3o MAXIMUM RATINGS* TA=25 C unless otherwise noted 1.270.1Symbol Parameter Value Units15.30.2VCBO Collector-Base Voltage \n..2. Size:695K jiangsu\nd882.pdf \nJIANGSU CHANGJIANG ELECTRONICS TECHNOLOGY CO., LTD TO-126 Plastic-Encapsulate Transistors TO-126 D882 TRANSISTOR (NPN) FEATURES 1. EMITTER Power Dissipation 2. COLLECTOR MAXIMUM RATINGS (Ta=25 unless otherwise noted) 3. BASE Symbol Parameter Value UnitVCBO Collector-Base Voltage 40 V VCEO Collector-Emitter Voltage 30 V VEBO Emitter-Base Voltage 6 V IC Collector\n..3. Size:299K htsemi\nd882.pdf \nD882 TRANSISTOR (NPN) SOT-89 FEATURES 1. BASE Power dissipation 2. COLLECTOR 1 2 3. EMITTER 3MAXIMUM RATINGS (TA=25 unless otherwise noted) Symbol Parameter Value UnitsVCBO Collector-Base Voltage 40 V VCEO Collector-Emitter Voltage 30 V VEBO Emitter-Base Voltage 6 V IC Collector Current -Continuous 3 A PC Collector Power Dissipation 0.5 W TJ Junction Te\n..4. Size:230K lge\nd882 to-251.pdf \nD882(NPN)TO-251 TransistorTO-2511. EMITTER 2. COLLECTOR 3 BASE 1 2 3 Features Power dissipation MAXIMUM RATINGS (TA=25 unless otherwise noted) Symbol Parameter Value UnitsVCBO Collector-Base Voltage 40 VDimensions in inches and (millimeters)VCEO Collector-Emitter Voltage 30 VVEBO Emitter-Base Voltage 5 VIC Collector Current -Continuous 3 A PC Collecto\nDatasheet: A44 , A733 , A92 , A94 , B772 , C1815 , C945 , CJF715 , BC547 , HM4033 , HM879 , KTA1668 , KTA2014 , KTD1898 , M28S , M8050 , M8550 . \nHistory: A1941 | A1015 | TIP3055 | 2N3904 \nKeywords - D882 transistor datasheet\nD882 cross reference\nD882 equivalent finder\nD882 lookup\nD882 substitution\nD882 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "SOT89",
+      "maxCollectorCurrent": 3,
+      "maxCollectorEmitterVoltage": 30,
+      "maxCollectorBaseVoltage": 40,
+      "maxEmitterBaseVoltage": 6,
+      "maxPowerDissipation": 0.5,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 50,
+      "hFE": 60,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "SOT89",
+        "Collector Power Dissipation": "0.5W",
+        "Collector-Base Voltage": "40V",
+        "Collector-Emitter Voltage": "30V",
+        "Emitter-Base Voltage": "6V",
+        "Collector Current": "3A",
+        "Current Gain (hFE)": "60",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "50MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "secos (271K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=d882.pdf&dire=_secos"
+        },
+        {
+          "name": "jiangsu (695K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=d882.pdf&dire=_jiangsu"
+        },
+        {
+          "name": "htsemi (299K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=d882.pdf&dire=_htsemi"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "CJF715",
+          "name": "CJF715",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for D882",
+          "manufacturer": "Various",
+          "href": "/component/CJF715"
+        },
+        {
+          "id": "KTA1668",
+          "name": "KTA1668",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for D882",
+          "manufacturer": "Various",
+          "href": "/component/KTA1668"
+        },
+        {
+          "id": "KTA2014",
+          "name": "KTA2014",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for D882",
+          "manufacturer": "Various",
+          "href": "/component/KTA2014"
+        },
+        {
+          "id": "KTD1898",
+          "name": "KTD1898",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for D882",
+          "manufacturer": "Various",
+          "href": "/component/KTD1898"
+        }
+      ],
+      "href": "/component/D882"
+    },
+    {
+      "id": "P55NF06",
+      "name": "P55NF06",
+      "type": "Transistor",
+      "description": "Thinkisemi 50N06 is three-terminal silicon device with current conduction capability of about 50A, fast switching speed. Low on-state resistance, breakdown voltage rating of 60V, and max 12threshold voltages of 4 volt. TO-\n0.1. Size:541K st",
+      "manufacturer": "Various",
+      "polarity": "",
+      "material": "",
+      "package": "TO-220",
+      "specs": {
+        "Polarity": "",
+        "Material": "",
+        "Package": "TO-220",
+        "Collector Power Dissipation": "N/A",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "N/A",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "N/A",
+        "Current Gain (hFE)": "N/A",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "st (454K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=stp55nf06l.pdf&dire=_st"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "AM35N03",
+          "name": "AM35N03",
+          "type": "Transistor",
+          "description": "Potential equivalent for P55NF06",
+          "manufacturer": "Various",
+          "href": "/component/AM35N03"
+        },
+        {
+          "id": "AM35N03",
+          "name": "AM35N03",
+          "type": "Transistor",
+          "description": "Potential equivalent for P55NF06",
+          "manufacturer": "Various",
+          "href": "/component/AM35N03"
+        }
+      ],
+      "href": "/component/P55NF06"
+    },
+    {
+      "id": "S9013",
+      "name": "S9013",
+      "type": "NPN Transistor",
+      "description": "OT23 \n- BJT Cross-Reference Search\nS9013 Datasheet (PDF)\n..2. Size:809K jiangsu\ns9013.pdf \nJIANGSU CHANGJIANG ELECTRONICS TECHNOLOGY CO., LTD J C T SOT-23 Plastic-Encapsulate Transistors S9013 TRANSISTOR (NPN) SOT23 FEATURES High Collector Current. Complementary to S9012. Excellent hFE Linearity. 1. BASE MARKING: J3 2. EMITTER 3. COLLECTOR MAXIMUM RATINGS (Ta=25 unless otherwise noted) Symbol Parameter Value UnitVCBO Collector-Base Voltage \n..3. Size:967K htsemi\ns9013.pdf \nS901 3TRANSISTOR(NPN) SOT-23 FEATURES 1. BASE Complementary to S9012 2. EMITTER Excellent hFE linearity 3. COLLECTOR MARKING: J3 MAXIMUM RATINGS (TA=25 unless otherwise noted) Symbol Parameter Value UnitsVCBO 40 VCollector-Base Voltage VCEO 25 VCollector-Emitter Voltage VEBO Emitter-Base Voltage 5 VIC Collector Current -Continuous 500 mA PC Collector Power\n..4. Size:240K gsme\ns9013.pdf \nGuilin Strong Micro-Electronics Co.,Ltd.Guilin Strong Micro-Electronics Co.,Ltd.Guilin Strong Micro-Electronics Co.,Ltd.GM9013FEATURESFEATURES FEATURESExcellent HFE Linearity HFE hFE(2)=25(Min.) at VCE=6V,Ic=400mA.Complementary to GM9012 GM9012 MAXIMUM RATINGS (Ta=25 )MAXIMUM RATIN\nDatasheet: MMBTA94 , PXT3904 , PXT3906 , PXT8050 , PXT8550 , S8050 , S8550 , S9012 , A1941 , S9013W , S9014 , S9014W , S9015 , S9015W , S9018 , S9018W , SS8550B . \nKeywords - S9013 transistor datasheet\nS9013 cross reference\nS9013 equivalent finder\nS9013 lookup\nS9013 substitution\nS9013 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "SOT23",
+      "maxCollectorCurrent": 0.5,
+      "maxCollectorEmitterVoltage": 25,
+      "maxCollectorBaseVoltage": 40,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.3,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 150,
+      "hFE": 120,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "SOT23",
+        "Collector Power Dissipation": "0.3W",
+        "Collector-Base Voltage": "40V",
+        "Collector-Emitter Voltage": "25V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.5A",
+        "Current Gain (hFE)": "120",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "150MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "jiangsu (809K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=s9013.pdf&dire=_jiangsu"
+        },
+        {
+          "name": "htsemi (967K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=s9013.pdf&dire=_htsemi"
+        },
+        {
+          "name": "gsme (240K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=s9013.pdf&dire=_gsme"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "MMBTA94",
+          "name": "MMBTA94",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for S9013",
+          "manufacturer": "Various",
+          "href": "/component/MMBTA94"
+        },
+        {
+          "id": "PXT3904",
+          "name": "PXT3904",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for S9013",
+          "manufacturer": "Various",
+          "href": "/component/PXT3904"
+        },
+        {
+          "id": "PXT3906",
+          "name": "PXT3906",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for S9013",
+          "manufacturer": "Various",
+          "href": "/component/PXT3906"
+        },
+        {
+          "id": "PXT8050",
+          "name": "PXT8050",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for S9013",
+          "manufacturer": "Various",
+          "href": "/component/PXT8050"
+        },
+        {
+          "id": "PXT8550",
+          "name": "PXT8550",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for S9013",
+          "manufacturer": "Various",
+          "href": "/component/PXT8550"
+        }
+      ],
+      "href": "/component/S9013"
+    },
+    {
+      "id": "BDW94CF",
+      "name": "BDW94CF",
+      "type": "PNP Transistor",
+      "description": "O220F \n- BJT Cross-Reference Search\nBDW94CF Datasheet (PDF)\n..1. Size:419K fairchild semi\nbdw94cf.pdf \nJuly 2005BDW94CFPNP Epitaxial Silicon TransistorPower Linear and Switching Application Power Darlington TR Complement to BDW93CF RespectivelyTO-220F11.Base 2.Collector 3.EmitterAbsolute Maximum Ratings Ta = 25C unless otherwise notedSymbol Parameter Value UnitsVCBO Collector-Base Voltage -100 VVCEO Collector-Emitter Voltage -100 VIC Collector Current (DC) -12 A\n0.1. Size:91K st\nbdw93cfp bdw94cfp.pdf \nBDW93CFPBDW94CFPCOMPLEMENTARY SILICON POWER DARLINGTON TRANSISTORS STMicroelectronics PREFERREDSALESTYPES MONOLITHIC DARLINGTONCONFIGURATION COMPLEMENTARY PNP - NPN DEVICES INTEGRATED ANTIPARALLELCOLLECTOR-EMITTER DIODE FULLY MOLDED INSULATED PACKAGE 2000 V DC INSULATION (U.L. COMPLIANT)321APPLICATIONS LINEAR AND SWITCHING INDUSTRIALT0-220FPEQUIPMENT \n0.2. Size:195K inchange semiconductor\nbdw94cfp.pdf \nINCHANGE Semiconductorisc Silicon PNP Darlington Power Transistor BDW94CFPDESCRIPTIONWith TO-220F packagingVery high DC current gainMonolithic darlington transistor with integratedantiparallel collector-emitter diodeComplement to Type BDW93CFPMinimum Lot-to-Lot variations for robust deviceperformance and reliable operationAPPLICATIONSAC-DC motor controlElec\n8.1. Size:43K fairchild semi\nbdw94c.pdf \nJanuary 2005BDW94/CPNP Epitaxial Silicon TransistorPower Linear and Switching Application Power Darlington TR Complement to BDW93 and BDW93C RespectivelyTO-22011.Base 2.Collector 3.EmitterAbsolute Maximum Ratings Ta = 25C unless otherwise notedSymbol Parameter Value UnitsVCBO Collector-Base Voltage: BDW94 -45 V: BDW94C -100 VVCEO Collector-Emitter Voltage: \nDatasheet: ZXTP2039F , ZXTP25060BFH , ZXTP25100BFH , ZXTP25100CFH , ZXTP25100CZ , ZXTP722MA , 2SA1943 , 2SC5200 , NJW0281G , FJA13009 , FJA4210 , FJA4213 , FJA4310 , FJA4313 , FJB102 , FJB3307D , FJD3076 . \nHistory: S9013 \nKeywords - BDW94CF transistor datasheet\nBDW94CF cross reference\nBDW94CF equivalent finder\nBDW94CF lookup\nBDW94CF substitution\nBDW94CF replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TO220F",
+      "maxCollectorCurrent": 12,
+      "maxCollectorEmitterVoltage": 100,
+      "maxCollectorBaseVoltage": 100,
+      "maxPowerDissipation": 30,
+      "hFE": 750,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TO220F",
+        "Collector Power Dissipation": "30W",
+        "Collector-Base Voltage": "100V",
+        "Collector-Emitter Voltage": "100V",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "12A",
+        "Current Gain (hFE)": "750",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "fairchild semi (419K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=bdw94cf.pdf&dire=_fairchild_semi"
+        },
+        {
+          "name": "inchange semiconductor (195K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=bdw94cfp.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "fairchild semi (43K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=bdw94c.pdf&dire=_fairchild_semi"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "ZXTP2039F",
+          "name": "ZXTP2039F",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BDW94CF",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP2039F"
+        },
+        {
+          "id": "ZXTP25060BFH",
+          "name": "ZXTP25060BFH",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BDW94CF",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25060BFH"
+        },
+        {
+          "id": "ZXTP25100BFH",
+          "name": "ZXTP25100BFH",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BDW94CF",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25100BFH"
+        },
+        {
+          "id": "ZXTP25100CFH",
+          "name": "ZXTP25100CFH",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BDW94CF",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25100CFH"
+        },
+        {
+          "id": "ZXTP25100CZ",
+          "name": "ZXTP25100CZ",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BDW94CF",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25100CZ"
+        },
+        {
+          "id": "ZXTP722MA",
+          "name": "ZXTP722MA",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BDW94CF",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP722MA"
+        },
+        {
+          "id": "2SA1943",
+          "name": "2SA1943",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BDW94CF",
+          "manufacturer": "Various",
+          "href": "/component/2SA1943"
+        },
+        {
+          "id": "2SC5200",
+          "name": "2SC5200",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BDW94CF",
+          "manufacturer": "Various",
+          "href": "/component/2SC5200"
+        },
+        {
+          "id": "NJW0281G",
+          "name": "NJW0281G",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BDW94CF",
+          "manufacturer": "Various",
+          "href": "/component/NJW0281G"
+        },
+        {
+          "id": "FJA13009",
+          "name": "FJA13009",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BDW94CF",
+          "manufacturer": "Various",
+          "href": "/component/FJA13009"
+        },
+        {
+          "id": "FJA4210",
+          "name": "FJA4210",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BDW94CF",
+          "manufacturer": "Various",
+          "href": "/component/FJA4210"
+        },
+        {
+          "id": "FJA4213",
+          "name": "FJA4213",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BDW94CF",
+          "manufacturer": "Various",
+          "href": "/component/FJA4213"
+        },
+        {
+          "id": "FJA4310",
+          "name": "FJA4310",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BDW94CF",
+          "manufacturer": "Various",
+          "href": "/component/FJA4310"
+        },
+        {
+          "id": "FJA4313",
+          "name": "FJA4313",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BDW94CF",
+          "manufacturer": "Various",
+          "href": "/component/FJA4313"
+        },
+        {
+          "id": "FJB102",
+          "name": "FJB102",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BDW94CF",
+          "manufacturer": "Various",
+          "href": "/component/FJB102"
+        },
+        {
+          "id": "FJB3307D",
+          "name": "FJB3307D",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BDW94CF",
+          "manufacturer": "Various",
+          "href": "/component/FJB3307D"
+        },
+        {
+          "id": "FJD3076",
+          "name": "FJD3076",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BDW94CF",
+          "manufacturer": "Various",
+          "href": "/component/FJD3076"
+        }
+      ],
+      "href": "/component/BDW94CF"
+    },
+    {
+      "id": "FJA13009",
+      "name": "FJA13009",
+      "type": "NPN Transistor",
+      "description": "O3PN \n- BJT Cross-Reference Search\nFJA13009 Datasheet (PDF)\n..1. Size:194K fairchild semi\nfja13009.pdf \nOctober 2008FJA13009High Speed Switching Suitable for Switching Regulator and Motor Control High Voltage Switch Mode ApplicationsTO-3P11.Base 2.Collector 3.EmitterAbsolute Maximum Ratings* Ta = 25C unless otherwise notedSymbol Parameter Ratings Units VCBO Collector-Base Voltage 700 V V Collector-Emitter Voltage 400 VCEO VEBO Emitter-Base Voltage 9 V IC Collec\n..2. Size:50K onsemi\nfja13009.pdf \nFJA13009High Voltage Switch Mode Applications High Speed Switching Suitable for Switching Regulator and Motor ControlTO-3P11.Base 2.Collector 3.EmitterNPN Silicon TransistorAbsolute Maximum Ratings TC=25C unless otherwise notedSymbol Parameter Value Units VCBO Collector-Base Voltage 700 V V CEO Collector-Emitter Voltage 400 V VEBO Emitter-Base Voltage 9 V IC Co\nDatasheet: ZXTP25060BFH , ZXTP25100BFH , ZXTP25100CFH , ZXTP25100CZ , ZXTP722MA , 2SA1943 , 2SC5200 , BDW94CF , KTB688 , FJA4210 , FJA4213 , FJA4310 , FJA4313 , FJB102 , FJB3307D , FJD3076 , FJD3305H1 . \nHistory: S9013 \nKeywords - FJA13009 transistor datasheet\nFJA13009 cross reference\nFJA13009 equivalent finder\nFJA13009 lookup\nFJA13009 substitution\nFJA13009 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO3PN",
+      "maxCollectorCurrent": 12,
+      "maxCollectorEmitterVoltage": 400,
+      "maxCollectorBaseVoltage": 700,
+      "maxEmitterBaseVoltage": 9,
+      "maxPowerDissipation": 130,
+      "hFE": 8,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO3PN",
+        "Collector Power Dissipation": "130W",
+        "Collector-Base Voltage": "700V",
+        "Collector-Emitter Voltage": "400V",
+        "Emitter-Base Voltage": "9V",
+        "Collector Current": "12A",
+        "Current Gain (hFE)": "8",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "fairchild semi (194K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=fja13009.pdf&dire=_fairchild_semi"
+        },
+        {
+          "name": "onsemi (50K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=fja13009.pdf&dire=_onsemi"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "ZXTP25060BFH",
+          "name": "ZXTP25060BFH",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for FJA13009",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25060BFH"
+        },
+        {
+          "id": "ZXTP25100BFH",
+          "name": "ZXTP25100BFH",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for FJA13009",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25100BFH"
+        },
+        {
+          "id": "ZXTP25100CFH",
+          "name": "ZXTP25100CFH",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for FJA13009",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25100CFH"
+        },
+        {
+          "id": "ZXTP25100CZ",
+          "name": "ZXTP25100CZ",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for FJA13009",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25100CZ"
+        },
+        {
+          "id": "ZXTP722MA",
+          "name": "ZXTP722MA",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for FJA13009",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP722MA"
+        },
+        {
+          "id": "2SA1943",
+          "name": "2SA1943",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for FJA13009",
+          "manufacturer": "Various",
+          "href": "/component/2SA1943"
+        },
+        {
+          "id": "2SC5200",
+          "name": "2SC5200",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for FJA13009",
+          "manufacturer": "Various",
+          "href": "/component/2SC5200"
+        },
+        {
+          "id": "BDW94CF",
+          "name": "BDW94CF",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for FJA13009",
+          "manufacturer": "Various",
+          "href": "/component/BDW94CF"
+        },
+        {
+          "id": "KTB688",
+          "name": "KTB688",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for FJA13009",
+          "manufacturer": "Various",
+          "href": "/component/KTB688"
+        },
+        {
+          "id": "FJA4210",
+          "name": "FJA4210",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for FJA13009",
+          "manufacturer": "Various",
+          "href": "/component/FJA4210"
+        },
+        {
+          "id": "FJA4213",
+          "name": "FJA4213",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for FJA13009",
+          "manufacturer": "Various",
+          "href": "/component/FJA4213"
+        },
+        {
+          "id": "FJA4310",
+          "name": "FJA4310",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for FJA13009",
+          "manufacturer": "Various",
+          "href": "/component/FJA4310"
+        },
+        {
+          "id": "FJA4313",
+          "name": "FJA4313",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for FJA13009",
+          "manufacturer": "Various",
+          "href": "/component/FJA4313"
+        },
+        {
+          "id": "FJB102",
+          "name": "FJB102",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for FJA13009",
+          "manufacturer": "Various",
+          "href": "/component/FJB102"
+        },
+        {
+          "id": "FJB3307D",
+          "name": "FJB3307D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for FJA13009",
+          "manufacturer": "Various",
+          "href": "/component/FJB3307D"
+        },
+        {
+          "id": "FJD3076",
+          "name": "FJD3076",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for FJA13009",
+          "manufacturer": "Various",
+          "href": "/component/FJD3076"
+        },
+        {
+          "id": "FJD3305H1",
+          "name": "FJD3305H1",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for FJA13009",
+          "manufacturer": "Various",
+          "href": "/component/FJD3305H1"
+        }
+      ],
+      "href": "/component/FJA13009"
+    },
+    {
+      "id": "FJA4210",
+      "name": "FJA4210",
+      "type": "PNP Transistor",
+      "description": "O3PN \n- BJT Cross-Reference Search\nFJA4210 Datasheet (PDF)\n..1. Size:200K fairchild semi\nfja4210.pdf \nOctober 2008FJA4210PNP Epitaxial Silicon Transistor Audio Power Amplifier High Current Capability : IC= -10A High Power Dissipation Wide S.O.A Complement to FJA4310TO-3P11.Base 2.Collector 3.EmitterAbsolute Maximum Ratings* Ta = 25C unless otherwise notedSymbol Parameter Ratings UnitsVCBO Collector-Base Voltage -200 VVCEO Collector-Emitter Voltage -1\n..2. Size:317K onsemi\nfja4210.pdf \nIs Now Part ofTo learn more about ON Semiconductor, please visit our website at www.onsemi.comPlease note: As part of the Fairchild Semiconductor integration, some of the Fairchild orderable part numbers will need to change in order to meet ON Semiconductors system requirements. Since the ON Semiconductor product management systems do not have the ability to manage part nomenclatur\n8.1. Size:93K fairchild semi\nfja4213.pdf \nFJA4213Audio Power Amplifier High Current Capability IC = -15A High Power Dissipation Wide S.O.A Complement to FJA4313TO-3P11.Base 2.Collector 3.EmitterPNP Epitaxial Silicon TransistorAbsolute Maximum Ratings TC=25C unless otherwise noted Symbol Parameter Ratings UnitsVCBO Collector-Base Voltage -230 VVCEO Collector-Emitter Voltage -230 VVEBO Emitter-Ba\n8.2. Size:478K fairchild semi\n2sa1962 fja4213.pdf \nJanuary 20092SA1962/FJA4213PNP Epitaxial Silicon TransistorApplications High-Fidelity Audio Output Amplifier General Purpose Power Amplifier Features High Current Capability: IC = -17ATO-3P High Power Dissipation : 130watts 1 High Frequency : 30MHz.1.Base 2.Collector 3.Emitter High Voltage : VCEO= -250V Wide S.O.A for reliable operation. Excel\nDatasheet: ZXTP25100BFH , ZXTP25100CFH , ZXTP25100CZ , ZXTP722MA , 2SA1943 , 2SC5200 , BDW94CF , FJA13009 , D965 , FJA4213 , FJA4310 , FJA4313 , FJB102 , FJB3307D , FJD3076 , FJD3305H1 , FJD5304D . \nHistory: FJA13009 | S9013 \nKeywords - FJA4210 transistor datasheet\nFJA4210 cross reference\nFJA4210 equivalent finder\nFJA4210 lookup\nFJA4210 substitution\nFJA4210 replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TO3PN",
+      "maxCollectorCurrent": 10,
+      "maxCollectorEmitterVoltage": 140,
+      "maxCollectorBaseVoltage": 200,
+      "maxEmitterBaseVoltage": 6,
+      "maxPowerDissipation": 100,
+      "hFE": 50,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TO3PN",
+        "Collector Power Dissipation": "100W",
+        "Collector-Base Voltage": "200V",
+        "Collector-Emitter Voltage": "140V",
+        "Emitter-Base Voltage": "6V",
+        "Collector Current": "10A",
+        "Current Gain (hFE)": "50",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "fairchild semi (200K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=fja4210.pdf&dire=_fairchild_semi"
+        },
+        {
+          "name": "onsemi (317K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=fja4210.pdf&dire=_onsemi"
+        },
+        {
+          "name": "fairchild semi (93K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=fja4213.pdf&dire=_fairchild_semi"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "ZXTP25100BFH",
+          "name": "ZXTP25100BFH",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for FJA4210",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25100BFH"
+        },
+        {
+          "id": "ZXTP25100CFH",
+          "name": "ZXTP25100CFH",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for FJA4210",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25100CFH"
+        },
+        {
+          "id": "ZXTP25100CZ",
+          "name": "ZXTP25100CZ",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for FJA4210",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25100CZ"
+        },
+        {
+          "id": "ZXTP722MA",
+          "name": "ZXTP722MA",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for FJA4210",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP722MA"
+        },
+        {
+          "id": "2SA1943",
+          "name": "2SA1943",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for FJA4210",
+          "manufacturer": "Various",
+          "href": "/component/2SA1943"
+        },
+        {
+          "id": "2SC5200",
+          "name": "2SC5200",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for FJA4210",
+          "manufacturer": "Various",
+          "href": "/component/2SC5200"
+        },
+        {
+          "id": "BDW94CF",
+          "name": "BDW94CF",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for FJA4210",
+          "manufacturer": "Various",
+          "href": "/component/BDW94CF"
+        },
+        {
+          "id": "FJA13009",
+          "name": "FJA13009",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for FJA4210",
+          "manufacturer": "Various",
+          "href": "/component/FJA13009"
+        },
+        {
+          "id": "FJA4213",
+          "name": "FJA4213",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for FJA4210",
+          "manufacturer": "Various",
+          "href": "/component/FJA4213"
+        },
+        {
+          "id": "FJA4310",
+          "name": "FJA4310",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for FJA4210",
+          "manufacturer": "Various",
+          "href": "/component/FJA4310"
+        },
+        {
+          "id": "FJA4313",
+          "name": "FJA4313",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for FJA4210",
+          "manufacturer": "Various",
+          "href": "/component/FJA4313"
+        },
+        {
+          "id": "FJB102",
+          "name": "FJB102",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for FJA4210",
+          "manufacturer": "Various",
+          "href": "/component/FJB102"
+        },
+        {
+          "id": "FJB3307D",
+          "name": "FJB3307D",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for FJA4210",
+          "manufacturer": "Various",
+          "href": "/component/FJB3307D"
+        },
+        {
+          "id": "FJD3076",
+          "name": "FJD3076",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for FJA4210",
+          "manufacturer": "Various",
+          "href": "/component/FJD3076"
+        },
+        {
+          "id": "FJD3305H1",
+          "name": "FJD3305H1",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for FJA4210",
+          "manufacturer": "Various",
+          "href": "/component/FJD3305H1"
+        },
+        {
+          "id": "FJD5304D",
+          "name": "FJD5304D",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for FJA4210",
+          "manufacturer": "Various",
+          "href": "/component/FJD5304D"
+        }
+      ],
+      "href": "/component/FJA4210"
+    },
+    {
+      "id": "IRF1010E",
+      "name": "IRF1010E",
+      "type": "Transistor",
+      "description": "O220AB \n- MOSFET Cross-Reference Search\nIRF1010E Datasheet (PDF)\n..1. Size:241K international rectifier\nirf1010epbf.pdf \nPD - 94965BIRF1010EPbFHEXFET Power MOSFETl Advanced Process TechnologyDl Ultra Low On-ResistanceVDSS = 60Vl Dynamic dv/dt Ratingl 175C Operating TemperatureRDS(on) = 12ml Fast SwitchingGl Fully Avalanche RatedID = 84Al Lead-FreeSDescriptionAdvanced HEXFET Power MOSFETs from InternationalRectifier utilize advanced processing techniques to achieve\n..2. Size:164K international rectifier\nirf1010e.pdf \nPD - 9.1670BIRF1010EHEXFET Power MOSFET Advanced Process TechnologyD Dynamic dv/dt RatingVDSS = 60V 175C Operating Temperature Fast SwitchingRDS(on) = 0.012 Fully Avalanche RatedGID = 81A SDescriptionFifth Generation HEXFETs from International Rectifierutilize advanced processing techniques to achieveextremely low on-resistance per silicon area. Thi\n..3. Size:245K inchange semiconductor\nirf1010e.pdf \nINCHANGE Semiconductorisc N-Channel MOSFET Transistor IRF1010E IIRF1010EFEATURESStatic drain-source on-resistance:RDS(on) 12mEnhancement modeFast Switching Speed100% avalanche testedMinimum Lot-to-Lot variations for robust deviceperformance and reliable operationDESCRITIONreliable device for use in a wide variety of applicationsABSOLUTE MAXIMUM\n0.1. Size:375K international rectifier\nauirf1010ezstrl.pdf \nPD - 95962AUTOMOTIVE GRADEAUIRF1010EZAUIRF1010EZSAUIRF1010EZLFeaturesHEXFET Power MOSFET Advanced Process Technology Ultra Low On-ResistanceDV(BR)DSS60V 175C Operating Temperature Fast Switching RDS(on) max.8.5m Repetitive Avalanche Allowed up to TjmaxGID (Silicon Limited)84A Lead-Free, RoHS CompliantS Automotive Qualified *ID (Package Limited)\nDatasheet: IRCP440 , IRCP450 , IRCZ14 , IRCZ245 , IRCZ345 , IRCZ445 , IRF044 , IRF054 , IRLB4132 , IRF1010EL , IRF1010ES , IRF1010N , IRF1010NL , IRF1010NS , IRF1104 , IRF130 , IRF1310N . \nKeywords - IRF1010E MOSFET datasheet\nIRF1010E cross reference\nIRF1010E equivalent finder\nIRF1010E lookup\nIRF1010E substitution\nIRF1010E replacement",
+      "manufacturer": "InternationalRectifier utilize advanced processing techniques to achieve",
+      "polarity": "",
+      "material": "",
+      "package": "TO220AB",
+      "specs": {
+        "Polarity": "",
+        "Material": "",
+        "Package": "TO220AB",
+        "Collector Power Dissipation": "N/A",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "N/A",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "N/A",
+        "Current Gain (hFE)": "N/A",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "international rectifier (241K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=irf1010epbf.pdf&dire=_international_rectifier"
+        },
+        {
+          "name": "international rectifier (164K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=irf1010e.pdf&dire=_international_rectifier"
+        },
+        {
+          "name": "inchange semiconductor (245K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=irf1010e.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "international rectifier (375K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=auirf1010ezstrl.pdf&dire=_international_rectifier"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "IRCP440",
+          "name": "IRCP440",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF1010E",
+          "manufacturer": "Various",
+          "href": "/component/IRCP440"
+        },
+        {
+          "id": "IRCP450",
+          "name": "IRCP450",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF1010E",
+          "manufacturer": "Various",
+          "href": "/component/IRCP450"
+        },
+        {
+          "id": "IRCZ14",
+          "name": "IRCZ14",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF1010E",
+          "manufacturer": "Various",
+          "href": "/component/IRCZ14"
+        },
+        {
+          "id": "IRCZ245",
+          "name": "IRCZ245",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF1010E",
+          "manufacturer": "Various",
+          "href": "/component/IRCZ245"
+        },
+        {
+          "id": "IRCZ345",
+          "name": "IRCZ345",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF1010E",
+          "manufacturer": "Various",
+          "href": "/component/IRCZ345"
+        },
+        {
+          "id": "IRCZ445",
+          "name": "IRCZ445",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF1010E",
+          "manufacturer": "Various",
+          "href": "/component/IRCZ445"
+        },
+        {
+          "id": "IRF044",
+          "name": "IRF044",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF1010E",
+          "manufacturer": "Various",
+          "href": "/component/IRF044"
+        },
+        {
+          "id": "IRF054",
+          "name": "IRF054",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF1010E",
+          "manufacturer": "Various",
+          "href": "/component/IRF054"
+        },
+        {
+          "id": "IRLB4132",
+          "name": "IRLB4132",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF1010E",
+          "manufacturer": "Various",
+          "href": "/component/IRLB4132"
+        },
+        {
+          "id": "IRF1010EL",
+          "name": "IRF1010EL",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF1010E",
+          "manufacturer": "Various",
+          "href": "/component/IRF1010EL"
+        },
+        {
+          "id": "IRF1010ES",
+          "name": "IRF1010ES",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF1010E",
+          "manufacturer": "Various",
+          "href": "/component/IRF1010ES"
+        },
+        {
+          "id": "IRF1010N",
+          "name": "IRF1010N",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF1010E",
+          "manufacturer": "Various",
+          "href": "/component/IRF1010N"
+        },
+        {
+          "id": "IRF1010NL",
+          "name": "IRF1010NL",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF1010E",
+          "manufacturer": "Various",
+          "href": "/component/IRF1010NL"
+        },
+        {
+          "id": "IRF1010NS",
+          "name": "IRF1010NS",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF1010E",
+          "manufacturer": "Various",
+          "href": "/component/IRF1010NS"
+        },
+        {
+          "id": "IRF1104",
+          "name": "IRF1104",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF1010E",
+          "manufacturer": "Various",
+          "href": "/component/IRF1104"
+        },
+        {
+          "id": "IRF130",
+          "name": "IRF130",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF1010E",
+          "manufacturer": "Various",
+          "href": "/component/IRF130"
+        },
+        {
+          "id": "IRF1310N",
+          "name": "IRF1310N",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF1010E",
+          "manufacturer": "Various",
+          "href": "/component/IRF1310N"
+        }
+      ],
+      "href": "/component/IRF1010E"
+    },
+    {
+      "id": "FJA4213",
+      "name": "FJA4213",
+      "type": "PNP Transistor",
+      "description": "O3PN \n- BJT Cross-Reference Search\nFJA4213 Datasheet (PDF)\n..1. Size:93K fairchild semi\nfja4213.pdf \nFJA4213Audio Power Amplifier High Current Capability IC = -15A High Power Dissipation Wide S.O.A Complement to FJA4313TO-3P11.Base 2.Collector 3.EmitterPNP Epitaxial Silicon TransistorAbsolute Maximum Ratings TC=25C unless otherwise noted Symbol Parameter Ratings UnitsVCBO Collector-Base Voltage -230 VVCEO Collector-Emitter Voltage -230 VVEBO Emitter-Ba\n..2. Size:478K fairchild semi\n2sa1962 fja4213.pdf \nJanuary 20092SA1962/FJA4213PNP Epitaxial Silicon TransistorApplications High-Fidelity Audio Output Amplifier General Purpose Power Amplifier Features High Current Capability: IC = -17ATO-3P High Power Dissipation : 130watts 1 High Frequency : 30MHz.1.Base 2.Collector 3.Emitter High Voltage : VCEO= -250V Wide S.O.A for reliable operation. Excel\n0.1. Size:560K onsemi\n2sa1962rtu 2sa1962otu fja4213rtu fja4213otu.pdf \nIs Now Part ofTo learn more about ON Semiconductor, please visit our website at www.onsemi.comPlease note: As part of the Fairchild Semiconductor integration, some of the Fairchild orderable part numbers will need to change in order to meet ON Semiconductors system requirements. Since the ON Semiconductor product management systems do not have the ability to manage part nomenclatur\n8.1. Size:200K fairchild semi\nfja4210.pdf \nOctober 2008FJA4210PNP Epitaxial Silicon Transistor Audio Power Amplifier High Current Capability : IC= -10A High Power Dissipation Wide S.O.A Complement to FJA4310TO-3P11.Base 2.Collector 3.EmitterAbsolute Maximum Ratings* Ta = 25C unless otherwise notedSymbol Parameter Ratings UnitsVCBO Collector-Base Voltage -200 VVCEO Collector-Emitter Voltage -1\nDatasheet: ZXTP25100CFH , ZXTP25100CZ , ZXTP722MA , 2SA1943 , 2SC5200 , BDW94CF , FJA13009 , FJA4210 , 2SD669 , FJA4310 , FJA4313 , FJB102 , FJB3307D , FJD3076 , FJD3305H1 , FJD5304D , FJD5553 . \nHistory: FJA13009 | S9013 \nKeywords - FJA4213 transistor datasheet\nFJA4213 cross reference\nFJA4213 equivalent finder\nFJA4213 lookup\nFJA4213 substitution\nFJA4213 replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TO3PN",
+      "maxCollectorCurrent": 17,
+      "maxCollectorEmitterVoltage": 250,
+      "maxCollectorBaseVoltage": 250,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 130,
+      "hFE": 55,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TO3PN",
+        "Collector Power Dissipation": "130W",
+        "Collector-Base Voltage": "250V",
+        "Collector-Emitter Voltage": "250V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "17A",
+        "Current Gain (hFE)": "55",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "fairchild semi (93K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=fja4213.pdf&dire=_fairchild_semi"
+        },
+        {
+          "name": "fairchild semi (200K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=fja4210.pdf&dire=_fairchild_semi"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "ZXTP25100CFH",
+          "name": "ZXTP25100CFH",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for FJA4213",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25100CFH"
+        },
+        {
+          "id": "ZXTP25100CZ",
+          "name": "ZXTP25100CZ",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for FJA4213",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP25100CZ"
+        },
+        {
+          "id": "ZXTP722MA",
+          "name": "ZXTP722MA",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for FJA4213",
+          "manufacturer": "Various",
+          "href": "/component/ZXTP722MA"
+        },
+        {
+          "id": "2SA1943",
+          "name": "2SA1943",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for FJA4213",
+          "manufacturer": "Various",
+          "href": "/component/2SA1943"
+        },
+        {
+          "id": "2SC5200",
+          "name": "2SC5200",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for FJA4213",
+          "manufacturer": "Various",
+          "href": "/component/2SC5200"
+        },
+        {
+          "id": "BDW94CF",
+          "name": "BDW94CF",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for FJA4213",
+          "manufacturer": "Various",
+          "href": "/component/BDW94CF"
+        },
+        {
+          "id": "FJA13009",
+          "name": "FJA13009",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for FJA4213",
+          "manufacturer": "Various",
+          "href": "/component/FJA13009"
+        },
+        {
+          "id": "FJA4210",
+          "name": "FJA4210",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for FJA4213",
+          "manufacturer": "Various",
+          "href": "/component/FJA4210"
+        },
+        {
+          "id": "2SD669",
+          "name": "2SD669",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for FJA4213",
+          "manufacturer": "Various",
+          "href": "/component/2SD669"
+        },
+        {
+          "id": "FJA4310",
+          "name": "FJA4310",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for FJA4213",
+          "manufacturer": "Various",
+          "href": "/component/FJA4310"
+        },
+        {
+          "id": "FJA4313",
+          "name": "FJA4313",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for FJA4213",
+          "manufacturer": "Various",
+          "href": "/component/FJA4313"
+        },
+        {
+          "id": "FJB102",
+          "name": "FJB102",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for FJA4213",
+          "manufacturer": "Various",
+          "href": "/component/FJB102"
+        },
+        {
+          "id": "FJB3307D",
+          "name": "FJB3307D",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for FJA4213",
+          "manufacturer": "Various",
+          "href": "/component/FJB3307D"
+        },
+        {
+          "id": "FJD3076",
+          "name": "FJD3076",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for FJA4213",
+          "manufacturer": "Various",
+          "href": "/component/FJD3076"
+        },
+        {
+          "id": "FJD3305H1",
+          "name": "FJD3305H1",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for FJA4213",
+          "manufacturer": "Various",
+          "href": "/component/FJD3305H1"
+        },
+        {
+          "id": "FJD5304D",
+          "name": "FJD5304D",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for FJA4213",
+          "manufacturer": "Various",
+          "href": "/component/FJD5304D"
+        },
+        {
+          "id": "FJD5553",
+          "name": "FJD5553",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for FJA4213",
+          "manufacturer": "Various",
+          "href": "/component/FJD5553"
+        }
+      ],
+      "href": "/component/FJA4213"
+    },
+    {
+      "id": "12N60",
+      "name": "12N60",
+      "type": "Transistor",
+      "description": "The UTC 12N60 are N-Channel enhancement mode power field effect transistors (MOSFET) which are produced usingUTCs proprietary, planar stripe, DMOS technology. These devices are suited for high efficiency switch mode power supply. To minimize on-state resistance, provide superi\n..2. Size:2259K goford\n12n60 12n60f.pdf",
+      "manufacturer": "Various",
+      "polarity": "",
+      "material": "",
+      "package": "TO-220 TO-220F1 TO-220F TO-262",
+      "specs": {
+        "Polarity": "",
+        "Material": "",
+        "Package": "TO-220 TO-220F1 TO-220F TO-262",
+        "Collector Power Dissipation": "N/A",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "N/A",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "N/A",
+        "Current Gain (hFE)": "N/A",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "utc (375K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=12n60.pdf&dire=_utc"
+        },
+        {
+          "name": "inchange semiconductor (223K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=12n60.pdf&dire=_inchange_semiconductor"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "10N60",
+          "name": "10N60",
+          "type": "Transistor",
+          "description": "Potential equivalent for 12N60",
+          "manufacturer": "Various",
+          "href": "/component/10N60"
+        },
+        {
+          "id": "10N60K",
+          "name": "10N60K",
+          "type": "Transistor",
+          "description": "Potential equivalent for 12N60",
+          "manufacturer": "Various",
+          "href": "/component/10N60K"
+        },
+        {
+          "id": "CEP83A3",
+          "name": "CEP83A3",
+          "type": "Transistor",
+          "description": "Potential equivalent for 12N60",
+          "manufacturer": "Various",
+          "href": "/component/CEP83A3"
+        },
+        {
+          "id": "15N60",
+          "name": "15N60",
+          "type": "Transistor",
+          "description": "Potential equivalent for 12N60",
+          "manufacturer": "Various",
+          "href": "/component/15N60"
+        },
+        {
+          "id": "18N60",
+          "name": "18N60",
+          "type": "Transistor",
+          "description": "Potential equivalent for 12N60",
+          "manufacturer": "Various",
+          "href": "/component/18N60"
+        },
+        {
+          "id": "20N60",
+          "name": "20N60",
+          "type": "Transistor",
+          "description": "Potential equivalent for 12N60",
+          "manufacturer": "Various",
+          "href": "/component/20N60"
+        },
+        {
+          "id": "22N60",
+          "name": "22N60",
+          "type": "Transistor",
+          "description": "Potential equivalent for 12N60",
+          "manufacturer": "Various",
+          "href": "/component/22N60"
+        }
+      ],
+      "href": "/component/12N60"
+    },
+    {
+      "id": "IRF4905",
+      "name": "IRF4905",
+      "type": "Transistor",
+      "description": "O220AB \n- MOSFET Cross-Reference Search\nIRF4905 Datasheet (PDF)\n..1. Size:108K international rectifier\nirf4905.pdf \nPD - 9.1280CIRF4905HEXFET Power MOSFET Advanced Process TechnologyD Ultra Low On-ResistanceVDSS = -55V Dynamic dv/dt Rating 175C Operating TemperatureRDS(on) = 0.02 Fast SwitchingG P-ChannelID = -74A Fully Avalanche RatedSDescriptionFifth Generation HEXFETs from International Rectifierutilize advanced processing techniques to achieveextremely low on-\n..2. Size:181K international rectifier\nirf4905pbf.pdf \nPD - 94816IRF4905PbFHEXFET Power MOSFET Advanced Process Technology Ultra Low On-ResistanceD Dynamic dv/dt RatingVDSS = -55V 175C Operating Temperature Fast SwitchingRDS(on) = 0.02G P-Channel Fully Avalanche RatedID = -74A Lead-Free SDescriptionFifth Generation HEXFETs from International Rectifierutilize advanced processing techniques to achieveextre\n..3. Size:1522K cn vbsemi\nirf4905pbf.pdf \nIRF4905PBFwww.VBsemi.twP-Channel 60-V (D-S) MOSFETFEATURESPRODUCT SUMMARY TrenchFET Power MOSFETVDS (V) RDS(on) ()ID (A)a Qg (Typ.) 100 % UIS Tested0.019 at VGS = - 10 V - 53APPLICATIONS- 60 38 nC0.026 at VGS = - 4.5 V - 42 Load SwitchTO-220ABSGDG D SP-Channel MOSFETTop ViewABSOLUTE MAXIMUM RATINGS (TA = 25 C, unless otherwise noted)P\n..4. Size:241K inchange semiconductor\nirf4905.pdf \nisc P-Channel MOSFET Transistor IRF4905,IIRF4905FEATURESStatic drain-source on-resistance:RDS(on)0.02Enhancement mode:100% avalanche testedMinimum Lot-to-Lot variations for robust deviceperformance and reliable operationDESCRIPTIONCombine with the fast switching speed and ruggedized devicedesign,provide the designer with an extremely efficient andreliab\nDatasheet: IRF3710S , IRF430 , IRF440 , IRF450 , IRF451 , IRF452 , IRF453 , IRF460 , IRLZ44N , IRF4905L , IRF4905S , IRF510 , IRF510A , IRF510S , IRF511 , IRF512 , IRF513 . \nHistory: 12N60 | IRF1010E \nKeywords - IRF4905 MOSFET datasheet\nIRF4905 cross reference\nIRF4905 equivalent finder\nIRF4905 lookup\nIRF4905 substitution\nIRF4905 replacement",
+      "manufacturer": "International Rectifierutilize advanced processing techniques to achieveextremely low on",
+      "polarity": "",
+      "material": "",
+      "package": "TO220AB",
+      "specs": {
+        "Polarity": "",
+        "Material": "",
+        "Package": "TO220AB",
+        "Collector Power Dissipation": "N/A",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "N/A",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "N/A",
+        "Current Gain (hFE)": "N/A",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "international rectifier (108K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=irf4905.pdf&dire=_international_rectifier"
+        },
+        {
+          "name": "international rectifier (181K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=irf4905pbf.pdf&dire=_international_rectifier"
+        },
+        {
+          "name": "cn vbsemi (1522K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=irf4905pbf.pdf&dire=_cn_vbsemi"
+        },
+        {
+          "name": "inchange semiconductor (241K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=irf4905.pdf&dire=_inchange_semiconductor"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "IRF3710S",
+          "name": "IRF3710S",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF4905",
+          "manufacturer": "Various",
+          "href": "/component/IRF3710S"
+        },
+        {
+          "id": "IRF430",
+          "name": "IRF430",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF4905",
+          "manufacturer": "Various",
+          "href": "/component/IRF430"
+        },
+        {
+          "id": "IRF440",
+          "name": "IRF440",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF4905",
+          "manufacturer": "Various",
+          "href": "/component/IRF440"
+        },
+        {
+          "id": "IRF450",
+          "name": "IRF450",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF4905",
+          "manufacturer": "Various",
+          "href": "/component/IRF450"
+        },
+        {
+          "id": "IRF451",
+          "name": "IRF451",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF4905",
+          "manufacturer": "Various",
+          "href": "/component/IRF451"
+        },
+        {
+          "id": "IRF452",
+          "name": "IRF452",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF4905",
+          "manufacturer": "Various",
+          "href": "/component/IRF452"
+        },
+        {
+          "id": "IRF453",
+          "name": "IRF453",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF4905",
+          "manufacturer": "Various",
+          "href": "/component/IRF453"
+        },
+        {
+          "id": "IRF460",
+          "name": "IRF460",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF4905",
+          "manufacturer": "Various",
+          "href": "/component/IRF460"
+        },
+        {
+          "id": "IRLZ44N",
+          "name": "IRLZ44N",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF4905",
+          "manufacturer": "Various",
+          "href": "/component/IRLZ44N"
+        },
+        {
+          "id": "IRF4905L",
+          "name": "IRF4905L",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF4905",
+          "manufacturer": "Various",
+          "href": "/component/IRF4905L"
+        },
+        {
+          "id": "IRF4905S",
+          "name": "IRF4905S",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF4905",
+          "manufacturer": "Various",
+          "href": "/component/IRF4905S"
+        },
+        {
+          "id": "IRF510",
+          "name": "IRF510",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF4905",
+          "manufacturer": "Various",
+          "href": "/component/IRF510"
+        },
+        {
+          "id": "IRF510A",
+          "name": "IRF510A",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF4905",
+          "manufacturer": "Various",
+          "href": "/component/IRF510A"
+        },
+        {
+          "id": "IRF510S",
+          "name": "IRF510S",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF4905",
+          "manufacturer": "Various",
+          "href": "/component/IRF510S"
+        },
+        {
+          "id": "IRF511",
+          "name": "IRF511",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF4905",
+          "manufacturer": "Various",
+          "href": "/component/IRF511"
+        },
+        {
+          "id": "IRF512",
+          "name": "IRF512",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF4905",
+          "manufacturer": "Various",
+          "href": "/component/IRF512"
+        },
+        {
+          "id": "IRF513",
+          "name": "IRF513",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF4905",
+          "manufacturer": "Various",
+          "href": "/component/IRF513"
+        }
+      ],
+      "href": "/component/IRF4905"
+    }
+  ]
+}

@@ -1,0 +1,2973 @@
+{
+  "components": [
+    {
+      "id": "TIP35C",
+      "name": "TIP35C",
+      "type": "NPN Transistor",
+      "description": "The TIP35C is a silicon Epitaxial-Base NPNtransistor mounted in TO-218 plastic package. Itis intented for use in power amplifier andswitching applications.3The complementary PNP type is TIP36C.2Also TIP36B is a PNP type. 1TO-218INTERNAL SCHEMATIC DI\n..2. Size:190K st",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TOP3",
+      "maxCollectorCurrent": 25,
+      "maxCollectorEmitterVoltage": 100,
+      "maxCollectorBaseVoltage": 140,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 90,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 3,
+      "hFE": 20,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TOP3",
+        "Collector Power Dissipation": "90W",
+        "Collector-Base Voltage": "140V",
+        "Collector-Emitter Voltage": "100V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "25A",
+        "Current Gain (hFE)": "20",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "3MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "utc (138K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=tip35c.pdf&dire=_utc"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "TIP34B",
+          "name": "TIP34B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP35C",
+          "manufacturer": "Various",
+          "href": "/component/TIP34B"
+        },
+        {
+          "id": "TIP34C",
+          "name": "TIP34C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP35C",
+          "manufacturer": "Various",
+          "href": "/component/TIP34C"
+        },
+        {
+          "id": "TIP34D",
+          "name": "TIP34D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP35C",
+          "manufacturer": "Various",
+          "href": "/component/TIP34D"
+        },
+        {
+          "id": "TIP34E",
+          "name": "TIP34E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP35C",
+          "manufacturer": "Various",
+          "href": "/component/TIP34E"
+        },
+        {
+          "id": "TIP34F",
+          "name": "TIP34F",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP35C",
+          "manufacturer": "Various",
+          "href": "/component/TIP34F"
+        },
+        {
+          "id": "TIP35",
+          "name": "TIP35",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP35C",
+          "manufacturer": "Various",
+          "href": "/component/TIP35"
+        },
+        {
+          "id": "TIP35A",
+          "name": "TIP35A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP35C",
+          "manufacturer": "Various",
+          "href": "/component/TIP35A"
+        },
+        {
+          "id": "TIP35B",
+          "name": "TIP35B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP35C",
+          "manufacturer": "Various",
+          "href": "/component/TIP35B"
+        },
+        {
+          "id": "2SD1555",
+          "name": "2SD1555",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP35C",
+          "manufacturer": "Various",
+          "href": "/component/2SD1555"
+        },
+        {
+          "id": "TIP35D",
+          "name": "TIP35D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP35C",
+          "manufacturer": "Various",
+          "href": "/component/TIP35D"
+        },
+        {
+          "id": "TIP35E",
+          "name": "TIP35E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP35C",
+          "manufacturer": "Various",
+          "href": "/component/TIP35E"
+        },
+        {
+          "id": "TIP35F",
+          "name": "TIP35F",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP35C",
+          "manufacturer": "Various",
+          "href": "/component/TIP35F"
+        },
+        {
+          "id": "TIP36",
+          "name": "TIP36",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP35C",
+          "manufacturer": "Various",
+          "href": "/component/TIP36"
+        },
+        {
+          "id": "TIP36A",
+          "name": "TIP36A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP35C",
+          "manufacturer": "Various",
+          "href": "/component/TIP36A"
+        },
+        {
+          "id": "TIP36B",
+          "name": "TIP36B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP35C",
+          "manufacturer": "Various",
+          "href": "/component/TIP36B"
+        },
+        {
+          "id": "TIP36C",
+          "name": "TIP36C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP35C",
+          "manufacturer": "Various",
+          "href": "/component/TIP36C"
+        },
+        {
+          "id": "TIP36D",
+          "name": "TIP36D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP35C",
+          "manufacturer": "Various",
+          "href": "/component/TIP36D"
+        }
+      ],
+      "href": "/component/TIP35C"
+    },
+    {
+      "id": "2N2222A",
+      "name": "2N2222A",
+      "type": "NPN Transistor",
+      "description": "Low voltage (max. 40 V).1 emitte\n..2. Size:166K st\n2n2219a 2n2222a.pdf \n2N2219A2N2222AHIGH SPEED SWITCHESPRELIMINARY DATADESCRIPTION The 2N2219A and 2N2222A are silicon PlanarEpitaxial NPN transistors in Jedec TO-39 (for2N2219A) and in Jedec TO-18 (for 2N2222A)metal case. They are designed for high speedswitching application at collector current up to500mA, and feature useful current gain over awide range of collector current, low leakage\n..3. Size:116K central\n2n2221a 2n2222a.pdf",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO18",
+      "maxCollectorCurrent": 0.8,
+      "maxCollectorEmitterVoltage": 40,
+      "maxCollectorBaseVoltage": 75,
+      "maxEmitterBaseVoltage": 6,
+      "maxPowerDissipation": 0.5,
+      "maxJunctionTemperature": 175,
+      "transitionFrequency": 300,
+      "collectorCapacitance": 8,
+      "hFE": 100,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO18",
+        "Collector Power Dissipation": "0.5W",
+        "Collector-Base Voltage": "75V",
+        "Collector-Emitter Voltage": "40V",
+        "Emitter-Base Voltage": "6V",
+        "Collector Current": "0.8A",
+        "Current Gain (hFE)": "100",
+        "Junction Temperature": "175°C",
+        "Transition Frequency": "300MHz",
+        "Collector Capacitance": "8pF"
+      },
+      "datasheets": [],
+      "equivalents": [
+        {
+          "id": "2N2222ACSM4",
+          "name": "2N2222ACSM4",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2N2222A",
+          "manufacturer": "Various",
+          "href": "/component/2N2222ACSM4"
+        }
+      ],
+      "href": "/component/2N2222A"
+    },
+    {
+      "id": "S8550",
+      "name": "S8550",
+      "type": "PNP Transistor",
+      "description": "The UTC S8550 is a low voltage high current small signal PNP 1transistor, designed for Class B push-pull audio amplifier and TO-92general purpose applications. FEATURES * Collector current up to 700mA * Collector-Emitter voltage up to 20 V \n..2. Size:196K secos",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "SOT23",
+      "maxCollectorCurrent": 0.5,
+      "maxCollectorEmitterVoltage": 25,
+      "maxCollectorBaseVoltage": 40,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.3,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 150,
+      "hFE": 120,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "SOT23",
+        "Collector Power Dissipation": "0.3W",
+        "Collector-Base Voltage": "40V",
+        "Collector-Emitter Voltage": "25V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.5A",
+        "Current Gain (hFE)": "120",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "150MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "utc (138K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=s8550.pdf&dire=_utc"
+        },
+        {
+          "name": "secos (196K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=s8550.pdf&dire=_secos"
+        },
+        {
+          "name": "jiangsu (496K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=s8550.pdf&dire=_jiangsu"
+        },
+        {
+          "name": "htsemi (978K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=s8550.pdf&dire=_htsemi"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "MMBT589",
+          "name": "MMBT589",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for S8550",
+          "manufacturer": "Various",
+          "href": "/component/MMBT589"
+        },
+        {
+          "id": "MMBTA44",
+          "name": "MMBTA44",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for S8550",
+          "manufacturer": "Various",
+          "href": "/component/MMBTA44"
+        },
+        {
+          "id": "MMBTA94",
+          "name": "MMBTA94",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for S8550",
+          "manufacturer": "Various",
+          "href": "/component/MMBTA94"
+        },
+        {
+          "id": "PXT3904",
+          "name": "PXT3904",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for S8550",
+          "manufacturer": "Various",
+          "href": "/component/PXT3904"
+        },
+        {
+          "id": "PXT3906",
+          "name": "PXT3906",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for S8550",
+          "manufacturer": "Various",
+          "href": "/component/PXT3906"
+        },
+        {
+          "id": "PXT8050",
+          "name": "PXT8050",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for S8550",
+          "manufacturer": "Various",
+          "href": "/component/PXT8050"
+        },
+        {
+          "id": "PXT8550",
+          "name": "PXT8550",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for S8550",
+          "manufacturer": "Various",
+          "href": "/component/PXT8550"
+        }
+      ],
+      "href": "/component/S8550"
+    },
+    {
+      "id": "2SD2499",
+      "name": "2SD2499",
+      "type": "NPN Transistor",
+      "description": "O3PHIS \n- BJT Cross-Reference Search\n2SD2499 Datasheet (PDF)\n..1. Size:268K toshiba\n2sd2499.pdf \n2SD2499 TOSHIBA TRANSISTOR SILICON NPN TRIPLE DIFFUSED MESA TYPE 2SD2499 HORIZONTAL DEFLECTION OUTPUT FOR COLOR TV Unit: mm High Voltage : VCBO = 1500 V Low Saturation Voltage : V = 5 V (Max.) CE (sat) High Speed : t = 0.3 s (Typ.) f Bult-in Damper Type Collector Metal (Fin) is Fully Covered with Mold Resin. MAXIMUM RATINGS (Tc = 25C) CHARACTERISTIC SYMBOL \n..2. Size:201K inchange semiconductor\n2sd2499.pdf \nisc Silicon NPN Power Transistor 2SD2499DESCRIPTIONHigh Breakdown Voltage-: V = 1500V (Min)CBOHigh Switching SpeedLow Saturation VoltageBuilt-in Damper DiodeMinimum Lot-to-Lot variations for robust deviceperformance and reliable operationAPPLICATIONSColor TV horizontal deflection output applicationsABSOLUTE MAXIMUM RATINGS(T =25)aSYMBOL PARAMETER VALUE\n8.1. Size:270K toshiba\n2sd2498.pdf \n2SD2498 TOSHIBA TRANSISTOR SILICON NPN TRIPLE DIFFUSED MESA TYPE 2SD2498 HORIZONTAL DEFLECTION OUTPUT FOR HIGH Unit: mm RESOLUTION DISPLAY, COLOR TV HIGH SPEED SWITCHING APPLICATIONS High Voltage : VCBO = 1500 V Low Saturation Voltage : V = 5 V (Max.) CE (sat) High Speed : t = 0.4 s (Typ.) f Collector Metal (Fin) is Fully Covered with Mold Resin. MAXIMUM RATI\n8.2. Size:26K hitachi\n2sd2491 2sd2492.pdf \n2SD2491, 2SD2492Silicon NPN EpitaxialApplicationLow frequency high voltage amplifierFeatures Isolated packageTO-126FMOutlineTO-126FM1. Emitter2. Collector3. Base1232SD2491, 2SD2492Absolute Maximum Ratings (Ta = 25C)RatingsItem Symbol 2SD2491 2SD2492 UnitCollector to base voltage VCBO 160 200 VCollector to emitter voltage VCEO 160 200 VEmitter to b\nDatasheet: 2SD2399 , 2SD2400 , 2SD2454 , 2SD2488 , 2SD2493 , 2SD2494 , 2SD2495 , 2SD2498 , TIP41C , 2SD2500 , 2SD2539 , 2SD2553 , 2SD2578 , 2SD2579 , 2SD2580 , 2SD2586 , 2SD2599 . \nHistory: S8550 | 2N2222A | BC327 | TIP31C | A940 | S9014 | A733 \nKeywords - 2SD2499 transistor datasheet\n2SD2499 cross reference\n2SD2499 equivalent finder\n2SD2499 lookup\n2SD2499 substitution\n2SD2499 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO3PHIS",
+      "maxCollectorCurrent": 6,
+      "maxCollectorEmitterVoltage": 600,
+      "maxCollectorBaseVoltage": 1500,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 50,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 2,
+      "collectorCapacitance": 95,
+      "hFE": 8,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO3PHIS",
+        "Collector Power Dissipation": "50W",
+        "Collector-Base Voltage": "1500V",
+        "Collector-Emitter Voltage": "600V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "6A",
+        "Current Gain (hFE)": "8",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "2MHz",
+        "Collector Capacitance": "95pF"
+      },
+      "datasheets": [
+        {
+          "name": "toshiba (268K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd2499.pdf&dire=_toshiba"
+        },
+        {
+          "name": "inchange semiconductor (201K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd2499.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "toshiba (270K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd2498.pdf&dire=_toshiba"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD2399",
+          "name": "2SD2399",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD2499",
+          "manufacturer": "Various",
+          "href": "/component/2SD2399"
+        },
+        {
+          "id": "2SD2400",
+          "name": "2SD2400",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD2499",
+          "manufacturer": "Various",
+          "href": "/component/2SD2400"
+        },
+        {
+          "id": "2SD2454",
+          "name": "2SD2454",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD2499",
+          "manufacturer": "Various",
+          "href": "/component/2SD2454"
+        },
+        {
+          "id": "2SD2488",
+          "name": "2SD2488",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD2499",
+          "manufacturer": "Various",
+          "href": "/component/2SD2488"
+        },
+        {
+          "id": "2SD2493",
+          "name": "2SD2493",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD2499",
+          "manufacturer": "Various",
+          "href": "/component/2SD2493"
+        },
+        {
+          "id": "2SD2494",
+          "name": "2SD2494",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD2499",
+          "manufacturer": "Various",
+          "href": "/component/2SD2494"
+        },
+        {
+          "id": "2SD2495",
+          "name": "2SD2495",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD2499",
+          "manufacturer": "Various",
+          "href": "/component/2SD2495"
+        },
+        {
+          "id": "2SD2498",
+          "name": "2SD2498",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD2499",
+          "manufacturer": "Various",
+          "href": "/component/2SD2498"
+        },
+        {
+          "id": "TIP41C",
+          "name": "TIP41C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD2499",
+          "manufacturer": "Various",
+          "href": "/component/TIP41C"
+        },
+        {
+          "id": "2SD2500",
+          "name": "2SD2500",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD2499",
+          "manufacturer": "Various",
+          "href": "/component/2SD2500"
+        },
+        {
+          "id": "2SD2539",
+          "name": "2SD2539",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD2499",
+          "manufacturer": "Various",
+          "href": "/component/2SD2539"
+        },
+        {
+          "id": "2SD2553",
+          "name": "2SD2553",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD2499",
+          "manufacturer": "Various",
+          "href": "/component/2SD2553"
+        },
+        {
+          "id": "2SD2578",
+          "name": "2SD2578",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD2499",
+          "manufacturer": "Various",
+          "href": "/component/2SD2578"
+        },
+        {
+          "id": "2SD2579",
+          "name": "2SD2579",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD2499",
+          "manufacturer": "Various",
+          "href": "/component/2SD2579"
+        },
+        {
+          "id": "2SD2580",
+          "name": "2SD2580",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD2499",
+          "manufacturer": "Various",
+          "href": "/component/2SD2580"
+        },
+        {
+          "id": "2SD2586",
+          "name": "2SD2586",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD2499",
+          "manufacturer": "Various",
+          "href": "/component/2SD2586"
+        },
+        {
+          "id": "2SD2599",
+          "name": "2SD2599",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD2499",
+          "manufacturer": "Various",
+          "href": "/component/2SD2599"
+        }
+      ],
+      "href": "/component/2SD2499"
+    },
+    {
+      "id": "TSB145",
+      "name": "TSB145",
+      "type": "PNP Transistor",
+      "description": "OP3 \n- BJT Cross-Reference Search\nTSB145 Datasheet (PDF)\n9.1. Size:165K taiwansemi\ntsb1424acw.pdf \nTSB1424A Low Vcesat PNP Transistor SOT-223 Pin Definition: PRODUCT SUMMARY 1. Base BVCBO -40V 2. Collector 3. Emitter BVCEO -30V IC -3A VCE(SAT) -0.2V @ IC / IB = -2A / -100mA Features Ordering Information Low VCE(SAT) -0.2 @ IC / IB = -2A / -100mA (Typ.) Part No. Package Packing Complementary part with TSD882S TSB1424ACW RPG SOT-223 2.5Kpcs / 13 Reel \n9.2. Size:143K taiwansemi\ntsb1424c.pdf \nTSB1424 Low Vcesat PNP Transistor SOT-89 SOT-23 Pin Definition: PRODUCT SUMMARY 1. Base BVCBO -20V 2. Collector 3. Emitter BVCEO -20V IC -3A VCE(SAT) -0.2V @ IC / IB = -2A / -100mA Features Ordering Information Low VCE(SAT) -0.2 @ IC / IB = -2A / -100mA (Typ.) Part No. Package Packing Complementary part with TSD2150 TSB1424CY RM SOT-89 1Kpcs / 7 Reel \n9.3. Size:241K taiwansemi\ntsb1412cp.pdf \nTSB1412 Low Vcesat PNP Transistor TO-252 Pin Definition: PRODUCT SUMMARY 1. Base (DPAK) 2. Collector BVCBO -40V 3. Emitter BVCEO -30V IC -5A VCE(SAT) -0.5V @ IC / IB = -4A / -100mA Features Ordering Information Low VCE(SAT) -0.36 @ IC / IB = -4A / -100mA (Typ.) Part No. Package Packing Complementary part with TSD2118 TSB1412CP RO TO-252 2.5Kpcs / 13 R\nDatasheet: TRRR38 , TS7988 , TS7990 , TS7992 , TS7994 , TSB140 , TSB141 , TSB142 , D882P , TSB146 , TSB147 , TSB3055 , TV105 , TV24215 , TV24372 , TV24576 , TV37 . \nHistory: S8550 | 2N2222A | BC327 | TIP31C | A940 | S9014 | A733 \nKeywords - TSB145 transistor datasheet\nTSB145 cross reference\nTSB145 equivalent finder\nTSB145 lookup\nTSB145 substitution\nTSB145 replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TOP3",
+      "maxCollectorCurrent": 10,
+      "maxCollectorEmitterVoltage": 60,
+      "maxPowerDissipation": 125,
+      "maxJunctionTemperature": 150,
+      "hFE": 1000,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TOP3",
+        "Collector Power Dissipation": "125W",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "60V",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "10A",
+        "Current Gain (hFE)": "1000",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "taiwansemi (165K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=tsb1424acw.pdf&dire=_taiwansemi"
+        },
+        {
+          "name": "taiwansemi (143K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=tsb1424c.pdf&dire=_taiwansemi"
+        },
+        {
+          "name": "taiwansemi (241K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=tsb1412cp.pdf&dire=_taiwansemi"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "TRRR38",
+          "name": "TRRR38",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TSB145",
+          "manufacturer": "Various",
+          "href": "/component/TRRR38"
+        },
+        {
+          "id": "TSB140",
+          "name": "TSB140",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TSB145",
+          "manufacturer": "Various",
+          "href": "/component/TSB140"
+        },
+        {
+          "id": "TSB141",
+          "name": "TSB141",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TSB145",
+          "manufacturer": "Various",
+          "href": "/component/TSB141"
+        },
+        {
+          "id": "TSB142",
+          "name": "TSB142",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TSB145",
+          "manufacturer": "Various",
+          "href": "/component/TSB142"
+        },
+        {
+          "id": "TSB146",
+          "name": "TSB146",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TSB145",
+          "manufacturer": "Various",
+          "href": "/component/TSB146"
+        },
+        {
+          "id": "TSB147",
+          "name": "TSB147",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TSB145",
+          "manufacturer": "Various",
+          "href": "/component/TSB147"
+        },
+        {
+          "id": "TSB3055",
+          "name": "TSB3055",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TSB145",
+          "manufacturer": "Various",
+          "href": "/component/TSB3055"
+        }
+      ],
+      "href": "/component/TSB145"
+    },
+    {
+      "id": "GA1A4M",
+      "name": "GA1A4M",
+      "type": "NPN Transistor",
+      "description": "C70 \n- BJT Cross-Reference Search\nGA1A4M Datasheet (PDF)\nDatasheet: 2SC945-H , 2SC945-L , 2SD882-E , 2SD882-P , 2SD882-Q , 2SA200-O , 2SA200-Y , SBT42 , 2N3055 , , , , , , , , . \nKeywords - GA1A4M transistor datasheet\nGA1A4M cross reference\nGA1A4M equivalent finder\nGA1A4M lookup\nGA1A4M substitution\nGA1A4M replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "SC70",
+      "maxCollectorCurrent": 0.1,
+      "maxCollectorEmitterVoltage": 50,
+      "maxCollectorBaseVoltage": 60,
+      "maxEmitterBaseVoltage": 10,
+      "maxPowerDissipation": 0.15,
+      "maxJunctionTemperature": 150,
+      "hFE": 35,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "SC70",
+        "Collector Power Dissipation": "0.15W",
+        "Collector-Base Voltage": "60V",
+        "Collector-Emitter Voltage": "50V",
+        "Emitter-Base Voltage": "10V",
+        "Collector Current": "0.1A",
+        "Current Gain (hFE)": "35",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [],
+      "equivalents": [
+        {
+          "id": "2SC945",
+          "name": "2SC945",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for GA1A4M",
+          "manufacturer": "Various",
+          "href": "/component/2SC945"
+        },
+        {
+          "id": "2SC945",
+          "name": "2SC945",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for GA1A4M",
+          "manufacturer": "Various",
+          "href": "/component/2SC945"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for GA1A4M",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for GA1A4M",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for GA1A4M",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SA200",
+          "name": "2SA200",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for GA1A4M",
+          "manufacturer": "Various",
+          "href": "/component/2SA200"
+        },
+        {
+          "id": "2SA200",
+          "name": "2SA200",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for GA1A4M",
+          "manufacturer": "Various",
+          "href": "/component/2SA200"
+        },
+        {
+          "id": "SBT42",
+          "name": "SBT42",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for GA1A4M",
+          "manufacturer": "Various",
+          "href": "/component/SBT42"
+        }
+      ],
+      "href": "/component/GA1A4M"
+    },
+    {
+      "id": "SBT42",
+      "name": "SBT42",
+      "type": "NPN Transistor",
+      "description": "OT23 \n- BJT Cross-Reference Search\nSBT42 Datasheet (PDF)\n..1. Size:324K auk\nsbt42.pdf \nSBT42 NPN Silicon Transistor Descriptions High voltage application COLLECTOR Telephone application 331Features BASE Collector-Emitter voltage V =SBT42 : 300V CEO2EMITTER Complementary pair with SBT92 SOT-23 Ordering Information Part Number Marking Package M1A SBT42 SOT-23 * Device Code Year & Week Code \nDatasheet: 2SC4226-R23 , 2SC945-H , 2SC945-L , 2SD882-E , 2SD882-P , 2SD882-Q , 2SA200-O , 2SA200-Y , C1815 , GA1A4M , , , , , , , . \nHistory: GA1A4M \nKeywords - SBT42 transistor datasheet\nSBT42 cross reference\nSBT42 equivalent finder\nSBT42 lookup\nSBT42 substitution\nSBT42 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "SOT23",
+      "maxCollectorCurrent": 0.5,
+      "maxCollectorEmitterVoltage": 300,
+      "maxCollectorBaseVoltage": 300,
+      "maxEmitterBaseVoltage": 6,
+      "maxPowerDissipation": 0.35,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 50,
+      "collectorCapacitance": 3,
+      "hFE": 40,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "SOT23",
+        "Collector Power Dissipation": "0.35W",
+        "Collector-Base Voltage": "300V",
+        "Collector-Emitter Voltage": "300V",
+        "Emitter-Base Voltage": "6V",
+        "Collector Current": "0.5A",
+        "Current Gain (hFE)": "40",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "50MHz",
+        "Collector Capacitance": "3pF"
+      },
+      "datasheets": [
+        {
+          "name": "auk (324K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=sbt42.pdf&dire=_auk"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SC4226",
+          "name": "2SC4226",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for SBT42",
+          "manufacturer": "Various",
+          "href": "/component/2SC4226"
+        },
+        {
+          "id": "2SC945",
+          "name": "2SC945",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for SBT42",
+          "manufacturer": "Various",
+          "href": "/component/2SC945"
+        },
+        {
+          "id": "2SC945",
+          "name": "2SC945",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for SBT42",
+          "manufacturer": "Various",
+          "href": "/component/2SC945"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for SBT42",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for SBT42",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for SBT42",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SA200",
+          "name": "2SA200",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for SBT42",
+          "manufacturer": "Various",
+          "href": "/component/2SA200"
+        },
+        {
+          "id": "2SA200",
+          "name": "2SA200",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for SBT42",
+          "manufacturer": "Various",
+          "href": "/component/2SA200"
+        },
+        {
+          "id": "GA1A4M",
+          "name": "GA1A4M",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for SBT42",
+          "manufacturer": "Various",
+          "href": "/component/GA1A4M"
+        }
+      ],
+      "href": "/component/SBT42"
+    },
+    {
+      "id": "2SA200-Y",
+      "name": "2SA200-Y",
+      "type": "PNP Transistor",
+      "description": "O92 \n- BJT Cross-Reference Search\n2SA200-Y Datasheet (PDF)\n..1. Size:452K semtech\n2sa200-y 2sa200-o.pdf \nST 2SA200 PNP Silicon Epitaxial Planar Transistor for general purpose and switching amplifier The transistor is subdivided into two group, O and Y according to its DC current gain. 1. Emitter 2. Collector 3. Base TO-92 Plastic Package OAbsolute Maximum Ratings (Ta = 25 C) Parameter Symbol Value Unit60 VCollector Base Voltage -VCBO 50 VCollector Emitter Voltage -VCEO \n8.1. Size:52K rohm\n2sa2007.pdf \n2SA2007TransistorsHigh-speed Switching Transistor (-60V,-12A)2SA2007 External dimensions (Units : mm) Features1) High switching speed.10.0 4.5(Typ. tf = 0.15s at Ic = -6A)3.2 2.8 2) Low saturation voltage.(Typ. VCE(sat) = -0.2V at IC / IB = -6A / -0.3A)3) Wide SOA. (safe operating area)1.21.34) Complements the 2SC5526.0.8( )(1) Base Gate0.752.54 2.5\n8.2. Size:51K rohm\n2sa2005.pdf \n2SA2005TransistorsHigh-voltage Switching(Audio output amplifier transistor,TV velocity modulation transistor)(-160V, -1.5A)2SA2005 Features External dimensions (Units : mm)1) Flat DC current gain characteristics.2) High breakdown voltage. (BVCEO = -160V)10.0 4.53) High fT. (Typ. 150MHz)3.2 2.8 4) Wide SOA (safe operating area).5) Complements the 2SC5511.1.21.\n8.3. Size:62K panasonic\n2sa2004.pdf \nPower Transistors2SA2004Silicon PNP epitaxial planar typeUnit: mm4.60.2For power amplification 9.90.32.90.2 3.20.1 Features High forward current transfer ratio hFE Satisfactory linearity of forward current transfer ratio hFE Dielectric breakdown voltage of the package: > 5 kV High-speed switching1.40.22.60.11.60.20.80.1 0.550.15\nDatasheet: 2SC3357-F , 2SC4226-R23 , 2SC945-H , 2SC945-L , 2SD882-E , 2SD882-P , 2SD882-Q , 2SA200-O , 2N5551 , SBT42 , GA1A4M , , , , , , . \nHistory: GA1A4M \nKeywords - 2SA200-Y transistor datasheet\n2SA200-Y cross reference\n2SA200-Y equivalent finder\n2SA200-Y lookup\n2SA200-Y substitution\n2SA200-Y replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.5,
+      "maxCollectorEmitterVoltage": 50,
+      "maxCollectorBaseVoltage": 60,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.625,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 200,
+      "collectorCapacitance": 13,
+      "hFE": 120,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.625W",
+        "Collector-Base Voltage": "60V",
+        "Collector-Emitter Voltage": "50V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.5A",
+        "Current Gain (hFE)": "120",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "200MHz",
+        "Collector Capacitance": "13pF"
+      },
+      "datasheets": [
+        {
+          "name": "rohm (52K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sa2007.pdf&dire=_rohm"
+        },
+        {
+          "name": "rohm (51K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sa2005.pdf&dire=_rohm"
+        },
+        {
+          "name": "panasonic (62K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sa2004.pdf&dire=_panasonic"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SC3357",
+          "name": "2SC3357",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SA200-Y",
+          "manufacturer": "Various",
+          "href": "/component/2SC3357"
+        },
+        {
+          "id": "2SC4226",
+          "name": "2SC4226",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SA200-Y",
+          "manufacturer": "Various",
+          "href": "/component/2SC4226"
+        },
+        {
+          "id": "2SC945",
+          "name": "2SC945",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SA200-Y",
+          "manufacturer": "Various",
+          "href": "/component/2SC945"
+        },
+        {
+          "id": "2SC945",
+          "name": "2SC945",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SA200-Y",
+          "manufacturer": "Various",
+          "href": "/component/2SC945"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SA200-Y",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SA200-Y",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SA200-Y",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SA200",
+          "name": "2SA200",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SA200-Y",
+          "manufacturer": "Various",
+          "href": "/component/2SA200"
+        },
+        {
+          "id": "SBT42",
+          "name": "SBT42",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SA200-Y",
+          "manufacturer": "Various",
+          "href": "/component/SBT42"
+        },
+        {
+          "id": "GA1A4M",
+          "name": "GA1A4M",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SA200-Y",
+          "manufacturer": "Various",
+          "href": "/component/GA1A4M"
+        }
+      ],
+      "href": "/component/2SA200-Y"
+    },
+    {
+      "id": "2SA200-O",
+      "name": "2SA200-O",
+      "type": "PNP Transistor",
+      "description": "O92 \n- BJT Cross-Reference Search\n2SA200-O Datasheet (PDF)\n..1. Size:452K semtech\n2sa200-y 2sa200-o.pdf \nST 2SA200 PNP Silicon Epitaxial Planar Transistor for general purpose and switching amplifier The transistor is subdivided into two group, O and Y according to its DC current gain. 1. Emitter 2. Collector 3. Base TO-92 Plastic Package OAbsolute Maximum Ratings (Ta = 25 C) Parameter Symbol Value Unit60 VCollector Base Voltage -VCBO 50 VCollector Emitter Voltage -VCEO \n8.1. Size:52K rohm\n2sa2007.pdf \n2SA2007TransistorsHigh-speed Switching Transistor (-60V,-12A)2SA2007 External dimensions (Units : mm) Features1) High switching speed.10.0 4.5(Typ. tf = 0.15s at Ic = -6A)3.2 2.8 2) Low saturation voltage.(Typ. VCE(sat) = -0.2V at IC / IB = -6A / -0.3A)3) Wide SOA. (safe operating area)1.21.34) Complements the 2SC5526.0.8( )(1) Base Gate0.752.54 2.5\n8.2. Size:51K rohm\n2sa2005.pdf \n2SA2005TransistorsHigh-voltage Switching(Audio output amplifier transistor,TV velocity modulation transistor)(-160V, -1.5A)2SA2005 Features External dimensions (Units : mm)1) Flat DC current gain characteristics.2) High breakdown voltage. (BVCEO = -160V)10.0 4.53) High fT. (Typ. 150MHz)3.2 2.8 4) Wide SOA (safe operating area).5) Complements the 2SC5511.1.21.\n8.3. Size:62K panasonic\n2sa2004.pdf \nPower Transistors2SA2004Silicon PNP epitaxial planar typeUnit: mm4.60.2For power amplification 9.90.32.90.2 3.20.1 Features High forward current transfer ratio hFE Satisfactory linearity of forward current transfer ratio hFE Dielectric breakdown voltage of the package: > 5 kV High-speed switching1.40.22.60.11.60.20.80.1 0.550.15\nDatasheet: 2SC3357-E , 2SC3357-F , 2SC4226-R23 , 2SC945-H , 2SC945-L , 2SD882-E , 2SD882-P , 2SD882-Q , C945 , 2SA200-Y , SBT42 , GA1A4M , , , , , . \nHistory: 2SA200-Y | GA1A4M \nKeywords - 2SA200-O transistor datasheet\n2SA200-O cross reference\n2SA200-O equivalent finder\n2SA200-O lookup\n2SA200-O substitution\n2SA200-O replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.5,
+      "maxCollectorEmitterVoltage": 50,
+      "maxCollectorBaseVoltage": 60,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.625,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 200,
+      "collectorCapacitance": 13,
+      "hFE": 70,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.625W",
+        "Collector-Base Voltage": "60V",
+        "Collector-Emitter Voltage": "50V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.5A",
+        "Current Gain (hFE)": "70",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "200MHz",
+        "Collector Capacitance": "13pF"
+      },
+      "datasheets": [
+        {
+          "name": "rohm (52K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sa2007.pdf&dire=_rohm"
+        },
+        {
+          "name": "rohm (51K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sa2005.pdf&dire=_rohm"
+        },
+        {
+          "name": "panasonic (62K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sa2004.pdf&dire=_panasonic"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SC3357",
+          "name": "2SC3357",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SA200-O",
+          "manufacturer": "Various",
+          "href": "/component/2SC3357"
+        },
+        {
+          "id": "2SC3357",
+          "name": "2SC3357",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SA200-O",
+          "manufacturer": "Various",
+          "href": "/component/2SC3357"
+        },
+        {
+          "id": "2SC4226",
+          "name": "2SC4226",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SA200-O",
+          "manufacturer": "Various",
+          "href": "/component/2SC4226"
+        },
+        {
+          "id": "2SC945",
+          "name": "2SC945",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SA200-O",
+          "manufacturer": "Various",
+          "href": "/component/2SC945"
+        },
+        {
+          "id": "2SC945",
+          "name": "2SC945",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SA200-O",
+          "manufacturer": "Various",
+          "href": "/component/2SC945"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SA200-O",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SA200-O",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SA200-O",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SA200",
+          "name": "2SA200",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SA200-O",
+          "manufacturer": "Various",
+          "href": "/component/2SA200"
+        },
+        {
+          "id": "SBT42",
+          "name": "SBT42",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SA200-O",
+          "manufacturer": "Various",
+          "href": "/component/SBT42"
+        },
+        {
+          "id": "GA1A4M",
+          "name": "GA1A4M",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SA200-O",
+          "manufacturer": "Various",
+          "href": "/component/GA1A4M"
+        }
+      ],
+      "href": "/component/2SA200-O"
+    },
+    {
+      "id": "2SD882-Q",
+      "name": "2SD882-Q",
+      "type": "NPN Transistor",
+      "description": "OT89 \n- BJT Cross-Reference Search\n2SD882-Q Datasheet (PDF)\n..1. Size:564K cn evvo\n2sd882-r 2sd882-q 2sd882-p 2sd882-e.pdf \nD882NPN Transistors Features3 NPN transistor High current output up to 3A2 Low Saturation Voltage Complement to 2SB772 1.Base12.Collector3.Emitter Simplified outline(SOT-89)Absolute Maximum Ratings Ta = 25Parameter Symbol Rating UnitCollector to Base Voltage VCBO 40 VCollector to Emitter Voltage VCEO 30 VEmitter to Base Voltage VEBO 6 VCollector \n7.1. Size:305K mcc\n2sd882-gr-r-o-y.pdf \n2SD882-RMCCMicro Commercial ComponentsTM2SD882-O20736 Marilla Street ChatsworthMicro Commercial ComponentsCA 913112SD882-YPhone: (818) 701-49332SD882-GRFax: (818) 701-4939Features Lead Free Finish/RoHS Compliant (Note1) (\"P\" Suffix designates NPN SiliconRoHS Compliant. See ordering information) Epoxy meets UL 94 V-0 flammability ratingPlastic-Encapsulat\n7.2. Size:52K kexin\n2sd882-252.pdf \nTransistorsSMD Type TransistorsNPN Silicon Power Transistor2SD882TO-252 Features Unit: mm6.50+0.15 2.30+0.1-0.15 -0.1 Collector Power Dissipation: PC=1.25W+0.85.30+0.2 0.50-0.7-0.2 Collector Current: IC=3A0.1270.80+0.1 max-0.121 32.3 0.60+0.1-0.11 Base+0.154.60-0.152 Collector3 Emitter Absolute Maximum Ratings Ta = 25 Parameter Symbol Rating\n7.3. Size:5243K msksemi\n2sd882-ms.pdf \nwww.msksemi.com2SD882-MSSemiconductor CompianceSemiconductor Compiance1. BASE TRANSISTOR (NPN) 2. COLLETOR FEATURES Power dissipation 3. EMITTER MAXIMUM RATINGS (TA=25 unless otherwise noted) Symbol Parameter Value UnitsVCBO Collector-Base Voltage 40 V VCEO Collector-Emitter Voltage 30 V VEBO Emitter-Base Voltage 6 V IC Collector Current -Continuous 3 A PC C\nDatasheet: 2SC3356-R26 , 2SC3357-E , 2SC3357-F , 2SC4226-R23 , 2SC945-H , 2SC945-L , 2SD882-E , 2SD882-P , TIP41C , 2SA200-O , 2SA200-Y , SBT42 , GA1A4M , , , , . \nHistory: 2SA200-Y | GA1A4M \nKeywords - 2SD882-Q transistor datasheet\n2SD882-Q cross reference\n2SD882-Q equivalent finder\n2SD882-Q lookup\n2SD882-Q substitution\n2SD882-Q replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "SOT89",
+      "maxCollectorCurrent": 3,
+      "maxCollectorEmitterVoltage": 30,
+      "maxCollectorBaseVoltage": 40,
+      "maxEmitterBaseVoltage": 6,
+      "maxPowerDissipation": 0.5,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 50,
+      "hFE": 100,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "SOT89",
+        "Collector Power Dissipation": "0.5W",
+        "Collector-Base Voltage": "40V",
+        "Collector-Emitter Voltage": "30V",
+        "Emitter-Base Voltage": "6V",
+        "Collector Current": "3A",
+        "Current Gain (hFE)": "100",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "50MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "mcc (305K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd882-gr-r-o-y.pdf&dire=_mcc"
+        },
+        {
+          "name": "kexin (52K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd882-252.pdf&dire=_kexin"
+        },
+        {
+          "name": "msksemi (5243K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd882-ms.pdf&dire=_msksemi"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SC3356",
+          "name": "2SC3356",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-Q",
+          "manufacturer": "Various",
+          "href": "/component/2SC3356"
+        },
+        {
+          "id": "2SC3357",
+          "name": "2SC3357",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-Q",
+          "manufacturer": "Various",
+          "href": "/component/2SC3357"
+        },
+        {
+          "id": "2SC3357",
+          "name": "2SC3357",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-Q",
+          "manufacturer": "Various",
+          "href": "/component/2SC3357"
+        },
+        {
+          "id": "2SC4226",
+          "name": "2SC4226",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-Q",
+          "manufacturer": "Various",
+          "href": "/component/2SC4226"
+        },
+        {
+          "id": "2SC945",
+          "name": "2SC945",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-Q",
+          "manufacturer": "Various",
+          "href": "/component/2SC945"
+        },
+        {
+          "id": "2SC945",
+          "name": "2SC945",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-Q",
+          "manufacturer": "Various",
+          "href": "/component/2SC945"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-Q",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-Q",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "TIP41C",
+          "name": "TIP41C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-Q",
+          "manufacturer": "Various",
+          "href": "/component/TIP41C"
+        },
+        {
+          "id": "2SA200",
+          "name": "2SA200",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-Q",
+          "manufacturer": "Various",
+          "href": "/component/2SA200"
+        },
+        {
+          "id": "2SA200",
+          "name": "2SA200",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-Q",
+          "manufacturer": "Various",
+          "href": "/component/2SA200"
+        },
+        {
+          "id": "SBT42",
+          "name": "SBT42",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-Q",
+          "manufacturer": "Various",
+          "href": "/component/SBT42"
+        },
+        {
+          "id": "GA1A4M",
+          "name": "GA1A4M",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-Q",
+          "manufacturer": "Various",
+          "href": "/component/GA1A4M"
+        }
+      ],
+      "href": "/component/2SD882-Q"
+    },
+    {
+      "id": "2SC945-L",
+      "name": "2SC945-L",
+      "type": "NPN Transistor",
+      "description": "OT23 \n- BJT Cross-Reference Search\n2SC945-L Datasheet (PDF)\n..1. Size:789K cn evvo\n2sc945-l 2sc945-h.pdf \n2SC945NPN Transistors321.Base2.Emitter Features1 3.Collector Collector current up to 150mA Simplified outline(SOT-23) High hFE linearity Complementary to 2SA733 Absolute Maximum Ratings Ta = 25Parameter Symbol Rating UnitCollector to base voltage VCBO 60 VCollector to emitter voltage VCEO 50 VEmitter to base voltage VEBO 5 VCollector curren\n7.1. Size:244K mcc\n2sc945-y.pdf \nMCC2SC945-YMicro Commercial ComponentsTM20736 Marilla Street ChatsworthMicro Commercial Components2SC945-GRCA 91311Phone: (818) 701-4933Fax: (818) 701-4939Features Capable of 0.4Watts of Power Dissipation. NPN Silicon Collector-current 0.15APlastic-Encapsulate Collector-base Voltage 60V Operating and storage junction temperature range: -55OC to +150OC\n7.2. Size:244K mcc\n2sc945-gr.pdf \nMCC2SC945-YMicro Commercial ComponentsTM20736 Marilla Street ChatsworthMicro Commercial Components2SC945-GRCA 91311Phone: (818) 701-4933Fax: (818) 701-4939Features Capable of 0.4Watts of Power Dissipation. NPN Silicon Collector-current 0.15APlastic-Encapsulate Collector-base Voltage 60V Operating and storage junction temperature range: -55OC to +150OC\nDatasheet: 2SB772-Q , 2SC3356-R23 , 2SC3356-R24 , 2SC3356-R26 , 2SC3357-E , 2SC3357-F , 2SC4226-R23 , 2SC945-H , 2SC5200 , 2SD882-E , 2SD882-P , 2SD882-Q , 2SA200-O , 2SA200-Y , SBT42 , GA1A4M , . \nHistory: 2SD882-Q | 2SA200-Y | GA1A4M \nKeywords - 2SC945-L transistor datasheet\n2SC945-L cross reference\n2SC945-L equivalent finder\n2SC945-L lookup\n2SC945-L substitution\n2SC945-L replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "SOT23",
+      "maxCollectorCurrent": 0.15,
+      "maxCollectorEmitterVoltage": 50,
+      "maxCollectorBaseVoltage": 60,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.2,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 150,
+      "collectorCapacitance": 3,
+      "hFE": 130,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "SOT23",
+        "Collector Power Dissipation": "0.2W",
+        "Collector-Base Voltage": "60V",
+        "Collector-Emitter Voltage": "50V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.15A",
+        "Current Gain (hFE)": "130",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "150MHz",
+        "Collector Capacitance": "3pF"
+      },
+      "datasheets": [
+        {
+          "name": "mcc (244K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc945-y.pdf&dire=_mcc"
+        },
+        {
+          "name": "mcc (244K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc945-gr.pdf&dire=_mcc"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SB772",
+          "name": "2SB772",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC945-L",
+          "manufacturer": "Various",
+          "href": "/component/2SB772"
+        },
+        {
+          "id": "2SC3356",
+          "name": "2SC3356",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC945-L",
+          "manufacturer": "Various",
+          "href": "/component/2SC3356"
+        },
+        {
+          "id": "2SC3356",
+          "name": "2SC3356",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC945-L",
+          "manufacturer": "Various",
+          "href": "/component/2SC3356"
+        },
+        {
+          "id": "2SC3356",
+          "name": "2SC3356",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC945-L",
+          "manufacturer": "Various",
+          "href": "/component/2SC3356"
+        },
+        {
+          "id": "2SC3357",
+          "name": "2SC3357",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC945-L",
+          "manufacturer": "Various",
+          "href": "/component/2SC3357"
+        },
+        {
+          "id": "2SC3357",
+          "name": "2SC3357",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC945-L",
+          "manufacturer": "Various",
+          "href": "/component/2SC3357"
+        },
+        {
+          "id": "2SC4226",
+          "name": "2SC4226",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC945-L",
+          "manufacturer": "Various",
+          "href": "/component/2SC4226"
+        },
+        {
+          "id": "2SC945",
+          "name": "2SC945",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC945-L",
+          "manufacturer": "Various",
+          "href": "/component/2SC945"
+        },
+        {
+          "id": "2SC5200",
+          "name": "2SC5200",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC945-L",
+          "manufacturer": "Various",
+          "href": "/component/2SC5200"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC945-L",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC945-L",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC945-L",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SA200",
+          "name": "2SA200",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC945-L",
+          "manufacturer": "Various",
+          "href": "/component/2SA200"
+        },
+        {
+          "id": "2SA200",
+          "name": "2SA200",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC945-L",
+          "manufacturer": "Various",
+          "href": "/component/2SA200"
+        },
+        {
+          "id": "SBT42",
+          "name": "SBT42",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC945-L",
+          "manufacturer": "Various",
+          "href": "/component/SBT42"
+        },
+        {
+          "id": "GA1A4M",
+          "name": "GA1A4M",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC945-L",
+          "manufacturer": "Various",
+          "href": "/component/GA1A4M"
+        }
+      ],
+      "href": "/component/2SC945-L"
+    },
+    {
+      "id": "2SD882-E",
+      "name": "2SD882-E",
+      "type": "NPN Transistor",
+      "description": "OT89 \n- BJT Cross-Reference Search\n2SD882-E Datasheet (PDF)\n..1. Size:564K cn evvo\n2sd882-r 2sd882-q 2sd882-p 2sd882-e.pdf \nD882NPN Transistors Features3 NPN transistor High current output up to 3A2 Low Saturation Voltage Complement to 2SB772 1.Base12.Collector3.Emitter Simplified outline(SOT-89)Absolute Maximum Ratings Ta = 25Parameter Symbol Rating UnitCollector to Base Voltage VCBO 40 VCollector to Emitter Voltage VCEO 30 VEmitter to Base Voltage VEBO 6 VCollector \n7.1. Size:305K mcc\n2sd882-gr-r-o-y.pdf \n2SD882-RMCCMicro Commercial ComponentsTM2SD882-O20736 Marilla Street ChatsworthMicro Commercial ComponentsCA 913112SD882-YPhone: (818) 701-49332SD882-GRFax: (818) 701-4939Features Lead Free Finish/RoHS Compliant (Note1) (\"P\" Suffix designates NPN SiliconRoHS Compliant. See ordering information) Epoxy meets UL 94 V-0 flammability ratingPlastic-Encapsulat\n7.2. Size:52K kexin\n2sd882-252.pdf \nTransistorsSMD Type TransistorsNPN Silicon Power Transistor2SD882TO-252 Features Unit: mm6.50+0.15 2.30+0.1-0.15 -0.1 Collector Power Dissipation: PC=1.25W+0.85.30+0.2 0.50-0.7-0.2 Collector Current: IC=3A0.1270.80+0.1 max-0.121 32.3 0.60+0.1-0.11 Base+0.154.60-0.152 Collector3 Emitter Absolute Maximum Ratings Ta = 25 Parameter Symbol Rating\n7.3. Size:5243K msksemi\n2sd882-ms.pdf \nwww.msksemi.com2SD882-MSSemiconductor CompianceSemiconductor Compiance1. BASE TRANSISTOR (NPN) 2. COLLETOR FEATURES Power dissipation 3. EMITTER MAXIMUM RATINGS (TA=25 unless otherwise noted) Symbol Parameter Value UnitsVCBO Collector-Base Voltage 40 V VCEO Collector-Emitter Voltage 30 V VEBO Emitter-Base Voltage 6 V IC Collector Current -Continuous 3 A PC C\nDatasheet: 2SC3356-R23 , 2SC3356-R24 , 2SC3356-R26 , 2SC3357-E , 2SC3357-F , 2SC4226-R23 , 2SC945-H , 2SC945-L , BD777 , 2SD882-P , 2SD882-Q , 2SA200-O , 2SA200-Y , SBT42 , GA1A4M , , . \nHistory: 2SD882-Q | 2SA200-Y | GA1A4M \nKeywords - 2SD882-E transistor datasheet\n2SD882-E cross reference\n2SD882-E equivalent finder\n2SD882-E lookup\n2SD882-E substitution\n2SD882-E replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "SOT89",
+      "maxCollectorCurrent": 3,
+      "maxCollectorEmitterVoltage": 30,
+      "maxCollectorBaseVoltage": 40,
+      "maxEmitterBaseVoltage": 6,
+      "maxPowerDissipation": 0.5,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 50,
+      "hFE": 200,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "SOT89",
+        "Collector Power Dissipation": "0.5W",
+        "Collector-Base Voltage": "40V",
+        "Collector-Emitter Voltage": "30V",
+        "Emitter-Base Voltage": "6V",
+        "Collector Current": "3A",
+        "Current Gain (hFE)": "200",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "50MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "mcc (305K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd882-gr-r-o-y.pdf&dire=_mcc"
+        },
+        {
+          "name": "kexin (52K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd882-252.pdf&dire=_kexin"
+        },
+        {
+          "name": "msksemi (5243K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd882-ms.pdf&dire=_msksemi"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SC3356",
+          "name": "2SC3356",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-E",
+          "manufacturer": "Various",
+          "href": "/component/2SC3356"
+        },
+        {
+          "id": "2SC3356",
+          "name": "2SC3356",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-E",
+          "manufacturer": "Various",
+          "href": "/component/2SC3356"
+        },
+        {
+          "id": "2SC3356",
+          "name": "2SC3356",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-E",
+          "manufacturer": "Various",
+          "href": "/component/2SC3356"
+        },
+        {
+          "id": "2SC3357",
+          "name": "2SC3357",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-E",
+          "manufacturer": "Various",
+          "href": "/component/2SC3357"
+        },
+        {
+          "id": "2SC3357",
+          "name": "2SC3357",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-E",
+          "manufacturer": "Various",
+          "href": "/component/2SC3357"
+        },
+        {
+          "id": "2SC4226",
+          "name": "2SC4226",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-E",
+          "manufacturer": "Various",
+          "href": "/component/2SC4226"
+        },
+        {
+          "id": "2SC945",
+          "name": "2SC945",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-E",
+          "manufacturer": "Various",
+          "href": "/component/2SC945"
+        },
+        {
+          "id": "2SC945",
+          "name": "2SC945",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-E",
+          "manufacturer": "Various",
+          "href": "/component/2SC945"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-E",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-E",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SA200",
+          "name": "2SA200",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-E",
+          "manufacturer": "Various",
+          "href": "/component/2SA200"
+        },
+        {
+          "id": "2SA200",
+          "name": "2SA200",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-E",
+          "manufacturer": "Various",
+          "href": "/component/2SA200"
+        },
+        {
+          "id": "SBT42",
+          "name": "SBT42",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-E",
+          "manufacturer": "Various",
+          "href": "/component/SBT42"
+        },
+        {
+          "id": "GA1A4M",
+          "name": "GA1A4M",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-E",
+          "manufacturer": "Various",
+          "href": "/component/GA1A4M"
+        }
+      ],
+      "href": "/component/2SD882-E"
+    },
+    {
+      "id": "2SD882-P",
+      "name": "2SD882-P",
+      "type": "NPN Transistor",
+      "description": "OT89 \n- BJT Cross-Reference Search\n2SD882-P Datasheet (PDF)\n..1. Size:564K cn evvo\n2sd882-r 2sd882-q 2sd882-p 2sd882-e.pdf \nD882NPN Transistors Features3 NPN transistor High current output up to 3A2 Low Saturation Voltage Complement to 2SB772 1.Base12.Collector3.Emitter Simplified outline(SOT-89)Absolute Maximum Ratings Ta = 25Parameter Symbol Rating UnitCollector to Base Voltage VCBO 40 VCollector to Emitter Voltage VCEO 30 VEmitter to Base Voltage VEBO 6 VCollector \n7.1. Size:305K mcc\n2sd882-gr-r-o-y.pdf \n2SD882-RMCCMicro Commercial ComponentsTM2SD882-O20736 Marilla Street ChatsworthMicro Commercial ComponentsCA 913112SD882-YPhone: (818) 701-49332SD882-GRFax: (818) 701-4939Features Lead Free Finish/RoHS Compliant (Note1) (\"P\" Suffix designates NPN SiliconRoHS Compliant. See ordering information) Epoxy meets UL 94 V-0 flammability ratingPlastic-Encapsulat\n7.2. Size:52K kexin\n2sd882-252.pdf \nTransistorsSMD Type TransistorsNPN Silicon Power Transistor2SD882TO-252 Features Unit: mm6.50+0.15 2.30+0.1-0.15 -0.1 Collector Power Dissipation: PC=1.25W+0.85.30+0.2 0.50-0.7-0.2 Collector Current: IC=3A0.1270.80+0.1 max-0.121 32.3 0.60+0.1-0.11 Base+0.154.60-0.152 Collector3 Emitter Absolute Maximum Ratings Ta = 25 Parameter Symbol Rating\n7.3. Size:5243K msksemi\n2sd882-ms.pdf \nwww.msksemi.com2SD882-MSSemiconductor CompianceSemiconductor Compiance1. BASE TRANSISTOR (NPN) 2. COLLETOR FEATURES Power dissipation 3. EMITTER MAXIMUM RATINGS (TA=25 unless otherwise noted) Symbol Parameter Value UnitsVCBO Collector-Base Voltage 40 V VCEO Collector-Emitter Voltage 30 V VEBO Emitter-Base Voltage 6 V IC Collector Current -Continuous 3 A PC C\nDatasheet: 2SC3356-R24 , 2SC3356-R26 , 2SC3357-E , 2SC3357-F , 2SC4226-R23 , 2SC945-H , 2SC945-L , 2SD882-E , BD139 , 2SD882-Q , 2SA200-O , 2SA200-Y , SBT42 , GA1A4M , , , . \nHistory: 2SD882-Q | 2SA200-Y | GA1A4M \nKeywords - 2SD882-P transistor datasheet\n2SD882-P cross reference\n2SD882-P equivalent finder\n2SD882-P lookup\n2SD882-P substitution\n2SD882-P replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "SOT89",
+      "maxCollectorCurrent": 3,
+      "maxCollectorEmitterVoltage": 30,
+      "maxCollectorBaseVoltage": 40,
+      "maxEmitterBaseVoltage": 6,
+      "maxPowerDissipation": 0.5,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 50,
+      "hFE": 160,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "SOT89",
+        "Collector Power Dissipation": "0.5W",
+        "Collector-Base Voltage": "40V",
+        "Collector-Emitter Voltage": "30V",
+        "Emitter-Base Voltage": "6V",
+        "Collector Current": "3A",
+        "Current Gain (hFE)": "160",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "50MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "mcc (305K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd882-gr-r-o-y.pdf&dire=_mcc"
+        },
+        {
+          "name": "kexin (52K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd882-252.pdf&dire=_kexin"
+        },
+        {
+          "name": "msksemi (5243K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd882-ms.pdf&dire=_msksemi"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SC3356",
+          "name": "2SC3356",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-P",
+          "manufacturer": "Various",
+          "href": "/component/2SC3356"
+        },
+        {
+          "id": "2SC3356",
+          "name": "2SC3356",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-P",
+          "manufacturer": "Various",
+          "href": "/component/2SC3356"
+        },
+        {
+          "id": "2SC3357",
+          "name": "2SC3357",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-P",
+          "manufacturer": "Various",
+          "href": "/component/2SC3357"
+        },
+        {
+          "id": "2SC3357",
+          "name": "2SC3357",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-P",
+          "manufacturer": "Various",
+          "href": "/component/2SC3357"
+        },
+        {
+          "id": "2SC4226",
+          "name": "2SC4226",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-P",
+          "manufacturer": "Various",
+          "href": "/component/2SC4226"
+        },
+        {
+          "id": "2SC945",
+          "name": "2SC945",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-P",
+          "manufacturer": "Various",
+          "href": "/component/2SC945"
+        },
+        {
+          "id": "2SC945",
+          "name": "2SC945",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-P",
+          "manufacturer": "Various",
+          "href": "/component/2SC945"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-P",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-P",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SA200",
+          "name": "2SA200",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-P",
+          "manufacturer": "Various",
+          "href": "/component/2SA200"
+        },
+        {
+          "id": "2SA200",
+          "name": "2SA200",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-P",
+          "manufacturer": "Various",
+          "href": "/component/2SA200"
+        },
+        {
+          "id": "SBT42",
+          "name": "SBT42",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-P",
+          "manufacturer": "Various",
+          "href": "/component/SBT42"
+        },
+        {
+          "id": "GA1A4M",
+          "name": "GA1A4M",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD882-P",
+          "manufacturer": "Various",
+          "href": "/component/GA1A4M"
+        }
+      ],
+      "href": "/component/2SD882-P"
+    },
+    {
+      "id": "2SC945-H",
+      "name": "2SC945-H",
+      "type": "NPN Transistor",
+      "description": "OT23 \n- BJT Cross-Reference Search\n2SC945-H Datasheet (PDF)\n..1. Size:789K cn evvo\n2sc945-l 2sc945-h.pdf \n2SC945NPN Transistors321.Base2.Emitter Features1 3.Collector Collector current up to 150mA Simplified outline(SOT-23) High hFE linearity Complementary to 2SA733 Absolute Maximum Ratings Ta = 25Parameter Symbol Rating UnitCollector to base voltage VCBO 60 VCollector to emitter voltage VCEO 50 VEmitter to base voltage VEBO 5 VCollector curren\n7.1. Size:244K mcc\n2sc945-y.pdf \nMCC2SC945-YMicro Commercial ComponentsTM20736 Marilla Street ChatsworthMicro Commercial Components2SC945-GRCA 91311Phone: (818) 701-4933Fax: (818) 701-4939Features Capable of 0.4Watts of Power Dissipation. NPN Silicon Collector-current 0.15APlastic-Encapsulate Collector-base Voltage 60V Operating and storage junction temperature range: -55OC to +150OC\n7.2. Size:244K mcc\n2sc945-gr.pdf \nMCC2SC945-YMicro Commercial ComponentsTM20736 Marilla Street ChatsworthMicro Commercial Components2SC945-GRCA 91311Phone: (818) 701-4933Fax: (818) 701-4939Features Capable of 0.4Watts of Power Dissipation. NPN Silicon Collector-current 0.15APlastic-Encapsulate Collector-base Voltage 60V Operating and storage junction temperature range: -55OC to +150OC\nDatasheet: 2SB772-P , 2SB772-Q , 2SC3356-R23 , 2SC3356-R24 , 2SC3356-R26 , 2SC3357-E , 2SC3357-F , 2SC4226-R23 , BC547 , 2SC945-L , 2SD882-E , 2SD882-P , 2SD882-Q , 2SA200-O , 2SA200-Y , SBT42 , GA1A4M . \nHistory: 2SC945-L | 2SD882-Q | 2SA200-Y | GA1A4M \nKeywords - 2SC945-H transistor datasheet\n2SC945-H cross reference\n2SC945-H equivalent finder\n2SC945-H lookup\n2SC945-H substitution\n2SC945-H replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "SOT23",
+      "maxCollectorCurrent": 0.15,
+      "maxCollectorEmitterVoltage": 50,
+      "maxCollectorBaseVoltage": 60,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.2,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 150,
+      "collectorCapacitance": 3,
+      "hFE": 200,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "SOT23",
+        "Collector Power Dissipation": "0.2W",
+        "Collector-Base Voltage": "60V",
+        "Collector-Emitter Voltage": "50V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.15A",
+        "Current Gain (hFE)": "200",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "150MHz",
+        "Collector Capacitance": "3pF"
+      },
+      "datasheets": [
+        {
+          "name": "mcc (244K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc945-y.pdf&dire=_mcc"
+        },
+        {
+          "name": "mcc (244K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc945-gr.pdf&dire=_mcc"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SB772",
+          "name": "2SB772",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC945-H",
+          "manufacturer": "Various",
+          "href": "/component/2SB772"
+        },
+        {
+          "id": "2SB772",
+          "name": "2SB772",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC945-H",
+          "manufacturer": "Various",
+          "href": "/component/2SB772"
+        },
+        {
+          "id": "2SC3356",
+          "name": "2SC3356",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC945-H",
+          "manufacturer": "Various",
+          "href": "/component/2SC3356"
+        },
+        {
+          "id": "2SC3356",
+          "name": "2SC3356",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC945-H",
+          "manufacturer": "Various",
+          "href": "/component/2SC3356"
+        },
+        {
+          "id": "2SC3356",
+          "name": "2SC3356",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC945-H",
+          "manufacturer": "Various",
+          "href": "/component/2SC3356"
+        },
+        {
+          "id": "2SC3357",
+          "name": "2SC3357",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC945-H",
+          "manufacturer": "Various",
+          "href": "/component/2SC3357"
+        },
+        {
+          "id": "2SC3357",
+          "name": "2SC3357",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC945-H",
+          "manufacturer": "Various",
+          "href": "/component/2SC3357"
+        },
+        {
+          "id": "2SC4226",
+          "name": "2SC4226",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC945-H",
+          "manufacturer": "Various",
+          "href": "/component/2SC4226"
+        },
+        {
+          "id": "2SC945",
+          "name": "2SC945",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC945-H",
+          "manufacturer": "Various",
+          "href": "/component/2SC945"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC945-H",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC945-H",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC945-H",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SA200",
+          "name": "2SA200",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC945-H",
+          "manufacturer": "Various",
+          "href": "/component/2SA200"
+        },
+        {
+          "id": "2SA200",
+          "name": "2SA200",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC945-H",
+          "manufacturer": "Various",
+          "href": "/component/2SA200"
+        },
+        {
+          "id": "SBT42",
+          "name": "SBT42",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC945-H",
+          "manufacturer": "Various",
+          "href": "/component/SBT42"
+        },
+        {
+          "id": "GA1A4M",
+          "name": "GA1A4M",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC945-H",
+          "manufacturer": "Various",
+          "href": "/component/GA1A4M"
+        }
+      ],
+      "href": "/component/2SC945-H"
+    },
+    {
+      "id": "2SC3357-E",
+      "name": "2SC3357-E",
+      "type": "NPN Transistor",
+      "description": "OT89 \n- BJT Cross-Reference Search\n2SC3357-E Datasheet (PDF)\n..1. Size:625K cn evvo\n2sc3357-f 2sc3357-e.pdf \n2SC3357 SMD Ty p e NPN Transistors3 Features2 Low noise and high gain1 1.Base High power gain2.Collector Large Ptot3.Emitter Simplified outline(SOT-89) Absolute Maximum Ratings Ta = 25Parameter Symbol Rating Unit Collector - Base Voltage VCBO 20 Collector - Emitter Voltage VCEO 12 V Emitter - Base Voltage VEBO 3 Collector Current - Contin\n7.1. Size:257K nec\nne856 2sc5011 2sc5006 2sc4226 2sc3355 2sc3603 2sc3356 2sc3357 2sc3603 2sc4093.pdf \nNEC's NPN SILICON HIGH NE856FREQUENCY TRANSISTOR SERIESFEATURES HIGH GAIN BANDWIDTH PRODUCT:fT = 7 GHz LOW NOISE FIGURE:1.1 dB at 1 GHz HIGH COLLECTOR CURRENT: 100 mA HIGH RELIABILITY METALLIZATION35 (MICRO-X)00 (CHIP) LOW COSTDESCRIPTIONNEC's NE856 series of NPN epitaxial silicon transistors isdesigned for low cost amplifier and oscillator application\n7.2. Size:77K nec\n2sc3357.pdf \nDATA SHEETSILICON TRANSISTOR2SC3357NPN SILICON EPITAXIAL TRANSISTORPOWER MINI MOLDDESCRIPTIONPACKAGE DIMENSIONSThe 2SC3357 is an NPN silicon epitaxial transistor designed for(Unit: mm)low noise amplifier at VHF, UHF and CATV band.It has large dynamic range and good current characteristic.4.50.11.50.11.60.2FEATURES Low Noise and High GainNF = 1.1 dB TYP.,\n7.3. Size:1019K kexin\n2sc3357.pdf \nSMD Type TransistorsNPN Transistors2SC33571.70 0.1 Features Low noise and high gain High power gain Large Ptot0.42 0.10.46 0.11.Base2.Collector3.Emitter Absolute Maximum Ratings Ta = 25Parameter Symbol Rating Unit Collector - Base Voltage VCBO 20 Collector - Emitter Voltage VCEO 12 V Emitter - Base Voltage VEBO 3 Collector Current - Conti\nDatasheet: 2SA1015-H , 2SA1015-L , 2SB772-E , 2SB772-P , 2SB772-Q , 2SC3356-R23 , 2SC3356-R24 , 2SC3356-R26 , 2SC2482 , 2SC3357-F , 2SC4226-R23 , 2SC945-H , 2SC945-L , 2SD882-E , 2SD882-P , 2SD882-Q , 2SA200-O . \nHistory: 2SC4226-R23 | 2SC945-H | 2SC945-L | 2SD882-Q | 2SA200-Y | GA1A4M \nKeywords - 2SC3357-E transistor datasheet\n2SC3357-E cross reference\n2SC3357-E equivalent finder\n2SC3357-E lookup\n2SC3357-E substitution\n2SC3357-E replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "SOT89",
+      "maxCollectorCurrent": 0.1,
+      "maxCollectorEmitterVoltage": 12,
+      "maxCollectorBaseVoltage": 20,
+      "maxEmitterBaseVoltage": 3,
+      "maxPowerDissipation": 1.2,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 6500,
+      "hFE": 125,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "SOT89",
+        "Collector Power Dissipation": "1.2W",
+        "Collector-Base Voltage": "20V",
+        "Collector-Emitter Voltage": "12V",
+        "Emitter-Base Voltage": "3V",
+        "Collector Current": "0.1A",
+        "Current Gain (hFE)": "125",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "6500MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "nec (77K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc3357.pdf&dire=_nec"
+        },
+        {
+          "name": "kexin (1019K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc3357.pdf&dire=_kexin"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SA1015",
+          "name": "2SA1015",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3357-E",
+          "manufacturer": "Various",
+          "href": "/component/2SA1015"
+        },
+        {
+          "id": "2SA1015",
+          "name": "2SA1015",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3357-E",
+          "manufacturer": "Various",
+          "href": "/component/2SA1015"
+        },
+        {
+          "id": "2SB772",
+          "name": "2SB772",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3357-E",
+          "manufacturer": "Various",
+          "href": "/component/2SB772"
+        },
+        {
+          "id": "2SB772",
+          "name": "2SB772",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3357-E",
+          "manufacturer": "Various",
+          "href": "/component/2SB772"
+        },
+        {
+          "id": "2SB772",
+          "name": "2SB772",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3357-E",
+          "manufacturer": "Various",
+          "href": "/component/2SB772"
+        },
+        {
+          "id": "2SC3356",
+          "name": "2SC3356",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3357-E",
+          "manufacturer": "Various",
+          "href": "/component/2SC3356"
+        },
+        {
+          "id": "2SC3356",
+          "name": "2SC3356",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3357-E",
+          "manufacturer": "Various",
+          "href": "/component/2SC3356"
+        },
+        {
+          "id": "2SC3356",
+          "name": "2SC3356",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3357-E",
+          "manufacturer": "Various",
+          "href": "/component/2SC3356"
+        },
+        {
+          "id": "2SC2482",
+          "name": "2SC2482",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3357-E",
+          "manufacturer": "Various",
+          "href": "/component/2SC2482"
+        },
+        {
+          "id": "2SC3357",
+          "name": "2SC3357",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3357-E",
+          "manufacturer": "Various",
+          "href": "/component/2SC3357"
+        },
+        {
+          "id": "2SC4226",
+          "name": "2SC4226",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3357-E",
+          "manufacturer": "Various",
+          "href": "/component/2SC4226"
+        },
+        {
+          "id": "2SC945",
+          "name": "2SC945",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3357-E",
+          "manufacturer": "Various",
+          "href": "/component/2SC945"
+        },
+        {
+          "id": "2SC945",
+          "name": "2SC945",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3357-E",
+          "manufacturer": "Various",
+          "href": "/component/2SC945"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3357-E",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3357-E",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3357-E",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SA200",
+          "name": "2SA200",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3357-E",
+          "manufacturer": "Various",
+          "href": "/component/2SA200"
+        }
+      ],
+      "href": "/component/2SC3357-E"
+    },
+    {
+      "id": "2SC4226-R23",
+      "name": "2SC4226-R23",
+      "type": "NPN Transistor",
+      "description": "The 2SC4226 is a low supply voltage transistor designed for VHF, UHF low noise amplifier. It is suitable for a high density surface mount assembly since the transistor has been applied 3-pin super minimold package. FEATURES",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "SOT323",
+      "maxCollectorCurrent": 0.1,
+      "maxCollectorEmitterVoltage": 12,
+      "maxCollectorBaseVoltage": 20,
+      "maxEmitterBaseVoltage": 3,
+      "maxPowerDissipation": 0.15,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 3000,
+      "hFE": 40,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "SOT323",
+        "Collector Power Dissipation": "0.15W",
+        "Collector-Base Voltage": "20V",
+        "Collector-Emitter Voltage": "12V",
+        "Emitter-Base Voltage": "3V",
+        "Collector Current": "0.1A",
+        "Current Gain (hFE)": "40",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "3000MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "nec (105K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc4226.pdf&dire=_nec"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SB772",
+          "name": "2SB772",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4226-R23",
+          "manufacturer": "Various",
+          "href": "/component/2SB772"
+        },
+        {
+          "id": "2SB772",
+          "name": "2SB772",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4226-R23",
+          "manufacturer": "Various",
+          "href": "/component/2SB772"
+        },
+        {
+          "id": "2SB772",
+          "name": "2SB772",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4226-R23",
+          "manufacturer": "Various",
+          "href": "/component/2SB772"
+        },
+        {
+          "id": "2SC3356",
+          "name": "2SC3356",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4226-R23",
+          "manufacturer": "Various",
+          "href": "/component/2SC3356"
+        },
+        {
+          "id": "2SC3356",
+          "name": "2SC3356",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4226-R23",
+          "manufacturer": "Various",
+          "href": "/component/2SC3356"
+        },
+        {
+          "id": "2SC3356",
+          "name": "2SC3356",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4226-R23",
+          "manufacturer": "Various",
+          "href": "/component/2SC3356"
+        },
+        {
+          "id": "2SC3357",
+          "name": "2SC3357",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4226-R23",
+          "manufacturer": "Various",
+          "href": "/component/2SC3357"
+        },
+        {
+          "id": "2SC3357",
+          "name": "2SC3357",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4226-R23",
+          "manufacturer": "Various",
+          "href": "/component/2SC3357"
+        },
+        {
+          "id": "2SC945",
+          "name": "2SC945",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4226-R23",
+          "manufacturer": "Various",
+          "href": "/component/2SC945"
+        },
+        {
+          "id": "2SC945",
+          "name": "2SC945",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4226-R23",
+          "manufacturer": "Various",
+          "href": "/component/2SC945"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4226-R23",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4226-R23",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4226-R23",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SA200",
+          "name": "2SA200",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4226-R23",
+          "manufacturer": "Various",
+          "href": "/component/2SA200"
+        },
+        {
+          "id": "2SA200",
+          "name": "2SA200",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4226-R23",
+          "manufacturer": "Various",
+          "href": "/component/2SA200"
+        },
+        {
+          "id": "SBT42",
+          "name": "SBT42",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4226-R23",
+          "manufacturer": "Various",
+          "href": "/component/SBT42"
+        }
+      ],
+      "href": "/component/2SC4226-R23"
+    },
+    {
+      "id": "2SC3357-F",
+      "name": "2SC3357-F",
+      "type": "NPN Transistor",
+      "description": "OT89 \n- BJT Cross-Reference Search\n2SC3357-F Datasheet (PDF)\n..1. Size:625K cn evvo\n2sc3357-f 2sc3357-e.pdf \n2SC3357 SMD Ty p e NPN Transistors3 Features2 Low noise and high gain1 1.Base High power gain2.Collector Large Ptot3.Emitter Simplified outline(SOT-89) Absolute Maximum Ratings Ta = 25Parameter Symbol Rating Unit Collector - Base Voltage VCBO 20 Collector - Emitter Voltage VCEO 12 V Emitter - Base Voltage VEBO 3 Collector Current - Contin\n7.1. Size:257K nec\nne856 2sc5011 2sc5006 2sc4226 2sc3355 2sc3603 2sc3356 2sc3357 2sc3603 2sc4093.pdf \nNEC's NPN SILICON HIGH NE856FREQUENCY TRANSISTOR SERIESFEATURES HIGH GAIN BANDWIDTH PRODUCT:fT = 7 GHz LOW NOISE FIGURE:1.1 dB at 1 GHz HIGH COLLECTOR CURRENT: 100 mA HIGH RELIABILITY METALLIZATION35 (MICRO-X)00 (CHIP) LOW COSTDESCRIPTIONNEC's NE856 series of NPN epitaxial silicon transistors isdesigned for low cost amplifier and oscillator application\n7.2. Size:77K nec\n2sc3357.pdf \nDATA SHEETSILICON TRANSISTOR2SC3357NPN SILICON EPITAXIAL TRANSISTORPOWER MINI MOLDDESCRIPTIONPACKAGE DIMENSIONSThe 2SC3357 is an NPN silicon epitaxial transistor designed for(Unit: mm)low noise amplifier at VHF, UHF and CATV band.It has large dynamic range and good current characteristic.4.50.11.50.11.60.2FEATURES Low Noise and High GainNF = 1.1 dB TYP.,\n7.3. Size:1019K kexin\n2sc3357.pdf \nSMD Type TransistorsNPN Transistors2SC33571.70 0.1 Features Low noise and high gain High power gain Large Ptot0.42 0.10.46 0.11.Base2.Collector3.Emitter Absolute Maximum Ratings Ta = 25Parameter Symbol Rating Unit Collector - Base Voltage VCBO 20 Collector - Emitter Voltage VCEO 12 V Emitter - Base Voltage VEBO 3 Collector Current - Conti\nDatasheet: 2SA1015-L , 2SB772-E , 2SB772-P , 2SB772-Q , 2SC3356-R23 , 2SC3356-R24 , 2SC3356-R26 , 2SC3357-E , BF422 , 2SC4226-R23 , 2SC945-H , 2SC945-L , 2SD882-E , 2SD882-P , 2SD882-Q , 2SA200-O , 2SA200-Y . \nHistory: 2SC4226-R23 | 2SC945-H | 2SC945-L | 2SD882-Q | 2SA200-Y | GA1A4M \nKeywords - 2SC3357-F transistor datasheet\n2SC3357-F cross reference\n2SC3357-F equivalent finder\n2SC3357-F lookup\n2SC3357-F substitution\n2SC3357-F replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "SOT89",
+      "maxCollectorCurrent": 0.1,
+      "maxCollectorEmitterVoltage": 12,
+      "maxCollectorBaseVoltage": 20,
+      "maxEmitterBaseVoltage": 3,
+      "maxPowerDissipation": 1.2,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 6500,
+      "hFE": 80,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "SOT89",
+        "Collector Power Dissipation": "1.2W",
+        "Collector-Base Voltage": "20V",
+        "Collector-Emitter Voltage": "12V",
+        "Emitter-Base Voltage": "3V",
+        "Collector Current": "0.1A",
+        "Current Gain (hFE)": "80",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "6500MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "nec (77K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc3357.pdf&dire=_nec"
+        },
+        {
+          "name": "kexin (1019K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc3357.pdf&dire=_kexin"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SA1015",
+          "name": "2SA1015",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3357-F",
+          "manufacturer": "Various",
+          "href": "/component/2SA1015"
+        },
+        {
+          "id": "2SB772",
+          "name": "2SB772",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3357-F",
+          "manufacturer": "Various",
+          "href": "/component/2SB772"
+        },
+        {
+          "id": "2SB772",
+          "name": "2SB772",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3357-F",
+          "manufacturer": "Various",
+          "href": "/component/2SB772"
+        },
+        {
+          "id": "2SB772",
+          "name": "2SB772",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3357-F",
+          "manufacturer": "Various",
+          "href": "/component/2SB772"
+        },
+        {
+          "id": "2SC3356",
+          "name": "2SC3356",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3357-F",
+          "manufacturer": "Various",
+          "href": "/component/2SC3356"
+        },
+        {
+          "id": "2SC3356",
+          "name": "2SC3356",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3357-F",
+          "manufacturer": "Various",
+          "href": "/component/2SC3356"
+        },
+        {
+          "id": "2SC3356",
+          "name": "2SC3356",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3357-F",
+          "manufacturer": "Various",
+          "href": "/component/2SC3356"
+        },
+        {
+          "id": "2SC3357",
+          "name": "2SC3357",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3357-F",
+          "manufacturer": "Various",
+          "href": "/component/2SC3357"
+        },
+        {
+          "id": "2SC4226",
+          "name": "2SC4226",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3357-F",
+          "manufacturer": "Various",
+          "href": "/component/2SC4226"
+        },
+        {
+          "id": "2SC945",
+          "name": "2SC945",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3357-F",
+          "manufacturer": "Various",
+          "href": "/component/2SC945"
+        },
+        {
+          "id": "2SC945",
+          "name": "2SC945",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3357-F",
+          "manufacturer": "Various",
+          "href": "/component/2SC945"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3357-F",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3357-F",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3357-F",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SA200",
+          "name": "2SA200",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3357-F",
+          "manufacturer": "Various",
+          "href": "/component/2SA200"
+        },
+        {
+          "id": "2SA200",
+          "name": "2SA200",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3357-F",
+          "manufacturer": "Various",
+          "href": "/component/2SA200"
+        }
+      ],
+      "href": "/component/2SC3357-F"
+    },
+    {
+      "id": "2SC3356-R26",
+      "name": "2SC3356-R26",
+      "type": "NPN Transistor",
+      "description": "OT23 \n- BJT Cross-Reference Search\n2SC3356-R26 Datasheet (PDF)\n..1. Size:1194K cn evvo\n2sc3356-r23 2sc3356-r24 2sc3356-r25 2sc3356-r26.pdf \n2SC3356NPN Transistors3Features2Low noise and high gain.1. GateNF = 1.1 dB Typ., Ga = 11 dB Typ. @VCE = 10 V, IC = 7 mA, f = 1.0 GHz2. Source13. DrainHigh power gain.MAG = 13 dB Typ. @VCE = 10 V, IC = 20 mA, f = 1.0 GHz Simplified outline(SOT23)Absolute Maximum Ratings Ta = 25Parameter Symbol Rating UnitCollector to base voltage VCBO 20 VCollector to emitter\n4.1. Size:661K jsmsemi\n2sc3356-r25.pdf \n2SC3356-R25Silicon Epitaxial Planar Transistor Silicon Epitaxial Planar Transistor 2SC3356-R25 FEATURES Low noise and high gain. NF=1.1dB TYP.,Ga=11dB TYP. @VCE=10V,IC=7mA, f=1.0GHz High power gain. MAG=13dB TYP. @VCE=10V,IC=20mA,f=1.0GHz. APPLICATIONS SOT-23 Designed for low noise amplifier at VHF,UHF and CATV band. ORDERING INFORMATION Type No. Marking Package C\n7.1. Size:257K nec\nne856 2sc5011 2sc5006 2sc4226 2sc3355 2sc3603 2sc3356 2sc3357 2sc3603 2sc4093.pdf \nNEC's NPN SILICON HIGH NE856FREQUENCY TRANSISTOR SERIESFEATURES HIGH GAIN BANDWIDTH PRODUCT:fT = 7 GHz LOW NOISE FIGURE:1.1 dB at 1 GHz HIGH COLLECTOR CURRENT: 100 mA HIGH RELIABILITY METALLIZATION35 (MICRO-X)00 (CHIP) LOW COSTDESCRIPTIONNEC's NE856 series of NPN epitaxial silicon transistors isdesigned for low cost amplifier and oscillator application\nDatasheet: HSS8550 , 2SA1015-H , 2SA1015-L , 2SB772-E , 2SB772-P , 2SB772-Q , 2SC3356-R23 , 2SC3356-R24 , 2SD400 , 2SC3357-E , 2SC3357-F , 2SC4226-R23 , 2SC945-H , 2SC945-L , 2SD882-E , 2SD882-P , 2SD882-Q . \nHistory: 2SC3357-F | 2SC4226-R23 | 2SC945-H | 2SC945-L | 2SD882-Q | 2SA200-Y | GA1A4M \nKeywords - 2SC3356-R26 transistor datasheet\n2SC3356-R26 cross reference\n2SC3356-R26 equivalent finder\n2SC3356-R26 lookup\n2SC3356-R26 substitution\n2SC3356-R26 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "SOT23",
+      "maxCollectorCurrent": 0.1,
+      "maxCollectorEmitterVoltage": 12,
+      "maxCollectorBaseVoltage": 20,
+      "maxEmitterBaseVoltage": 3,
+      "maxPowerDissipation": 0.2,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 7000,
+      "hFE": 250,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "SOT23",
+        "Collector Power Dissipation": "0.2W",
+        "Collector-Base Voltage": "20V",
+        "Collector-Emitter Voltage": "12V",
+        "Emitter-Base Voltage": "3V",
+        "Collector Current": "0.1A",
+        "Current Gain (hFE)": "250",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "7000MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "jsmsemi (661K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc3356-r25.pdf&dire=_jsmsemi"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "HSS8550",
+          "name": "HSS8550",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3356-R26",
+          "manufacturer": "Various",
+          "href": "/component/HSS8550"
+        },
+        {
+          "id": "2SA1015",
+          "name": "2SA1015",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3356-R26",
+          "manufacturer": "Various",
+          "href": "/component/2SA1015"
+        },
+        {
+          "id": "2SA1015",
+          "name": "2SA1015",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3356-R26",
+          "manufacturer": "Various",
+          "href": "/component/2SA1015"
+        },
+        {
+          "id": "2SB772",
+          "name": "2SB772",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3356-R26",
+          "manufacturer": "Various",
+          "href": "/component/2SB772"
+        },
+        {
+          "id": "2SB772",
+          "name": "2SB772",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3356-R26",
+          "manufacturer": "Various",
+          "href": "/component/2SB772"
+        },
+        {
+          "id": "2SB772",
+          "name": "2SB772",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3356-R26",
+          "manufacturer": "Various",
+          "href": "/component/2SB772"
+        },
+        {
+          "id": "2SC3356",
+          "name": "2SC3356",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3356-R26",
+          "manufacturer": "Various",
+          "href": "/component/2SC3356"
+        },
+        {
+          "id": "2SC3356",
+          "name": "2SC3356",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3356-R26",
+          "manufacturer": "Various",
+          "href": "/component/2SC3356"
+        },
+        {
+          "id": "2SD400",
+          "name": "2SD400",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3356-R26",
+          "manufacturer": "Various",
+          "href": "/component/2SD400"
+        },
+        {
+          "id": "2SC3357",
+          "name": "2SC3357",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3356-R26",
+          "manufacturer": "Various",
+          "href": "/component/2SC3357"
+        },
+        {
+          "id": "2SC3357",
+          "name": "2SC3357",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3356-R26",
+          "manufacturer": "Various",
+          "href": "/component/2SC3357"
+        },
+        {
+          "id": "2SC4226",
+          "name": "2SC4226",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3356-R26",
+          "manufacturer": "Various",
+          "href": "/component/2SC4226"
+        },
+        {
+          "id": "2SC945",
+          "name": "2SC945",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3356-R26",
+          "manufacturer": "Various",
+          "href": "/component/2SC945"
+        },
+        {
+          "id": "2SC945",
+          "name": "2SC945",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3356-R26",
+          "manufacturer": "Various",
+          "href": "/component/2SC945"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3356-R26",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3356-R26",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3356-R26",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        }
+      ],
+      "href": "/component/2SC3356-R26"
+    },
+    {
+      "id": "2SC3356-R24",
+      "name": "2SC3356-R24",
+      "type": "NPN Transistor",
+      "description": "OT23 \n- BJT Cross-Reference Search\n2SC3356-R24 Datasheet (PDF)\n..1. Size:1194K cn evvo\n2sc3356-r23 2sc3356-r24 2sc3356-r25 2sc3356-r26.pdf \n2SC3356NPN Transistors3Features2Low noise and high gain.1. GateNF = 1.1 dB Typ., Ga = 11 dB Typ. @VCE = 10 V, IC = 7 mA, f = 1.0 GHz2. Source13. DrainHigh power gain.MAG = 13 dB Typ. @VCE = 10 V, IC = 20 mA, f = 1.0 GHz Simplified outline(SOT23)Absolute Maximum Ratings Ta = 25Parameter Symbol Rating UnitCollector to base voltage VCBO 20 VCollector to emitter\n4.1. Size:661K jsmsemi\n2sc3356-r25.pdf \n2SC3356-R25Silicon Epitaxial Planar Transistor Silicon Epitaxial Planar Transistor 2SC3356-R25 FEATURES Low noise and high gain. NF=1.1dB TYP.,Ga=11dB TYP. @VCE=10V,IC=7mA, f=1.0GHz High power gain. MAG=13dB TYP. @VCE=10V,IC=20mA,f=1.0GHz. APPLICATIONS SOT-23 Designed for low noise amplifier at VHF,UHF and CATV band. ORDERING INFORMATION Type No. Marking Package C\n7.1. Size:257K nec\nne856 2sc5011 2sc5006 2sc4226 2sc3355 2sc3603 2sc3356 2sc3357 2sc3603 2sc4093.pdf \nNEC's NPN SILICON HIGH NE856FREQUENCY TRANSISTOR SERIESFEATURES HIGH GAIN BANDWIDTH PRODUCT:fT = 7 GHz LOW NOISE FIGURE:1.1 dB at 1 GHz HIGH COLLECTOR CURRENT: 100 mA HIGH RELIABILITY METALLIZATION35 (MICRO-X)00 (CHIP) LOW COSTDESCRIPTIONNEC's NE856 series of NPN epitaxial silicon transistors isdesigned for low cost amplifier and oscillator application\nDatasheet: HSS8050 , HSS8550 , 2SA1015-H , 2SA1015-L , 2SB772-E , 2SB772-P , 2SB772-Q , 2SC3356-R23 , TIP32C , 2SC3356-R26 , 2SC3357-E , 2SC3357-F , 2SC4226-R23 , 2SC945-H , 2SC945-L , 2SD882-E , 2SD882-P . \nHistory: 2SC3357-F | 2SC4226-R23 | 2SC945-H | 2SC945-L | 2SD882-Q | 2SA200-Y | GA1A4M \nKeywords - 2SC3356-R24 transistor datasheet\n2SC3356-R24 cross reference\n2SC3356-R24 equivalent finder\n2SC3356-R24 lookup\n2SC3356-R24 substitution\n2SC3356-R24 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "SOT23",
+      "maxCollectorCurrent": 0.1,
+      "maxCollectorEmitterVoltage": 12,
+      "maxCollectorBaseVoltage": 20,
+      "maxEmitterBaseVoltage": 3,
+      "maxPowerDissipation": 0.2,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 7000,
+      "hFE": 80,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "SOT23",
+        "Collector Power Dissipation": "0.2W",
+        "Collector-Base Voltage": "20V",
+        "Collector-Emitter Voltage": "12V",
+        "Emitter-Base Voltage": "3V",
+        "Collector Current": "0.1A",
+        "Current Gain (hFE)": "80",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "7000MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "jsmsemi (661K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc3356-r25.pdf&dire=_jsmsemi"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "HSS8050",
+          "name": "HSS8050",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3356-R24",
+          "manufacturer": "Various",
+          "href": "/component/HSS8050"
+        },
+        {
+          "id": "HSS8550",
+          "name": "HSS8550",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3356-R24",
+          "manufacturer": "Various",
+          "href": "/component/HSS8550"
+        },
+        {
+          "id": "2SA1015",
+          "name": "2SA1015",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3356-R24",
+          "manufacturer": "Various",
+          "href": "/component/2SA1015"
+        },
+        {
+          "id": "2SA1015",
+          "name": "2SA1015",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3356-R24",
+          "manufacturer": "Various",
+          "href": "/component/2SA1015"
+        },
+        {
+          "id": "2SB772",
+          "name": "2SB772",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3356-R24",
+          "manufacturer": "Various",
+          "href": "/component/2SB772"
+        },
+        {
+          "id": "2SB772",
+          "name": "2SB772",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3356-R24",
+          "manufacturer": "Various",
+          "href": "/component/2SB772"
+        },
+        {
+          "id": "2SB772",
+          "name": "2SB772",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3356-R24",
+          "manufacturer": "Various",
+          "href": "/component/2SB772"
+        },
+        {
+          "id": "2SC3356",
+          "name": "2SC3356",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3356-R24",
+          "manufacturer": "Various",
+          "href": "/component/2SC3356"
+        },
+        {
+          "id": "TIP32C",
+          "name": "TIP32C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3356-R24",
+          "manufacturer": "Various",
+          "href": "/component/TIP32C"
+        },
+        {
+          "id": "2SC3356",
+          "name": "2SC3356",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3356-R24",
+          "manufacturer": "Various",
+          "href": "/component/2SC3356"
+        },
+        {
+          "id": "2SC3357",
+          "name": "2SC3357",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3356-R24",
+          "manufacturer": "Various",
+          "href": "/component/2SC3357"
+        },
+        {
+          "id": "2SC3357",
+          "name": "2SC3357",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3356-R24",
+          "manufacturer": "Various",
+          "href": "/component/2SC3357"
+        },
+        {
+          "id": "2SC4226",
+          "name": "2SC4226",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3356-R24",
+          "manufacturer": "Various",
+          "href": "/component/2SC4226"
+        },
+        {
+          "id": "2SC945",
+          "name": "2SC945",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3356-R24",
+          "manufacturer": "Various",
+          "href": "/component/2SC945"
+        },
+        {
+          "id": "2SC945",
+          "name": "2SC945",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3356-R24",
+          "manufacturer": "Various",
+          "href": "/component/2SC945"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3356-R24",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        },
+        {
+          "id": "2SD882",
+          "name": "2SD882",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC3356-R24",
+          "manufacturer": "Various",
+          "href": "/component/2SD882"
+        }
+      ],
+      "href": "/component/2SC3356-R24"
+    },
+    {
+      "id": "2SB772-Q",
+      "name": "2SB772-Q",
+      "type": "PNP Transistor",
+      "description": "OT89 \n- BJT Cross-Reference Search\n2SB772-Q Datasheet (PDF)\n..1. Size:490K cn evvo\n2sb772-r 2sb772-q 2sb772-p 2sb772-e.pdf \nB772PNP Transistors Features3 PNP transistor High current output up to 3A2 Low Saturation Voltage1.Base1 Complement to 2SD8822.Collector3.Emitter Simplified outline(SOT-89) Absolute Maximum Ratings Ta = 25Parameter Symbol Rating UnitCollector to Base Voltage VCBO -40 VCollector to Emitter Voltage VCEO -30 VEmitter to Base Voltage VEBO -6 V\n7.1. Size:287K mcc\n2sb772-r.pdf \n2SB772-RMCC2SB772-OMicro Commercial ComponentsTM20736 Marilla Street Chatsworth2SB772-YMicro Commercial ComponentsCA 913112SB772-GRPhone: (818) 701-4933Fax: (818) 701-4939Features Lead Free Finish/RoHS Compliant (Note1) (\"P\" Suffix designates PNP SiliconRoHS Compliant. See ordering information) Epoxy meets UL 94 V-0 flammability ratingPlastic-Encapsulat\n7.2. Size:287K mcc\n2sb772-y.pdf \n2SB772-RMCC2SB772-OMicro Commercial ComponentsTM20736 Marilla Street Chatsworth2SB772-YMicro Commercial ComponentsCA 913112SB772-GRPhone: (818) 701-4933Fax: (818) 701-4939Features Lead Free Finish/RoHS Compliant (Note1) (\"P\" Suffix designates PNP SiliconRoHS Compliant. See ordering information) Epoxy meets UL 94 V-0 flammability ratingPlastic-Encapsulat\n7.3. Size:287K mcc\n2sb772-gr.pdf \n2SB772-RMCC2SB772-OMicro Commercial ComponentsTM20736 Marilla Street Chatsworth2SB772-YMicro Commercial ComponentsCA 913112SB772-GRPhone: (818) 701-4933Fax: (818) 701-4939Features Lead Free Finish/RoHS Compliant (Note1) (\"P\" Suffix designates PNP SiliconRoHS Compliant. See ordering information) Epoxy meets UL 94 V-0 flammability ratingPlastic-Encapsulat\nDatasheet: HSA1037AKR , HSA1037AKS , HSS8050 , HSS8550 , 2SA1015-H , 2SA1015-L , 2SB772-E , 2SB772-P , BC639 , 2SC3356-R23 , 2SC3356-R24 , 2SC3356-R26 , 2SC3357-E , 2SC3357-F , 2SC4226-R23 , 2SC945-H , 2SC945-L . \nHistory: 2SC3356-R24 | 2SC3357-F | 2SC4226-R23 | 2SC945-H | 2SC945-L | 2SD882-Q | 2SA200-Y \nKeywords - 2SB772-Q transistor datasheet\n2SB772-Q cross reference\n2SB772-Q equivalent finder\n2SB772-Q lookup\n2SB772-Q substitution\n2SB772-Q replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "SOT89",
+      "maxCollectorCurrent": 3,
+      "maxCollectorEmitterVoltage": 30,
+      "maxCollectorBaseVoltage": 40,
+      "maxEmitterBaseVoltage": 6,
+      "maxPowerDissipation": 0.5,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 50,
+      "hFE": 100,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "SOT89",
+        "Collector Power Dissipation": "0.5W",
+        "Collector-Base Voltage": "40V",
+        "Collector-Emitter Voltage": "30V",
+        "Emitter-Base Voltage": "6V",
+        "Collector Current": "3A",
+        "Current Gain (hFE)": "100",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "50MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "mcc (287K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sb772-r.pdf&dire=_mcc"
+        },
+        {
+          "name": "mcc (287K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sb772-y.pdf&dire=_mcc"
+        },
+        {
+          "name": "mcc (287K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sb772-gr.pdf&dire=_mcc"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "HSA1037AKR",
+          "name": "HSA1037AKR",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SB772-Q",
+          "manufacturer": "Various",
+          "href": "/component/HSA1037AKR"
+        },
+        {
+          "id": "HSA1037AKS",
+          "name": "HSA1037AKS",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SB772-Q",
+          "manufacturer": "Various",
+          "href": "/component/HSA1037AKS"
+        },
+        {
+          "id": "HSS8050",
+          "name": "HSS8050",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SB772-Q",
+          "manufacturer": "Various",
+          "href": "/component/HSS8050"
+        },
+        {
+          "id": "HSS8550",
+          "name": "HSS8550",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SB772-Q",
+          "manufacturer": "Various",
+          "href": "/component/HSS8550"
+        },
+        {
+          "id": "2SA1015",
+          "name": "2SA1015",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SB772-Q",
+          "manufacturer": "Various",
+          "href": "/component/2SA1015"
+        },
+        {
+          "id": "2SA1015",
+          "name": "2SA1015",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SB772-Q",
+          "manufacturer": "Various",
+          "href": "/component/2SA1015"
+        },
+        {
+          "id": "2SB772",
+          "name": "2SB772",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SB772-Q",
+          "manufacturer": "Various",
+          "href": "/component/2SB772"
+        },
+        {
+          "id": "2SB772",
+          "name": "2SB772",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SB772-Q",
+          "manufacturer": "Various",
+          "href": "/component/2SB772"
+        },
+        {
+          "id": "2SC3356",
+          "name": "2SC3356",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SB772-Q",
+          "manufacturer": "Various",
+          "href": "/component/2SC3356"
+        },
+        {
+          "id": "2SC3356",
+          "name": "2SC3356",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SB772-Q",
+          "manufacturer": "Various",
+          "href": "/component/2SC3356"
+        },
+        {
+          "id": "2SC3356",
+          "name": "2SC3356",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SB772-Q",
+          "manufacturer": "Various",
+          "href": "/component/2SC3356"
+        },
+        {
+          "id": "2SC3357",
+          "name": "2SC3357",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SB772-Q",
+          "manufacturer": "Various",
+          "href": "/component/2SC3357"
+        },
+        {
+          "id": "2SC3357",
+          "name": "2SC3357",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SB772-Q",
+          "manufacturer": "Various",
+          "href": "/component/2SC3357"
+        },
+        {
+          "id": "2SC4226",
+          "name": "2SC4226",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SB772-Q",
+          "manufacturer": "Various",
+          "href": "/component/2SC4226"
+        },
+        {
+          "id": "2SC945",
+          "name": "2SC945",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SB772-Q",
+          "manufacturer": "Various",
+          "href": "/component/2SC945"
+        },
+        {
+          "id": "2SC945",
+          "name": "2SC945",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2SB772-Q",
+          "manufacturer": "Various",
+          "href": "/component/2SC945"
+        }
+      ],
+      "href": "/component/2SB772-Q"
+    }
+  ]
+}

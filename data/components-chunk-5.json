@@ -1,0 +1,3044 @@
+{
+  "components": [
+    {
+      "id": "IRF640",
+      "name": "IRF640",
+      "type": "Transistor",
+      "description": "O220AB \n- MOSFET Cross-Reference Search\nIRF640 Datasheet (PDF)\n..2. Size:2211K international rectifier\nirf640pbf.pdf \nPD - 94930IRF640PbF Lead-Free1/8/04Document Number: 91036 www.vishay.com1IRF640PbFDocument Number: 91036 www.vishay.com2IRF640PbFDocument Number: 91036 www.vishay.com3IRF640PbFDocument Number: 91036 www.vishay.com4IRF640PbFDocument Number: 91036 www.vishay.com5IRF640PbFDocument Number: 91036 www.vishay.com6IRF640PbFTO-220AB Package OutlineD\n..4. Size:97K philips\nirf640 s 1.pdf \nPhilips Semiconductors Product specification N-channel TrenchMOS transistor IRF640, IRF640S FEATURES SYMBOL QUICK REFERENCE DATA Trench technology d Low on-state resistance VDSS = 200 V Fast switching Low thermal resistance ID = 16 AgRDS(ON) 180 msGENERAL DESCRIPTIONN-channel, enhancement mode field-effect power transistor using Trench technolog\nDatasheet: IRF631 , IRF632 , IRF633 , IRF634 , IRF634A , IRF634S , IRF635 , IRF636A , 7N60 , IRF640A , IRF640FI , IRF640L , IRF640S , IRF641 , IRF642 , IRF643 , IRF644 . \nKeywords - IRF640 MOSFET datasheet\nIRF640 cross reference\nIRF640 equivalent finder\nIRF640 lookup\nIRF640 substitution\nIRF640 replacement",
+      "manufacturer": "Various",
+      "polarity": "",
+      "material": "",
+      "package": "TO220AB",
+      "specs": {
+        "Polarity": "",
+        "Material": "",
+        "Package": "TO220AB",
+        "Collector Power Dissipation": "N/A",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "N/A",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "N/A",
+        "Current Gain (hFE)": "N/A",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "international rectifier (2211K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=irf640pbf.pdf&dire=_international_rectifier"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "IRF631",
+          "name": "IRF631",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF640",
+          "manufacturer": "Various",
+          "href": "/component/IRF631"
+        },
+        {
+          "id": "IRF632",
+          "name": "IRF632",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF640",
+          "manufacturer": "Various",
+          "href": "/component/IRF632"
+        },
+        {
+          "id": "IRF633",
+          "name": "IRF633",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF640",
+          "manufacturer": "Various",
+          "href": "/component/IRF633"
+        },
+        {
+          "id": "IRF634",
+          "name": "IRF634",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF640",
+          "manufacturer": "Various",
+          "href": "/component/IRF634"
+        },
+        {
+          "id": "IRF634A",
+          "name": "IRF634A",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF640",
+          "manufacturer": "Various",
+          "href": "/component/IRF634A"
+        },
+        {
+          "id": "IRF634S",
+          "name": "IRF634S",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF640",
+          "manufacturer": "Various",
+          "href": "/component/IRF634S"
+        },
+        {
+          "id": "IRF635",
+          "name": "IRF635",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF640",
+          "manufacturer": "Various",
+          "href": "/component/IRF635"
+        },
+        {
+          "id": "IRF636A",
+          "name": "IRF636A",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF640",
+          "manufacturer": "Various",
+          "href": "/component/IRF636A"
+        },
+        {
+          "id": "IRF640A",
+          "name": "IRF640A",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF640",
+          "manufacturer": "Various",
+          "href": "/component/IRF640A"
+        },
+        {
+          "id": "IRF640FI",
+          "name": "IRF640FI",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF640",
+          "manufacturer": "Various",
+          "href": "/component/IRF640FI"
+        },
+        {
+          "id": "IRF640L",
+          "name": "IRF640L",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF640",
+          "manufacturer": "Various",
+          "href": "/component/IRF640L"
+        },
+        {
+          "id": "IRF640S",
+          "name": "IRF640S",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF640",
+          "manufacturer": "Various",
+          "href": "/component/IRF640S"
+        },
+        {
+          "id": "IRF641",
+          "name": "IRF641",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF640",
+          "manufacturer": "Various",
+          "href": "/component/IRF641"
+        },
+        {
+          "id": "IRF642",
+          "name": "IRF642",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF640",
+          "manufacturer": "Various",
+          "href": "/component/IRF642"
+        },
+        {
+          "id": "IRF643",
+          "name": "IRF643",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF640",
+          "manufacturer": "Various",
+          "href": "/component/IRF643"
+        },
+        {
+          "id": "IRF644",
+          "name": "IRF644",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF640",
+          "manufacturer": "Various",
+          "href": "/component/IRF644"
+        }
+      ],
+      "href": "/component/IRF640"
+    },
+    {
+      "id": "2N3055",
+      "name": "2N3055",
+      "type": "NPN Transistor",
+      "description": "O3 \n- BJT Cross-Reference Search\n2N3055 Datasheet (PDF)\n..2. Size:179K motorola\n2n3055 mj2955.pdf \nOrder this documentMOTOROLAby 2N3055/DSEMICONDUCTOR TECHNICAL DATANPN2N3055 *Complementary Silicon Power PNPMJ2955*Transistors. . . designed for generalpurpose switching and amplifier applications.*Motorola Preferred Device DC Current Gain hFE = 2070 @ IC = 4 Adc CollectorEmitter Saturation Voltage 15 AMPEREVCE(sat) = 1.1 Vdc (Max) @ IC = 4 Adc P\n..3. Size:39K st\n2n3055.pdf \n2N3055SILICON NPN TRANSISTORn SGS-THOMSON PREFERRED SALESTYPEDESCRIPTIONThe 2N3055 is a silicon epitaxial-base NPNtransistor in Jedec TO-3 metal case. It is intendedfor power switching circuits, series and shuntregulators, output stages and high fidelityamplifiers.12TO-3INTERNAL SCHEMATIC DIAGRAMABSOLUTE MAXIMUM RATINGSSymbol Parameter Value UnitVCBO Collector-Base\n..4. Size:90K st\n2n3055 mj2955 2.pdf \n2N3055MJ2955Complementary power transistorsFeatures Low collector-emitter saturation voltage Complementary NPN - PNP transistorsApplications General purpose Audio Amplifier12DescriptionTO-3The devices are manufactured in epitaxial-base planar technology and are suitable for audio, power linear and switching applications.Figure 1. Internal schematic d\nDatasheet: 2N3053 , 2N3053A , 2N3053L , 2N3053S , 2N3053SM , 2N3054 , 2N3054A , 2N3054S , TIP2955 , 2N3055-1 , 2N3055-10 , 2N3055-2 , 2N3055-3 , 2N3055-4 , 2N3055-5 , 2N3055-6 , 2N3055-7 . \nHistory: 2N5551 | C945 | TIP41C | BD139 | 2SC5200 | B772 | 8050 \nKeywords - 2N3055 transistor datasheet\n2N3055 cross reference\n2N3055 equivalent finder\n2N3055 lookup\n2N3055 substitution\n2N3055 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO3",
+      "maxCollectorCurrent": 15,
+      "maxCollectorEmitterVoltage": 70,
+      "maxCollectorBaseVoltage": 100,
+      "maxEmitterBaseVoltage": 7,
+      "maxPowerDissipation": 117,
+      "maxJunctionTemperature": 200,
+      "transitionFrequency": 0.2,
+      "hFE": 20,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO3",
+        "Collector Power Dissipation": "117W",
+        "Collector-Base Voltage": "100V",
+        "Collector-Emitter Voltage": "70V",
+        "Emitter-Base Voltage": "7V",
+        "Collector Current": "15A",
+        "Current Gain (hFE)": "20",
+        "Junction Temperature": "200°C",
+        "Transition Frequency": "0.2MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "st (39K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2n3055.pdf&dire=_st"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "TIP2955",
+          "name": "TIP2955",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2N3055",
+          "manufacturer": "Various",
+          "href": "/component/TIP2955"
+        }
+      ],
+      "href": "/component/2N3055"
+    },
+    {
+      "id": "IRFZ44",
+      "name": "IRFZ44",
+      "type": "Transistor",
+      "description": "O220 \n- MOSFET Cross-Reference Search\nIRFZ44 Datasheet (PDF)\n..1. Size:859K international rectifier\nirfz44.pdf \nPD - 94943IRFZ44PbF Lead-Free01/14/04Document Number: 91291 www.vishay.com1IRFZ44PbFDocument Number: 91291 www.vishay.com2IRFZ44PbFDocument Number: 91291 www.vishay.com3IRFZ44PbFDocument Number: 91291 www.vishay.com4IRFZ44PbFDocument Number: 91291 www.vishay.com5IRFZ44PbFDocument Number: 91291 www.vishay.com6IRFZ44PbFTO-220AB Package Outline\n..2. Size:1540K vishay\nirfz44 sihfz44.pdf \nIRFZ44, SiHFZ44Vishay SiliconixPower MOSFETFEATURESPRODUCT SUMMARY Dynamic dV/dt RatingVDS (V) 60Available 175 C Operating TemperatureRDS(on) ()VGS = 10 V 0.028RoHS* Fast SwitchingQg (Max.) (nC) 67COMPLIANT Ease of ParallelingQgs (nC) 18Qgd (nC) 25 Simple Drive RequirementsConfiguration Single Compliant to RoHS Directive 2002/95/ECD\n..3. Size:1542K vishay\nirfz44pbf sihfz44.pdf \nIRFZ44, SiHFZ44Vishay SiliconixPower MOSFETFEATURESPRODUCT SUMMARY Dynamic dV/dt RatingVDS (V) 60Available 175 C Operating TemperatureRDS(on) ()VGS = 10 V 0.028RoHS* Fast SwitchingQg (Max.) (nC) 67COMPLIANT Ease of ParallelingQgs (nC) 18Qgd (nC) 25 Simple Drive RequirementsConfiguration Single Compliant to RoHS Directive 2002/95/ECD\n0.1. Size:382K international rectifier\nirfz44zlpbf irfz44zpbf irfz44zspbf.pdf \nPD - 95379AIRFZ44ZPbFIRFZ44ZSPbFFeatures Advanced Process TechnologyIRFZ44ZLPbF Ultra Low On-ResistanceHEXFET Power MOSFET Dynamic dv/dt Rating 175C Operating TemperatureD Fast SwitchingVDSS = 55V Repetitive Avalanche Allowed up to Tjmax Lead-FreeRDS(on) = 13.9mGDescriptionID = 51ASThis HEXFET Power MOSFET utilizes the latestprocessing techniqu\nDatasheet: IRFZ34E , IRFZ34N , IRFZ34NL , IRFZ34NS , IRFZ35 , IRFZ40 , IRFZ40FI , IRFZ42 , AO4468 , IRFZ44A , IRFZ44E , IRFZ44EL , IRFZ44ES , IRFZ44N , IRFZ44NL , IRFZ44NS , IRFZ45 . \nKeywords - IRFZ44 MOSFET datasheet\nIRFZ44 cross reference\nIRFZ44 equivalent finder\nIRFZ44 lookup\nIRFZ44 substitution\nIRFZ44 replacement",
+      "manufacturer": "Various",
+      "polarity": "",
+      "material": "",
+      "package": "TO220",
+      "specs": {
+        "Polarity": "",
+        "Material": "",
+        "Package": "TO220",
+        "Collector Power Dissipation": "N/A",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "N/A",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "N/A",
+        "Current Gain (hFE)": "N/A",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "international rectifier (859K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=irfz44.pdf&dire=_international_rectifier"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "IRFZ34E",
+          "name": "IRFZ34E",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFZ44",
+          "manufacturer": "Various",
+          "href": "/component/IRFZ34E"
+        },
+        {
+          "id": "IRFZ34N",
+          "name": "IRFZ34N",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFZ44",
+          "manufacturer": "Various",
+          "href": "/component/IRFZ34N"
+        },
+        {
+          "id": "IRFZ34NL",
+          "name": "IRFZ34NL",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFZ44",
+          "manufacturer": "Various",
+          "href": "/component/IRFZ34NL"
+        },
+        {
+          "id": "IRFZ34NS",
+          "name": "IRFZ34NS",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFZ44",
+          "manufacturer": "Various",
+          "href": "/component/IRFZ34NS"
+        },
+        {
+          "id": "IRFZ35",
+          "name": "IRFZ35",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFZ44",
+          "manufacturer": "Various",
+          "href": "/component/IRFZ35"
+        },
+        {
+          "id": "IRFZ40",
+          "name": "IRFZ40",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFZ44",
+          "manufacturer": "Various",
+          "href": "/component/IRFZ40"
+        },
+        {
+          "id": "IRFZ40FI",
+          "name": "IRFZ40FI",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFZ44",
+          "manufacturer": "Various",
+          "href": "/component/IRFZ40FI"
+        },
+        {
+          "id": "IRFZ42",
+          "name": "IRFZ42",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFZ44",
+          "manufacturer": "Various",
+          "href": "/component/IRFZ42"
+        },
+        {
+          "id": "IRFZ44A",
+          "name": "IRFZ44A",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFZ44",
+          "manufacturer": "Various",
+          "href": "/component/IRFZ44A"
+        },
+        {
+          "id": "IRFZ44E",
+          "name": "IRFZ44E",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFZ44",
+          "manufacturer": "Various",
+          "href": "/component/IRFZ44E"
+        },
+        {
+          "id": "IRFZ44EL",
+          "name": "IRFZ44EL",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFZ44",
+          "manufacturer": "Various",
+          "href": "/component/IRFZ44EL"
+        },
+        {
+          "id": "IRFZ44ES",
+          "name": "IRFZ44ES",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFZ44",
+          "manufacturer": "Various",
+          "href": "/component/IRFZ44ES"
+        },
+        {
+          "id": "IRFZ44N",
+          "name": "IRFZ44N",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFZ44",
+          "manufacturer": "Various",
+          "href": "/component/IRFZ44N"
+        },
+        {
+          "id": "IRFZ44NL",
+          "name": "IRFZ44NL",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFZ44",
+          "manufacturer": "Various",
+          "href": "/component/IRFZ44NL"
+        },
+        {
+          "id": "IRFZ44NS",
+          "name": "IRFZ44NS",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFZ44",
+          "manufacturer": "Various",
+          "href": "/component/IRFZ44NS"
+        },
+        {
+          "id": "IRFZ45",
+          "name": "IRFZ45",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFZ44",
+          "manufacturer": "Various",
+          "href": "/component/IRFZ45"
+        }
+      ],
+      "href": "/component/IRFZ44"
+    },
+    {
+      "id": "FGH40N60SFD",
+      "name": "FGH40N60SFD",
+      "type": "Transistor",
+      "description": "High current capability Using Novel Field Stop IGBT Technology, Fairchilds new ses-ries of Field Stop IGBTs offer the optimum performance for Low saturation voltage: VCE(sat) =2.3V @ IC = 40AInduction Heating, UPS, SMPS and PFC applications where High input impedancelow conduction and swi\n..2. Size:435K onsemi",
+      "manufacturer": "Various",
+      "polarity": "",
+      "material": "",
+      "package": "TO247",
+      "specs": {
+        "Polarity": "",
+        "Material": "",
+        "Package": "TO247",
+        "Collector Power Dissipation": "N/A",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "N/A",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "N/A",
+        "Current Gain (hFE)": "N/A",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "fairchild semi (806K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=fgh40n60sfd.pdf&dire=_fairchild_semi"
+        },
+        {
+          "name": "onsemi (435K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=fgh40n60sfd.pdf&dire=_onsemi"
+        },
+        {
+          "name": "fairchild semi (677K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=fgh40n60sf.pdf&dire=_fairchild_semi"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "FGD3N60LSD",
+          "name": "FGD3N60LSD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGH40N60SFD",
+          "manufacturer": "Various",
+          "href": "/component/FGD3N60LSD"
+        },
+        {
+          "id": "FGD4536",
+          "name": "FGD4536",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGH40N60SFD",
+          "manufacturer": "Various",
+          "href": "/component/FGD4536"
+        },
+        {
+          "id": "FGH20N60SFD",
+          "name": "FGH20N60SFD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGH40N60SFD",
+          "manufacturer": "Various",
+          "href": "/component/FGH20N60SFD"
+        },
+        {
+          "id": "FGH20N60UFD",
+          "name": "FGH20N60UFD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGH40N60SFD",
+          "manufacturer": "Various",
+          "href": "/component/FGH20N60UFD"
+        },
+        {
+          "id": "FGH25N120FTDS",
+          "name": "FGH25N120FTDS",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGH40N60SFD",
+          "manufacturer": "Various",
+          "href": "/component/FGH25N120FTDS"
+        },
+        {
+          "id": "FGH30N120FTD",
+          "name": "FGH30N120FTD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGH40N60SFD",
+          "manufacturer": "Various",
+          "href": "/component/FGH30N120FTD"
+        },
+        {
+          "id": "FGH30N60LSD",
+          "name": "FGH30N60LSD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGH40N60SFD",
+          "manufacturer": "Various",
+          "href": "/component/FGH30N60LSD"
+        },
+        {
+          "id": "FGH40N60SF",
+          "name": "FGH40N60SF",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGH40N60SFD",
+          "manufacturer": "Various",
+          "href": "/component/FGH40N60SF"
+        },
+        {
+          "id": "FGPF4533",
+          "name": "FGPF4533",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGH40N60SFD",
+          "manufacturer": "Various",
+          "href": "/component/FGPF4533"
+        },
+        {
+          "id": "FGH40N60SMD",
+          "name": "FGH40N60SMD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGH40N60SFD",
+          "manufacturer": "Various",
+          "href": "/component/FGH40N60SMD"
+        },
+        {
+          "id": "FGH40N60SMDF",
+          "name": "FGH40N60SMDF",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGH40N60SFD",
+          "manufacturer": "Various",
+          "href": "/component/FGH40N60SMDF"
+        },
+        {
+          "id": "FGH40N60UF",
+          "name": "FGH40N60UF",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGH40N60SFD",
+          "manufacturer": "Various",
+          "href": "/component/FGH40N60UF"
+        },
+        {
+          "id": "FGH40N60UFD",
+          "name": "FGH40N60UFD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGH40N60SFD",
+          "manufacturer": "Various",
+          "href": "/component/FGH40N60UFD"
+        },
+        {
+          "id": "FGH40N65UFD",
+          "name": "FGH40N65UFD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGH40N60SFD",
+          "manufacturer": "Various",
+          "href": "/component/FGH40N65UFD"
+        },
+        {
+          "id": "FGH50N3",
+          "name": "FGH50N3",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGH40N60SFD",
+          "manufacturer": "Various",
+          "href": "/component/FGH50N3"
+        },
+        {
+          "id": "FGH60N60SF",
+          "name": "FGH60N60SF",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGH40N60SFD",
+          "manufacturer": "Various",
+          "href": "/component/FGH60N60SF"
+        },
+        {
+          "id": "FGH60N60SFD",
+          "name": "FGH60N60SFD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGH40N60SFD",
+          "manufacturer": "Various",
+          "href": "/component/FGH60N60SFD"
+        }
+      ],
+      "href": "/component/FGH40N60SFD"
+    },
+    {
+      "id": "IRF1404",
+      "name": "IRF1404",
+      "type": "Transistor",
+      "description": "O220AB \n- MOSFET Cross-Reference Search\nIRF1404 Datasheet (PDF)\n..1. Size:107K international rectifier\nirf1404.pdf \nPD -91896EIRF1404HEXFET Power MOSFET Advanced Process TechnologyD Ultra Low On-ResistanceVDSS = 40V Dynamic dv/dt Rating 175C Operating TemperatureRDS(on) = 0.004 Fast SwitchingG Fully Avalanche RatedID = 162A SDescriptionSeventh Generation HEXFET Power MOSFETs fromInternational Rectifier utilize advanced processingtechniques to achieve extremely low\n..2. Size:208K international rectifier\nirf1404pbf.pdf \nPD-94968BIRF1404PbFHEXFET Power MOSFETl Advanced Process Technologyl Ultra Low On-ResistanceDl Dynamic dv/dt RatingVDSS = 40Vl 175C Operating Temperaturel Fast SwitchingRDS(on) = 0.004l Fully Avalanche RatedGl Lead-FreeID = 202ASDescriptionSeventh Generation HEXFET Power MOSFETs fromInternational Rectifier utilize advanced processingtechniques to\n..3. Size:245K inchange semiconductor\nirf1404.pdf \nINCHANGE Semiconductorisc N-Channel MOSFET Transistor IRF1404IIRF1404FEATURESStatic drain-source on-resistance:RDS(on) 4.0mEnhancement modeFast Switching Speed100% avalanche testedMinimum Lot-to-Lot variations for robust deviceperformance and reliable operationDESCRITIONreliable device for use in a wide variety of applicationsABSOLUTE MAXIMUM R\n0.1. Size:274K international rectifier\nirf1404spbf.pdf \nPD -95104IRF1404SPbFIRF1404LPbFl Advanced Process TechnologyHEXFET Power MOSFETl Ultra Low On-Resistancel Dynamic dv/dt RatingDl 175C Operating Temperature VDSS = 40Vl Fast Switchingl Fully Avalanche RatedRDS(on) = 0.004Gl Lead-FreeID = 162ADescriptionSSeventh Generation HEXFET Power MOSFETs fromInternational Rectifier utilize advanced processingtec\nDatasheet: IRF1010NL , IRF1010NS , IRF1104 , IRF130 , IRF1310N , IRF1310NL , IRF1310NS , IRF140 , IRF530 , IRF141 , IRF142 , IRF143 , IRF150 , IRF151 , IRF153 , IRF230 , IRF240 . \nKeywords - IRF1404 MOSFET datasheet\nIRF1404 cross reference\nIRF1404 equivalent finder\nIRF1404 lookup\nIRF1404 substitution\nIRF1404 replacement",
+      "manufacturer": "Various",
+      "polarity": "",
+      "material": "",
+      "package": "TO220AB",
+      "specs": {
+        "Polarity": "",
+        "Material": "",
+        "Package": "TO220AB",
+        "Collector Power Dissipation": "N/A",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "N/A",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "N/A",
+        "Current Gain (hFE)": "N/A",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "international rectifier (107K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=irf1404.pdf&dire=_international_rectifier"
+        },
+        {
+          "name": "international rectifier (208K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=irf1404pbf.pdf&dire=_international_rectifier"
+        },
+        {
+          "name": "inchange semiconductor (245K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=irf1404.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "international rectifier (274K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=irf1404spbf.pdf&dire=_international_rectifier"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "IRF1010NL",
+          "name": "IRF1010NL",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF1404",
+          "manufacturer": "Various",
+          "href": "/component/IRF1010NL"
+        },
+        {
+          "id": "IRF1010NS",
+          "name": "IRF1010NS",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF1404",
+          "manufacturer": "Various",
+          "href": "/component/IRF1010NS"
+        },
+        {
+          "id": "IRF1104",
+          "name": "IRF1104",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF1404",
+          "manufacturer": "Various",
+          "href": "/component/IRF1104"
+        },
+        {
+          "id": "IRF130",
+          "name": "IRF130",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF1404",
+          "manufacturer": "Various",
+          "href": "/component/IRF130"
+        },
+        {
+          "id": "IRF1310N",
+          "name": "IRF1310N",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF1404",
+          "manufacturer": "Various",
+          "href": "/component/IRF1310N"
+        },
+        {
+          "id": "IRF1310NL",
+          "name": "IRF1310NL",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF1404",
+          "manufacturer": "Various",
+          "href": "/component/IRF1310NL"
+        },
+        {
+          "id": "IRF1310NS",
+          "name": "IRF1310NS",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF1404",
+          "manufacturer": "Various",
+          "href": "/component/IRF1310NS"
+        },
+        {
+          "id": "IRF140",
+          "name": "IRF140",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF1404",
+          "manufacturer": "Various",
+          "href": "/component/IRF140"
+        },
+        {
+          "id": "IRF530",
+          "name": "IRF530",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF1404",
+          "manufacturer": "Various",
+          "href": "/component/IRF530"
+        },
+        {
+          "id": "IRF141",
+          "name": "IRF141",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF1404",
+          "manufacturer": "Various",
+          "href": "/component/IRF141"
+        },
+        {
+          "id": "IRF142",
+          "name": "IRF142",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF1404",
+          "manufacturer": "Various",
+          "href": "/component/IRF142"
+        },
+        {
+          "id": "IRF143",
+          "name": "IRF143",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF1404",
+          "manufacturer": "Various",
+          "href": "/component/IRF143"
+        },
+        {
+          "id": "IRF150",
+          "name": "IRF150",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF1404",
+          "manufacturer": "Various",
+          "href": "/component/IRF150"
+        },
+        {
+          "id": "IRF151",
+          "name": "IRF151",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF1404",
+          "manufacturer": "Various",
+          "href": "/component/IRF151"
+        },
+        {
+          "id": "IRF153",
+          "name": "IRF153",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF1404",
+          "manufacturer": "Various",
+          "href": "/component/IRF153"
+        },
+        {
+          "id": "IRF230",
+          "name": "IRF230",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF1404",
+          "manufacturer": "Various",
+          "href": "/component/IRF230"
+        },
+        {
+          "id": "IRF240",
+          "name": "IRF240",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF1404",
+          "manufacturer": "Various",
+          "href": "/component/IRF240"
+        }
+      ],
+      "href": "/component/IRF1404"
+    },
+    {
+      "id": "IRF640N",
+      "name": "IRF640N",
+      "type": "Transistor",
+      "description": "TO220 Pin Configuration The IRF640N is the highest performance trenchN-ch MOSFETs with extreme high cell density,which provide excel",
+      "manufacturer": "SInternational Rectifier utilize advanced processi",
+      "polarity": "",
+      "material": "",
+      "package": "TO220AB",
+      "specs": {
+        "Polarity": "",
+        "Material": "",
+        "Package": "TO220AB",
+        "Collector Power Dissipation": "N/A",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "N/A",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "N/A",
+        "Current Gain (hFE)": "N/A",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "international rectifier (155K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=irf640n.pdf&dire=_international_rectifier"
+        },
+        {
+          "name": "cn evvo (723K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=irf640n.pdf&dire=_cn_evvo"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "IRF540ZL",
+          "name": "IRF540ZL",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF640N",
+          "manufacturer": "Various",
+          "href": "/component/IRF540ZL"
+        },
+        {
+          "id": "IRF540ZS",
+          "name": "IRF540ZS",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF640N",
+          "manufacturer": "Various",
+          "href": "/component/IRF540ZS"
+        },
+        {
+          "id": "IRF5801",
+          "name": "IRF5801",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF640N",
+          "manufacturer": "Various",
+          "href": "/component/IRF5801"
+        },
+        {
+          "id": "IRF5802",
+          "name": "IRF5802",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF640N",
+          "manufacturer": "Various",
+          "href": "/component/IRF5802"
+        },
+        {
+          "id": "IRF6201",
+          "name": "IRF6201",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF640N",
+          "manufacturer": "Various",
+          "href": "/component/IRF6201"
+        },
+        {
+          "id": "IRF630N",
+          "name": "IRF630N",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF640N",
+          "manufacturer": "Various",
+          "href": "/component/IRF630N"
+        },
+        {
+          "id": "IRF630NL",
+          "name": "IRF630NL",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF640N",
+          "manufacturer": "Various",
+          "href": "/component/IRF630NL"
+        },
+        {
+          "id": "IRF630NS",
+          "name": "IRF630NS",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF640N",
+          "manufacturer": "Various",
+          "href": "/component/IRF630NS"
+        },
+        {
+          "id": "10N60",
+          "name": "10N60",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF640N",
+          "manufacturer": "Various",
+          "href": "/component/10N60"
+        },
+        {
+          "id": "IRF640NL",
+          "name": "IRF640NL",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF640N",
+          "manufacturer": "Various",
+          "href": "/component/IRF640NL"
+        },
+        {
+          "id": "IRF640NS",
+          "name": "IRF640NS",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF640N",
+          "manufacturer": "Various",
+          "href": "/component/IRF640NS"
+        },
+        {
+          "id": "IRF6603",
+          "name": "IRF6603",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF640N",
+          "manufacturer": "Various",
+          "href": "/component/IRF6603"
+        },
+        {
+          "id": "IRF6604",
+          "name": "IRF6604",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF640N",
+          "manufacturer": "Various",
+          "href": "/component/IRF6604"
+        },
+        {
+          "id": "IRF6607",
+          "name": "IRF6607",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF640N",
+          "manufacturer": "Various",
+          "href": "/component/IRF6607"
+        },
+        {
+          "id": "IRF6608",
+          "name": "IRF6608",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF640N",
+          "manufacturer": "Various",
+          "href": "/component/IRF6608"
+        },
+        {
+          "id": "IRF6609",
+          "name": "IRF6609",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF640N",
+          "manufacturer": "Various",
+          "href": "/component/IRF6609"
+        },
+        {
+          "id": "IRF6610",
+          "name": "IRF6610",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF640N",
+          "manufacturer": "Various",
+          "href": "/component/IRF6610"
+        }
+      ],
+      "href": "/component/IRF640N"
+    },
+    {
+      "id": "IRFP260N",
+      "name": "IRFP260N",
+      "type": "Transistor",
+      "description": "O247AC \n- MOSFET Cross-Reference Search\nIRFP260N Datasheet (PDF)\n..1. Size:180K international rectifier\nirfp260npbf.pdf \nPD - 95010AIRFP260NPbFHEXFET Power MOSFETl Advanced Process TechnologyDl Dynamic dv/dt RatingVDSS = 200Vl 175C Operating Temperaturel Fast SwitchingRDS(on) = 0.04l Fully Avalanche RatedGl Ease of ParallelingID = 50Al Simple Drive RequirementsSl Lead-FreeDescriptionFifth Generation HEXFETs from International Rectifier utilizeadvanced processing techni\n..2. Size:122K international rectifier\nirfp260n.pdf \nPD - 94004AIRFP260NHEXFET Power MOSFET Advanced Process TechnologyDVDSS = 200V Dynamic dv/dt Rating 175C Operating Temperature Fast SwitchingRDS(on) = 0.04G Fully Avalanche Rated Ease of ParallelingID = 50AS Simple Drive RequirementsDescriptionFifth Generation HEXFETs from International Rectifier utilize advanced processingtechniques to achieve extreme\n..3. Size:212K inchange semiconductor\nirfp260npbf.pdf \nINCHANGE SemiconductorIsc N-Channel MOSFET Transistor IRFP260NPBFFEATURESWith TO-247 packagingEase of parallelingHigh speed switchingHard switched and high frequency circuits100% avalanche testedMinimum Lot-to-Lot variations for robust deviceperformance and reliable operationAPPLICATIONSSwitching applicationsABSOLUTE MAXIMUM RATINGS(T =25)aSYMB\n..4. Size:242K inchange semiconductor\nirfp260n.pdf \nINCHANGE Semiconductorisc N-Channel MOSFET Transistor IRFP260NIIRFP260NFEATURESStatic drain-source on-resistance:RDS(on)40mEnhancement mode:100% avalanche testedMinimum Lot-to-Lot variations for robust deviceperformance and reliable operationDESCRITIONFast switchingFully Avalanche RatedABSOLUTE MAXIMUM RATINGS(T =25)aSYMBOL PARAMETER VAL\nDatasheet: IRFL4315 , IRFML8244 , IRFP1405 , IRFP150M , IRFP150V , IRFP250M , IRFP250N , IRFP260M , MDF11N65B , IRFP2907 , IRFP2907Z , IRFP3077 , IRFP3206 , IRFP3306 , IRFP3415 , IRFP3703 , IRFP4004 . \nKeywords - IRFP260N MOSFET datasheet\nIRFP260N cross reference\nIRFP260N equivalent finder\nIRFP260N lookup\nIRFP260N substitution\nIRFP260N replacement",
+      "manufacturer": "International Rectifier utilizeadvanced processing techni",
+      "polarity": "",
+      "material": "",
+      "package": "TO247AC",
+      "specs": {
+        "Polarity": "",
+        "Material": "",
+        "Package": "TO247AC",
+        "Collector Power Dissipation": "N/A",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "N/A",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "N/A",
+        "Current Gain (hFE)": "N/A",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "international rectifier (180K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=irfp260npbf.pdf&dire=_international_rectifier"
+        },
+        {
+          "name": "international rectifier (122K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=irfp260n.pdf&dire=_international_rectifier"
+        },
+        {
+          "name": "inchange semiconductor (212K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=irfp260npbf.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "inchange semiconductor (242K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=irfp260n.pdf&dire=_inchange_semiconductor"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "IRFL4315",
+          "name": "IRFL4315",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFP260N",
+          "manufacturer": "Various",
+          "href": "/component/IRFL4315"
+        },
+        {
+          "id": "IRFML8244",
+          "name": "IRFML8244",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFP260N",
+          "manufacturer": "Various",
+          "href": "/component/IRFML8244"
+        },
+        {
+          "id": "IRFP1405",
+          "name": "IRFP1405",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFP260N",
+          "manufacturer": "Various",
+          "href": "/component/IRFP1405"
+        },
+        {
+          "id": "IRFP150M",
+          "name": "IRFP150M",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFP260N",
+          "manufacturer": "Various",
+          "href": "/component/IRFP150M"
+        },
+        {
+          "id": "IRFP150V",
+          "name": "IRFP150V",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFP260N",
+          "manufacturer": "Various",
+          "href": "/component/IRFP150V"
+        },
+        {
+          "id": "IRFP250M",
+          "name": "IRFP250M",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFP260N",
+          "manufacturer": "Various",
+          "href": "/component/IRFP250M"
+        },
+        {
+          "id": "IRFP250N",
+          "name": "IRFP250N",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFP260N",
+          "manufacturer": "Various",
+          "href": "/component/IRFP250N"
+        },
+        {
+          "id": "IRFP260M",
+          "name": "IRFP260M",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFP260N",
+          "manufacturer": "Various",
+          "href": "/component/IRFP260M"
+        },
+        {
+          "id": "MDF11N65B",
+          "name": "MDF11N65B",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFP260N",
+          "manufacturer": "Various",
+          "href": "/component/MDF11N65B"
+        },
+        {
+          "id": "IRFP2907",
+          "name": "IRFP2907",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFP260N",
+          "manufacturer": "Various",
+          "href": "/component/IRFP2907"
+        },
+        {
+          "id": "IRFP2907Z",
+          "name": "IRFP2907Z",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFP260N",
+          "manufacturer": "Various",
+          "href": "/component/IRFP2907Z"
+        },
+        {
+          "id": "IRFP3077",
+          "name": "IRFP3077",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFP260N",
+          "manufacturer": "Various",
+          "href": "/component/IRFP3077"
+        },
+        {
+          "id": "IRFP3206",
+          "name": "IRFP3206",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFP260N",
+          "manufacturer": "Various",
+          "href": "/component/IRFP3206"
+        },
+        {
+          "id": "IRFP3306",
+          "name": "IRFP3306",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFP260N",
+          "manufacturer": "Various",
+          "href": "/component/IRFP3306"
+        },
+        {
+          "id": "IRFP3415",
+          "name": "IRFP3415",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFP260N",
+          "manufacturer": "Various",
+          "href": "/component/IRFP3415"
+        },
+        {
+          "id": "IRFP3703",
+          "name": "IRFP3703",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFP260N",
+          "manufacturer": "Various",
+          "href": "/component/IRFP3703"
+        },
+        {
+          "id": "IRFP4004",
+          "name": "IRFP4004",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFP260N",
+          "manufacturer": "Various",
+          "href": "/component/IRFP4004"
+        }
+      ],
+      "href": "/component/IRFP260N"
+    },
+    {
+      "id": "10N60",
+      "name": "10N60",
+      "type": "Transistor",
+      "description": "The UTC 10N60 is a high voltage and high current power MOSFET, designed to have better characteristics, such as fast switching time, low gate charge, low on-state resistance and have a high rugged avalanche characteristics. This power MOSFET is usually used at high speed switchin\n..2. Size:2298K goford\n10n60 10n60f.pdf",
+      "manufacturer": "Various",
+      "polarity": "",
+      "material": "",
+      "package": "TO-220 TO-220F TO-220F1 TO-220F2 TO-262 TO-263",
+      "specs": {
+        "Polarity": "",
+        "Material": "",
+        "Package": "TO-220 TO-220F TO-220F1 TO-220F2 TO-262 TO-263",
+        "Collector Power Dissipation": "N/A",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "N/A",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "N/A",
+        "Current Gain (hFE)": "N/A",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "utc (411K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=10n60.pdf&dire=_utc"
+        },
+        {
+          "name": "inchange semiconductor (232K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=10n60.pdf&dire=_inchange_semiconductor"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "IRF1405",
+          "name": "IRF1405",
+          "type": "Transistor",
+          "description": "Potential equivalent for 10N60",
+          "manufacturer": "Various",
+          "href": "/component/IRF1405"
+        },
+        {
+          "id": "10N60K",
+          "name": "10N60K",
+          "type": "Transistor",
+          "description": "Potential equivalent for 10N60",
+          "manufacturer": "Various",
+          "href": "/component/10N60K"
+        },
+        {
+          "id": "12N60",
+          "name": "12N60",
+          "type": "Transistor",
+          "description": "Potential equivalent for 10N60",
+          "manufacturer": "Various",
+          "href": "/component/12N60"
+        },
+        {
+          "id": "15N60",
+          "name": "15N60",
+          "type": "Transistor",
+          "description": "Potential equivalent for 10N60",
+          "manufacturer": "Various",
+          "href": "/component/15N60"
+        },
+        {
+          "id": "18N60",
+          "name": "18N60",
+          "type": "Transistor",
+          "description": "Potential equivalent for 10N60",
+          "manufacturer": "Various",
+          "href": "/component/18N60"
+        },
+        {
+          "id": "20N60",
+          "name": "20N60",
+          "type": "Transistor",
+          "description": "Potential equivalent for 10N60",
+          "manufacturer": "Various",
+          "href": "/component/20N60"
+        },
+        {
+          "id": "22N60",
+          "name": "22N60",
+          "type": "Transistor",
+          "description": "Potential equivalent for 10N60",
+          "manufacturer": "Various",
+          "href": "/component/22N60"
+        }
+      ],
+      "href": "/component/10N60"
+    },
+    {
+      "id": "IRF3710",
+      "name": "IRF3710",
+      "type": "Transistor",
+      "description": "O220AB \n- MOSFET Cross-Reference Search\nIRF3710 Datasheet (PDF)\n..1. Size:218K international rectifier\nirf3710pbf.pdf \nPD - 94954DIRF3710PbFHEXFET Power MOSFETl Advanced Process TechnologyDVDSS = 100Vl Ultra Low On-Resistancel Dynamic dv/dt Ratingl 175C Operating TemperatureRDS(on) = 23mGl Fast Switchingl Fully Avalanche RatedID = 57Al Lead-Free SDescriptionAdvanced HEXFET Power MOSFETs from International Rectifier utilizeadvanced processing techniques to achieve extre\n..2. Size:94K international rectifier\nirf3710.pdf \nPD - 91309AIRF3710HEXFET Power MOSFET Advanced Process TechnologyDVDSS = 100V Ultra Low On-Resistance Dynamic dv/dt Rating 175C Operating TemperatureRDS(on) = 23mG Fast Switching Fully Avalanche RatedID = 57ASDescriptionAdvanced HEXFET Power MOSFETs from International Rectifier utilizeadvanced processing techniques to achieve extremely low on-resistanc\n..3. Size:274K first silicon\nirf3710.pdf \nSEMICONDUCTORIRF3710TECHNICAL DATAN-Channel Power MOSFET (100V/59A) PurposeSuited for low voltage applications such as automotive, DC/DC Converters, and high efficiency switching for power management in portable and battery operated productsFeatureLow RDS(on),low gate charge,low Crss,fast switching. Absolute maximum ratings(Ta=25) Symbol Rating Unit 1.Gate 2.Drain \n..4. Size:229K inchange semiconductor\nirf3710.pdf \nINCHANGE Semiconductorisc N-Channel Mosfet Transistor IRF3710FEATURESDrain Current I =57A@ T =25D CDrain Source Voltage-: V = 100V(Min)DSSStatic Drain-Source On-Resistance: R = 23m(Max)DS(on)Minimum Lot-to-Lot variations for robust deviceperformance and reliable operationDESCRITIONDesigned for high effciency switch mode power supplies,Power fa\nDatasheet: IRF3315S , IRF340 , IRF3415 , IRF3415L , IRF3415S , IRF350 , IRF3515S , IRF360 , SKD502T , IRF3710L , IRF3710S , IRF430 , IRF440 , IRF450 , IRF451 , IRF452 , IRF453 . \nKeywords - IRF3710 MOSFET datasheet\nIRF3710 cross reference\nIRF3710 equivalent finder\nIRF3710 lookup\nIRF3710 substitution\nIRF3710 replacement",
+      "manufacturer": "International Rectifier utilizeadvanced processing techniques to achieve extre",
+      "polarity": "",
+      "material": "",
+      "package": "TO220AB",
+      "specs": {
+        "Polarity": "",
+        "Material": "",
+        "Package": "TO220AB",
+        "Collector Power Dissipation": "N/A",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "N/A",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "N/A",
+        "Current Gain (hFE)": "N/A",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "international rectifier (218K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=irf3710pbf.pdf&dire=_international_rectifier"
+        },
+        {
+          "name": "international rectifier (94K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=irf3710.pdf&dire=_international_rectifier"
+        },
+        {
+          "name": "first silicon (274K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=irf3710.pdf&dire=_first_silicon"
+        },
+        {
+          "name": "inchange semiconductor (229K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=irf3710.pdf&dire=_inchange_semiconductor"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "IRF3315S",
+          "name": "IRF3315S",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF3710",
+          "manufacturer": "Various",
+          "href": "/component/IRF3315S"
+        },
+        {
+          "id": "IRF340",
+          "name": "IRF340",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF3710",
+          "manufacturer": "Various",
+          "href": "/component/IRF340"
+        },
+        {
+          "id": "IRF3415",
+          "name": "IRF3415",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF3710",
+          "manufacturer": "Various",
+          "href": "/component/IRF3415"
+        },
+        {
+          "id": "IRF3415L",
+          "name": "IRF3415L",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF3710",
+          "manufacturer": "Various",
+          "href": "/component/IRF3415L"
+        },
+        {
+          "id": "IRF3415S",
+          "name": "IRF3415S",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF3710",
+          "manufacturer": "Various",
+          "href": "/component/IRF3415S"
+        },
+        {
+          "id": "IRF350",
+          "name": "IRF350",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF3710",
+          "manufacturer": "Various",
+          "href": "/component/IRF350"
+        },
+        {
+          "id": "IRF3515S",
+          "name": "IRF3515S",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF3710",
+          "manufacturer": "Various",
+          "href": "/component/IRF3515S"
+        },
+        {
+          "id": "IRF360",
+          "name": "IRF360",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF3710",
+          "manufacturer": "Various",
+          "href": "/component/IRF360"
+        },
+        {
+          "id": "SKD502T",
+          "name": "SKD502T",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF3710",
+          "manufacturer": "Various",
+          "href": "/component/SKD502T"
+        },
+        {
+          "id": "IRF3710L",
+          "name": "IRF3710L",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF3710",
+          "manufacturer": "Various",
+          "href": "/component/IRF3710L"
+        },
+        {
+          "id": "IRF3710S",
+          "name": "IRF3710S",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF3710",
+          "manufacturer": "Various",
+          "href": "/component/IRF3710S"
+        },
+        {
+          "id": "IRF430",
+          "name": "IRF430",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF3710",
+          "manufacturer": "Various",
+          "href": "/component/IRF430"
+        },
+        {
+          "id": "IRF440",
+          "name": "IRF440",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF3710",
+          "manufacturer": "Various",
+          "href": "/component/IRF440"
+        },
+        {
+          "id": "IRF450",
+          "name": "IRF450",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF3710",
+          "manufacturer": "Various",
+          "href": "/component/IRF450"
+        },
+        {
+          "id": "IRF451",
+          "name": "IRF451",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF3710",
+          "manufacturer": "Various",
+          "href": "/component/IRF451"
+        },
+        {
+          "id": "IRF452",
+          "name": "IRF452",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF3710",
+          "manufacturer": "Various",
+          "href": "/component/IRF452"
+        },
+        {
+          "id": "IRF453",
+          "name": "IRF453",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRF3710",
+          "manufacturer": "Various",
+          "href": "/component/IRF453"
+        }
+      ],
+      "href": "/component/IRF3710"
+    },
+    {
+      "id": "RJP30H2A",
+      "name": "RJP30H2A",
+      "type": "Transistor",
+      "description": "O263 \n- IGBT ⓘ Cross-Reference\nRJP30H2A Datasheet (PDF)\n..1. Size:226K renesas\nrjp30h2dpk-m0 rjp30h2a.pdf \nPreliminary Datasheet RJP30H2DPK-M0 / RJP30H2A R07DS0467EJ0200Silicon N Channel IGBT Rev.2.00High speed power switching Jun 15, 2011Features Trench gate and thin wafer technology (G6H-II series) Low collector to emitter saturation voltage: VCE(sat) = 1.4 V typ High speed switching: tf = 100 ns typ, tf = 180 ns typ Low leak current: ICES = 1 A maxOutline \n7.1. Size:160K renesas\nr07ds0467ej rjp30h2dpk.pdf \nPreliminary Datasheet RJP30H2DPK-M0 R07DS0467EJ0200Silicon N Channel IGBT Rev.2.00High speed power switching Jun 15, 2011Features Trench gate and thin wafer technology (G6H-II series) Low collector to emitter saturation voltage: VCE(sat) = 1.4 V typ High speed switching: tf = 100 ns typ, tf = 180 ns typ Low leak current: ICES = 1 A max Outline RENES\n7.2. Size:129K renesas\nrjp30h2dpk-m0.pdf \nPreliminary Datasheet RJP30H2DPK-M0 R07DS0467EJ0200Silicon N Channel IGBT Rev.2.00High speed power switching Jun 15, 2011Features Trench gate and thin wafer technology (G6H-II series) Low collector to emitter saturation voltage: VCE(sat) = 1.4 V typ High speed switching: tf = 100 ns typ, tf = 180 ns typ Low leak current: ICES = 1 A max Outline RENES\n8.1. Size:130K renesas\nrjp30h1dpd.pdf \nPreliminary Datasheet RJP30H1DPD R07DS0465EJ0200Silicon N Channel IGBT Rev.2.00High speed power switching Jun 15, 2011Features Trench gate and thin wafer technology (G6H-II series) High speed switching: tr = 80 ns typ., tf = 150 ns typ. Low collector to emitter saturation voltage: VCE(sat) = 1.5 V typ. Low leak current: ICES = 1 A max. Outline RENES\nDatasheet: IRGC100B120UB , IRGC100B60KB , IRGC100B60UB , IRGC15B120KB , IRGC15B120UB , IRGC16B120KB , IRGC16B60KB , GT50JR22 , IRGB20B60PD1 , FGA60N65SMD , FGA6065ADF , FGA6560WDF , FGH30S130P , GT40WR21 , FGM603 , FGT312 , FGT313 . \nKeywords - RJP30H2A transistor datasheet\nRJP30H2A cross reference\nRJP30H2A equivalent finder\nRJP30H2A lookup\nRJP30H2A substitution\nRJP30H2A replacement",
+      "manufacturer": "Various",
+      "polarity": "",
+      "material": "",
+      "package": "TO263",
+      "specs": {
+        "Polarity": "",
+        "Material": "",
+        "Package": "TO263",
+        "Collector Power Dissipation": "N/A",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "N/A",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "N/A",
+        "Current Gain (hFE)": "N/A",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "renesas (129K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=rjp30h2dpk-m0.pdf&dire=_renesas"
+        },
+        {
+          "name": "renesas (130K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=rjp30h1dpd.pdf&dire=_renesas"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "IRGC100B120UB",
+          "name": "IRGC100B120UB",
+          "type": "Transistor",
+          "description": "Potential equivalent for RJP30H2A",
+          "manufacturer": "Various",
+          "href": "/component/IRGC100B120UB"
+        },
+        {
+          "id": "IRGC100B60KB",
+          "name": "IRGC100B60KB",
+          "type": "Transistor",
+          "description": "Potential equivalent for RJP30H2A",
+          "manufacturer": "Various",
+          "href": "/component/IRGC100B60KB"
+        },
+        {
+          "id": "IRGC100B60UB",
+          "name": "IRGC100B60UB",
+          "type": "Transistor",
+          "description": "Potential equivalent for RJP30H2A",
+          "manufacturer": "Various",
+          "href": "/component/IRGC100B60UB"
+        },
+        {
+          "id": "IRGC15B120KB",
+          "name": "IRGC15B120KB",
+          "type": "Transistor",
+          "description": "Potential equivalent for RJP30H2A",
+          "manufacturer": "Various",
+          "href": "/component/IRGC15B120KB"
+        },
+        {
+          "id": "IRGC15B120UB",
+          "name": "IRGC15B120UB",
+          "type": "Transistor",
+          "description": "Potential equivalent for RJP30H2A",
+          "manufacturer": "Various",
+          "href": "/component/IRGC15B120UB"
+        },
+        {
+          "id": "IRGC16B120KB",
+          "name": "IRGC16B120KB",
+          "type": "Transistor",
+          "description": "Potential equivalent for RJP30H2A",
+          "manufacturer": "Various",
+          "href": "/component/IRGC16B120KB"
+        },
+        {
+          "id": "IRGC16B60KB",
+          "name": "IRGC16B60KB",
+          "type": "Transistor",
+          "description": "Potential equivalent for RJP30H2A",
+          "manufacturer": "Various",
+          "href": "/component/IRGC16B60KB"
+        },
+        {
+          "id": "GT50JR22",
+          "name": "GT50JR22",
+          "type": "Transistor",
+          "description": "Potential equivalent for RJP30H2A",
+          "manufacturer": "Various",
+          "href": "/component/GT50JR22"
+        },
+        {
+          "id": "IRGB20B60PD1",
+          "name": "IRGB20B60PD1",
+          "type": "Transistor",
+          "description": "Potential equivalent for RJP30H2A",
+          "manufacturer": "Various",
+          "href": "/component/IRGB20B60PD1"
+        },
+        {
+          "id": "FGA60N65SMD",
+          "name": "FGA60N65SMD",
+          "type": "Transistor",
+          "description": "Potential equivalent for RJP30H2A",
+          "manufacturer": "Various",
+          "href": "/component/FGA60N65SMD"
+        },
+        {
+          "id": "FGA6065ADF",
+          "name": "FGA6065ADF",
+          "type": "Transistor",
+          "description": "Potential equivalent for RJP30H2A",
+          "manufacturer": "Various",
+          "href": "/component/FGA6065ADF"
+        },
+        {
+          "id": "FGA6560WDF",
+          "name": "FGA6560WDF",
+          "type": "Transistor",
+          "description": "Potential equivalent for RJP30H2A",
+          "manufacturer": "Various",
+          "href": "/component/FGA6560WDF"
+        },
+        {
+          "id": "FGH30S130P",
+          "name": "FGH30S130P",
+          "type": "Transistor",
+          "description": "Potential equivalent for RJP30H2A",
+          "manufacturer": "Various",
+          "href": "/component/FGH30S130P"
+        },
+        {
+          "id": "GT40WR21",
+          "name": "GT40WR21",
+          "type": "Transistor",
+          "description": "Potential equivalent for RJP30H2A",
+          "manufacturer": "Various",
+          "href": "/component/GT40WR21"
+        },
+        {
+          "id": "FGM603",
+          "name": "FGM603",
+          "type": "Transistor",
+          "description": "Potential equivalent for RJP30H2A",
+          "manufacturer": "Various",
+          "href": "/component/FGM603"
+        },
+        {
+          "id": "FGT312",
+          "name": "FGT312",
+          "type": "Transistor",
+          "description": "Potential equivalent for RJP30H2A",
+          "manufacturer": "Various",
+          "href": "/component/FGT312"
+        },
+        {
+          "id": "FGT313",
+          "name": "FGT313",
+          "type": "Transistor",
+          "description": "Potential equivalent for RJP30H2A",
+          "manufacturer": "Various",
+          "href": "/component/FGT313"
+        }
+      ],
+      "href": "/component/RJP30H2A"
+    },
+    {
+      "id": "2N3904",
+      "name": "2N3904",
+      "type": "NPN Transistor",
+      "description": "Low voltage (max. 40 V).1 collector2 baseAPPLICATIONS3 emitter High-spe\n..3. Size:60K st\n2n3904.pdf \n2N3904SMALL SIGNAL NPN TRANSISTORPRELIMINARY DATAOrdering Code Marking Package / Shipment2N3904 2N3904 TO-92 / Bulk2N3904-AP 2N3904 TO-92 / Ammopack SILICON EPITAXIAL PLANAR NPNTRANSISTOR TO-92 PACKAGE SUITABLE FORTHROUGH-HOLE PCB ASSEMBLY THE PNP COMPLEMENTARY TYPE IS2N3906TO-92 TO-92APPLICATIONS Bulk Ammopack WELL SUITABLE FOR TV AND HOMEAPPLIANCE EQUIPMENT\n..4. Size:169K fairchild semi\n2n3904.pdf",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.2,
+      "maxCollectorEmitterVoltage": 40,
+      "maxCollectorBaseVoltage": 60,
+      "maxEmitterBaseVoltage": 6,
+      "maxPowerDissipation": 0.31,
+      "maxJunctionTemperature": 135,
+      "transitionFrequency": 300,
+      "collectorCapacitance": 4,
+      "hFE": 40,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.31W",
+        "Collector-Base Voltage": "60V",
+        "Collector-Emitter Voltage": "40V",
+        "Emitter-Base Voltage": "6V",
+        "Collector Current": "0.2A",
+        "Current Gain (hFE)": "40",
+        "Junction Temperature": "135°C",
+        "Transition Frequency": "300MHz",
+        "Collector Capacitance": "4pF"
+      },
+      "datasheets": [
+        {
+          "name": "st (60K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2n3904.pdf&dire=_st"
+        },
+        {
+          "name": "fairchild semi (169K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2n3904.pdf&dire=_fairchild_semi"
+        }
+      ],
+      "equivalents": [],
+      "href": "/component/2N3904"
+    },
+    {
+      "id": "SGT50T65FD1PT",
+      "name": "SGT50T65FD1PT",
+      "type": "Transistor",
+      "description": "O3PN \nSGT50T65FD1PT substitution\n- IGBT ⓘ Cross-Reference\nSGT50T65FD1PT Datasheet (PDF)\n6.1. Size:314K silan\nsgt50t65sdm1p7.pdf \nSGT50T65SDM1P7 50A650V C2SGT50T65SDM1P7 1Field Stop IIIG UPSSMPS PFC 3E 50A650VVCE(sat)( )=1.65V@IC=50A \nDatasheet: SGT25T120FD1P7 , SGT25U120FD1P7 , SGT40N60FD2PN , SGT40N60FD2P7 , SGT40N60NPFDPN , SGT50T65FD1PN , SGT50T65FD1P7 , SGT50T65FD1PS , FGA25N120ANTD , SGTP5T60SD1D , SGTP5T60SD1F , SGTP5T60SD1S , AU40N120T3A2 , LGM100HF120S2F1A , LGM400HF65S4T1A , YGF15N65T2 , YGK15N65T2 . \nHistory: FGPF4536 \nKeywords - SGT50T65FD1PT transistor datasheet\nSGT50T65FD1PT cross reference\nSGT50T65FD1PT equivalent finder\nSGT50T65FD1PT lookup\nSGT50T65FD1PT substitution\nSGT50T65FD1PT replacement",
+      "manufacturer": "Various",
+      "polarity": "",
+      "material": "",
+      "package": "TO3PN",
+      "specs": {
+        "Polarity": "",
+        "Material": "",
+        "Package": "TO3PN",
+        "Collector Power Dissipation": "N/A",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "N/A",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "N/A",
+        "Current Gain (hFE)": "N/A",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "silan (314K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=sgt50t65sdm1p7.pdf&dire=_silan"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "SGT25T120FD1P7",
+          "name": "SGT25T120FD1P7",
+          "type": "Transistor",
+          "description": "Potential equivalent for SGT50T65FD1PT",
+          "manufacturer": "Various",
+          "href": "/component/SGT25T120FD1P7"
+        },
+        {
+          "id": "SGT25U120FD1P7",
+          "name": "SGT25U120FD1P7",
+          "type": "Transistor",
+          "description": "Potential equivalent for SGT50T65FD1PT",
+          "manufacturer": "Various",
+          "href": "/component/SGT25U120FD1P7"
+        },
+        {
+          "id": "SGT40N60FD2PN",
+          "name": "SGT40N60FD2PN",
+          "type": "Transistor",
+          "description": "Potential equivalent for SGT50T65FD1PT",
+          "manufacturer": "Various",
+          "href": "/component/SGT40N60FD2PN"
+        },
+        {
+          "id": "SGT40N60FD2P7",
+          "name": "SGT40N60FD2P7",
+          "type": "Transistor",
+          "description": "Potential equivalent for SGT50T65FD1PT",
+          "manufacturer": "Various",
+          "href": "/component/SGT40N60FD2P7"
+        },
+        {
+          "id": "SGT40N60NPFDPN",
+          "name": "SGT40N60NPFDPN",
+          "type": "Transistor",
+          "description": "Potential equivalent for SGT50T65FD1PT",
+          "manufacturer": "Various",
+          "href": "/component/SGT40N60NPFDPN"
+        },
+        {
+          "id": "SGT50T65FD1PN",
+          "name": "SGT50T65FD1PN",
+          "type": "Transistor",
+          "description": "Potential equivalent for SGT50T65FD1PT",
+          "manufacturer": "Various",
+          "href": "/component/SGT50T65FD1PN"
+        },
+        {
+          "id": "SGT50T65FD1P7",
+          "name": "SGT50T65FD1P7",
+          "type": "Transistor",
+          "description": "Potential equivalent for SGT50T65FD1PT",
+          "manufacturer": "Various",
+          "href": "/component/SGT50T65FD1P7"
+        },
+        {
+          "id": "SGT50T65FD1PS",
+          "name": "SGT50T65FD1PS",
+          "type": "Transistor",
+          "description": "Potential equivalent for SGT50T65FD1PT",
+          "manufacturer": "Various",
+          "href": "/component/SGT50T65FD1PS"
+        },
+        {
+          "id": "FGA25N120ANTD",
+          "name": "FGA25N120ANTD",
+          "type": "Transistor",
+          "description": "Potential equivalent for SGT50T65FD1PT",
+          "manufacturer": "Various",
+          "href": "/component/FGA25N120ANTD"
+        },
+        {
+          "id": "SGTP5T60SD1D",
+          "name": "SGTP5T60SD1D",
+          "type": "Transistor",
+          "description": "Potential equivalent for SGT50T65FD1PT",
+          "manufacturer": "Various",
+          "href": "/component/SGTP5T60SD1D"
+        },
+        {
+          "id": "SGTP5T60SD1F",
+          "name": "SGTP5T60SD1F",
+          "type": "Transistor",
+          "description": "Potential equivalent for SGT50T65FD1PT",
+          "manufacturer": "Various",
+          "href": "/component/SGTP5T60SD1F"
+        },
+        {
+          "id": "SGTP5T60SD1S",
+          "name": "SGTP5T60SD1S",
+          "type": "Transistor",
+          "description": "Potential equivalent for SGT50T65FD1PT",
+          "manufacturer": "Various",
+          "href": "/component/SGTP5T60SD1S"
+        },
+        {
+          "id": "AU40N120T3A2",
+          "name": "AU40N120T3A2",
+          "type": "Transistor",
+          "description": "Potential equivalent for SGT50T65FD1PT",
+          "manufacturer": "Various",
+          "href": "/component/AU40N120T3A2"
+        },
+        {
+          "id": "LGM100HF120S2F1A",
+          "name": "LGM100HF120S2F1A",
+          "type": "Transistor",
+          "description": "Potential equivalent for SGT50T65FD1PT",
+          "manufacturer": "Various",
+          "href": "/component/LGM100HF120S2F1A"
+        },
+        {
+          "id": "LGM400HF65S4T1A",
+          "name": "LGM400HF65S4T1A",
+          "type": "Transistor",
+          "description": "Potential equivalent for SGT50T65FD1PT",
+          "manufacturer": "Various",
+          "href": "/component/LGM400HF65S4T1A"
+        },
+        {
+          "id": "YGF15N65T2",
+          "name": "YGF15N65T2",
+          "type": "Transistor",
+          "description": "Potential equivalent for SGT50T65FD1PT",
+          "manufacturer": "Various",
+          "href": "/component/YGF15N65T2"
+        },
+        {
+          "id": "YGK15N65T2",
+          "name": "YGK15N65T2",
+          "type": "Transistor",
+          "description": "Potential equivalent for SGT50T65FD1PT",
+          "manufacturer": "Various",
+          "href": "/component/YGK15N65T2"
+        }
+      ],
+      "href": "/component/SGT50T65FD1PT"
+    },
+    {
+      "id": "AON6414A",
+      "name": "AON6414A",
+      "type": "Transistor",
+      "description": "Product SummaryVDS30VThe AON6414A uses advanced trench technology toprovide excellent RDS(ON), low gate charge.This device is ID (at VGS=10V) 30Asuitable for use as a high side switch in SMPS and RDS(ON) (at VGS=10V) \n0.1. Size:265K 1",
+      "manufacturer": "Various",
+      "polarity": "",
+      "material": "",
+      "package": "DFN5X6",
+      "specs": {
+        "Polarity": "",
+        "Material": "",
+        "Package": "DFN5X6",
+        "Collector Power Dissipation": "N/A",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "N/A",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "N/A",
+        "Current Gain (hFE)": "N/A",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "aosemi (268K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=aon6414a.pdf&dire=_aosemi"
+        },
+        {
+          "name": "1 (265K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=aon6414al.pdf&dire=_1"
+        },
+        {
+          "name": "aosemi (384K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=aon6414al.pdf&dire=_aosemi"
+        },
+        {
+          "name": "aosemi (156K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=aon6414.pdf&dire=_aosemi"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "AON6400",
+          "name": "AON6400",
+          "type": "Transistor",
+          "description": "Potential equivalent for AON6414A",
+          "manufacturer": "Various",
+          "href": "/component/AON6400"
+        },
+        {
+          "id": "AON6403",
+          "name": "AON6403",
+          "type": "Transistor",
+          "description": "Potential equivalent for AON6414A",
+          "manufacturer": "Various",
+          "href": "/component/AON6403"
+        },
+        {
+          "id": "AON6404",
+          "name": "AON6404",
+          "type": "Transistor",
+          "description": "Potential equivalent for AON6414A",
+          "manufacturer": "Various",
+          "href": "/component/AON6404"
+        },
+        {
+          "id": "AON6404A",
+          "name": "AON6404A",
+          "type": "Transistor",
+          "description": "Potential equivalent for AON6414A",
+          "manufacturer": "Various",
+          "href": "/component/AON6404A"
+        },
+        {
+          "id": "AON6405",
+          "name": "AON6405",
+          "type": "Transistor",
+          "description": "Potential equivalent for AON6414A",
+          "manufacturer": "Various",
+          "href": "/component/AON6405"
+        },
+        {
+          "id": "AON6407",
+          "name": "AON6407",
+          "type": "Transistor",
+          "description": "Potential equivalent for AON6414A",
+          "manufacturer": "Various",
+          "href": "/component/AON6407"
+        },
+        {
+          "id": "AON6411",
+          "name": "AON6411",
+          "type": "Transistor",
+          "description": "Potential equivalent for AON6414A",
+          "manufacturer": "Various",
+          "href": "/component/AON6411"
+        },
+        {
+          "id": "AON6413",
+          "name": "AON6413",
+          "type": "Transistor",
+          "description": "Potential equivalent for AON6414A",
+          "manufacturer": "Various",
+          "href": "/component/AON6413"
+        },
+        {
+          "id": "IRF1010E",
+          "name": "IRF1010E",
+          "type": "Transistor",
+          "description": "Potential equivalent for AON6414A",
+          "manufacturer": "Various",
+          "href": "/component/IRF1010E"
+        },
+        {
+          "id": "AON6416",
+          "name": "AON6416",
+          "type": "Transistor",
+          "description": "Potential equivalent for AON6414A",
+          "manufacturer": "Various",
+          "href": "/component/AON6416"
+        },
+        {
+          "id": "AON6424",
+          "name": "AON6424",
+          "type": "Transistor",
+          "description": "Potential equivalent for AON6414A",
+          "manufacturer": "Various",
+          "href": "/component/AON6424"
+        },
+        {
+          "id": "AON6426",
+          "name": "AON6426",
+          "type": "Transistor",
+          "description": "Potential equivalent for AON6414A",
+          "manufacturer": "Various",
+          "href": "/component/AON6426"
+        },
+        {
+          "id": "AON6428",
+          "name": "AON6428",
+          "type": "Transistor",
+          "description": "Potential equivalent for AON6414A",
+          "manufacturer": "Various",
+          "href": "/component/AON6428"
+        },
+        {
+          "id": "AON6435",
+          "name": "AON6435",
+          "type": "Transistor",
+          "description": "Potential equivalent for AON6414A",
+          "manufacturer": "Various",
+          "href": "/component/AON6435"
+        },
+        {
+          "id": "AON6440",
+          "name": "AON6440",
+          "type": "Transistor",
+          "description": "Potential equivalent for AON6414A",
+          "manufacturer": "Various",
+          "href": "/component/AON6440"
+        },
+        {
+          "id": "AON6442",
+          "name": "AON6442",
+          "type": "Transistor",
+          "description": "Potential equivalent for AON6414A",
+          "manufacturer": "Various",
+          "href": "/component/AON6442"
+        },
+        {
+          "id": "AON6444",
+          "name": "AON6444",
+          "type": "Transistor",
+          "description": "Potential equivalent for AON6414A",
+          "manufacturer": "Various",
+          "href": "/component/AON6444"
+        }
+      ],
+      "href": "/component/AON6414A"
+    },
+    {
+      "id": "FGPF4536",
+      "name": "FGPF4536",
+      "type": "Transistor",
+      "description": "High current capability Using Novel Trench IGBT Technology, Fairchilds new series of Low saturation voltage: VCE (sat) =1.59 V @ IC = 50 A trench IGBTs offer the optimum performance for PDPapplications where low conduction and switching losses are High input impedanceessential. Fast switching RoH\n7.1. Size:313K fairchild semi",
+      "manufacturer": "Various",
+      "polarity": "",
+      "material": "",
+      "package": "TO220F",
+      "specs": {
+        "Polarity": "",
+        "Material": "",
+        "Package": "TO220F",
+        "Collector Power Dissipation": "N/A",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "N/A",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "N/A",
+        "Current Gain (hFE)": "N/A",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "fairchild semi (713K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=fgpf4536.pdf&dire=_fairchild_semi"
+        },
+        {
+          "name": "fairchild semi (313K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=fgpf4533.pdf&dire=_fairchild_semi"
+        },
+        {
+          "name": "onsemi (367K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=fgpf4565.pdf&dire=_onsemi"
+        },
+        {
+          "name": "fairchild semi (419K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=fgpf4633.pdf&dire=_fairchild_semi"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "FGH75N60UF",
+          "name": "FGH75N60UF",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGPF4536",
+          "manufacturer": "Various",
+          "href": "/component/FGH75N60UF"
+        },
+        {
+          "id": "FGH80N60FD",
+          "name": "FGH80N60FD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGPF4536",
+          "manufacturer": "Various",
+          "href": "/component/FGH80N60FD"
+        },
+        {
+          "id": "FGH80N60FD2",
+          "name": "FGH80N60FD2",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGPF4536",
+          "manufacturer": "Various",
+          "href": "/component/FGH80N60FD2"
+        },
+        {
+          "id": "FGL35N120FTD",
+          "name": "FGL35N120FTD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGPF4536",
+          "manufacturer": "Various",
+          "href": "/component/FGL35N120FTD"
+        },
+        {
+          "id": "FGL60N100BNTD",
+          "name": "FGL60N100BNTD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGPF4536",
+          "manufacturer": "Various",
+          "href": "/component/FGL60N100BNTD"
+        },
+        {
+          "id": "FGP20N60UFD",
+          "name": "FGP20N60UFD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGPF4536",
+          "manufacturer": "Various",
+          "href": "/component/FGP20N60UFD"
+        },
+        {
+          "id": "FGP5N60LS",
+          "name": "FGP5N60LS",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGPF4536",
+          "manufacturer": "Various",
+          "href": "/component/FGP5N60LS"
+        },
+        {
+          "id": "FGPF4533",
+          "name": "FGPF4533",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGPF4536",
+          "manufacturer": "Various",
+          "href": "/component/FGPF4533"
+        },
+        {
+          "id": "RJP30E2DPP",
+          "name": "RJP30E2DPP",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGPF4536",
+          "manufacturer": "Various",
+          "href": "/component/RJP30E2DPP"
+        },
+        {
+          "id": "FGPF4633",
+          "name": "FGPF4633",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGPF4536",
+          "manufacturer": "Various",
+          "href": "/component/FGPF4633"
+        },
+        {
+          "id": "FGPF50N33BT",
+          "name": "FGPF50N33BT",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGPF4536",
+          "manufacturer": "Various",
+          "href": "/component/FGPF50N33BT"
+        },
+        {
+          "id": "FGY75N60SMD",
+          "name": "FGY75N60SMD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGPF4536",
+          "manufacturer": "Various",
+          "href": "/component/FGY75N60SMD"
+        },
+        {
+          "id": "SGF23N60UF",
+          "name": "SGF23N60UF",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGPF4536",
+          "manufacturer": "Various",
+          "href": "/component/SGF23N60UF"
+        },
+        {
+          "id": "SGP10N60RUFD",
+          "name": "SGP10N60RUFD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGPF4536",
+          "manufacturer": "Various",
+          "href": "/component/SGP10N60RUFD"
+        },
+        {
+          "id": "SGS5N150UF",
+          "name": "SGS5N150UF",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGPF4536",
+          "manufacturer": "Various",
+          "href": "/component/SGS5N150UF"
+        },
+        {
+          "id": "NGB15N41CL",
+          "name": "NGB15N41CL",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGPF4536",
+          "manufacturer": "Various",
+          "href": "/component/NGB15N41CL"
+        },
+        {
+          "id": "NGB18N40CLB",
+          "name": "NGB18N40CLB",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGPF4536",
+          "manufacturer": "Various",
+          "href": "/component/NGB18N40CLB"
+        }
+      ],
+      "href": "/component/FGPF4536"
+    },
+    {
+      "id": "MBQ60T65PES",
+      "name": "MBQ60T65PES",
+      "type": "Transistor",
+      "description": "High Speed Switching & Low Power Loss This IGBT is produced using advanced MagnaChips Field V = 1.85V @ I = 60A CE(sat) C Stop Trench IGBT 2nd Generation Technology, which is not only E = 0.53mJ @ T = 25C off C the highest efficiency capable of switching behavio",
+      "manufacturer": "Various",
+      "polarity": "",
+      "material": "",
+      "package": "TO247",
+      "specs": {
+        "Polarity": "",
+        "Material": "",
+        "Package": "TO247",
+        "Collector Power Dissipation": "N/A",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "N/A",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "N/A",
+        "Current Gain (hFE)": "N/A",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "magnachip (584K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=mbq60t65pes.pdf&dire=_magnachip"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "FGT612",
+          "name": "FGT612",
+          "type": "Transistor",
+          "description": "Potential equivalent for MBQ60T65PES",
+          "manufacturer": "Various",
+          "href": "/component/FGT612"
+        },
+        {
+          "id": "2PG001",
+          "name": "2PG001",
+          "type": "Transistor",
+          "description": "Potential equivalent for MBQ60T65PES",
+          "manufacturer": "Various",
+          "href": "/component/2PG001"
+        },
+        {
+          "id": "IKW30N65WR5",
+          "name": "IKW30N65WR5",
+          "type": "Transistor",
+          "description": "Potential equivalent for MBQ60T65PES",
+          "manufacturer": "Various",
+          "href": "/component/IKW30N65WR5"
+        },
+        {
+          "id": "MGD633",
+          "name": "MGD633",
+          "type": "Transistor",
+          "description": "Potential equivalent for MBQ60T65PES",
+          "manufacturer": "Various",
+          "href": "/component/MGD633"
+        },
+        {
+          "id": "GT20D201",
+          "name": "GT20D201",
+          "type": "Transistor",
+          "description": "Potential equivalent for MBQ60T65PES",
+          "manufacturer": "Various",
+          "href": "/component/GT20D201"
+        },
+        {
+          "id": "MBQ40T120FES",
+          "name": "MBQ40T120FES",
+          "type": "Transistor",
+          "description": "Potential equivalent for MBQ60T65PES",
+          "manufacturer": "Various",
+          "href": "/component/MBQ40T120FES"
+        },
+        {
+          "id": "GT40RR21",
+          "name": "GT40RR21",
+          "type": "Transistor",
+          "description": "Potential equivalent for MBQ60T65PES",
+          "manufacturer": "Various",
+          "href": "/component/GT40RR21"
+        },
+        {
+          "id": "MBQ50T65FESC",
+          "name": "MBQ50T65FESC",
+          "type": "Transistor",
+          "description": "Potential equivalent for MBQ60T65PES",
+          "manufacturer": "Various",
+          "href": "/component/MBQ50T65FESC"
+        },
+        {
+          "id": "YGW60N65F1A2",
+          "name": "YGW60N65F1A2",
+          "type": "Transistor",
+          "description": "Potential equivalent for MBQ60T65PES",
+          "manufacturer": "Various",
+          "href": "/component/YGW60N65F1A2"
+        },
+        {
+          "id": "JNG25N120HS",
+          "name": "JNG25N120HS",
+          "type": "Transistor",
+          "description": "Potential equivalent for MBQ60T65PES",
+          "manufacturer": "Various",
+          "href": "/component/JNG25N120HS"
+        },
+        {
+          "id": "SSG60N60N",
+          "name": "SSG60N60N",
+          "type": "Transistor",
+          "description": "Potential equivalent for MBQ60T65PES",
+          "manufacturer": "Various",
+          "href": "/component/SSG60N60N"
+        },
+        {
+          "id": "PDMB100E6",
+          "name": "PDMB100E6",
+          "type": "Transistor",
+          "description": "Potential equivalent for MBQ60T65PES",
+          "manufacturer": "Various",
+          "href": "/component/PDMB100E6"
+        },
+        {
+          "id": "SL40N60FL",
+          "name": "SL40N60FL",
+          "type": "Transistor",
+          "description": "Potential equivalent for MBQ60T65PES",
+          "manufacturer": "Various",
+          "href": "/component/SL40N60FL"
+        },
+        {
+          "id": "MBQ50T65FDSC",
+          "name": "MBQ50T65FDSC",
+          "type": "Transistor",
+          "description": "Potential equivalent for MBQ60T65PES",
+          "manufacturer": "Various",
+          "href": "/component/MBQ50T65FDSC"
+        },
+        {
+          "id": "STGW38IH120D",
+          "name": "STGW38IH120D",
+          "type": "Transistor",
+          "description": "Potential equivalent for MBQ60T65PES",
+          "manufacturer": "Various",
+          "href": "/component/STGW38IH120D"
+        },
+        {
+          "id": "FGH75T65UPD",
+          "name": "FGH75T65UPD",
+          "type": "Transistor",
+          "description": "Potential equivalent for MBQ60T65PES",
+          "manufacturer": "Various",
+          "href": "/component/FGH75T65UPD"
+        },
+        {
+          "id": "STGB7NC60KD",
+          "name": "STGB7NC60KD",
+          "type": "Transistor",
+          "description": "Potential equivalent for MBQ60T65PES",
+          "manufacturer": "Various",
+          "href": "/component/STGB7NC60KD"
+        }
+      ],
+      "href": "/component/MBQ60T65PES"
+    },
+    {
+      "id": "FGD4536",
+      "name": "FGD4536",
+      "type": "Transistor",
+      "description": "High Current Capability Using novel trench IGBT technology, Fairchilds new series oftrench IGBTs offer the optimum performance for consumer Low Saturation Voltage: VCE(sat) = 1.59 V @ IC = 50 Aappliances and PDP TV applications where low conduction and High Input Impedanceswitching losses are esse",
+      "manufacturer": "Various",
+      "polarity": "",
+      "material": "",
+      "package": "TO252",
+      "specs": {
+        "Polarity": "",
+        "Material": "",
+        "Package": "TO252",
+        "Collector Power Dissipation": "N/A",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "N/A",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "N/A",
+        "Current Gain (hFE)": "N/A",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "1 (258K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=fgd4536.pdf&dire=_1"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "FGA50N100BNTD2",
+          "name": "FGA50N100BNTD2",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGD4536",
+          "manufacturer": "Various",
+          "href": "/component/FGA50N100BNTD2"
+        },
+        {
+          "id": "FGA60N60UFD",
+          "name": "FGA60N60UFD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGD4536",
+          "manufacturer": "Various",
+          "href": "/component/FGA60N60UFD"
+        },
+        {
+          "id": "FGA90N33ATD",
+          "name": "FGA90N33ATD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGD4536",
+          "manufacturer": "Various",
+          "href": "/component/FGA90N33ATD"
+        },
+        {
+          "id": "FGAF40N60UF",
+          "name": "FGAF40N60UF",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGD4536",
+          "manufacturer": "Various",
+          "href": "/component/FGAF40N60UF"
+        },
+        {
+          "id": "FGAF40N60UFD",
+          "name": "FGAF40N60UFD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGD4536",
+          "manufacturer": "Various",
+          "href": "/component/FGAF40N60UFD"
+        },
+        {
+          "id": "FGB20N60SF",
+          "name": "FGB20N60SF",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGD4536",
+          "manufacturer": "Various",
+          "href": "/component/FGB20N60SF"
+        },
+        {
+          "id": "FGB20N60SFD",
+          "name": "FGB20N60SFD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGD4536",
+          "manufacturer": "Various",
+          "href": "/component/FGB20N60SFD"
+        },
+        {
+          "id": "FGD3N60LSD",
+          "name": "FGD3N60LSD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGD4536",
+          "manufacturer": "Various",
+          "href": "/component/FGD3N60LSD"
+        },
+        {
+          "id": "HGTG30N60A4",
+          "name": "HGTG30N60A4",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGD4536",
+          "manufacturer": "Various",
+          "href": "/component/HGTG30N60A4"
+        },
+        {
+          "id": "FGH20N60SFD",
+          "name": "FGH20N60SFD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGD4536",
+          "manufacturer": "Various",
+          "href": "/component/FGH20N60SFD"
+        },
+        {
+          "id": "FGH20N60UFD",
+          "name": "FGH20N60UFD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGD4536",
+          "manufacturer": "Various",
+          "href": "/component/FGH20N60UFD"
+        },
+        {
+          "id": "FGH25N120FTDS",
+          "name": "FGH25N120FTDS",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGD4536",
+          "manufacturer": "Various",
+          "href": "/component/FGH25N120FTDS"
+        },
+        {
+          "id": "FGH30N120FTD",
+          "name": "FGH30N120FTD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGD4536",
+          "manufacturer": "Various",
+          "href": "/component/FGH30N120FTD"
+        },
+        {
+          "id": "FGH30N60LSD",
+          "name": "FGH30N60LSD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGD4536",
+          "manufacturer": "Various",
+          "href": "/component/FGH30N60LSD"
+        },
+        {
+          "id": "FGH40N60SF",
+          "name": "FGH40N60SF",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGD4536",
+          "manufacturer": "Various",
+          "href": "/component/FGH40N60SF"
+        },
+        {
+          "id": "FGH40N60SFD",
+          "name": "FGH40N60SFD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGD4536",
+          "manufacturer": "Various",
+          "href": "/component/FGH40N60SFD"
+        },
+        {
+          "id": "FGH40N60SMD",
+          "name": "FGH40N60SMD",
+          "type": "Transistor",
+          "description": "Potential equivalent for FGD4536",
+          "manufacturer": "Various",
+          "href": "/component/FGH40N60SMD"
+        }
+      ],
+      "href": "/component/FGD4536"
+    },
+    {
+      "id": "2N2222",
+      "name": "2N2222",
+      "type": "NPN Transistor",
+      "description": "Low voltage (max. 40 V).1 emitte\n..2. Size:232K mcc\n2n2222 2n2222a to-18.pdf",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO18",
+      "maxCollectorCurrent": 0.8,
+      "maxCollectorEmitterVoltage": 30,
+      "maxCollectorBaseVoltage": 60,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.5,
+      "maxJunctionTemperature": 175,
+      "transitionFrequency": 250,
+      "collectorCapacitance": 8,
+      "hFE": 100,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO18",
+        "Collector Power Dissipation": "0.5W",
+        "Collector-Base Voltage": "60V",
+        "Collector-Emitter Voltage": "30V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.8A",
+        "Current Gain (hFE)": "100",
+        "Junction Temperature": "175°C",
+        "Transition Frequency": "250MHz",
+        "Collector Capacitance": "8pF"
+      },
+      "datasheets": [],
+      "equivalents": [
+        {
+          "id": "KTB688",
+          "name": "KTB688",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2N2222",
+          "manufacturer": "Various",
+          "href": "/component/KTB688"
+        },
+        {
+          "id": "2N2222ACSM4",
+          "name": "2N2222ACSM4",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2N2222",
+          "manufacturer": "Various",
+          "href": "/component/2N2222ACSM4"
+        }
+      ],
+      "href": "/component/2N2222"
+    },
+    {
+      "id": "13007",
+      "name": "13007",
+      "type": "NPN Transistor",
+      "description": "O220 \n- BJT Cross-Reference Search\n13007 Datasheet (PDF)\n..1. Size:114K jdsemi\n13007.pdf \nR13007 www.jdsemi.cn Bipolar Junction Transistor ShenZhen Jingdao Electronic Co.,Ltd. Si NPN RoHS COMPLIANT 111APPLICATION 1Fluorescent LampElectronic Ballast Computer Switch Power Supply 222FEAT\n0.1. Size:376K 1\n3dd13007k.pdf \nNPN HIGH VOLTAGE FAST-SWITCHING NPN POWER TRANSISTORR3DD13007K MAIN CHARACTERISTICS Package IC 8AVCEO 400VPC(TO-220) 80W APPLICATIONS Energy-saving ligh Electronic ballasts High frequency switching power supply \n0.3. Size:337K motorola\nmje13007.pdf \nOrder this documentMOTOROLAby MJE13007/DSEMICONDUCTOR TECHNICAL DATAMJE13007MJF13007Designer's Data SheetSWITCHMODENPN Bipolar Power TransistorPOWER TRANSISTORFor Switching Power Supply Applications8.0 AMPERES400 VOLTSThe MJE/MJF13007 is designed for highvoltage, highspeed power switching80/40 WATTSinductive circuits where fall time is critical. It is part\nDatasheet: 2SB858B , 2SB858C , 2SB858D , 2SB859 , 2SB859B , 2SB859C , 2SB86 , 2SB860 , 2SC2625 , 2SB861B , 2SB861C , 2SB862 , 2SB863 , 2SB863O , 2SB863R , 2SB864 , 2SB865 . \nHistory: 2N2222 | C5198 | TIP41 \nKeywords - 13007 transistor datasheet\n13007 cross reference\n13007 equivalent finder\n13007 lookup\n13007 substitution\n13007 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO220",
+      "maxCollectorCurrent": 9,
+      "maxCollectorEmitterVoltage": 400,
+      "maxCollectorBaseVoltage": 700,
+      "maxEmitterBaseVoltage": 9,
+      "maxPowerDissipation": 85,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 5,
+      "hFE": 20,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO220",
+        "Collector Power Dissipation": "85W",
+        "Collector-Base Voltage": "700V",
+        "Collector-Emitter Voltage": "400V",
+        "Emitter-Base Voltage": "9V",
+        "Collector Current": "9A",
+        "Current Gain (hFE)": "20",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "5MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "jdsemi (114K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=13007.pdf&dire=_jdsemi"
+        },
+        {
+          "name": "1 (376K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=3dd13007k.pdf&dire=_1"
+        },
+        {
+          "name": "motorola (337K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=mje13007.pdf&dire=_motorola"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SB858B",
+          "name": "2SB858B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13007",
+          "manufacturer": "Various",
+          "href": "/component/2SB858B"
+        },
+        {
+          "id": "2SB858C",
+          "name": "2SB858C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13007",
+          "manufacturer": "Various",
+          "href": "/component/2SB858C"
+        },
+        {
+          "id": "2SB858D",
+          "name": "2SB858D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13007",
+          "manufacturer": "Various",
+          "href": "/component/2SB858D"
+        },
+        {
+          "id": "2SB859",
+          "name": "2SB859",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13007",
+          "manufacturer": "Various",
+          "href": "/component/2SB859"
+        },
+        {
+          "id": "2SB859B",
+          "name": "2SB859B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13007",
+          "manufacturer": "Various",
+          "href": "/component/2SB859B"
+        },
+        {
+          "id": "2SB859C",
+          "name": "2SB859C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13007",
+          "manufacturer": "Various",
+          "href": "/component/2SB859C"
+        },
+        {
+          "id": "2SB86",
+          "name": "2SB86",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13007",
+          "manufacturer": "Various",
+          "href": "/component/2SB86"
+        },
+        {
+          "id": "2SB860",
+          "name": "2SB860",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13007",
+          "manufacturer": "Various",
+          "href": "/component/2SB860"
+        },
+        {
+          "id": "2SC2625",
+          "name": "2SC2625",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13007",
+          "manufacturer": "Various",
+          "href": "/component/2SC2625"
+        },
+        {
+          "id": "2SB861B",
+          "name": "2SB861B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13007",
+          "manufacturer": "Various",
+          "href": "/component/2SB861B"
+        },
+        {
+          "id": "2SB861C",
+          "name": "2SB861C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13007",
+          "manufacturer": "Various",
+          "href": "/component/2SB861C"
+        },
+        {
+          "id": "2SB862",
+          "name": "2SB862",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13007",
+          "manufacturer": "Various",
+          "href": "/component/2SB862"
+        },
+        {
+          "id": "2SB863",
+          "name": "2SB863",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13007",
+          "manufacturer": "Various",
+          "href": "/component/2SB863"
+        },
+        {
+          "id": "2SB863O",
+          "name": "2SB863O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13007",
+          "manufacturer": "Various",
+          "href": "/component/2SB863O"
+        },
+        {
+          "id": "2SB863R",
+          "name": "2SB863R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13007",
+          "manufacturer": "Various",
+          "href": "/component/2SB863R"
+        },
+        {
+          "id": "2SB864",
+          "name": "2SB864",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13007",
+          "manufacturer": "Various",
+          "href": "/component/2SB864"
+        },
+        {
+          "id": "2SB865",
+          "name": "2SB865",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13007",
+          "manufacturer": "Various",
+          "href": "/component/2SB865"
+        }
+      ],
+      "href": "/component/13007"
+    },
+    {
+      "id": "TIP3055",
+      "name": "TIP3055",
+      "type": "NPN Transistor",
+      "description": "O218 \n- BJT Cross-Reference Search\nTIP3055 Datasheet (PDF)\n..1. Size:87K st\ntip2955 tip3055.pdf \nTIP2955TIP3055Complementary power transistorsFeatures Low collector-emitter saturation voltage Complementary NPN - PNP transistorsApplications General purpose Audio Amplifier321DescriptionTO-247The devices are manufactured in epitaxial-base planar technology and are suitable for audio, power linear and switching applications.Figure 1. Internal sche\n..2. Size:237K onsemi\ntip3055 tip2955.pdf \nTIP3055 (NPN),TIP2955 (PNP)Complementary SiliconPower TransistorsDesigned for general-purpose switching and amplifier applications.http://onsemi.comFeatures DC Current Gain - 15 AMPEREhFE = 20 - 70 @ IC POWER TRANSISTORS= 4.0 AdcCOMPLEMENTARY SILICON Collector-Emitter Saturation Voltage - 60 VOLTS, 90 WATTSVCE(sat) = 1.1 Vdc (Max) @ IC = 4.0 Adc Excell\n..3. Size:82K bourns\ntip3055.pdf \nTIP3055NPN SILICON POWER TRANSISTOR Designed for Complementary Use with the SOT-93 PACKAGETIP2955 Series (TOP VIEW) 90 W at 25C Case TemperatureB1 15 A Continuous Collector CurrentC 2 Customer-Specified Selections Available3EPin 2 is in electrical contact with the mounting base.MDTRAAAabsolute maximum ratings at 25C case temperature (unless otherwis\nDatasheet: TIP29A , TIP29B , TIP29C , TIP29D , TIP29E , TIP29F , TIP30 , TIP3054 , TSB145 , TIP30A , TIP30B , TIP30C , TIP30D , TIP30E , TIP30F , TIP31 , TIP31A . \nHistory: 2N3904 \nKeywords - TIP3055 transistor datasheet\nTIP3055 cross reference\nTIP3055 equivalent finder\nTIP3055 lookup\nTIP3055 substitution\nTIP3055 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO218",
+      "maxCollectorCurrent": 15,
+      "maxCollectorEmitterVoltage": 70,
+      "maxCollectorBaseVoltage": 100,
+      "maxEmitterBaseVoltage": 7,
+      "maxPowerDissipation": 90,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 3,
+      "hFE": 20,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO218",
+        "Collector Power Dissipation": "90W",
+        "Collector-Base Voltage": "100V",
+        "Collector-Emitter Voltage": "70V",
+        "Emitter-Base Voltage": "7V",
+        "Collector Current": "15A",
+        "Current Gain (hFE)": "20",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "3MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "bourns (82K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=tip3055.pdf&dire=_bourns"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "TIP29A",
+          "name": "TIP29A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP3055",
+          "manufacturer": "Various",
+          "href": "/component/TIP29A"
+        },
+        {
+          "id": "TIP29B",
+          "name": "TIP29B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP3055",
+          "manufacturer": "Various",
+          "href": "/component/TIP29B"
+        },
+        {
+          "id": "TIP29C",
+          "name": "TIP29C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP3055",
+          "manufacturer": "Various",
+          "href": "/component/TIP29C"
+        },
+        {
+          "id": "TIP29D",
+          "name": "TIP29D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP3055",
+          "manufacturer": "Various",
+          "href": "/component/TIP29D"
+        },
+        {
+          "id": "TIP29E",
+          "name": "TIP29E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP3055",
+          "manufacturer": "Various",
+          "href": "/component/TIP29E"
+        },
+        {
+          "id": "TIP29F",
+          "name": "TIP29F",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP3055",
+          "manufacturer": "Various",
+          "href": "/component/TIP29F"
+        },
+        {
+          "id": "TIP30",
+          "name": "TIP30",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP3055",
+          "manufacturer": "Various",
+          "href": "/component/TIP30"
+        },
+        {
+          "id": "TIP3054",
+          "name": "TIP3054",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP3055",
+          "manufacturer": "Various",
+          "href": "/component/TIP3054"
+        },
+        {
+          "id": "TSB145",
+          "name": "TSB145",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP3055",
+          "manufacturer": "Various",
+          "href": "/component/TSB145"
+        },
+        {
+          "id": "TIP30A",
+          "name": "TIP30A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP3055",
+          "manufacturer": "Various",
+          "href": "/component/TIP30A"
+        },
+        {
+          "id": "TIP30B",
+          "name": "TIP30B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP3055",
+          "manufacturer": "Various",
+          "href": "/component/TIP30B"
+        },
+        {
+          "id": "TIP30C",
+          "name": "TIP30C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP3055",
+          "manufacturer": "Various",
+          "href": "/component/TIP30C"
+        },
+        {
+          "id": "TIP30D",
+          "name": "TIP30D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP3055",
+          "manufacturer": "Various",
+          "href": "/component/TIP30D"
+        },
+        {
+          "id": "TIP30E",
+          "name": "TIP30E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP3055",
+          "manufacturer": "Various",
+          "href": "/component/TIP30E"
+        },
+        {
+          "id": "TIP30F",
+          "name": "TIP30F",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP3055",
+          "manufacturer": "Various",
+          "href": "/component/TIP30F"
+        },
+        {
+          "id": "TIP31",
+          "name": "TIP31",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP3055",
+          "manufacturer": "Various",
+          "href": "/component/TIP31"
+        },
+        {
+          "id": "TIP31A",
+          "name": "TIP31A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP3055",
+          "manufacturer": "Various",
+          "href": "/component/TIP31A"
+        }
+      ],
+      "href": "/component/TIP3055"
+    },
+    {
+      "id": "IRFB4110",
+      "name": "IRFB4110",
+      "type": "Transistor",
+      "description": "O220AB \n- MOSFET Cross-Reference Search\nIRFB4110 Datasheet (PDF)\n..1. Size:341K international rectifier\nirfb4110pbf.pdf \nIRFB4110PbFHEXFET Power MOSFETApplicationsDVDSS 100Vl High Efficiency Synchronous Rectification in SMPSRDS(on) typ.l Uninterruptible Power Supply3.7ml High Speed Power Switching max.4.5ml Hard Switched and High Frequency CircuitsGID (Silicon Limited) 180A S ID (Package Limited)120ABenefitsl Improved Gate, Avalanche and Dynamic dv/dtDRuggedness\n..2. Size:809K cn evvo\nirfb4110.pdf \nIRFB4110100 V N-Channel MOSFETApplicationsl High Efficiency Synchronous Rectification in SMPSl Uninterruptible Power Supplyl High Speed Power Switchingl Hard Switched and High Frequency CircuitsBenefitsl Improved Gate, Avalanche and Dynamic dv/dtRuggednessl Fully Characterized Capacitance and AvalancheSOADl Enhanced body diode dV/dt and dI/dt Capabilityl Lead Freel\n..3. Size:245K inchange semiconductor\nirfb4110.pdf \nisc N-Channel MOSFET Transistor IRFB4110IIRFB4110FEATURESStatic drain-source on-resistance:RDS(on) 4.5mEnhancement modeFast Switching Speed100% avalanche testedMinimum Lot-to-Lot variations for robust deviceperformance and reliable operationDESCRITIONreliable device for use in a wide variety of applicationsABSOLUTE MAXIMUM RATINGS(T =25)aS\n0.1. Size:303K international rectifier\nirfb4110gpbf.pdf \nPD - 96214IRFB4110GPbFApplicationsHEXFET Power MOSFETl High Efficiency Synchronous Rectification in SMPSl Uninterruptible Power Supply VDSS 100Vl High Speed Power SwitchingRDS(on) typ.3.7ml Hard Switched and High Frequency Circuits max. 4.5mID (Silicon Limited)180A ID (Package Limited)120ABenefitsl Improved Gate, Avalanche and Dynamic dv/dtRuggednessD Dl \nDatasheet: IRFB33N15D , IRFB3507 , IRFB3607 , IRFB3607G , IRFB3806 , IRFB38N20D , IRFB4019 , IRFB4020 , MDF11N65B , IRFB4110G , IRFB4110Q , IRFB4115 , IRFB4115G , IRFB4127 , IRFB41N15D , IRFB4212 , IRFB4227 . \nKeywords - IRFB4110 MOSFET datasheet\nIRFB4110 cross reference\nIRFB4110 equivalent finder\nIRFB4110 lookup\nIRFB4110 substitution\nIRFB4110 replacement",
+      "manufacturer": "Various",
+      "polarity": "",
+      "material": "",
+      "package": "TO220AB",
+      "specs": {
+        "Polarity": "",
+        "Material": "",
+        "Package": "TO220AB",
+        "Collector Power Dissipation": "N/A",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "N/A",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "N/A",
+        "Current Gain (hFE)": "N/A",
+        "Junction Temperature": "N/A",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "international rectifier (341K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=irfb4110pbf.pdf&dire=_international_rectifier"
+        },
+        {
+          "name": "cn evvo (809K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=irfb4110.pdf&dire=_cn_evvo"
+        },
+        {
+          "name": "inchange semiconductor (245K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=irfb4110.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "international rectifier (303K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=irfb4110gpbf.pdf&dire=_international_rectifier"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "IRFB33N15D",
+          "name": "IRFB33N15D",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFB4110",
+          "manufacturer": "Various",
+          "href": "/component/IRFB33N15D"
+        },
+        {
+          "id": "IRFB3507",
+          "name": "IRFB3507",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFB4110",
+          "manufacturer": "Various",
+          "href": "/component/IRFB3507"
+        },
+        {
+          "id": "IRFB3607",
+          "name": "IRFB3607",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFB4110",
+          "manufacturer": "Various",
+          "href": "/component/IRFB3607"
+        },
+        {
+          "id": "IRFB3607G",
+          "name": "IRFB3607G",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFB4110",
+          "manufacturer": "Various",
+          "href": "/component/IRFB3607G"
+        },
+        {
+          "id": "IRFB3806",
+          "name": "IRFB3806",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFB4110",
+          "manufacturer": "Various",
+          "href": "/component/IRFB3806"
+        },
+        {
+          "id": "IRFB38N20D",
+          "name": "IRFB38N20D",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFB4110",
+          "manufacturer": "Various",
+          "href": "/component/IRFB38N20D"
+        },
+        {
+          "id": "IRFB4019",
+          "name": "IRFB4019",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFB4110",
+          "manufacturer": "Various",
+          "href": "/component/IRFB4019"
+        },
+        {
+          "id": "IRFB4020",
+          "name": "IRFB4020",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFB4110",
+          "manufacturer": "Various",
+          "href": "/component/IRFB4020"
+        },
+        {
+          "id": "MDF11N65B",
+          "name": "MDF11N65B",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFB4110",
+          "manufacturer": "Various",
+          "href": "/component/MDF11N65B"
+        },
+        {
+          "id": "IRFB4110G",
+          "name": "IRFB4110G",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFB4110",
+          "manufacturer": "Various",
+          "href": "/component/IRFB4110G"
+        },
+        {
+          "id": "IRFB4110Q",
+          "name": "IRFB4110Q",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFB4110",
+          "manufacturer": "Various",
+          "href": "/component/IRFB4110Q"
+        },
+        {
+          "id": "IRFB4115",
+          "name": "IRFB4115",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFB4110",
+          "manufacturer": "Various",
+          "href": "/component/IRFB4115"
+        },
+        {
+          "id": "IRFB4115G",
+          "name": "IRFB4115G",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFB4110",
+          "manufacturer": "Various",
+          "href": "/component/IRFB4115G"
+        },
+        {
+          "id": "IRFB4127",
+          "name": "IRFB4127",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFB4110",
+          "manufacturer": "Various",
+          "href": "/component/IRFB4127"
+        },
+        {
+          "id": "IRFB41N15D",
+          "name": "IRFB41N15D",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFB4110",
+          "manufacturer": "Various",
+          "href": "/component/IRFB41N15D"
+        },
+        {
+          "id": "IRFB4212",
+          "name": "IRFB4212",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFB4110",
+          "manufacturer": "Various",
+          "href": "/component/IRFB4212"
+        },
+        {
+          "id": "IRFB4227",
+          "name": "IRFB4227",
+          "type": "Transistor",
+          "description": "Potential equivalent for IRFB4110",
+          "manufacturer": "Various",
+          "href": "/component/IRFB4227"
+        }
+      ],
+      "href": "/component/IRFB4110"
+    }
+  ]
+}

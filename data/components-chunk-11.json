@@ -1,0 +1,3351 @@
+{
+  "components": [
+    {
+      "id": "2SD716R",
+      "name": "2SD716R",
+      "type": "NPN Transistor",
+      "description": "Silicon NPN high frequency, high power transistors in a plastic envelope, primarily for use in audio and general purposeTO-3P(I)DQUICK REFERENCE DATASYMBOL PARAMETER CONDITIONS MIN MAX UNITCollector-emitter voltage peak value VBE = 0VVCESM - 100 VCollector-emitter voltage (open base)VCEO - 100 VCollector curre\n8.2. Size:219K inchange semiconductor\n2sd716.pdf",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO247",
+      "maxCollectorCurrent": 6,
+      "maxCollectorEmitterVoltage": 100,
+      "maxCollectorBaseVoltage": 100,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 60,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 6,
+      "collectorCapacitance": 100,
+      "hFE": 55,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO247",
+        "Collector Power Dissipation": "60W",
+        "Collector-Base Voltage": "100V",
+        "Collector-Emitter Voltage": "100V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "6A",
+        "Current Gain (hFE)": "55",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "6MHz",
+        "Collector Capacitance": "100pF"
+      },
+      "datasheets": [
+        {
+          "name": "wingshing (89K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd716.pdf&dire=_wingshing"
+        },
+        {
+          "name": "inchange semiconductor (219K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd716.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "utc (106K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd718.pdf&dire=_utc"
+        },
+        {
+          "name": "fuji (309K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd711.pdf&dire=_fuji"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD710",
+          "name": "2SD710",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716R",
+          "manufacturer": "Various",
+          "href": "/component/2SD710"
+        },
+        {
+          "id": "2SD711A",
+          "name": "2SD711A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716R",
+          "manufacturer": "Various",
+          "href": "/component/2SD711A"
+        },
+        {
+          "id": "2SD712",
+          "name": "2SD712",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716R",
+          "manufacturer": "Various",
+          "href": "/component/2SD712"
+        },
+        {
+          "id": "2SD712A",
+          "name": "2SD712A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716R",
+          "manufacturer": "Various",
+          "href": "/component/2SD712A"
+        },
+        {
+          "id": "2SD713",
+          "name": "2SD713",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716R",
+          "manufacturer": "Various",
+          "href": "/component/2SD713"
+        },
+        {
+          "id": "2SD715",
+          "name": "2SD715",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716R",
+          "manufacturer": "Various",
+          "href": "/component/2SD715"
+        },
+        {
+          "id": "2SD716",
+          "name": "2SD716",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716R",
+          "manufacturer": "Various",
+          "href": "/component/2SD716"
+        },
+        {
+          "id": "2SD716O",
+          "name": "2SD716O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716R",
+          "manufacturer": "Various",
+          "href": "/component/2SD716O"
+        },
+        {
+          "id": "TIP42",
+          "name": "TIP42",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716R",
+          "manufacturer": "Various",
+          "href": "/component/TIP42"
+        },
+        {
+          "id": "2SD717",
+          "name": "2SD717",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716R",
+          "manufacturer": "Various",
+          "href": "/component/2SD717"
+        },
+        {
+          "id": "2SD717O",
+          "name": "2SD717O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716R",
+          "manufacturer": "Various",
+          "href": "/component/2SD717O"
+        },
+        {
+          "id": "2SD717Y",
+          "name": "2SD717Y",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716R",
+          "manufacturer": "Various",
+          "href": "/component/2SD717Y"
+        },
+        {
+          "id": "2SD718",
+          "name": "2SD718",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716R",
+          "manufacturer": "Various",
+          "href": "/component/2SD718"
+        },
+        {
+          "id": "2SD718O",
+          "name": "2SD718O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716R",
+          "manufacturer": "Various",
+          "href": "/component/2SD718O"
+        },
+        {
+          "id": "2SD718R",
+          "name": "2SD718R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716R",
+          "manufacturer": "Various",
+          "href": "/component/2SD718R"
+        },
+        {
+          "id": "2SD72",
+          "name": "2SD72",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716R",
+          "manufacturer": "Various",
+          "href": "/component/2SD72"
+        },
+        {
+          "id": "2SD720",
+          "name": "2SD720",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716R",
+          "manufacturer": "Various",
+          "href": "/component/2SD720"
+        }
+      ],
+      "href": "/component/2SD716R"
+    },
+    {
+      "id": "2SD716",
+      "name": "2SD716",
+      "type": "NPN Transistor",
+      "description": "Silicon NPN high frequency, high power transistors in a plastic envelope, primarily for use in audio and general purposeTO-3P(I)DQUICK REFERENCE DATASYMBOL PARAMETER CONDITIONS MIN MAX UNITCollector-emitter voltage peak value VBE = 0VVCESM - 100 VCollector-emitter voltage (open base)VCEO - 100 VCollector curre\n..2. Size:219K inchange semiconductor\n2sd716.pdf",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO247",
+      "maxCollectorCurrent": 6,
+      "maxCollectorEmitterVoltage": 100,
+      "maxCollectorBaseVoltage": 100,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 60,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 6,
+      "collectorCapacitance": 100,
+      "hFE": 55,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO247",
+        "Collector Power Dissipation": "60W",
+        "Collector-Base Voltage": "100V",
+        "Collector-Emitter Voltage": "100V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "6A",
+        "Current Gain (hFE)": "55",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "6MHz",
+        "Collector Capacitance": "100pF"
+      },
+      "datasheets": [
+        {
+          "name": "wingshing (89K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd716.pdf&dire=_wingshing"
+        },
+        {
+          "name": "inchange semiconductor (219K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd716.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "utc (106K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd718.pdf&dire=_utc"
+        },
+        {
+          "name": "fuji (309K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd711.pdf&dire=_fuji"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD709",
+          "name": "2SD709",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716",
+          "manufacturer": "Various",
+          "href": "/component/2SD709"
+        },
+        {
+          "id": "2SD71",
+          "name": "2SD71",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716",
+          "manufacturer": "Various",
+          "href": "/component/2SD71"
+        },
+        {
+          "id": "2SD710",
+          "name": "2SD710",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716",
+          "manufacturer": "Various",
+          "href": "/component/2SD710"
+        },
+        {
+          "id": "2SD711A",
+          "name": "2SD711A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716",
+          "manufacturer": "Various",
+          "href": "/component/2SD711A"
+        },
+        {
+          "id": "2SD712",
+          "name": "2SD712",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716",
+          "manufacturer": "Various",
+          "href": "/component/2SD712"
+        },
+        {
+          "id": "2SD712A",
+          "name": "2SD712A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716",
+          "manufacturer": "Various",
+          "href": "/component/2SD712A"
+        },
+        {
+          "id": "2SD713",
+          "name": "2SD713",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716",
+          "manufacturer": "Various",
+          "href": "/component/2SD713"
+        },
+        {
+          "id": "2SD715",
+          "name": "2SD715",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716",
+          "manufacturer": "Various",
+          "href": "/component/2SD715"
+        },
+        {
+          "id": "2SD716O",
+          "name": "2SD716O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716",
+          "manufacturer": "Various",
+          "href": "/component/2SD716O"
+        },
+        {
+          "id": "2SD716R",
+          "name": "2SD716R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716",
+          "manufacturer": "Various",
+          "href": "/component/2SD716R"
+        },
+        {
+          "id": "2SD717",
+          "name": "2SD717",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716",
+          "manufacturer": "Various",
+          "href": "/component/2SD717"
+        },
+        {
+          "id": "2SD717O",
+          "name": "2SD717O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716",
+          "manufacturer": "Various",
+          "href": "/component/2SD717O"
+        },
+        {
+          "id": "2SD717Y",
+          "name": "2SD717Y",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716",
+          "manufacturer": "Various",
+          "href": "/component/2SD717Y"
+        },
+        {
+          "id": "2SD718",
+          "name": "2SD718",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716",
+          "manufacturer": "Various",
+          "href": "/component/2SD718"
+        },
+        {
+          "id": "2SD718O",
+          "name": "2SD718O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716",
+          "manufacturer": "Various",
+          "href": "/component/2SD718O"
+        },
+        {
+          "id": "2SD718R",
+          "name": "2SD718R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD716",
+          "manufacturer": "Various",
+          "href": "/component/2SD718R"
+        }
+      ],
+      "href": "/component/2SD716"
+    },
+    {
+      "id": "2SD717",
+      "name": "2SD717",
+      "type": "NPN Transistor",
+      "description": "Silicon NPN high frequency, high power transistors in a plastic envelope, primarily for use in audio and general purposeTO-3P(I)DQUICK REFERENCE DATASYMBOL PARAMETER CONDITIONS TYP MAX UNITCollector-emitter voltage peak value V = 0VBEV - 70 VCBOCollector-emitter voltage (open base)V - 70 VCEOCollector\n..2. Size:218K inchange semiconductor\n2sd717.pdf",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO247",
+      "maxCollectorCurrent": 10,
+      "maxCollectorEmitterVoltage": 50,
+      "maxCollectorBaseVoltage": 70,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 80,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 5,
+      "collectorCapacitance": 350,
+      "hFE": 55,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO247",
+        "Collector Power Dissipation": "80W",
+        "Collector-Base Voltage": "70V",
+        "Collector-Emitter Voltage": "50V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "10A",
+        "Current Gain (hFE)": "55",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "5MHz",
+        "Collector Capacitance": "350pF"
+      },
+      "datasheets": [
+        {
+          "name": "wingshing (88K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd717.pdf&dire=_wingshing"
+        },
+        {
+          "name": "inchange semiconductor (218K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd717.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "utc (106K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd718.pdf&dire=_utc"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD711A",
+          "name": "2SD711A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717",
+          "manufacturer": "Various",
+          "href": "/component/2SD711A"
+        },
+        {
+          "id": "2SD712",
+          "name": "2SD712",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717",
+          "manufacturer": "Various",
+          "href": "/component/2SD712"
+        },
+        {
+          "id": "2SD712A",
+          "name": "2SD712A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717",
+          "manufacturer": "Various",
+          "href": "/component/2SD712A"
+        },
+        {
+          "id": "2SD713",
+          "name": "2SD713",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717",
+          "manufacturer": "Various",
+          "href": "/component/2SD713"
+        },
+        {
+          "id": "2SD715",
+          "name": "2SD715",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717",
+          "manufacturer": "Various",
+          "href": "/component/2SD715"
+        },
+        {
+          "id": "2SD716",
+          "name": "2SD716",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717",
+          "manufacturer": "Various",
+          "href": "/component/2SD716"
+        },
+        {
+          "id": "2SD716O",
+          "name": "2SD716O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717",
+          "manufacturer": "Various",
+          "href": "/component/2SD716O"
+        },
+        {
+          "id": "2SD716R",
+          "name": "2SD716R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717",
+          "manufacturer": "Various",
+          "href": "/component/2SD716R"
+        },
+        {
+          "id": "2SD717O",
+          "name": "2SD717O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717",
+          "manufacturer": "Various",
+          "href": "/component/2SD717O"
+        },
+        {
+          "id": "2SD717Y",
+          "name": "2SD717Y",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717",
+          "manufacturer": "Various",
+          "href": "/component/2SD717Y"
+        },
+        {
+          "id": "2SD718",
+          "name": "2SD718",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717",
+          "manufacturer": "Various",
+          "href": "/component/2SD718"
+        },
+        {
+          "id": "2SD718O",
+          "name": "2SD718O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717",
+          "manufacturer": "Various",
+          "href": "/component/2SD718O"
+        },
+        {
+          "id": "2SD718R",
+          "name": "2SD718R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717",
+          "manufacturer": "Various",
+          "href": "/component/2SD718R"
+        },
+        {
+          "id": "2SD72",
+          "name": "2SD72",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717",
+          "manufacturer": "Various",
+          "href": "/component/2SD72"
+        },
+        {
+          "id": "2SD720",
+          "name": "2SD720",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717",
+          "manufacturer": "Various",
+          "href": "/component/2SD720"
+        },
+        {
+          "id": "2SD721",
+          "name": "2SD721",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717",
+          "manufacturer": "Various",
+          "href": "/component/2SD721"
+        }
+      ],
+      "href": "/component/2SD717"
+    },
+    {
+      "id": "2SD717Y",
+      "name": "2SD717Y",
+      "type": "NPN Transistor",
+      "description": "Silicon NPN high frequency, high power transistors in a plastic envelope, primarily for use in audio and general purposeTO-3P(I)DQUICK REFERENCE DATASYMBOL PARAMETER CONDITIONS TYP MAX UNITCollector-emitter voltage peak value V = 0VBEV - 70 VCBOCollector-emitter voltage (open base)V - 70 VCEOCollector\n8.2. Size:218K inchange semiconductor\n2sd717.pdf",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO247",
+      "maxCollectorCurrent": 10,
+      "maxCollectorEmitterVoltage": 50,
+      "maxCollectorBaseVoltage": 70,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 80,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 5,
+      "collectorCapacitance": 350,
+      "hFE": 55,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO247",
+        "Collector Power Dissipation": "80W",
+        "Collector-Base Voltage": "70V",
+        "Collector-Emitter Voltage": "50V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "10A",
+        "Current Gain (hFE)": "55",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "5MHz",
+        "Collector Capacitance": "350pF"
+      },
+      "datasheets": [
+        {
+          "name": "wingshing (88K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd717.pdf&dire=_wingshing"
+        },
+        {
+          "name": "inchange semiconductor (218K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd717.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "utc (106K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd718.pdf&dire=_utc"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD712A",
+          "name": "2SD712A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717Y",
+          "manufacturer": "Various",
+          "href": "/component/2SD712A"
+        },
+        {
+          "id": "2SD713",
+          "name": "2SD713",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717Y",
+          "manufacturer": "Various",
+          "href": "/component/2SD713"
+        },
+        {
+          "id": "2SD715",
+          "name": "2SD715",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717Y",
+          "manufacturer": "Various",
+          "href": "/component/2SD715"
+        },
+        {
+          "id": "2SD716",
+          "name": "2SD716",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717Y",
+          "manufacturer": "Various",
+          "href": "/component/2SD716"
+        },
+        {
+          "id": "2SD716O",
+          "name": "2SD716O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717Y",
+          "manufacturer": "Various",
+          "href": "/component/2SD716O"
+        },
+        {
+          "id": "2SD716R",
+          "name": "2SD716R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717Y",
+          "manufacturer": "Various",
+          "href": "/component/2SD716R"
+        },
+        {
+          "id": "2SD717",
+          "name": "2SD717",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717Y",
+          "manufacturer": "Various",
+          "href": "/component/2SD717"
+        },
+        {
+          "id": "2SD717O",
+          "name": "2SD717O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717Y",
+          "manufacturer": "Various",
+          "href": "/component/2SD717O"
+        },
+        {
+          "id": "2SD718",
+          "name": "2SD718",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717Y",
+          "manufacturer": "Various",
+          "href": "/component/2SD718"
+        },
+        {
+          "id": "2SD718O",
+          "name": "2SD718O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717Y",
+          "manufacturer": "Various",
+          "href": "/component/2SD718O"
+        },
+        {
+          "id": "2SD718R",
+          "name": "2SD718R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717Y",
+          "manufacturer": "Various",
+          "href": "/component/2SD718R"
+        },
+        {
+          "id": "2SD72",
+          "name": "2SD72",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717Y",
+          "manufacturer": "Various",
+          "href": "/component/2SD72"
+        },
+        {
+          "id": "2SD720",
+          "name": "2SD720",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717Y",
+          "manufacturer": "Various",
+          "href": "/component/2SD720"
+        },
+        {
+          "id": "2SD721",
+          "name": "2SD721",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717Y",
+          "manufacturer": "Various",
+          "href": "/component/2SD721"
+        },
+        {
+          "id": "2SD722",
+          "name": "2SD722",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717Y",
+          "manufacturer": "Various",
+          "href": "/component/2SD722"
+        },
+        {
+          "id": "2SD723",
+          "name": "2SD723",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD717Y",
+          "manufacturer": "Various",
+          "href": "/component/2SD723"
+        }
+      ],
+      "href": "/component/2SD717Y"
+    },
+    {
+      "id": "BC546",
+      "name": "BC546",
+      "type": "NPN Transistor",
+      "description": "Low voltage (max. 65 V).1 emitter2 baseAPPLICATIONS\n..4. Size:44K fairchild semi",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.1,
+      "maxCollectorEmitterVoltage": 80,
+      "maxCollectorBaseVoltage": 80,
+      "maxEmitterBaseVoltage": 6,
+      "maxPowerDissipation": 0.5,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 300,
+      "collectorCapacitance": 6,
+      "hFE": 110,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.5W",
+        "Collector-Base Voltage": "80V",
+        "Collector-Emitter Voltage": "80V",
+        "Emitter-Base Voltage": "6V",
+        "Collector Current": "0.1A",
+        "Current Gain (hFE)": "110",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "300MHz",
+        "Collector Capacitance": "6pF"
+      },
+      "datasheets": [],
+      "equivalents": [
+        {
+          "id": "TIP142",
+          "name": "TIP142",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC546",
+          "manufacturer": "Various",
+          "href": "/component/TIP142"
+        }
+      ],
+      "href": "/component/BC546"
+    },
+    {
+      "id": "2SD718O",
+      "name": "2SD718O",
+      "type": "NPN Transistor",
+      "description": "O3P \n- BJT Cross-Reference Search\n2SD718O Datasheet (PDF)\n..1. Size:195K cn sptech\n2sd718r 2sd718o.pdf \nSPTECH Product SpecificationSPTECH Silicon NPN Power Transistor 2SD718DESCRIPTIONCollector-Emitter Breakdown Voltage-: V = 120V(Min)(BR)CEOGood Linearity of hFEComplement to Type 2SB688APPLICATIONSAudio frequency power amplifier applicationsRecommend for 45-50W audio frequency amplifieroutput stage applicationsABSOLUTE MAXIMUM RATINGS(T =25)aSYMBOL PAR\n8.1. Size:106K utc\n2sd718.pdf \nUTC 2SD718 NPN EPITAXIAL SILICON TRANSISTOR HIGH POWER AMPLIFIER APPLICATION FEATURES *Recommended for 45~50W Audio Frequency *Amplifier Output Stage. *Complementary to 2SB688. 1TO-3P 1: BASE 2:COLLECTOR 3: EMITTER ABSOLUTE MAXIMUM RATINGS (Ta=25) PARAMETER SYMBOL RATINGS UNITCollector-Base Voltage VCBO 120 VCollector-Emitter Voltage VCEO 120 VEmitter-Base Voltage\n8.3. Size:610K jilin sino\n2sd718.pdf \nNPN Silicon NPN Triple Diffused Transistor R 2SD718 SERIES APPLICATIONS Power Amplifier Applications FEATURES V =110V (min) High collector voltageV =110V (min) CEO CEOV =180V (min) V =180V (min) CEO CEO 2SB688 Complementary to 2SB688 \nDatasheet: 2SD715 , 2SD716 , 2SD716O , 2SD716R , 2SD717 , 2SD717O , 2SD717Y , 2SD718 , 2SC2625 , 2SD718R , 2SD72 , 2SD720 , 2SD721 , 2SD722 , 2SD723 , 2SD724 , 2SD725 . \nHistory: 2SD717Y | 2SD717O | 2SD716R | 2SD716O \nKeywords - 2SD718O transistor datasheet\n2SD718O cross reference\n2SD718O equivalent finder\n2SD718O lookup\n2SD718O substitution\n2SD718O replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO3P",
+      "maxCollectorCurrent": 8,
+      "maxCollectorEmitterVoltage": 120,
+      "maxCollectorBaseVoltage": 120,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 80,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 6,
+      "collectorCapacitance": 170,
+      "hFE": 80,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO3P",
+        "Collector Power Dissipation": "80W",
+        "Collector-Base Voltage": "120V",
+        "Collector-Emitter Voltage": "120V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "8A",
+        "Current Gain (hFE)": "80",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "6MHz",
+        "Collector Capacitance": "170pF"
+      },
+      "datasheets": [
+        {
+          "name": "utc (106K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd718.pdf&dire=_utc"
+        },
+        {
+          "name": "jilin sino (610K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd718.pdf&dire=_jilin_sino"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD715",
+          "name": "2SD715",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD718O",
+          "manufacturer": "Various",
+          "href": "/component/2SD715"
+        },
+        {
+          "id": "2SD716",
+          "name": "2SD716",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD718O",
+          "manufacturer": "Various",
+          "href": "/component/2SD716"
+        },
+        {
+          "id": "2SD716O",
+          "name": "2SD716O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD718O",
+          "manufacturer": "Various",
+          "href": "/component/2SD716O"
+        },
+        {
+          "id": "2SD716R",
+          "name": "2SD716R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD718O",
+          "manufacturer": "Various",
+          "href": "/component/2SD716R"
+        },
+        {
+          "id": "2SD717",
+          "name": "2SD717",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD718O",
+          "manufacturer": "Various",
+          "href": "/component/2SD717"
+        },
+        {
+          "id": "2SD717O",
+          "name": "2SD717O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD718O",
+          "manufacturer": "Various",
+          "href": "/component/2SD717O"
+        },
+        {
+          "id": "2SD717Y",
+          "name": "2SD717Y",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD718O",
+          "manufacturer": "Various",
+          "href": "/component/2SD717Y"
+        },
+        {
+          "id": "2SD718",
+          "name": "2SD718",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD718O",
+          "manufacturer": "Various",
+          "href": "/component/2SD718"
+        },
+        {
+          "id": "2SC2625",
+          "name": "2SC2625",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD718O",
+          "manufacturer": "Various",
+          "href": "/component/2SC2625"
+        },
+        {
+          "id": "2SD718R",
+          "name": "2SD718R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD718O",
+          "manufacturer": "Various",
+          "href": "/component/2SD718R"
+        },
+        {
+          "id": "2SD72",
+          "name": "2SD72",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD718O",
+          "manufacturer": "Various",
+          "href": "/component/2SD72"
+        },
+        {
+          "id": "2SD720",
+          "name": "2SD720",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD718O",
+          "manufacturer": "Various",
+          "href": "/component/2SD720"
+        },
+        {
+          "id": "2SD721",
+          "name": "2SD721",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD718O",
+          "manufacturer": "Various",
+          "href": "/component/2SD721"
+        },
+        {
+          "id": "2SD722",
+          "name": "2SD722",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD718O",
+          "manufacturer": "Various",
+          "href": "/component/2SD722"
+        },
+        {
+          "id": "2SD723",
+          "name": "2SD723",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD718O",
+          "manufacturer": "Various",
+          "href": "/component/2SD723"
+        },
+        {
+          "id": "2SD724",
+          "name": "2SD724",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD718O",
+          "manufacturer": "Various",
+          "href": "/component/2SD724"
+        },
+        {
+          "id": "2SD725",
+          "name": "2SD725",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD718O",
+          "manufacturer": "Various",
+          "href": "/component/2SD725"
+        }
+      ],
+      "href": "/component/2SD718O"
+    },
+    {
+      "id": "TIP41D",
+      "name": "TIP41D",
+      "type": "NPN Transistor",
+      "description": "With TO-220C package Complement to type TIP42D/42E/42F APPLICATIONS For medium power linear switching applications PINNING PIN DESCRIPTION1 Base Collector;connected to 2 mounting base 3 EmitterAbsolute maximum ratings(Tc=25) SYMBOL PARAMETER CONDITIONS\n9.1. Size:222K motorola",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO220",
+      "maxCollectorCurrent": 6,
+      "maxCollectorEmitterVoltage": 120,
+      "maxCollectorBaseVoltage": 160,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 65,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 3,
+      "hFE": 20,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO220",
+        "Collector Power Dissipation": "65W",
+        "Collector-Base Voltage": "160V",
+        "Collector-Emitter Voltage": "120V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "6A",
+        "Current Gain (hFE)": "20",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "3MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "inchange semiconductor (209K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=tip41d.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "motorola (222K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=tip41are.pdf&dire=_motorola"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "TIP36C",
+          "name": "TIP36C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41D",
+          "manufacturer": "Various",
+          "href": "/component/TIP36C"
+        },
+        {
+          "id": "TIP36D",
+          "name": "TIP36D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41D",
+          "manufacturer": "Various",
+          "href": "/component/TIP36D"
+        },
+        {
+          "id": "TIP36E",
+          "name": "TIP36E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41D",
+          "manufacturer": "Various",
+          "href": "/component/TIP36E"
+        },
+        {
+          "id": "TIP36F",
+          "name": "TIP36F",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41D",
+          "manufacturer": "Various",
+          "href": "/component/TIP36F"
+        },
+        {
+          "id": "TIP41",
+          "name": "TIP41",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41D",
+          "manufacturer": "Various",
+          "href": "/component/TIP41"
+        },
+        {
+          "id": "TIP41A",
+          "name": "TIP41A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41D",
+          "manufacturer": "Various",
+          "href": "/component/TIP41A"
+        },
+        {
+          "id": "TIP41B",
+          "name": "TIP41B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41D",
+          "manufacturer": "Various",
+          "href": "/component/TIP41B"
+        },
+        {
+          "id": "TIP41C",
+          "name": "TIP41C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41D",
+          "manufacturer": "Various",
+          "href": "/component/TIP41C"
+        },
+        {
+          "id": "TIP41E",
+          "name": "TIP41E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41D",
+          "manufacturer": "Various",
+          "href": "/component/TIP41E"
+        },
+        {
+          "id": "TIP41F",
+          "name": "TIP41F",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41D",
+          "manufacturer": "Various",
+          "href": "/component/TIP41F"
+        },
+        {
+          "id": "TIP42",
+          "name": "TIP42",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41D",
+          "manufacturer": "Various",
+          "href": "/component/TIP42"
+        },
+        {
+          "id": "TIP42A",
+          "name": "TIP42A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41D",
+          "manufacturer": "Various",
+          "href": "/component/TIP42A"
+        },
+        {
+          "id": "TIP42B",
+          "name": "TIP42B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41D",
+          "manufacturer": "Various",
+          "href": "/component/TIP42B"
+        },
+        {
+          "id": "TIP42C",
+          "name": "TIP42C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41D",
+          "manufacturer": "Various",
+          "href": "/component/TIP42C"
+        },
+        {
+          "id": "TIP42D",
+          "name": "TIP42D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41D",
+          "manufacturer": "Various",
+          "href": "/component/TIP42D"
+        },
+        {
+          "id": "TIP42E",
+          "name": "TIP42E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41D",
+          "manufacturer": "Various",
+          "href": "/component/TIP42E"
+        }
+      ],
+      "href": "/component/TIP41D"
+    },
+    {
+      "id": "TIP41E",
+      "name": "TIP41E",
+      "type": "NPN Transistor",
+      "description": "With TO-220C package Complement to type TIP42D/42E/42F APPLICATIONS For medium power linear switching applications PINNING PIN DESCRIPTION1 Base Collector;connected to 2 mounting base 3 EmitterAbsolute maximum ratings(Tc=25) SYMBOL PARAMETER CONDITIONS\n..2. Size:210K inchange semiconductor",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO220",
+      "maxCollectorCurrent": 6,
+      "maxCollectorEmitterVoltage": 140,
+      "maxCollectorBaseVoltage": 180,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 65,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 3,
+      "hFE": 20,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO220",
+        "Collector Power Dissipation": "65W",
+        "Collector-Base Voltage": "180V",
+        "Collector-Emitter Voltage": "140V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "6A",
+        "Current Gain (hFE)": "20",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "3MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "inchange semiconductor (210K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=tip41e.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "motorola (222K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=tip41are.pdf&dire=_motorola"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "TIP36D",
+          "name": "TIP36D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41E",
+          "manufacturer": "Various",
+          "href": "/component/TIP36D"
+        },
+        {
+          "id": "TIP36E",
+          "name": "TIP36E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41E",
+          "manufacturer": "Various",
+          "href": "/component/TIP36E"
+        },
+        {
+          "id": "TIP36F",
+          "name": "TIP36F",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41E",
+          "manufacturer": "Various",
+          "href": "/component/TIP36F"
+        },
+        {
+          "id": "TIP41",
+          "name": "TIP41",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41E",
+          "manufacturer": "Various",
+          "href": "/component/TIP41"
+        },
+        {
+          "id": "TIP41A",
+          "name": "TIP41A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41E",
+          "manufacturer": "Various",
+          "href": "/component/TIP41A"
+        },
+        {
+          "id": "TIP41B",
+          "name": "TIP41B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41E",
+          "manufacturer": "Various",
+          "href": "/component/TIP41B"
+        },
+        {
+          "id": "TIP41C",
+          "name": "TIP41C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41E",
+          "manufacturer": "Various",
+          "href": "/component/TIP41C"
+        },
+        {
+          "id": "TIP41D",
+          "name": "TIP41D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41E",
+          "manufacturer": "Various",
+          "href": "/component/TIP41D"
+        },
+        {
+          "id": "TIP41F",
+          "name": "TIP41F",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41E",
+          "manufacturer": "Various",
+          "href": "/component/TIP41F"
+        },
+        {
+          "id": "TIP42",
+          "name": "TIP42",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41E",
+          "manufacturer": "Various",
+          "href": "/component/TIP42"
+        },
+        {
+          "id": "TIP42A",
+          "name": "TIP42A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41E",
+          "manufacturer": "Various",
+          "href": "/component/TIP42A"
+        },
+        {
+          "id": "TIP42B",
+          "name": "TIP42B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41E",
+          "manufacturer": "Various",
+          "href": "/component/TIP42B"
+        },
+        {
+          "id": "TIP42C",
+          "name": "TIP42C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41E",
+          "manufacturer": "Various",
+          "href": "/component/TIP42C"
+        },
+        {
+          "id": "TIP42D",
+          "name": "TIP42D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41E",
+          "manufacturer": "Various",
+          "href": "/component/TIP42D"
+        },
+        {
+          "id": "TIP42E",
+          "name": "TIP42E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41E",
+          "manufacturer": "Various",
+          "href": "/component/TIP42E"
+        },
+        {
+          "id": "TIP42F",
+          "name": "TIP42F",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41E",
+          "manufacturer": "Various",
+          "href": "/component/TIP42F"
+        }
+      ],
+      "href": "/component/TIP41E"
+    },
+    {
+      "id": "TIP41F",
+      "name": "TIP41F",
+      "type": "NPN Transistor",
+      "description": "With TO-220C package Complement to type TIP42D/42E/42F APPLICATIONS For medium power linear switching applications PINNING PIN DESCRIPTION1 Base Collector;connected to 2 mounting base 3 EmitterAbsolute maximum ratings(Tc=25) SYMBOL PARAMETER CONDITIONS\n9.1. Size:222K motorola",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO220",
+      "maxCollectorCurrent": 6,
+      "maxCollectorEmitterVoltage": 160,
+      "maxCollectorBaseVoltage": 200,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 65,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 3,
+      "hFE": 20,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO220",
+        "Collector Power Dissipation": "65W",
+        "Collector-Base Voltage": "200V",
+        "Collector-Emitter Voltage": "160V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "6A",
+        "Current Gain (hFE)": "20",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "3MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "motorola (222K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=tip41are.pdf&dire=_motorola"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "TIP36E",
+          "name": "TIP36E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41F",
+          "manufacturer": "Various",
+          "href": "/component/TIP36E"
+        },
+        {
+          "id": "TIP36F",
+          "name": "TIP36F",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41F",
+          "manufacturer": "Various",
+          "href": "/component/TIP36F"
+        },
+        {
+          "id": "TIP41",
+          "name": "TIP41",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41F",
+          "manufacturer": "Various",
+          "href": "/component/TIP41"
+        },
+        {
+          "id": "TIP41A",
+          "name": "TIP41A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41F",
+          "manufacturer": "Various",
+          "href": "/component/TIP41A"
+        },
+        {
+          "id": "TIP41B",
+          "name": "TIP41B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41F",
+          "manufacturer": "Various",
+          "href": "/component/TIP41B"
+        },
+        {
+          "id": "TIP41C",
+          "name": "TIP41C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41F",
+          "manufacturer": "Various",
+          "href": "/component/TIP41C"
+        },
+        {
+          "id": "TIP41D",
+          "name": "TIP41D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41F",
+          "manufacturer": "Various",
+          "href": "/component/TIP41D"
+        },
+        {
+          "id": "TIP41E",
+          "name": "TIP41E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41F",
+          "manufacturer": "Various",
+          "href": "/component/TIP41E"
+        },
+        {
+          "id": "TIP42",
+          "name": "TIP42",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41F",
+          "manufacturer": "Various",
+          "href": "/component/TIP42"
+        },
+        {
+          "id": "TIP42A",
+          "name": "TIP42A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41F",
+          "manufacturer": "Various",
+          "href": "/component/TIP42A"
+        },
+        {
+          "id": "TIP42B",
+          "name": "TIP42B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41F",
+          "manufacturer": "Various",
+          "href": "/component/TIP42B"
+        },
+        {
+          "id": "TIP42C",
+          "name": "TIP42C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41F",
+          "manufacturer": "Various",
+          "href": "/component/TIP42C"
+        },
+        {
+          "id": "TIP42D",
+          "name": "TIP42D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41F",
+          "manufacturer": "Various",
+          "href": "/component/TIP42D"
+        },
+        {
+          "id": "TIP42E",
+          "name": "TIP42E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41F",
+          "manufacturer": "Various",
+          "href": "/component/TIP42E"
+        },
+        {
+          "id": "TIP42F",
+          "name": "TIP42F",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41F",
+          "manufacturer": "Various",
+          "href": "/component/TIP42F"
+        },
+        {
+          "id": "TIP47",
+          "name": "TIP47",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41F",
+          "manufacturer": "Various",
+          "href": "/component/TIP47"
+        }
+      ],
+      "href": "/component/TIP41F"
+    },
+    {
+      "id": "TIP42A",
+      "name": "TIP42A",
+      "type": "PNP Transistor",
+      "description": "O220 \n- BJT Cross-Reference Search\nTIP42A Datasheet (PDF)\n..1. Size:186K st\ntip41a tip42a.pdf \nTIP41ATIP42ACOMPLEMENTARY SILICON POWER TRANSISTORFeatures COMPLEMENTARY PNP-NPN DEVICES NEW ENHANCED SERIES HIGH SWITCHING SPEED hFE IMPROVED LINEARITY32Applications1 GENERAL PURPOSE CIRCUITSTO-220 AUDIO AMPLIFIER POWER LINEAR AND SWITCHINGDescriptionInternal Schematic DiagramThe TIP41A is a silicon base island technologyNPN power tran\n..2. Size:39K st\ntip41a tip41b tip41c tip42a tip42b tip42c.pdf \nTIP41A/41B/41CTIP42A/42B/42CCOMPLEMENTARY SILICON POWERTRANSISTORSn SGS-THOMSON PREFERRED SALESTYPESDESCRIPTIONThe TIP41A, TIP41B and TIP41C are siliconepitaxial-base NPN power transistors in JedecTO-220 plastic package, intented for use inmedium power linear and switching applications.The complementary PNP types are TIP42A,TIP42B and TIP42C.321TO-220INTERNAL SCH\n..3. Size:242K fairchild semi\ntip42 tip42a tip42b tip42c.pdf \nDecember 2009TIP42/TIP42A/TIP42B/TIP42CPNP Epitaxial Silicon TransistorFeatures Medium Power Linear Switching Applications Complement to TIP41/TIP41A/TIP41B/TIP41CTO-22011.Base 2.Collector 3.EmitterAbsolute Maximum Ratings TA=25C unless otherwise notedSymbol Parameter Value Units VCBO Collector-Base Voltage : TIP42 - 40 V : TIP42A - 60 V : TIP42B - 80 V : TIP\n..4. Size:237K mcc\ntip42 tip42a tip42b tip42c to-220.pdf \nMCCMicro Commercial ComponentsTMTIP42/42A/42B/42C20736 Marilla Street ChatsworthMicro Commercial ComponentsCA 91311Phone: (818) 701-4933Fax: (818) 701-4939Features Lead Free Finish/RoHS Compliant(Note 1) (\"P\" Suffix designates RoHS Compliant. See ordering information) Silicon PNP The complementary NPN types are the TIP41 respectively Epoxy meets UL 94 V-0 \nDatasheet: TIP41 , TIP41A , TIP41B , TIP41C , TIP41D , TIP41E , TIP41F , TIP42 , BD777 , TIP42B , TIP42C , TIP42D , TIP42E , TIP42F , TIP47 , TIP48 , TIP49 . \nHistory: TIP41E | TIP41D | 2SD718O | 2SD717Y | 2SD717O | 2SD716R | 2SD716O \nKeywords - TIP42A transistor datasheet\nTIP42A cross reference\nTIP42A equivalent finder\nTIP42A lookup\nTIP42A substitution\nTIP42A replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TO220",
+      "maxCollectorCurrent": 6,
+      "maxCollectorEmitterVoltage": 60,
+      "maxCollectorBaseVoltage": 100,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 65,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 3,
+      "hFE": 20,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TO220",
+        "Collector Power Dissipation": "65W",
+        "Collector-Base Voltage": "100V",
+        "Collector-Emitter Voltage": "60V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "6A",
+        "Current Gain (hFE)": "20",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "3MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [],
+      "equivalents": [
+        {
+          "id": "TIP41",
+          "name": "TIP41",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42A",
+          "manufacturer": "Various",
+          "href": "/component/TIP41"
+        },
+        {
+          "id": "TIP41A",
+          "name": "TIP41A",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42A",
+          "manufacturer": "Various",
+          "href": "/component/TIP41A"
+        },
+        {
+          "id": "TIP41B",
+          "name": "TIP41B",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42A",
+          "manufacturer": "Various",
+          "href": "/component/TIP41B"
+        },
+        {
+          "id": "TIP41C",
+          "name": "TIP41C",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42A",
+          "manufacturer": "Various",
+          "href": "/component/TIP41C"
+        },
+        {
+          "id": "TIP41D",
+          "name": "TIP41D",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42A",
+          "manufacturer": "Various",
+          "href": "/component/TIP41D"
+        },
+        {
+          "id": "TIP41E",
+          "name": "TIP41E",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42A",
+          "manufacturer": "Various",
+          "href": "/component/TIP41E"
+        },
+        {
+          "id": "TIP41F",
+          "name": "TIP41F",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42A",
+          "manufacturer": "Various",
+          "href": "/component/TIP41F"
+        },
+        {
+          "id": "TIP42",
+          "name": "TIP42",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42A",
+          "manufacturer": "Various",
+          "href": "/component/TIP42"
+        },
+        {
+          "id": "TIP42B",
+          "name": "TIP42B",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42A",
+          "manufacturer": "Various",
+          "href": "/component/TIP42B"
+        },
+        {
+          "id": "TIP42C",
+          "name": "TIP42C",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42A",
+          "manufacturer": "Various",
+          "href": "/component/TIP42C"
+        },
+        {
+          "id": "TIP42D",
+          "name": "TIP42D",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42A",
+          "manufacturer": "Various",
+          "href": "/component/TIP42D"
+        },
+        {
+          "id": "TIP42E",
+          "name": "TIP42E",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42A",
+          "manufacturer": "Various",
+          "href": "/component/TIP42E"
+        },
+        {
+          "id": "TIP42F",
+          "name": "TIP42F",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42A",
+          "manufacturer": "Various",
+          "href": "/component/TIP42F"
+        },
+        {
+          "id": "TIP47",
+          "name": "TIP47",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42A",
+          "manufacturer": "Various",
+          "href": "/component/TIP47"
+        },
+        {
+          "id": "TIP48",
+          "name": "TIP48",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42A",
+          "manufacturer": "Various",
+          "href": "/component/TIP48"
+        },
+        {
+          "id": "TIP49",
+          "name": "TIP49",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42A",
+          "manufacturer": "Various",
+          "href": "/component/TIP49"
+        }
+      ],
+      "href": "/component/TIP42A"
+    },
+    {
+      "id": "TIP42B",
+      "name": "TIP42B",
+      "type": "PNP Transistor",
+      "description": "O220 \n- BJT Cross-Reference Search\nTIP42B Datasheet (PDF)\n..1. Size:39K st\ntip41a tip41b tip41c tip42a tip42b tip42c.pdf \nTIP41A/41B/41CTIP42A/42B/42CCOMPLEMENTARY SILICON POWERTRANSISTORSn SGS-THOMSON PREFERRED SALESTYPESDESCRIPTIONThe TIP41A, TIP41B and TIP41C are siliconepitaxial-base NPN power transistors in JedecTO-220 plastic package, intented for use inmedium power linear and switching applications.The complementary PNP types are TIP42A,TIP42B and TIP42C.321TO-220INTERNAL SCH\n..2. Size:242K fairchild semi\ntip42 tip42a tip42b tip42c.pdf \nDecember 2009TIP42/TIP42A/TIP42B/TIP42CPNP Epitaxial Silicon TransistorFeatures Medium Power Linear Switching Applications Complement to TIP41/TIP41A/TIP41B/TIP41CTO-22011.Base 2.Collector 3.EmitterAbsolute Maximum Ratings TA=25C unless otherwise notedSymbol Parameter Value Units VCBO Collector-Base Voltage : TIP42 - 40 V : TIP42A - 60 V : TIP42B - 80 V : TIP\n..3. Size:237K mcc\ntip42 tip42a tip42b tip42c to-220.pdf \nMCCMicro Commercial ComponentsTMTIP42/42A/42B/42C20736 Marilla Street ChatsworthMicro Commercial ComponentsCA 91311Phone: (818) 701-4933Fax: (818) 701-4939Features Lead Free Finish/RoHS Compliant(Note 1) (\"P\" Suffix designates RoHS Compliant. See ordering information) Silicon PNP The complementary NPN types are the TIP41 respectively Epoxy meets UL 94 V-0 \n..4. Size:93K onsemi\ntip41 tip41a tip41b tip41c tip42 tip42a tip42b tip42c.pdf \nTIP41, TIP41A, TIP41B,TIP41C (NPN); TIP42, TIP42A,TIP42B, TIP42C (PNP)Complementary SiliconPlastic Power Transistorshttp://onsemi.comDesigned for use in general purpose amplifier and switchingapplications.6 AMPEREFeaturesCOMPLEMENTARY SILICON ESD Ratings: Machine Model, C; > 400 VPOWER TRANSISTORSHuman Body Model, 3B; > 8000 V40-60-80-100 VOLTS, Epoxy Meets U\nDatasheet: TIP41A , TIP41B , TIP41C , TIP41D , TIP41E , TIP41F , TIP42 , TIP42A , BD139 , TIP42C , TIP42D , TIP42E , TIP42F , TIP47 , TIP48 , TIP49 , TIP50 . \nHistory: TIP42A | TIP41E | TIP41D | 2SD718O | 2SD717Y | 2SD717O | 2SD716R \nKeywords - TIP42B transistor datasheet\nTIP42B cross reference\nTIP42B equivalent finder\nTIP42B lookup\nTIP42B substitution\nTIP42B replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TO220",
+      "maxCollectorCurrent": 6,
+      "maxCollectorEmitterVoltage": 80,
+      "maxCollectorBaseVoltage": 120,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 65,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 3,
+      "hFE": 20,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TO220",
+        "Collector Power Dissipation": "65W",
+        "Collector-Base Voltage": "120V",
+        "Collector-Emitter Voltage": "80V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "6A",
+        "Current Gain (hFE)": "20",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "3MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [],
+      "equivalents": [
+        {
+          "id": "TIP41A",
+          "name": "TIP41A",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42B",
+          "manufacturer": "Various",
+          "href": "/component/TIP41A"
+        },
+        {
+          "id": "TIP41B",
+          "name": "TIP41B",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42B",
+          "manufacturer": "Various",
+          "href": "/component/TIP41B"
+        },
+        {
+          "id": "TIP41C",
+          "name": "TIP41C",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42B",
+          "manufacturer": "Various",
+          "href": "/component/TIP41C"
+        },
+        {
+          "id": "TIP41D",
+          "name": "TIP41D",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42B",
+          "manufacturer": "Various",
+          "href": "/component/TIP41D"
+        },
+        {
+          "id": "TIP41E",
+          "name": "TIP41E",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42B",
+          "manufacturer": "Various",
+          "href": "/component/TIP41E"
+        },
+        {
+          "id": "TIP41F",
+          "name": "TIP41F",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42B",
+          "manufacturer": "Various",
+          "href": "/component/TIP41F"
+        },
+        {
+          "id": "TIP42",
+          "name": "TIP42",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42B",
+          "manufacturer": "Various",
+          "href": "/component/TIP42"
+        },
+        {
+          "id": "TIP42A",
+          "name": "TIP42A",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42B",
+          "manufacturer": "Various",
+          "href": "/component/TIP42A"
+        },
+        {
+          "id": "TIP42C",
+          "name": "TIP42C",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42B",
+          "manufacturer": "Various",
+          "href": "/component/TIP42C"
+        },
+        {
+          "id": "TIP42D",
+          "name": "TIP42D",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42B",
+          "manufacturer": "Various",
+          "href": "/component/TIP42D"
+        },
+        {
+          "id": "TIP42E",
+          "name": "TIP42E",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42B",
+          "manufacturer": "Various",
+          "href": "/component/TIP42E"
+        },
+        {
+          "id": "TIP42F",
+          "name": "TIP42F",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42B",
+          "manufacturer": "Various",
+          "href": "/component/TIP42F"
+        },
+        {
+          "id": "TIP47",
+          "name": "TIP47",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42B",
+          "manufacturer": "Various",
+          "href": "/component/TIP47"
+        },
+        {
+          "id": "TIP48",
+          "name": "TIP48",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42B",
+          "manufacturer": "Various",
+          "href": "/component/TIP48"
+        },
+        {
+          "id": "TIP49",
+          "name": "TIP49",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42B",
+          "manufacturer": "Various",
+          "href": "/component/TIP49"
+        },
+        {
+          "id": "TIP50",
+          "name": "TIP50",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42B",
+          "manufacturer": "Various",
+          "href": "/component/TIP50"
+        }
+      ],
+      "href": "/component/TIP42B"
+    },
+    {
+      "id": "TIP42D",
+      "name": "TIP42D",
+      "type": "PNP Transistor",
+      "description": "O220 \n- BJT Cross-Reference Search\nTIP42D Datasheet (PDF)\n9.1. Size:186K st\ntip41a tip42a.pdf \nTIP41ATIP42ACOMPLEMENTARY SILICON POWER TRANSISTORFeatures COMPLEMENTARY PNP-NPN DEVICES NEW ENHANCED SERIES HIGH SWITCHING SPEED hFE IMPROVED LINEARITY32Applications1 GENERAL PURPOSE CIRCUITSTO-220 AUDIO AMPLIFIER POWER LINEAR AND SWITCHINGDescriptionInternal Schematic DiagramThe TIP41A is a silicon base island technologyNPN power tran\n9.2. Size:267K st\ntip41c-r tip41c-o tip41c-y tip42c-r tip42c-o tip42c-y.pdf \nTIP41CTIP42CComplementary power transistors .Features Complementary PNP-NPN devices New enhanced series High switching speed hFE grouping hFE improved linearity321ApplicationsTO-220 General purpose circuits Audio amplifierFigure 1. Internal schematic diagram Power linear and switchingDescriptionThe TIP41C is a base island technolog\n9.3. Size:275K st\ntip41c tip42c.pdf \nTIP41CTIP42CComplementary power transistors .Features Complementary PNP-NPN devices New enhanced series High switching speed hFE grouping hFE improved linearity321ApplicationsTO-220 General purpose circuits Audio amplifierFigure 1. Internal schematic diagram Power linear and switchingDescriptionThe TIP41C is a base island technolog\n9.4. Size:39K st\ntip41a tip41b tip41c tip42a tip42b tip42c.pdf \nTIP41A/41B/41CTIP42A/42B/42CCOMPLEMENTARY SILICON POWERTRANSISTORSn SGS-THOMSON PREFERRED SALESTYPESDESCRIPTIONThe TIP41A, TIP41B and TIP41C are siliconepitaxial-base NPN power transistors in JedecTO-220 plastic package, intented for use inmedium power linear and switching applications.The complementary PNP types are TIP42A,TIP42B and TIP42C.321TO-220INTERNAL SCH\nDatasheet: TIP41C , TIP41D , TIP41E , TIP41F , TIP42 , TIP42A , TIP42B , TIP42C , C945 , TIP42E , TIP42F , TIP47 , TIP48 , TIP49 , TIP50 , TIP501 , TIP502 . \nHistory: TIP42B | TIP42A | TIP41E | TIP41D | 2SD718O | 2SD717Y | 2SD717O \nKeywords - TIP42D transistor datasheet\nTIP42D cross reference\nTIP42D equivalent finder\nTIP42D lookup\nTIP42D substitution\nTIP42D replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TO220",
+      "maxCollectorCurrent": 6,
+      "maxCollectorEmitterVoltage": 120,
+      "maxCollectorBaseVoltage": 160,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 65,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 3,
+      "hFE": 20,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TO220",
+        "Collector Power Dissipation": "65W",
+        "Collector-Base Voltage": "160V",
+        "Collector-Emitter Voltage": "120V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "6A",
+        "Current Gain (hFE)": "20",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "3MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [],
+      "equivalents": [
+        {
+          "id": "TIP41C",
+          "name": "TIP41C",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42D",
+          "manufacturer": "Various",
+          "href": "/component/TIP41C"
+        },
+        {
+          "id": "TIP41D",
+          "name": "TIP41D",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42D",
+          "manufacturer": "Various",
+          "href": "/component/TIP41D"
+        },
+        {
+          "id": "TIP41E",
+          "name": "TIP41E",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42D",
+          "manufacturer": "Various",
+          "href": "/component/TIP41E"
+        },
+        {
+          "id": "TIP41F",
+          "name": "TIP41F",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42D",
+          "manufacturer": "Various",
+          "href": "/component/TIP41F"
+        },
+        {
+          "id": "TIP42",
+          "name": "TIP42",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42D",
+          "manufacturer": "Various",
+          "href": "/component/TIP42"
+        },
+        {
+          "id": "TIP42A",
+          "name": "TIP42A",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42D",
+          "manufacturer": "Various",
+          "href": "/component/TIP42A"
+        },
+        {
+          "id": "TIP42B",
+          "name": "TIP42B",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42D",
+          "manufacturer": "Various",
+          "href": "/component/TIP42B"
+        },
+        {
+          "id": "TIP42C",
+          "name": "TIP42C",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42D",
+          "manufacturer": "Various",
+          "href": "/component/TIP42C"
+        },
+        {
+          "id": "TIP42E",
+          "name": "TIP42E",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42D",
+          "manufacturer": "Various",
+          "href": "/component/TIP42E"
+        },
+        {
+          "id": "TIP42F",
+          "name": "TIP42F",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42D",
+          "manufacturer": "Various",
+          "href": "/component/TIP42F"
+        },
+        {
+          "id": "TIP47",
+          "name": "TIP47",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42D",
+          "manufacturer": "Various",
+          "href": "/component/TIP47"
+        },
+        {
+          "id": "TIP48",
+          "name": "TIP48",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42D",
+          "manufacturer": "Various",
+          "href": "/component/TIP48"
+        },
+        {
+          "id": "TIP49",
+          "name": "TIP49",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42D",
+          "manufacturer": "Various",
+          "href": "/component/TIP49"
+        },
+        {
+          "id": "TIP50",
+          "name": "TIP50",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42D",
+          "manufacturer": "Various",
+          "href": "/component/TIP50"
+        },
+        {
+          "id": "TIP501",
+          "name": "TIP501",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42D",
+          "manufacturer": "Various",
+          "href": "/component/TIP501"
+        },
+        {
+          "id": "TIP502",
+          "name": "TIP502",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42D",
+          "manufacturer": "Various",
+          "href": "/component/TIP502"
+        }
+      ],
+      "href": "/component/TIP42D"
+    },
+    {
+      "id": "TIP42E",
+      "name": "TIP42E",
+      "type": "PNP Transistor",
+      "description": "O220 \n- BJT Cross-Reference Search\nTIP42E Datasheet (PDF)\n..1. Size:236K inchange semiconductor\ntip42e.pdf \nINCHANGE Semiconductor isc Product Specification isc Silicon PNP Power Transistors TIP42E DESCRIPTIONDC Current Gain -hFE = 30(Min)@ IC= -0.3A Collector-Emitter Sustaining Voltage- : VCEO(SUS) = -140V(Min) Complement to Type TIP41E APPLICATIONS Designed for use in general purpose amplifer and switching applications ABSOLUTE MAXIMUM RATINGS(Ta=25)SYMBOL PARAMETE\n9.1. Size:186K st\ntip41a tip42a.pdf \nTIP41ATIP42ACOMPLEMENTARY SILICON POWER TRANSISTORFeatures COMPLEMENTARY PNP-NPN DEVICES NEW ENHANCED SERIES HIGH SWITCHING SPEED hFE IMPROVED LINEARITY32Applications1 GENERAL PURPOSE CIRCUITSTO-220 AUDIO AMPLIFIER POWER LINEAR AND SWITCHINGDescriptionInternal Schematic DiagramThe TIP41A is a silicon base island technologyNPN power tran\n9.2. Size:267K st\ntip41c-r tip41c-o tip41c-y tip42c-r tip42c-o tip42c-y.pdf \nTIP41CTIP42CComplementary power transistors .Features Complementary PNP-NPN devices New enhanced series High switching speed hFE grouping hFE improved linearity321ApplicationsTO-220 General purpose circuits Audio amplifierFigure 1. Internal schematic diagram Power linear and switchingDescriptionThe TIP41C is a base island technolog\n9.3. Size:275K st\ntip41c tip42c.pdf \nTIP41CTIP42CComplementary power transistors .Features Complementary PNP-NPN devices New enhanced series High switching speed hFE grouping hFE improved linearity321ApplicationsTO-220 General purpose circuits Audio amplifierFigure 1. Internal schematic diagram Power linear and switchingDescriptionThe TIP41C is a base island technolog\nDatasheet: TIP41D , TIP41E , TIP41F , TIP42 , TIP42A , TIP42B , TIP42C , TIP42D , 2N5551 , TIP42F , TIP47 , TIP48 , TIP49 , TIP50 , TIP501 , TIP502 , TIP503 . \nHistory: TIP42D | TIP42B | TIP42A | TIP41E | TIP41D | 2SD718O | 2SD717Y \nKeywords - TIP42E transistor datasheet\nTIP42E cross reference\nTIP42E equivalent finder\nTIP42E lookup\nTIP42E substitution\nTIP42E replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TO220",
+      "maxCollectorCurrent": 6,
+      "maxCollectorEmitterVoltage": 140,
+      "maxCollectorBaseVoltage": 180,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 65,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 3,
+      "hFE": 20,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TO220",
+        "Collector Power Dissipation": "65W",
+        "Collector-Base Voltage": "180V",
+        "Collector-Emitter Voltage": "140V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "6A",
+        "Current Gain (hFE)": "20",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "3MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "inchange semiconductor (236K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=tip42e.pdf&dire=_inchange_semiconductor"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "TIP41D",
+          "name": "TIP41D",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42E",
+          "manufacturer": "Various",
+          "href": "/component/TIP41D"
+        },
+        {
+          "id": "TIP41E",
+          "name": "TIP41E",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42E",
+          "manufacturer": "Various",
+          "href": "/component/TIP41E"
+        },
+        {
+          "id": "TIP41F",
+          "name": "TIP41F",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42E",
+          "manufacturer": "Various",
+          "href": "/component/TIP41F"
+        },
+        {
+          "id": "TIP42",
+          "name": "TIP42",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42E",
+          "manufacturer": "Various",
+          "href": "/component/TIP42"
+        },
+        {
+          "id": "TIP42A",
+          "name": "TIP42A",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42E",
+          "manufacturer": "Various",
+          "href": "/component/TIP42A"
+        },
+        {
+          "id": "TIP42B",
+          "name": "TIP42B",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42E",
+          "manufacturer": "Various",
+          "href": "/component/TIP42B"
+        },
+        {
+          "id": "TIP42C",
+          "name": "TIP42C",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42E",
+          "manufacturer": "Various",
+          "href": "/component/TIP42C"
+        },
+        {
+          "id": "TIP42D",
+          "name": "TIP42D",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42E",
+          "manufacturer": "Various",
+          "href": "/component/TIP42D"
+        },
+        {
+          "id": "TIP42F",
+          "name": "TIP42F",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42E",
+          "manufacturer": "Various",
+          "href": "/component/TIP42F"
+        },
+        {
+          "id": "TIP47",
+          "name": "TIP47",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42E",
+          "manufacturer": "Various",
+          "href": "/component/TIP47"
+        },
+        {
+          "id": "TIP48",
+          "name": "TIP48",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42E",
+          "manufacturer": "Various",
+          "href": "/component/TIP48"
+        },
+        {
+          "id": "TIP49",
+          "name": "TIP49",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42E",
+          "manufacturer": "Various",
+          "href": "/component/TIP49"
+        },
+        {
+          "id": "TIP50",
+          "name": "TIP50",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42E",
+          "manufacturer": "Various",
+          "href": "/component/TIP50"
+        },
+        {
+          "id": "TIP501",
+          "name": "TIP501",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42E",
+          "manufacturer": "Various",
+          "href": "/component/TIP501"
+        },
+        {
+          "id": "TIP502",
+          "name": "TIP502",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42E",
+          "manufacturer": "Various",
+          "href": "/component/TIP502"
+        },
+        {
+          "id": "TIP503",
+          "name": "TIP503",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42E",
+          "manufacturer": "Various",
+          "href": "/component/TIP503"
+        }
+      ],
+      "href": "/component/TIP42E"
+    },
+    {
+      "id": "TIP42F",
+      "name": "TIP42F",
+      "type": "PNP Transistor",
+      "description": "O220 \n- BJT Cross-Reference Search\nTIP42F Datasheet (PDF)\n..1. Size:236K inchange semiconductor\ntip42f.pdf \nINCHANGE Semiconductor isc Product Specification isc Silicon PNP Power Transistors TIP42F DESCRIPTIONDC Current Gain -hFE = 30(Min)@ IC= -0.3A Collector-Emitter Sustaining Voltage- : VCEO(SUS) = -160V(Min) Complement to Type TIP41F APPLICATIONS Designed for use in general purpose amplifer and switching applications ABSOLUTE MAXIMUM RATINGS(Ta=25)SYMBOL PARAMETE\n9.1. Size:186K st\ntip41a tip42a.pdf \nTIP41ATIP42ACOMPLEMENTARY SILICON POWER TRANSISTORFeatures COMPLEMENTARY PNP-NPN DEVICES NEW ENHANCED SERIES HIGH SWITCHING SPEED hFE IMPROVED LINEARITY32Applications1 GENERAL PURPOSE CIRCUITSTO-220 AUDIO AMPLIFIER POWER LINEAR AND SWITCHINGDescriptionInternal Schematic DiagramThe TIP41A is a silicon base island technologyNPN power tran\n9.2. Size:267K st\ntip41c-r tip41c-o tip41c-y tip42c-r tip42c-o tip42c-y.pdf \nTIP41CTIP42CComplementary power transistors .Features Complementary PNP-NPN devices New enhanced series High switching speed hFE grouping hFE improved linearity321ApplicationsTO-220 General purpose circuits Audio amplifierFigure 1. Internal schematic diagram Power linear and switchingDescriptionThe TIP41C is a base island technolog\n9.3. Size:275K st\ntip41c tip42c.pdf \nTIP41CTIP42CComplementary power transistors .Features Complementary PNP-NPN devices New enhanced series High switching speed hFE grouping hFE improved linearity321ApplicationsTO-220 General purpose circuits Audio amplifierFigure 1. Internal schematic diagram Power linear and switchingDescriptionThe TIP41C is a base island technolog\nDatasheet: 2SB858B , 2SB858C , 2SB858D , 2SB859 , 2SB859B , 2SB859C , 2SB86 , 2SB860 , 2SC2625 , 2SB861B , 2SB861C , 2SB862 , 2SB863 , 2SB863O , 2SB863R , 2SB864 , 2SB865 . \nKeywords - TIP42F transistor datasheet\nTIP42F cross reference\nTIP42F equivalent finder\nTIP42F lookup\nTIP42F substitution\nTIP42F replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TO220",
+      "maxCollectorCurrent": 6,
+      "maxCollectorEmitterVoltage": 160,
+      "maxCollectorBaseVoltage": 200,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 65,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 3,
+      "hFE": 20,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TO220",
+        "Collector Power Dissipation": "65W",
+        "Collector-Base Voltage": "200V",
+        "Collector-Emitter Voltage": "160V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "6A",
+        "Current Gain (hFE)": "20",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "3MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "inchange semiconductor (236K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=tip42f.pdf&dire=_inchange_semiconductor"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SB858B",
+          "name": "2SB858B",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42F",
+          "manufacturer": "Various",
+          "href": "/component/2SB858B"
+        },
+        {
+          "id": "2SB858C",
+          "name": "2SB858C",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42F",
+          "manufacturer": "Various",
+          "href": "/component/2SB858C"
+        },
+        {
+          "id": "2SB858D",
+          "name": "2SB858D",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42F",
+          "manufacturer": "Various",
+          "href": "/component/2SB858D"
+        },
+        {
+          "id": "2SB859",
+          "name": "2SB859",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42F",
+          "manufacturer": "Various",
+          "href": "/component/2SB859"
+        },
+        {
+          "id": "2SB859B",
+          "name": "2SB859B",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42F",
+          "manufacturer": "Various",
+          "href": "/component/2SB859B"
+        },
+        {
+          "id": "2SB859C",
+          "name": "2SB859C",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42F",
+          "manufacturer": "Various",
+          "href": "/component/2SB859C"
+        },
+        {
+          "id": "2SB86",
+          "name": "2SB86",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42F",
+          "manufacturer": "Various",
+          "href": "/component/2SB86"
+        },
+        {
+          "id": "2SB860",
+          "name": "2SB860",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42F",
+          "manufacturer": "Various",
+          "href": "/component/2SB860"
+        },
+        {
+          "id": "2SC2625",
+          "name": "2SC2625",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42F",
+          "manufacturer": "Various",
+          "href": "/component/2SC2625"
+        },
+        {
+          "id": "2SB861B",
+          "name": "2SB861B",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42F",
+          "manufacturer": "Various",
+          "href": "/component/2SB861B"
+        },
+        {
+          "id": "2SB861C",
+          "name": "2SB861C",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42F",
+          "manufacturer": "Various",
+          "href": "/component/2SB861C"
+        },
+        {
+          "id": "2SB862",
+          "name": "2SB862",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42F",
+          "manufacturer": "Various",
+          "href": "/component/2SB862"
+        },
+        {
+          "id": "2SB863",
+          "name": "2SB863",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42F",
+          "manufacturer": "Various",
+          "href": "/component/2SB863"
+        },
+        {
+          "id": "2SB863O",
+          "name": "2SB863O",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42F",
+          "manufacturer": "Various",
+          "href": "/component/2SB863O"
+        },
+        {
+          "id": "2SB863R",
+          "name": "2SB863R",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42F",
+          "manufacturer": "Various",
+          "href": "/component/2SB863R"
+        },
+        {
+          "id": "2SB864",
+          "name": "2SB864",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42F",
+          "manufacturer": "Various",
+          "href": "/component/2SB864"
+        },
+        {
+          "id": "2SB865",
+          "name": "2SB865",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for TIP42F",
+          "manufacturer": "Various",
+          "href": "/component/2SB865"
+        }
+      ],
+      "href": "/component/TIP42F"
+    },
+    {
+      "id": "TIP48",
+      "name": "TIP48",
+      "type": "NPN Transistor",
+      "description": "The TIP47, TIP48, TIP49 and TIP50 are siliconMultiepitaxial NPN Planar transistors mounted inJedec TO-220 plastic package. It is intented foruse in linear and switching applications.321TO-220INTERNAL SCHEMATIC DIAGRAMABSOLUTE MAXIMUM RATIN\n..2. Size:480K fairchild semi",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO220",
+      "maxCollectorCurrent": 1,
+      "maxCollectorEmitterVoltage": 300,
+      "maxCollectorBaseVoltage": 400,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 40,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 10,
+      "hFE": 30,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO220",
+        "Collector Power Dissipation": "40W",
+        "Collector-Base Voltage": "400V",
+        "Collector-Emitter Voltage": "300V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "1A",
+        "Current Gain (hFE)": "30",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "10MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [],
+      "equivalents": [
+        {
+          "id": "2SB858B",
+          "name": "2SB858B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP48",
+          "manufacturer": "Various",
+          "href": "/component/2SB858B"
+        },
+        {
+          "id": "2SB858C",
+          "name": "2SB858C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP48",
+          "manufacturer": "Various",
+          "href": "/component/2SB858C"
+        },
+        {
+          "id": "2SB858D",
+          "name": "2SB858D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP48",
+          "manufacturer": "Various",
+          "href": "/component/2SB858D"
+        },
+        {
+          "id": "2SB859",
+          "name": "2SB859",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP48",
+          "manufacturer": "Various",
+          "href": "/component/2SB859"
+        },
+        {
+          "id": "2SB859B",
+          "name": "2SB859B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP48",
+          "manufacturer": "Various",
+          "href": "/component/2SB859B"
+        },
+        {
+          "id": "2SB859C",
+          "name": "2SB859C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP48",
+          "manufacturer": "Various",
+          "href": "/component/2SB859C"
+        },
+        {
+          "id": "2SB86",
+          "name": "2SB86",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP48",
+          "manufacturer": "Various",
+          "href": "/component/2SB86"
+        },
+        {
+          "id": "2SB860",
+          "name": "2SB860",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP48",
+          "manufacturer": "Various",
+          "href": "/component/2SB860"
+        },
+        {
+          "id": "2SC2625",
+          "name": "2SC2625",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP48",
+          "manufacturer": "Various",
+          "href": "/component/2SC2625"
+        },
+        {
+          "id": "2SB861B",
+          "name": "2SB861B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP48",
+          "manufacturer": "Various",
+          "href": "/component/2SB861B"
+        },
+        {
+          "id": "2SB861C",
+          "name": "2SB861C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP48",
+          "manufacturer": "Various",
+          "href": "/component/2SB861C"
+        },
+        {
+          "id": "2SB862",
+          "name": "2SB862",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP48",
+          "manufacturer": "Various",
+          "href": "/component/2SB862"
+        },
+        {
+          "id": "2SB863",
+          "name": "2SB863",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP48",
+          "manufacturer": "Various",
+          "href": "/component/2SB863"
+        },
+        {
+          "id": "2SB863O",
+          "name": "2SB863O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP48",
+          "manufacturer": "Various",
+          "href": "/component/2SB863O"
+        },
+        {
+          "id": "2SB863R",
+          "name": "2SB863R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP48",
+          "manufacturer": "Various",
+          "href": "/component/2SB863R"
+        },
+        {
+          "id": "2SB864",
+          "name": "2SB864",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP48",
+          "manufacturer": "Various",
+          "href": "/component/2SB864"
+        },
+        {
+          "id": "2SB865",
+          "name": "2SB865",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP48",
+          "manufacturer": "Various",
+          "href": "/component/2SB865"
+        }
+      ],
+      "href": "/component/TIP48"
+    },
+    {
+      "id": "TIP47",
+      "name": "TIP47",
+      "type": "NPN Transistor",
+      "description": "The TIP47, TIP48, TIP49 and TIP50 are siliconMultiepitaxial NPN Planar transistors mounted inJedec TO-220 plastic package. It is intented foruse in linear and switching applications.321TO-220INTERNAL SCHEMATIC DIAGRAMABSOLUTE MAXIMUM RATIN\n..2. Size:39K st",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO220",
+      "maxCollectorCurrent": 1,
+      "maxCollectorEmitterVoltage": 250,
+      "maxCollectorBaseVoltage": 350,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 40,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 10,
+      "hFE": 30,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO220",
+        "Collector Power Dissipation": "40W",
+        "Collector-Base Voltage": "350V",
+        "Collector-Emitter Voltage": "250V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "1A",
+        "Current Gain (hFE)": "30",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "10MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "st (39K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=tip47.pdf&dire=_st"
+        },
+        {
+          "name": "samsung (46K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=tip47.pdf&dire=_samsung"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SB858B",
+          "name": "2SB858B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP47",
+          "manufacturer": "Various",
+          "href": "/component/2SB858B"
+        },
+        {
+          "id": "2SB858C",
+          "name": "2SB858C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP47",
+          "manufacturer": "Various",
+          "href": "/component/2SB858C"
+        },
+        {
+          "id": "2SB858D",
+          "name": "2SB858D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP47",
+          "manufacturer": "Various",
+          "href": "/component/2SB858D"
+        },
+        {
+          "id": "2SB859",
+          "name": "2SB859",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP47",
+          "manufacturer": "Various",
+          "href": "/component/2SB859"
+        },
+        {
+          "id": "2SB859B",
+          "name": "2SB859B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP47",
+          "manufacturer": "Various",
+          "href": "/component/2SB859B"
+        },
+        {
+          "id": "2SB859C",
+          "name": "2SB859C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP47",
+          "manufacturer": "Various",
+          "href": "/component/2SB859C"
+        },
+        {
+          "id": "2SB86",
+          "name": "2SB86",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP47",
+          "manufacturer": "Various",
+          "href": "/component/2SB86"
+        },
+        {
+          "id": "2SB860",
+          "name": "2SB860",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP47",
+          "manufacturer": "Various",
+          "href": "/component/2SB860"
+        },
+        {
+          "id": "2SC2625",
+          "name": "2SC2625",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP47",
+          "manufacturer": "Various",
+          "href": "/component/2SC2625"
+        },
+        {
+          "id": "2SB861B",
+          "name": "2SB861B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP47",
+          "manufacturer": "Various",
+          "href": "/component/2SB861B"
+        },
+        {
+          "id": "2SB861C",
+          "name": "2SB861C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP47",
+          "manufacturer": "Various",
+          "href": "/component/2SB861C"
+        },
+        {
+          "id": "2SB862",
+          "name": "2SB862",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP47",
+          "manufacturer": "Various",
+          "href": "/component/2SB862"
+        },
+        {
+          "id": "2SB863",
+          "name": "2SB863",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP47",
+          "manufacturer": "Various",
+          "href": "/component/2SB863"
+        },
+        {
+          "id": "2SB863O",
+          "name": "2SB863O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP47",
+          "manufacturer": "Various",
+          "href": "/component/2SB863O"
+        },
+        {
+          "id": "2SB863R",
+          "name": "2SB863R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP47",
+          "manufacturer": "Various",
+          "href": "/component/2SB863R"
+        },
+        {
+          "id": "2SB864",
+          "name": "2SB864",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP47",
+          "manufacturer": "Various",
+          "href": "/component/2SB864"
+        },
+        {
+          "id": "2SB865",
+          "name": "2SB865",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP47",
+          "manufacturer": "Various",
+          "href": "/component/2SB865"
+        }
+      ],
+      "href": "/component/TIP47"
+    },
+    {
+      "id": "TIP49",
+      "name": "TIP49",
+      "type": "NPN Transistor",
+      "description": "The TIP47, TIP48, TIP49 and TIP50 are siliconMultiepitaxial NPN Planar transistors mounted inJedec TO-220 plastic package. It is intented foruse in linear and switching applications.321TO-220INTERNAL SCHEMATIC DIAGRAMABSOLUTE MAXIMUM RATIN\n..2. Size:480K fairchild semi",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO220",
+      "maxCollectorCurrent": 1,
+      "maxCollectorEmitterVoltage": 350,
+      "maxCollectorBaseVoltage": 450,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 40,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 10,
+      "hFE": 30,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO220",
+        "Collector Power Dissipation": "40W",
+        "Collector-Base Voltage": "450V",
+        "Collector-Emitter Voltage": "350V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "1A",
+        "Current Gain (hFE)": "30",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "10MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [],
+      "equivalents": [
+        {
+          "id": "2SB858B",
+          "name": "2SB858B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP49",
+          "manufacturer": "Various",
+          "href": "/component/2SB858B"
+        },
+        {
+          "id": "2SB858C",
+          "name": "2SB858C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP49",
+          "manufacturer": "Various",
+          "href": "/component/2SB858C"
+        },
+        {
+          "id": "2SB858D",
+          "name": "2SB858D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP49",
+          "manufacturer": "Various",
+          "href": "/component/2SB858D"
+        },
+        {
+          "id": "2SB859",
+          "name": "2SB859",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP49",
+          "manufacturer": "Various",
+          "href": "/component/2SB859"
+        },
+        {
+          "id": "2SB859B",
+          "name": "2SB859B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP49",
+          "manufacturer": "Various",
+          "href": "/component/2SB859B"
+        },
+        {
+          "id": "2SB859C",
+          "name": "2SB859C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP49",
+          "manufacturer": "Various",
+          "href": "/component/2SB859C"
+        },
+        {
+          "id": "2SB86",
+          "name": "2SB86",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP49",
+          "manufacturer": "Various",
+          "href": "/component/2SB86"
+        },
+        {
+          "id": "2SB860",
+          "name": "2SB860",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP49",
+          "manufacturer": "Various",
+          "href": "/component/2SB860"
+        },
+        {
+          "id": "2SC2625",
+          "name": "2SC2625",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP49",
+          "manufacturer": "Various",
+          "href": "/component/2SC2625"
+        },
+        {
+          "id": "2SB861B",
+          "name": "2SB861B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP49",
+          "manufacturer": "Various",
+          "href": "/component/2SB861B"
+        },
+        {
+          "id": "2SB861C",
+          "name": "2SB861C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP49",
+          "manufacturer": "Various",
+          "href": "/component/2SB861C"
+        },
+        {
+          "id": "2SB862",
+          "name": "2SB862",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP49",
+          "manufacturer": "Various",
+          "href": "/component/2SB862"
+        },
+        {
+          "id": "2SB863",
+          "name": "2SB863",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP49",
+          "manufacturer": "Various",
+          "href": "/component/2SB863"
+        },
+        {
+          "id": "2SB863O",
+          "name": "2SB863O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP49",
+          "manufacturer": "Various",
+          "href": "/component/2SB863O"
+        },
+        {
+          "id": "2SB863R",
+          "name": "2SB863R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP49",
+          "manufacturer": "Various",
+          "href": "/component/2SB863R"
+        },
+        {
+          "id": "2SB864",
+          "name": "2SB864",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP49",
+          "manufacturer": "Various",
+          "href": "/component/2SB864"
+        },
+        {
+          "id": "2SB865",
+          "name": "2SB865",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP49",
+          "manufacturer": "Various",
+          "href": "/component/2SB865"
+        }
+      ],
+      "href": "/component/TIP49"
+    },
+    {
+      "id": "TIP50",
+      "name": "TIP50",
+      "type": "NPN Transistor",
+      "description": "The TIP47, TIP48, TIP49 and TIP50 are siliconMultiepitaxial NPN Planar transistors mounted inJedec TO-220 plastic package. It is intented foruse in linear and switching applications.321TO-220INTERNAL SCHEMATIC DIAGRAMABSOLUTE MAXIMUM RATIN\n..2. Size:480K fairchild semi",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO220",
+      "maxCollectorCurrent": 1,
+      "maxCollectorEmitterVoltage": 400,
+      "maxCollectorBaseVoltage": 500,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 40,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 10,
+      "hFE": 30,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO220",
+        "Collector Power Dissipation": "40W",
+        "Collector-Base Voltage": "500V",
+        "Collector-Emitter Voltage": "400V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "1A",
+        "Current Gain (hFE)": "30",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "10MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [],
+      "equivalents": [
+        {
+          "id": "2SB858B",
+          "name": "2SB858B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP50",
+          "manufacturer": "Various",
+          "href": "/component/2SB858B"
+        },
+        {
+          "id": "2SB858C",
+          "name": "2SB858C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP50",
+          "manufacturer": "Various",
+          "href": "/component/2SB858C"
+        },
+        {
+          "id": "2SB858D",
+          "name": "2SB858D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP50",
+          "manufacturer": "Various",
+          "href": "/component/2SB858D"
+        },
+        {
+          "id": "2SB859",
+          "name": "2SB859",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP50",
+          "manufacturer": "Various",
+          "href": "/component/2SB859"
+        },
+        {
+          "id": "2SB859B",
+          "name": "2SB859B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP50",
+          "manufacturer": "Various",
+          "href": "/component/2SB859B"
+        },
+        {
+          "id": "2SB859C",
+          "name": "2SB859C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP50",
+          "manufacturer": "Various",
+          "href": "/component/2SB859C"
+        },
+        {
+          "id": "2SB86",
+          "name": "2SB86",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP50",
+          "manufacturer": "Various",
+          "href": "/component/2SB86"
+        },
+        {
+          "id": "2SB860",
+          "name": "2SB860",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP50",
+          "manufacturer": "Various",
+          "href": "/component/2SB860"
+        },
+        {
+          "id": "2SC2625",
+          "name": "2SC2625",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP50",
+          "manufacturer": "Various",
+          "href": "/component/2SC2625"
+        },
+        {
+          "id": "2SB861B",
+          "name": "2SB861B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP50",
+          "manufacturer": "Various",
+          "href": "/component/2SB861B"
+        },
+        {
+          "id": "2SB861C",
+          "name": "2SB861C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP50",
+          "manufacturer": "Various",
+          "href": "/component/2SB861C"
+        },
+        {
+          "id": "2SB862",
+          "name": "2SB862",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP50",
+          "manufacturer": "Various",
+          "href": "/component/2SB862"
+        },
+        {
+          "id": "2SB863",
+          "name": "2SB863",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP50",
+          "manufacturer": "Various",
+          "href": "/component/2SB863"
+        },
+        {
+          "id": "2SB863O",
+          "name": "2SB863O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP50",
+          "manufacturer": "Various",
+          "href": "/component/2SB863O"
+        },
+        {
+          "id": "2SB863R",
+          "name": "2SB863R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP50",
+          "manufacturer": "Various",
+          "href": "/component/2SB863R"
+        },
+        {
+          "id": "2SB864",
+          "name": "2SB864",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP50",
+          "manufacturer": "Various",
+          "href": "/component/2SB864"
+        },
+        {
+          "id": "2SB865",
+          "name": "2SB865",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP50",
+          "manufacturer": "Various",
+          "href": "/component/2SB865"
+        }
+      ],
+      "href": "/component/TIP50"
+    },
+    {
+      "id": "TIP501",
+      "name": "TIP501",
+      "type": "NPN Transistor",
+      "description": "The TIP47, TIP48, TIP49 and TIP50 are siliconMultiepitaxial NPN Planar transistors mounted inJedec TO-220 plastic package. It is intented foruse in linear and switching applications.321TO-220INTERNAL SCHEMATIC DIAGRAMABSOLUTE MAXIMUM RATIN\n9.2. Size:480K fairchild semi",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO39",
+      "maxCollectorCurrent": 3,
+      "maxCollectorEmitterVoltage": 40,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 6,
+      "maxJunctionTemperature": 200,
+      "hFE": 25,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO39",
+        "Collector Power Dissipation": "6W",
+        "Collector-Base Voltage": "N/A",
+        "Collector-Emitter Voltage": "40V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "3A",
+        "Current Gain (hFE)": "25",
+        "Junction Temperature": "200°C",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [],
+      "equivalents": [
+        {
+          "id": "2SB858B",
+          "name": "2SB858B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP501",
+          "manufacturer": "Various",
+          "href": "/component/2SB858B"
+        },
+        {
+          "id": "2SB858C",
+          "name": "2SB858C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP501",
+          "manufacturer": "Various",
+          "href": "/component/2SB858C"
+        },
+        {
+          "id": "2SB858D",
+          "name": "2SB858D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP501",
+          "manufacturer": "Various",
+          "href": "/component/2SB858D"
+        },
+        {
+          "id": "2SB859",
+          "name": "2SB859",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP501",
+          "manufacturer": "Various",
+          "href": "/component/2SB859"
+        },
+        {
+          "id": "2SB859B",
+          "name": "2SB859B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP501",
+          "manufacturer": "Various",
+          "href": "/component/2SB859B"
+        },
+        {
+          "id": "2SB859C",
+          "name": "2SB859C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP501",
+          "manufacturer": "Various",
+          "href": "/component/2SB859C"
+        },
+        {
+          "id": "2SB86",
+          "name": "2SB86",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP501",
+          "manufacturer": "Various",
+          "href": "/component/2SB86"
+        },
+        {
+          "id": "2SB860",
+          "name": "2SB860",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP501",
+          "manufacturer": "Various",
+          "href": "/component/2SB860"
+        },
+        {
+          "id": "2SC2625",
+          "name": "2SC2625",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP501",
+          "manufacturer": "Various",
+          "href": "/component/2SC2625"
+        },
+        {
+          "id": "2SB861B",
+          "name": "2SB861B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP501",
+          "manufacturer": "Various",
+          "href": "/component/2SB861B"
+        },
+        {
+          "id": "2SB861C",
+          "name": "2SB861C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP501",
+          "manufacturer": "Various",
+          "href": "/component/2SB861C"
+        },
+        {
+          "id": "2SB862",
+          "name": "2SB862",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP501",
+          "manufacturer": "Various",
+          "href": "/component/2SB862"
+        },
+        {
+          "id": "2SB863",
+          "name": "2SB863",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP501",
+          "manufacturer": "Various",
+          "href": "/component/2SB863"
+        },
+        {
+          "id": "2SB863O",
+          "name": "2SB863O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP501",
+          "manufacturer": "Various",
+          "href": "/component/2SB863O"
+        },
+        {
+          "id": "2SB863R",
+          "name": "2SB863R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP501",
+          "manufacturer": "Various",
+          "href": "/component/2SB863R"
+        },
+        {
+          "id": "2SB864",
+          "name": "2SB864",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP501",
+          "manufacturer": "Various",
+          "href": "/component/2SB864"
+        },
+        {
+          "id": "2SB865",
+          "name": "2SB865",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP501",
+          "manufacturer": "Various",
+          "href": "/component/2SB865"
+        }
+      ],
+      "href": "/component/TIP501"
+    },
+    {
+      "id": "TIP41B",
+      "name": "TIP41B",
+      "type": "NPN Transistor",
+      "description": "O220 \n- BJT Cross-Reference Search\nTIP41B Datasheet (PDF)\n..1. Size:39K st\ntip41a tip41b tip41c tip42a tip42b tip42c.pdf \nTIP41A/41B/41CTIP42A/42B/42CCOMPLEMENTARY SILICON POWERTRANSISTORSn SGS-THOMSON PREFERRED SALESTYPESDESCRIPTIONThe TIP41A, TIP41B and TIP41C are siliconepitaxial-base NPN power transistors in JedecTO-220 plastic package, intented for use inmedium power linear and switching applications.The complementary PNP types are TIP42A,TIP42B and TIP42C.321TO-220INTERNAL SCH\n..2. Size:527K fairchild semi\ntip41 tip41a tip41b tip41c.pdf \nJuly 2008TIP41/TIP41A/TIP41B/TIP41CNPN Epitaxial Silicon TransistorFeatures Complementary to TIP42/TIP42A/TIP42B/TIP42C1. Base 2. Collector 3. EmitterAbsolute Maximum Ratings TC=25C unless otherwise notedSymbol Parameter Value Units VCBO Collector-Emitter Voltage: TIP41 40 V : TIP41A 60 V : TIP41B 80 V : TIP41C 100 V VCEO Collector-Emitter Voltage: TIP41 40 V : TI\n..3. Size:248K mcc\ntip41 tip41a tip41b tip41c to-220.pdf \nMCCMicro Commercial ComponentsTMTIP41/41A/41B/41C20736 Marilla Street ChatsworthMicro Commercial ComponentsCA 91311Phone: (818) 701-4933Fax: (818) 701-4939Features Lead Free Finish/RoHS Compliant(Note 1) (\"P\" Suffix designates RoHS Compliant. See ordering information) Silicon NPN The complementary PNP types are the TIP42 respectively Epoxy meets UL 94 V-0 \n..4. Size:93K onsemi\ntip41 tip41a tip41b tip41c tip42 tip42a tip42b tip42c.pdf \nTIP41, TIP41A, TIP41B,TIP41C (NPN); TIP42, TIP42A,TIP42B, TIP42C (PNP)Complementary SiliconPlastic Power Transistorshttp://onsemi.comDesigned for use in general purpose amplifier and switchingapplications.6 AMPEREFeaturesCOMPLEMENTARY SILICON ESD Ratings: Machine Model, C; > 400 VPOWER TRANSISTORSHuman Body Model, 3B; > 8000 V40-60-80-100 VOLTS, Epoxy Meets U\nDatasheet: 2SB858B , 2SB858C , 2SB858D , 2SB859 , 2SB859B , 2SB859C , 2SB86 , 2SB860 , 2SC2625 , 2SB861B , 2SB861C , 2SB862 , 2SB863 , 2SB863O , 2SB863R , 2SB864 , 2SB865 . \nHistory: TIP501 | TIP50 | TIP49 | TIP48 | TIP42F \nKeywords - TIP41B transistor datasheet\nTIP41B cross reference\nTIP41B equivalent finder\nTIP41B lookup\nTIP41B substitution\nTIP41B replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO220",
+      "maxCollectorCurrent": 6,
+      "maxCollectorEmitterVoltage": 80,
+      "maxCollectorBaseVoltage": 120,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 65,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 3,
+      "hFE": 20,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO220",
+        "Collector Power Dissipation": "65W",
+        "Collector-Base Voltage": "120V",
+        "Collector-Emitter Voltage": "80V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "6A",
+        "Current Gain (hFE)": "20",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "3MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [],
+      "equivalents": [
+        {
+          "id": "2SB858B",
+          "name": "2SB858B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41B",
+          "manufacturer": "Various",
+          "href": "/component/2SB858B"
+        },
+        {
+          "id": "2SB858C",
+          "name": "2SB858C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41B",
+          "manufacturer": "Various",
+          "href": "/component/2SB858C"
+        },
+        {
+          "id": "2SB858D",
+          "name": "2SB858D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41B",
+          "manufacturer": "Various",
+          "href": "/component/2SB858D"
+        },
+        {
+          "id": "2SB859",
+          "name": "2SB859",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41B",
+          "manufacturer": "Various",
+          "href": "/component/2SB859"
+        },
+        {
+          "id": "2SB859B",
+          "name": "2SB859B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41B",
+          "manufacturer": "Various",
+          "href": "/component/2SB859B"
+        },
+        {
+          "id": "2SB859C",
+          "name": "2SB859C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41B",
+          "manufacturer": "Various",
+          "href": "/component/2SB859C"
+        },
+        {
+          "id": "2SB86",
+          "name": "2SB86",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41B",
+          "manufacturer": "Various",
+          "href": "/component/2SB86"
+        },
+        {
+          "id": "2SB860",
+          "name": "2SB860",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41B",
+          "manufacturer": "Various",
+          "href": "/component/2SB860"
+        },
+        {
+          "id": "2SC2625",
+          "name": "2SC2625",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41B",
+          "manufacturer": "Various",
+          "href": "/component/2SC2625"
+        },
+        {
+          "id": "2SB861B",
+          "name": "2SB861B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41B",
+          "manufacturer": "Various",
+          "href": "/component/2SB861B"
+        },
+        {
+          "id": "2SB861C",
+          "name": "2SB861C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41B",
+          "manufacturer": "Various",
+          "href": "/component/2SB861C"
+        },
+        {
+          "id": "2SB862",
+          "name": "2SB862",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41B",
+          "manufacturer": "Various",
+          "href": "/component/2SB862"
+        },
+        {
+          "id": "2SB863",
+          "name": "2SB863",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41B",
+          "manufacturer": "Various",
+          "href": "/component/2SB863"
+        },
+        {
+          "id": "2SB863O",
+          "name": "2SB863O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41B",
+          "manufacturer": "Various",
+          "href": "/component/2SB863O"
+        },
+        {
+          "id": "2SB863R",
+          "name": "2SB863R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41B",
+          "manufacturer": "Various",
+          "href": "/component/2SB863R"
+        },
+        {
+          "id": "2SB864",
+          "name": "2SB864",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41B",
+          "manufacturer": "Various",
+          "href": "/component/2SB864"
+        },
+        {
+          "id": "2SB865",
+          "name": "2SB865",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for TIP41B",
+          "manufacturer": "Various",
+          "href": "/component/2SB865"
+        }
+      ],
+      "href": "/component/TIP41B"
+    }
+  ]
+}

@@ -1,0 +1,2377 @@
+{
+  "components": [
+    {
+      "id": "13001-2",
+      "name": "13001-2",
+      "type": "NPN Transistor",
+      "description": "O92T \n- BJT Cross-Reference Search\n13001-2 Datasheet (PDF)\n..1. Size:109K jdsemi\n13001-2.pdf \nR13001-2 www.jdsemi.cn Bipolar Junction Transistor ShenZhen Jingdao Electronic Co.,Ltd. Si NPN RoHS COMPLIANT 111APPLICATION 1Fluorescent LampCharger and Switch-mode power supplies 222FEATURES 2\n8.1. Size:191K utc\nmje13001-p.pdf \nUNISONIC TECHNOLOGIES CO., LTD MJE13001-P NPN SILICON TRANSISTOR NPN SILICON POWER TRANSISTOR FEATURES * Collector-base voltage: V(BR)CBO=600V * Collector current: IC=0.2A ORDERING INFORMATION Ordering Number Pin Assignment Package Packing Lead Free Halogen Free 1 2 3 MJE13001-PL-x-T92-B MJE13001-PG-x-T92-B TO-92 B C E Tape Box MJE13001-PL-x-T92-K MJE13001-PG-x-T92-K\n8.2. Size:107K jdsemi\n13001-a.pdf \nR13001-A www.jdsemi.cn Bipolar Junction Transistor ShenZhen Jingdao Electronic Co.,Ltd. Si NPN RoHS COMPLIANT 111APPLICATION 1Fluorescent LampCharger and Switch-mode power supplies 222FEATURES 2\n8.3. Size:105K jdsemi\n13001-0.pdf \nR13001-0 www.jdsemi.cn Bipolar Junction Transistor ShenZhen Jingdao Electronic Co.,Ltd. Si NPN RoHS COMPLIANT 111APPLICATION 1Fluorescent LampCharger and Switch-mode power supplies 222FEATURES 2\nDatasheet: WPT2E33 , WPT2F30 , WPT2N32 , WPT2N31 , 13005 , 13007 , 13009 , 13001-0 , C3198 , 13001-A , 13003AD , 13003B , 13005A , 13005AD , 13005ADL , 13005D , 13005DL . \nKeywords - 13001-2 transistor datasheet\n13001-2 cross reference\n13001-2 equivalent finder\n13001-2 lookup\n13001-2 substitution\n13001-2 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO92T",
+      "maxCollectorCurrent": 0.45,
+      "maxCollectorEmitterVoltage": 400,
+      "maxCollectorBaseVoltage": 700,
+      "maxEmitterBaseVoltage": 9,
+      "maxPowerDissipation": 0.8,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 5,
+      "hFE": 15,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO92T",
+        "Collector Power Dissipation": "0.8W",
+        "Collector-Base Voltage": "700V",
+        "Collector-Emitter Voltage": "400V",
+        "Emitter-Base Voltage": "9V",
+        "Collector Current": "0.45A",
+        "Current Gain (hFE)": "15",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "5MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "jdsemi (109K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=13001-2.pdf&dire=_jdsemi"
+        },
+        {
+          "name": "utc (191K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=mje13001-p.pdf&dire=_utc"
+        },
+        {
+          "name": "jdsemi (107K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=13001-a.pdf&dire=_jdsemi"
+        },
+        {
+          "name": "jdsemi (105K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=13001-0.pdf&dire=_jdsemi"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "WPT2E33",
+          "name": "WPT2E33",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13001-2",
+          "manufacturer": "Various",
+          "href": "/component/WPT2E33"
+        },
+        {
+          "id": "WPT2F30",
+          "name": "WPT2F30",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13001-2",
+          "manufacturer": "Various",
+          "href": "/component/WPT2F30"
+        },
+        {
+          "id": "WPT2N32",
+          "name": "WPT2N32",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13001-2",
+          "manufacturer": "Various",
+          "href": "/component/WPT2N32"
+        },
+        {
+          "id": "WPT2N31",
+          "name": "WPT2N31",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13001-2",
+          "manufacturer": "Various",
+          "href": "/component/WPT2N31"
+        }
+      ],
+      "href": "/component/13001-2"
+    },
+    {
+      "id": "13001-A",
+      "name": "13001-A",
+      "type": "NPN Transistor",
+      "description": "O92T \n- BJT Cross-Reference Search\n13001-A Datasheet (PDF)\n..1. Size:107K jdsemi\n13001-a.pdf \nR13001-A www.jdsemi.cn Bipolar Junction Transistor ShenZhen Jingdao Electronic Co.,Ltd. Si NPN RoHS COMPLIANT 111APPLICATION 1Fluorescent LampCharger and Switch-mode power supplies 222FEATURES 2\n8.1. Size:191K utc\nmje13001-p.pdf \nUNISONIC TECHNOLOGIES CO., LTD MJE13001-P NPN SILICON TRANSISTOR NPN SILICON POWER TRANSISTOR FEATURES * Collector-base voltage: V(BR)CBO=600V * Collector current: IC=0.2A ORDERING INFORMATION Ordering Number Pin Assignment Package Packing Lead Free Halogen Free 1 2 3 MJE13001-PL-x-T92-B MJE13001-PG-x-T92-B TO-92 B C E Tape Box MJE13001-PL-x-T92-K MJE13001-PG-x-T92-K\n8.2. Size:109K jdsemi\n13001-2.pdf \nR13001-2 www.jdsemi.cn Bipolar Junction Transistor ShenZhen Jingdao Electronic Co.,Ltd. Si NPN RoHS COMPLIANT 111APPLICATION 1Fluorescent LampCharger and Switch-mode power supplies 222FEATURES 2\n8.3. Size:105K jdsemi\n13001-0.pdf \nR13001-0 www.jdsemi.cn Bipolar Junction Transistor ShenZhen Jingdao Electronic Co.,Ltd. Si NPN RoHS COMPLIANT 111APPLICATION 1Fluorescent LampCharger and Switch-mode power supplies 222FEATURES 2\nDatasheet: WPT2F30 , WPT2N32 , WPT2N31 , 13005 , 13007 , 13009 , 13001-0 , 13001-2 , BC558 , 13003AD , 13003B , 13005A , 13005AD , 13005ADL , 13005D , 13005DL , 13005ED . \nKeywords - 13001-A transistor datasheet\n13001-A cross reference\n13001-A equivalent finder\n13001-A lookup\n13001-A substitution\n13001-A replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO92T",
+      "maxCollectorCurrent": 0.5,
+      "maxCollectorEmitterVoltage": 400,
+      "maxCollectorBaseVoltage": 600,
+      "maxEmitterBaseVoltage": 9,
+      "maxPowerDissipation": 0.8,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 5,
+      "hFE": 15,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO92T",
+        "Collector Power Dissipation": "0.8W",
+        "Collector-Base Voltage": "600V",
+        "Collector-Emitter Voltage": "400V",
+        "Emitter-Base Voltage": "9V",
+        "Collector Current": "0.5A",
+        "Current Gain (hFE)": "15",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "5MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "jdsemi (107K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=13001-a.pdf&dire=_jdsemi"
+        },
+        {
+          "name": "utc (191K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=mje13001-p.pdf&dire=_utc"
+        },
+        {
+          "name": "jdsemi (109K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=13001-2.pdf&dire=_jdsemi"
+        },
+        {
+          "name": "jdsemi (105K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=13001-0.pdf&dire=_jdsemi"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "WPT2F30",
+          "name": "WPT2F30",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13001-A",
+          "manufacturer": "Various",
+          "href": "/component/WPT2F30"
+        },
+        {
+          "id": "WPT2N32",
+          "name": "WPT2N32",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13001-A",
+          "manufacturer": "Various",
+          "href": "/component/WPT2N32"
+        },
+        {
+          "id": "WPT2N31",
+          "name": "WPT2N31",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13001-A",
+          "manufacturer": "Various",
+          "href": "/component/WPT2N31"
+        }
+      ],
+      "href": "/component/13001-A"
+    },
+    {
+      "id": "13003AD",
+      "name": "13003AD",
+      "type": "NPN Transistor",
+      "description": "The UTC 13003ADA is a silicon NPN power switching transistor; it uses UTCs advanced technology to provide customers high collector-base breakdown voltage, low reverse leakage current and high reliability, etc. The UTC 1\n0.2. Size:116K jdsemi",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO220",
+      "maxCollectorCurrent": 2.3,
+      "maxCollectorEmitterVoltage": 400,
+      "maxCollectorBaseVoltage": 700,
+      "maxEmitterBaseVoltage": 9,
+      "maxPowerDissipation": 30,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 5,
+      "hFE": 15,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO220",
+        "Collector Power Dissipation": "30W",
+        "Collector-Base Voltage": "700V",
+        "Collector-Emitter Voltage": "400V",
+        "Emitter-Base Voltage": "9V",
+        "Collector Current": "2.3A",
+        "Current Gain (hFE)": "15",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "5MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "jdsemi (116K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=13003ad.pdf&dire=_jdsemi"
+        },
+        {
+          "name": "utc (136K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=13003ada.pdf&dire=_utc"
+        },
+        {
+          "name": "jdsemi (117K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=h13003adl.pdf&dire=_jdsemi"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "WPT2N32",
+          "name": "WPT2N32",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13003AD",
+          "manufacturer": "Various",
+          "href": "/component/WPT2N32"
+        },
+        {
+          "id": "WPT2N31",
+          "name": "WPT2N31",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13003AD",
+          "manufacturer": "Various",
+          "href": "/component/WPT2N31"
+        }
+      ],
+      "href": "/component/13003AD"
+    },
+    {
+      "id": "13003B",
+      "name": "13003B",
+      "type": "NPN Transistor",
+      "description": "The UTC 13003BS is a silicon NPN power switching transistor; it uses UTCs advanced technology to provide customers high collector-base breakdown voltage, low reverse leakage current and high reliability, etc. The UTC 130\n0.2. Size:765K secos",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO220",
+      "maxCollectorCurrent": 2,
+      "maxCollectorEmitterVoltage": 400,
+      "maxCollectorBaseVoltage": 650,
+      "maxEmitterBaseVoltage": 9,
+      "maxPowerDissipation": 28,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 5,
+      "hFE": 15,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO220",
+        "Collector Power Dissipation": "28W",
+        "Collector-Base Voltage": "650V",
+        "Collector-Emitter Voltage": "400V",
+        "Emitter-Base Voltage": "9V",
+        "Collector Current": "2A",
+        "Current Gain (hFE)": "15",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "5MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "jdsemi (116K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=13003b.pdf&dire=_jdsemi"
+        },
+        {
+          "name": "utc (165K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=13003bs.pdf&dire=_utc"
+        },
+        {
+          "name": "secos (765K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=bd13003b.pdf&dire=_secos"
+        },
+        {
+          "name": "secos (2520K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=3dd13003b.pdf&dire=_secos"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "WPT2N31",
+          "name": "WPT2N31",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13003B",
+          "manufacturer": "Various",
+          "href": "/component/WPT2N31"
+        },
+        {
+          "id": "2SC2383Y",
+          "name": "2SC2383Y",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13003B",
+          "manufacturer": "Various",
+          "href": "/component/2SC2383Y"
+        }
+      ],
+      "href": "/component/13003B"
+    },
+    {
+      "id": "13005A",
+      "name": "13005A",
+      "type": "NPN Transistor",
+      "description": "These devices are designed for high-\n0.3. Size:145K crhj\n3dd13005a7.pdf",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO220",
+      "maxCollectorCurrent": 4,
+      "maxCollectorEmitterVoltage": 400,
+      "maxCollectorBaseVoltage": 700,
+      "maxEmitterBaseVoltage": 9,
+      "maxPowerDissipation": 75,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 5,
+      "hFE": 15,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO220",
+        "Collector Power Dissipation": "75W",
+        "Collector-Base Voltage": "700V",
+        "Collector-Emitter Voltage": "400V",
+        "Emitter-Base Voltage": "9V",
+        "Collector Current": "4A",
+        "Current Gain (hFE)": "15",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "5MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "jdsemi (113K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=13005a.pdf&dire=_jdsemi"
+        },
+        {
+          "name": "jilin sino (302K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=3dd13005a.pdf&dire=_jilin_sino"
+        },
+        {
+          "name": "nell (273K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=mje13005a.pdf&dire=_nell"
+        },
+        {
+          "name": "crhj (145K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=3dd13005a7.pdf&dire=_crhj"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SC2655",
+          "name": "2SC2655",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13005A",
+          "manufacturer": "Various",
+          "href": "/component/2SC2655"
+        }
+      ],
+      "href": "/component/13005A"
+    },
+    {
+      "id": "13005AD",
+      "name": "13005AD",
+      "type": "NPN Transistor",
+      "description": "O220 \n- BJT Cross-Reference Search\n13005AD Datasheet (PDF)\n..1. Size:121K jdsemi\n13005ad.pdf \nR13005AD www.jdsemi.cn Bipolar Junction Transistor ShenZhen Jingdao Electronic Co.,Ltd. Si NPN RoHS COMPLIANT 111APPLICATION 1Fluorescent LampElectronic Ballast and Switch-mode power supplies 222\n0.1. Size:120K jdsemi\nh13005adl.pdf \nRH13005ADL www.jdsemi.cn Bipolar Junction Transistor ShenZhen Jingdao Electronic Co.,Ltd. Si NPN RoHS COMPLIANT 111APPLICATION 1Mainly used for 110V power Fluorescent Lamp Electronic Ballastetc 222\n0.2. Size:121K jdsemi\n13005adl.pdf \nR13005ADL www.jdsemi.cn Bipolar Junction Transistor ShenZhen Jingdao Electronic Co.,Ltd. Si NPN RoHS COMPLIANT 111APPLICATION 1Mainly used for 110V power Fluorescent Lamp Electronic Ballastetc 222\n8.1. Size:302K jilin sino\n3dd13005a.pdf \nNPN HIGH VOLTAGE FAST-SWITCHING NPN POWER TRANSISTORR3DD13005A MAIN CHARACTERISTICS Package IC 4AVCEO 400VPC(TO-126) 40WPC(TO-220C) 75W APPLICATIONS Energy-saving light Electronic ballasts High frequency switching power supply \nDatasheet: 13007 , 13009 , 13001-0 , 13001-2 , 13001-A , 13003AD , 13003B , 13005A , TIP127 , 13005ADL , 13005D , 13005DL , 13005ED , 13005F , 13005S , 13005SD , 13005SDL . \nHistory: 13003B | 13003AD | 13001-A \nKeywords - 13005AD transistor datasheet\n13005AD cross reference\n13005AD equivalent finder\n13005AD lookup\n13005AD substitution\n13005AD replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO220",
+      "maxCollectorCurrent": 4,
+      "maxCollectorEmitterVoltage": 400,
+      "maxCollectorBaseVoltage": 700,
+      "maxEmitterBaseVoltage": 9,
+      "maxPowerDissipation": 75,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 4,
+      "hFE": 15,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO220",
+        "Collector Power Dissipation": "75W",
+        "Collector-Base Voltage": "700V",
+        "Collector-Emitter Voltage": "400V",
+        "Emitter-Base Voltage": "9V",
+        "Collector Current": "4A",
+        "Current Gain (hFE)": "15",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "4MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "jdsemi (121K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=13005ad.pdf&dire=_jdsemi"
+        },
+        {
+          "name": "jdsemi (120K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=h13005adl.pdf&dire=_jdsemi"
+        },
+        {
+          "name": "jdsemi (121K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=13005adl.pdf&dire=_jdsemi"
+        },
+        {
+          "name": "jilin sino (302K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=3dd13005a.pdf&dire=_jilin_sino"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "TIP127",
+          "name": "TIP127",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13005AD",
+          "manufacturer": "Various",
+          "href": "/component/TIP127"
+        }
+      ],
+      "href": "/component/13005AD"
+    },
+    {
+      "id": "13005ADL",
+      "name": "13005ADL",
+      "type": "NPN Transistor",
+      "description": "O220 \n- BJT Cross-Reference Search\n13005ADL Datasheet (PDF)\n..1. Size:121K jdsemi\n13005adl.pdf \nR13005ADL www.jdsemi.cn Bipolar Junction Transistor ShenZhen Jingdao Electronic Co.,Ltd. Si NPN RoHS COMPLIANT 111APPLICATION 1Mainly used for 110V power Fluorescent Lamp Electronic Ballastetc 222\n0.1. Size:120K jdsemi\nh13005adl.pdf \nRH13005ADL www.jdsemi.cn Bipolar Junction Transistor ShenZhen Jingdao Electronic Co.,Ltd. Si NPN RoHS COMPLIANT 111APPLICATION 1Mainly used for 110V power Fluorescent Lamp Electronic Ballastetc 222\n7.1. Size:121K jdsemi\n13005ad.pdf \nR13005AD www.jdsemi.cn Bipolar Junction Transistor ShenZhen Jingdao Electronic Co.,Ltd. Si NPN RoHS COMPLIANT 111APPLICATION 1Fluorescent LampElectronic Ballast and Switch-mode power supplies 222\n8.1. Size:302K jilin sino\n3dd13005a.pdf \nNPN HIGH VOLTAGE FAST-SWITCHING NPN POWER TRANSISTORR3DD13005A MAIN CHARACTERISTICS Package IC 4AVCEO 400VPC(TO-126) 40WPC(TO-220C) 75W APPLICATIONS Energy-saving light Electronic ballasts High frequency switching power supply \nDatasheet: 13009 , 13001-0 , 13001-2 , 13001-A , 13003AD , 13003B , 13005A , 13005AD , 2SB817 , 13005D , 13005DL , 13005ED , 13005F , 13005S , 13005SD , 13005SDL , 13007DL . \nHistory: 13005AD | 13003B | 13003AD | 13001-A \nKeywords - 13005ADL transistor datasheet\n13005ADL cross reference\n13005ADL equivalent finder\n13005ADL lookup\n13005ADL substitution\n13005ADL replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO220",
+      "maxCollectorCurrent": 8,
+      "maxCollectorEmitterVoltage": 200,
+      "maxCollectorBaseVoltage": 400,
+      "maxEmitterBaseVoltage": 9,
+      "maxPowerDissipation": 75,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 4,
+      "hFE": 15,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO220",
+        "Collector Power Dissipation": "75W",
+        "Collector-Base Voltage": "400V",
+        "Collector-Emitter Voltage": "200V",
+        "Emitter-Base Voltage": "9V",
+        "Collector Current": "8A",
+        "Current Gain (hFE)": "15",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "4MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "jdsemi (121K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=13005adl.pdf&dire=_jdsemi"
+        },
+        {
+          "name": "jdsemi (120K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=h13005adl.pdf&dire=_jdsemi"
+        },
+        {
+          "name": "jdsemi (121K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=13005ad.pdf&dire=_jdsemi"
+        },
+        {
+          "name": "jilin sino (302K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=3dd13005a.pdf&dire=_jilin_sino"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SB817",
+          "name": "2SB817",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13005ADL",
+          "manufacturer": "Various",
+          "href": "/component/2SB817"
+        }
+      ],
+      "href": "/component/13005ADL"
+    },
+    {
+      "id": "WPT2F06",
+      "name": "WPT2F06",
+      "type": "PNP Transistor",
+      "description": "OT23 \n- BJT Cross-Reference Search\nWPT2F06 Datasheet (PDF)\n..1. Size:394K willsemi\nwpt2f06.pdf \nWPT2F06 WPT2F06 PNP, General Purpose Transistors Http//:www.willsemi.com Descriptions The WPT2F06 is designed for general purpose amplifier applications. Standard products are Pb-free and Halogen-free SOT-23 (Top View) Features 3 Complementary to WNT2F04 Collector Current: IC=-0.2A 2A1 2 Marking :2A 1: BASE 2: EMITTER 3: COLLECTOR Order information \n9.1. Size:89K willsemi\nwpt2f42.pdf \nWPT2F42 WPT2F42Single, PNP, -30V, -3A, Power Transistor Http//:www.willsemi.com DescriptionsThe WPT2F42 is PNP bipolar power transistor with very low saturation voltage. This device is suitable for use in charging circuit and other power management. Standard Products WPT2F42 are SOT-23-6L Pb-free and Halogen-free.C 1 6 C C 2 5 C 3 4 E B FeaturesPin configuration (T\n9.2. Size:152K willsemi\nwpt2f30.pdf \nWPT2F30 WPT2F30Single, PNP, -30V, -3A, Power Transistor Http//:www.willsemi.com DescriptionsThe WPT2F30 is PNP bipolar power transistor with very low saturation voltage. This device is suitable for use in charging circuit and other power management. Standard Product WPT2F30 is Pb-free. SOT-23-6L C 1 6 C C 2 5 C FeaturesB 3 4 E Pin configuration (Top view) Ultra low\nDatasheet: DDTC143ECA , DDTC114ECA , DDTC124ECA , DDTC144ECA , DDTC115ECA , WNT2F04 , WPT2F42 , WPT2N41 , B772 , WPT2E33 , WPT2F30 , WPT2N32 , WPT2N31 , 13005 , 13007 , 13009 , 13001-0 . \nHistory: WPT2N41 \nKeywords - WPT2F06 transistor datasheet\nWPT2F06 cross reference\nWPT2F06 equivalent finder\nWPT2F06 lookup\nWPT2F06 substitution\nWPT2F06 replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "SOT23",
+      "maxCollectorCurrent": 0.2,
+      "maxCollectorEmitterVoltage": 40,
+      "maxCollectorBaseVoltage": 40,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.25,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 250,
+      "hFE": 100,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "SOT23",
+        "Collector Power Dissipation": "0.25W",
+        "Collector-Base Voltage": "40V",
+        "Collector-Emitter Voltage": "40V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.2A",
+        "Current Gain (hFE)": "100",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "250MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "willsemi (394K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=wpt2f06.pdf&dire=_willsemi"
+        },
+        {
+          "name": "willsemi (89K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=wpt2f42.pdf&dire=_willsemi"
+        },
+        {
+          "name": "willsemi (152K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=wpt2f30.pdf&dire=_willsemi"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "DDTC143ECA",
+          "name": "DDTC143ECA",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2F06",
+          "manufacturer": "Various",
+          "href": "/component/DDTC143ECA"
+        },
+        {
+          "id": "DDTC114ECA",
+          "name": "DDTC114ECA",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2F06",
+          "manufacturer": "Various",
+          "href": "/component/DDTC114ECA"
+        },
+        {
+          "id": "DDTC124ECA",
+          "name": "DDTC124ECA",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2F06",
+          "manufacturer": "Various",
+          "href": "/component/DDTC124ECA"
+        },
+        {
+          "id": "DDTC144ECA",
+          "name": "DDTC144ECA",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2F06",
+          "manufacturer": "Various",
+          "href": "/component/DDTC144ECA"
+        },
+        {
+          "id": "DDTC115ECA",
+          "name": "DDTC115ECA",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2F06",
+          "manufacturer": "Various",
+          "href": "/component/DDTC115ECA"
+        },
+        {
+          "id": "WNT2F04",
+          "name": "WNT2F04",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2F06",
+          "manufacturer": "Various",
+          "href": "/component/WNT2F04"
+        },
+        {
+          "id": "WPT2F42",
+          "name": "WPT2F42",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2F06",
+          "manufacturer": "Various",
+          "href": "/component/WPT2F42"
+        },
+        {
+          "id": "WPT2N41",
+          "name": "WPT2N41",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2F06",
+          "manufacturer": "Various",
+          "href": "/component/WPT2N41"
+        },
+        {
+          "id": "WPT2E33",
+          "name": "WPT2E33",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2F06",
+          "manufacturer": "Various",
+          "href": "/component/WPT2E33"
+        },
+        {
+          "id": "WPT2F30",
+          "name": "WPT2F30",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2F06",
+          "manufacturer": "Various",
+          "href": "/component/WPT2F30"
+        },
+        {
+          "id": "WPT2N32",
+          "name": "WPT2N32",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2F06",
+          "manufacturer": "Various",
+          "href": "/component/WPT2N32"
+        },
+        {
+          "id": "WPT2N31",
+          "name": "WPT2N31",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2F06",
+          "manufacturer": "Various",
+          "href": "/component/WPT2N31"
+        }
+      ],
+      "href": "/component/WPT2F06"
+    },
+    {
+      "id": "WPT2N41",
+      "name": "WPT2N41",
+      "type": "PNP Transistor",
+      "description": "DFN3X2-8L \n- BJT Cross-Reference Search\nWPT2N41 Datasheet (PDF)\n..1. Size:807K willsemi\nwpt2n41.pdf \nWPT2N41 WPT2N41 Single, PNP, -30V, -3A, Power Transistor Http://www.sh-willsemi.com Descriptions The WPT2N41 is PNP bipolar power transistor with very low saturation voltage. This device is suitable for use in charging circuit and power management. Standard Product WPT2N41 is Pb-free. Pin configuration (Top view) Features Ultra low collector-to-emitter saturation volta\n9.1. Size:347K willsemi\nwpt2n32.pdf \nWPT2N32 WPT2N32 Single, PNP, -30V, -1A, Power Transistor with Http//:www.willsemi.com 20V N-MOSFET Descriptions The WPT2N32 is PNP bipolar power transistor with 20V N-MOSFET. This device is suitable for use in charging circuit and other power management. DFN2x2-6L Standard Product WPT2N32 is Pb-free. C 6 1 E C B G 5 2 DFeatures D3 S 4 Ultra low collec\n9.2. Size:1363K willsemi\nwpt2n31.pdf \nWPT2N31 WPT2N31 Http://www.sh-willsemi.com Single, PNP, -30V, -3A, Power Transistor with 20V N-MOSFET Descriptions The WPT2N31 is PNP bipolar power transistor with 20V N-MOSFET. This device is suitable for use in charging circuit and other power management. Standard Product WPT2N31 is Pb-free. Pin configuration (Top view) Features Ultra low collector-to-emitter satu\nDatasheet: DDTC123ECA , DDTC143ECA , DDTC114ECA , DDTC124ECA , DDTC144ECA , DDTC115ECA , WNT2F04 , WPT2F42 , 8050 , WPT2F06 , WPT2E33 , WPT2F30 , WPT2N32 , WPT2N31 , 13005 , 13007 , 13009 . \nKeywords - WPT2N41 transistor datasheet\nWPT2N41 cross reference\nWPT2N41 equivalent finder\nWPT2N41 lookup\nWPT2N41 substitution\nWPT2N41 replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "PDFN3X2-8L",
+      "maxCollectorCurrent": 3,
+      "maxCollectorEmitterVoltage": 32,
+      "maxCollectorBaseVoltage": 45,
+      "maxEmitterBaseVoltage": 6,
+      "maxPowerDissipation": 3,
+      "maxJunctionTemperature": 150,
+      "hFE": 100,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "PDFN3X2-8L",
+        "Collector Power Dissipation": "3W",
+        "Collector-Base Voltage": "45V",
+        "Collector-Emitter Voltage": "32V",
+        "Emitter-Base Voltage": "6V",
+        "Collector Current": "3A",
+        "Current Gain (hFE)": "100",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "willsemi (807K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=wpt2n41.pdf&dire=_willsemi"
+        },
+        {
+          "name": "willsemi (347K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=wpt2n32.pdf&dire=_willsemi"
+        },
+        {
+          "name": "willsemi (1363K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=wpt2n31.pdf&dire=_willsemi"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "DDTC123ECA",
+          "name": "DDTC123ECA",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2N41",
+          "manufacturer": "Various",
+          "href": "/component/DDTC123ECA"
+        },
+        {
+          "id": "DDTC143ECA",
+          "name": "DDTC143ECA",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2N41",
+          "manufacturer": "Various",
+          "href": "/component/DDTC143ECA"
+        },
+        {
+          "id": "DDTC114ECA",
+          "name": "DDTC114ECA",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2N41",
+          "manufacturer": "Various",
+          "href": "/component/DDTC114ECA"
+        },
+        {
+          "id": "DDTC124ECA",
+          "name": "DDTC124ECA",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2N41",
+          "manufacturer": "Various",
+          "href": "/component/DDTC124ECA"
+        },
+        {
+          "id": "DDTC144ECA",
+          "name": "DDTC144ECA",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2N41",
+          "manufacturer": "Various",
+          "href": "/component/DDTC144ECA"
+        },
+        {
+          "id": "DDTC115ECA",
+          "name": "DDTC115ECA",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2N41",
+          "manufacturer": "Various",
+          "href": "/component/DDTC115ECA"
+        },
+        {
+          "id": "WNT2F04",
+          "name": "WNT2F04",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2N41",
+          "manufacturer": "Various",
+          "href": "/component/WNT2F04"
+        },
+        {
+          "id": "WPT2F42",
+          "name": "WPT2F42",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2N41",
+          "manufacturer": "Various",
+          "href": "/component/WPT2F42"
+        },
+        {
+          "id": "WPT2F06",
+          "name": "WPT2F06",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2N41",
+          "manufacturer": "Various",
+          "href": "/component/WPT2F06"
+        },
+        {
+          "id": "WPT2E33",
+          "name": "WPT2E33",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2N41",
+          "manufacturer": "Various",
+          "href": "/component/WPT2E33"
+        },
+        {
+          "id": "WPT2F30",
+          "name": "WPT2F30",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2N41",
+          "manufacturer": "Various",
+          "href": "/component/WPT2F30"
+        },
+        {
+          "id": "WPT2N32",
+          "name": "WPT2N32",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2N41",
+          "manufacturer": "Various",
+          "href": "/component/WPT2N32"
+        },
+        {
+          "id": "WPT2N31",
+          "name": "WPT2N31",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2N41",
+          "manufacturer": "Various",
+          "href": "/component/WPT2N31"
+        }
+      ],
+      "href": "/component/WPT2N41"
+    },
+    {
+      "id": "WPT2E33",
+      "name": "WPT2E33",
+      "type": "PNP Transistor",
+      "description": "OT89-3L \n- BJT Cross-Reference Search\nWPT2E33 Datasheet (PDF)\n..1. Size:260K willsemi\nwpt2e33.pdf \nWPT2E33 WPT2E33Single, PNP, -30V, -3A, Power Transistor Http//:www.willsemi.com DescriptionsThe WPT2E33 is PNP bipolar power transistor with very low saturation voltage. This device is suitable for use in charging circuit and other power management. Standard Product WPT2E33 is Pb-free. SOT-89-3L C 4 Features1 2 3B C E Pin configuration (Top view) Ultra low coll\nDatasheet: DDTC114ECA , DDTC124ECA , DDTC144ECA , DDTC115ECA , WNT2F04 , WPT2F42 , WPT2N41 , WPT2F06 , TIP31 , WPT2F30 , WPT2N32 , WPT2N31 , 13005 , 13007 , 13009 , 13001-0 , 13001-2 . \nHistory: WPT2F06 | WPT2N41 \nKeywords - WPT2E33 transistor datasheet\nWPT2E33 cross reference\nWPT2E33 equivalent finder\nWPT2E33 lookup\nWPT2E33 substitution\nWPT2E33 replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "SOT89-3L",
+      "maxCollectorCurrent": 3,
+      "maxCollectorEmitterVoltage": 30,
+      "maxCollectorBaseVoltage": 30,
+      "maxEmitterBaseVoltage": 6,
+      "maxPowerDissipation": 3,
+      "maxJunctionTemperature": 150,
+      "hFE": 100,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "SOT89-3L",
+        "Collector Power Dissipation": "3W",
+        "Collector-Base Voltage": "30V",
+        "Collector-Emitter Voltage": "30V",
+        "Emitter-Base Voltage": "6V",
+        "Collector Current": "3A",
+        "Current Gain (hFE)": "100",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "willsemi (260K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=wpt2e33.pdf&dire=_willsemi"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "DDTC114ECA",
+          "name": "DDTC114ECA",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2E33",
+          "manufacturer": "Various",
+          "href": "/component/DDTC114ECA"
+        },
+        {
+          "id": "DDTC124ECA",
+          "name": "DDTC124ECA",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2E33",
+          "manufacturer": "Various",
+          "href": "/component/DDTC124ECA"
+        },
+        {
+          "id": "DDTC144ECA",
+          "name": "DDTC144ECA",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2E33",
+          "manufacturer": "Various",
+          "href": "/component/DDTC144ECA"
+        },
+        {
+          "id": "DDTC115ECA",
+          "name": "DDTC115ECA",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2E33",
+          "manufacturer": "Various",
+          "href": "/component/DDTC115ECA"
+        },
+        {
+          "id": "WNT2F04",
+          "name": "WNT2F04",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2E33",
+          "manufacturer": "Various",
+          "href": "/component/WNT2F04"
+        },
+        {
+          "id": "WPT2F42",
+          "name": "WPT2F42",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2E33",
+          "manufacturer": "Various",
+          "href": "/component/WPT2F42"
+        },
+        {
+          "id": "WPT2N41",
+          "name": "WPT2N41",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2E33",
+          "manufacturer": "Various",
+          "href": "/component/WPT2N41"
+        },
+        {
+          "id": "WPT2F06",
+          "name": "WPT2F06",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2E33",
+          "manufacturer": "Various",
+          "href": "/component/WPT2F06"
+        },
+        {
+          "id": "TIP31",
+          "name": "TIP31",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2E33",
+          "manufacturer": "Various",
+          "href": "/component/TIP31"
+        },
+        {
+          "id": "WPT2F30",
+          "name": "WPT2F30",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2E33",
+          "manufacturer": "Various",
+          "href": "/component/WPT2F30"
+        },
+        {
+          "id": "WPT2N32",
+          "name": "WPT2N32",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2E33",
+          "manufacturer": "Various",
+          "href": "/component/WPT2N32"
+        },
+        {
+          "id": "WPT2N31",
+          "name": "WPT2N31",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2E33",
+          "manufacturer": "Various",
+          "href": "/component/WPT2N31"
+        }
+      ],
+      "href": "/component/WPT2E33"
+    },
+    {
+      "id": "WPT2F30",
+      "name": "WPT2F30",
+      "type": "PNP Transistor",
+      "description": "OT23-6L \n- BJT Cross-Reference Search\nWPT2F30 Datasheet (PDF)\n..1. Size:152K willsemi\nwpt2f30.pdf \nWPT2F30 WPT2F30Single, PNP, -30V, -3A, Power Transistor Http//:www.willsemi.com DescriptionsThe WPT2F30 is PNP bipolar power transistor with very low saturation voltage. This device is suitable for use in charging circuit and other power management. Standard Product WPT2F30 is Pb-free. SOT-23-6L C 1 6 C C 2 5 C FeaturesB 3 4 E Pin configuration (Top view) Ultra low\n9.1. Size:89K willsemi\nwpt2f42.pdf \nWPT2F42 WPT2F42Single, PNP, -30V, -3A, Power Transistor Http//:www.willsemi.com DescriptionsThe WPT2F42 is PNP bipolar power transistor with very low saturation voltage. This device is suitable for use in charging circuit and other power management. Standard Products WPT2F42 are SOT-23-6L Pb-free and Halogen-free.C 1 6 C C 2 5 C 3 4 E B FeaturesPin configuration (T\n9.2. Size:394K willsemi\nwpt2f06.pdf \nWPT2F06 WPT2F06 PNP, General Purpose Transistors Http//:www.willsemi.com Descriptions The WPT2F06 is designed for general purpose amplifier applications. Standard products are Pb-free and Halogen-free SOT-23 (Top View) Features 3 Complementary to WNT2F04 Collector Current: IC=-0.2A 2A1 2 Marking :2A 1: BASE 2: EMITTER 3: COLLECTOR Order information \nDatasheet: DDTC124ECA , DDTC144ECA , DDTC115ECA , WNT2F04 , WPT2F42 , WPT2N41 , WPT2F06 , WPT2E33 , TIP42 , WPT2N32 , WPT2N31 , 13005 , 13007 , 13009 , 13001-0 , 13001-2 , 13001-A . \nHistory: WPT2F06 | WPT2N41 \nKeywords - WPT2F30 transistor datasheet\nWPT2F30 cross reference\nWPT2F30 equivalent finder\nWPT2F30 lookup\nWPT2F30 substitution\nWPT2F30 replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "SOT23-6L",
+      "maxCollectorCurrent": 3,
+      "maxCollectorEmitterVoltage": 30,
+      "maxCollectorBaseVoltage": 30,
+      "maxEmitterBaseVoltage": 6,
+      "maxPowerDissipation": 1.2,
+      "maxJunctionTemperature": 150,
+      "hFE": 100,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "SOT23-6L",
+        "Collector Power Dissipation": "1.2W",
+        "Collector-Base Voltage": "30V",
+        "Collector-Emitter Voltage": "30V",
+        "Emitter-Base Voltage": "6V",
+        "Collector Current": "3A",
+        "Current Gain (hFE)": "100",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "willsemi (152K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=wpt2f30.pdf&dire=_willsemi"
+        },
+        {
+          "name": "willsemi (89K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=wpt2f42.pdf&dire=_willsemi"
+        },
+        {
+          "name": "willsemi (394K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=wpt2f06.pdf&dire=_willsemi"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "DDTC124ECA",
+          "name": "DDTC124ECA",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2F30",
+          "manufacturer": "Various",
+          "href": "/component/DDTC124ECA"
+        },
+        {
+          "id": "DDTC144ECA",
+          "name": "DDTC144ECA",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2F30",
+          "manufacturer": "Various",
+          "href": "/component/DDTC144ECA"
+        },
+        {
+          "id": "DDTC115ECA",
+          "name": "DDTC115ECA",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2F30",
+          "manufacturer": "Various",
+          "href": "/component/DDTC115ECA"
+        },
+        {
+          "id": "WNT2F04",
+          "name": "WNT2F04",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2F30",
+          "manufacturer": "Various",
+          "href": "/component/WNT2F04"
+        },
+        {
+          "id": "WPT2F42",
+          "name": "WPT2F42",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2F30",
+          "manufacturer": "Various",
+          "href": "/component/WPT2F42"
+        },
+        {
+          "id": "WPT2N41",
+          "name": "WPT2N41",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2F30",
+          "manufacturer": "Various",
+          "href": "/component/WPT2N41"
+        },
+        {
+          "id": "WPT2F06",
+          "name": "WPT2F06",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2F30",
+          "manufacturer": "Various",
+          "href": "/component/WPT2F06"
+        },
+        {
+          "id": "WPT2E33",
+          "name": "WPT2E33",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2F30",
+          "manufacturer": "Various",
+          "href": "/component/WPT2E33"
+        },
+        {
+          "id": "TIP42",
+          "name": "TIP42",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2F30",
+          "manufacturer": "Various",
+          "href": "/component/TIP42"
+        },
+        {
+          "id": "WPT2N32",
+          "name": "WPT2N32",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2F30",
+          "manufacturer": "Various",
+          "href": "/component/WPT2N32"
+        },
+        {
+          "id": "WPT2N31",
+          "name": "WPT2N31",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2F30",
+          "manufacturer": "Various",
+          "href": "/component/WPT2N31"
+        }
+      ],
+      "href": "/component/WPT2F30"
+    },
+    {
+      "id": "WPT2N32",
+      "name": "WPT2N32",
+      "type": "PNP Transistor",
+      "description": "FN2X2-6L \n- BJT Cross-Reference Search\nWPT2N32 Datasheet (PDF)\n..1. Size:347K willsemi\nwpt2n32.pdf \nWPT2N32 WPT2N32 Single, PNP, -30V, -1A, Power Transistor with Http//:www.willsemi.com 20V N-MOSFET Descriptions The WPT2N32 is PNP bipolar power transistor with 20V N-MOSFET. This device is suitable for use in charging circuit and other power management. DFN2x2-6L Standard Product WPT2N32 is Pb-free. C 6 1 E C B G 5 2 DFeatures D3 S 4 Ultra low collec\n8.1. Size:1363K willsemi\nwpt2n31.pdf \nWPT2N31 WPT2N31 Http://www.sh-willsemi.com Single, PNP, -30V, -3A, Power Transistor with 20V N-MOSFET Descriptions The WPT2N31 is PNP bipolar power transistor with 20V N-MOSFET. This device is suitable for use in charging circuit and other power management. Standard Product WPT2N31 is Pb-free. Pin configuration (Top view) Features Ultra low collector-to-emitter satu\n9.1. Size:807K willsemi\nwpt2n41.pdf \nWPT2N41 WPT2N41 Single, PNP, -30V, -3A, Power Transistor Http://www.sh-willsemi.com Descriptions The WPT2N41 is PNP bipolar power transistor with very low saturation voltage. This device is suitable for use in charging circuit and power management. Standard Product WPT2N41 is Pb-free. Pin configuration (Top view) Features Ultra low collector-to-emitter saturation volta\nDatasheet: DDTC144ECA , DDTC115ECA , WNT2F04 , WPT2F42 , WPT2N41 , WPT2F06 , WPT2E33 , WPT2F30 , 9014 , WPT2N31 , 13005 , 13007 , 13009 , 13001-0 , 13001-2 , 13001-A , 13003AD . \nHistory: WPT2F06 | WPT2N41 \nKeywords - WPT2N32 transistor datasheet\nWPT2N32 cross reference\nWPT2N32 equivalent finder\nWPT2N32 lookup\nWPT2N32 substitution\nWPT2N32 replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "DFN2X2-6L",
+      "maxCollectorCurrent": 1,
+      "maxCollectorEmitterVoltage": 30,
+      "maxCollectorBaseVoltage": 30,
+      "maxEmitterBaseVoltage": 6,
+      "maxPowerDissipation": 1.1,
+      "maxJunctionTemperature": 150,
+      "hFE": 100,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "DFN2X2-6L",
+        "Collector Power Dissipation": "1.1W",
+        "Collector-Base Voltage": "30V",
+        "Collector-Emitter Voltage": "30V",
+        "Emitter-Base Voltage": "6V",
+        "Collector Current": "1A",
+        "Current Gain (hFE)": "100",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "willsemi (347K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=wpt2n32.pdf&dire=_willsemi"
+        },
+        {
+          "name": "willsemi (1363K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=wpt2n31.pdf&dire=_willsemi"
+        },
+        {
+          "name": "willsemi (807K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=wpt2n41.pdf&dire=_willsemi"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "DDTC144ECA",
+          "name": "DDTC144ECA",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2N32",
+          "manufacturer": "Various",
+          "href": "/component/DDTC144ECA"
+        },
+        {
+          "id": "DDTC115ECA",
+          "name": "DDTC115ECA",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2N32",
+          "manufacturer": "Various",
+          "href": "/component/DDTC115ECA"
+        },
+        {
+          "id": "WNT2F04",
+          "name": "WNT2F04",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2N32",
+          "manufacturer": "Various",
+          "href": "/component/WNT2F04"
+        },
+        {
+          "id": "WPT2F42",
+          "name": "WPT2F42",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2N32",
+          "manufacturer": "Various",
+          "href": "/component/WPT2F42"
+        },
+        {
+          "id": "WPT2N41",
+          "name": "WPT2N41",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2N32",
+          "manufacturer": "Various",
+          "href": "/component/WPT2N41"
+        },
+        {
+          "id": "WPT2F06",
+          "name": "WPT2F06",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2N32",
+          "manufacturer": "Various",
+          "href": "/component/WPT2F06"
+        },
+        {
+          "id": "WPT2E33",
+          "name": "WPT2E33",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2N32",
+          "manufacturer": "Various",
+          "href": "/component/WPT2E33"
+        },
+        {
+          "id": "WPT2F30",
+          "name": "WPT2F30",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2N32",
+          "manufacturer": "Various",
+          "href": "/component/WPT2F30"
+        },
+        {
+          "id": "WPT2N31",
+          "name": "WPT2N31",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2N32",
+          "manufacturer": "Various",
+          "href": "/component/WPT2N31"
+        }
+      ],
+      "href": "/component/WPT2N32"
+    },
+    {
+      "id": "WPT2N31",
+      "name": "WPT2N31",
+      "type": "PNP Transistor",
+      "description": "FN2X2-6L \n- BJT Cross-Reference Search\nWPT2N31 Datasheet (PDF)\n..1. Size:1363K willsemi\nwpt2n31.pdf \nWPT2N31 WPT2N31 Http://www.sh-willsemi.com Single, PNP, -30V, -3A, Power Transistor with 20V N-MOSFET Descriptions The WPT2N31 is PNP bipolar power transistor with 20V N-MOSFET. This device is suitable for use in charging circuit and other power management. Standard Product WPT2N31 is Pb-free. Pin configuration (Top view) Features Ultra low collector-to-emitter satu\n8.1. Size:347K willsemi\nwpt2n32.pdf \nWPT2N32 WPT2N32 Single, PNP, -30V, -1A, Power Transistor with Http//:www.willsemi.com 20V N-MOSFET Descriptions The WPT2N32 is PNP bipolar power transistor with 20V N-MOSFET. This device is suitable for use in charging circuit and other power management. DFN2x2-6L Standard Product WPT2N32 is Pb-free. C 6 1 E C B G 5 2 DFeatures D3 S 4 Ultra low collec\n9.1. Size:807K willsemi\nwpt2n41.pdf \nWPT2N41 WPT2N41 Single, PNP, -30V, -3A, Power Transistor Http://www.sh-willsemi.com Descriptions The WPT2N41 is PNP bipolar power transistor with very low saturation voltage. This device is suitable for use in charging circuit and power management. Standard Product WPT2N41 is Pb-free. Pin configuration (Top view) Features Ultra low collector-to-emitter saturation volta\nDatasheet: DDTC115ECA , WNT2F04 , WPT2F42 , WPT2N41 , WPT2F06 , WPT2E33 , WPT2F30 , WPT2N32 , 2SC1815 , 13005 , 13007 , 13009 , 13001-0 , 13001-2 , 13001-A , 13003AD , 13003B . \nHistory: WPT2N32 | WPT2F06 | WPT2N41 \nKeywords - WPT2N31 transistor datasheet\nWPT2N31 cross reference\nWPT2N31 equivalent finder\nWPT2N31 lookup\nWPT2N31 substitution\nWPT2N31 replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "DFN2X2-6L",
+      "maxCollectorCurrent": 3,
+      "maxCollectorEmitterVoltage": 30,
+      "maxCollectorBaseVoltage": 30,
+      "maxEmitterBaseVoltage": 6,
+      "maxPowerDissipation": 1.2,
+      "maxJunctionTemperature": 150,
+      "hFE": 100,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "DFN2X2-6L",
+        "Collector Power Dissipation": "1.2W",
+        "Collector-Base Voltage": "30V",
+        "Collector-Emitter Voltage": "30V",
+        "Emitter-Base Voltage": "6V",
+        "Collector Current": "3A",
+        "Current Gain (hFE)": "100",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "willsemi (1363K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=wpt2n31.pdf&dire=_willsemi"
+        },
+        {
+          "name": "willsemi (347K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=wpt2n32.pdf&dire=_willsemi"
+        },
+        {
+          "name": "willsemi (807K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=wpt2n41.pdf&dire=_willsemi"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "DDTC115ECA",
+          "name": "DDTC115ECA",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2N31",
+          "manufacturer": "Various",
+          "href": "/component/DDTC115ECA"
+        },
+        {
+          "id": "WNT2F04",
+          "name": "WNT2F04",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2N31",
+          "manufacturer": "Various",
+          "href": "/component/WNT2F04"
+        },
+        {
+          "id": "WPT2F42",
+          "name": "WPT2F42",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2N31",
+          "manufacturer": "Various",
+          "href": "/component/WPT2F42"
+        },
+        {
+          "id": "WPT2N41",
+          "name": "WPT2N41",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2N31",
+          "manufacturer": "Various",
+          "href": "/component/WPT2N41"
+        },
+        {
+          "id": "WPT2F06",
+          "name": "WPT2F06",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2N31",
+          "manufacturer": "Various",
+          "href": "/component/WPT2F06"
+        },
+        {
+          "id": "WPT2E33",
+          "name": "WPT2E33",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2N31",
+          "manufacturer": "Various",
+          "href": "/component/WPT2E33"
+        },
+        {
+          "id": "WPT2F30",
+          "name": "WPT2F30",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2N31",
+          "manufacturer": "Various",
+          "href": "/component/WPT2F30"
+        },
+        {
+          "id": "WPT2N32",
+          "name": "WPT2N32",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2N31",
+          "manufacturer": "Various",
+          "href": "/component/WPT2N32"
+        },
+        {
+          "id": "2SC1815",
+          "name": "2SC1815",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for WPT2N31",
+          "manufacturer": "Various",
+          "href": "/component/2SC1815"
+        }
+      ],
+      "href": "/component/WPT2N31"
+    },
+    {
+      "id": "13005",
+      "name": "13005",
+      "type": "NPN Transistor",
+      "description": "O220 \n- BJT Cross-Reference Search\n13005 Datasheet (PDF)\n..1. Size:114K jdsemi\n13005.pdf \nR13005 www.jdsemi.cn Bipolar Junction Transistor ShenZhen Jingdao Electronic Co.,Ltd. Si NPN RoHS COMPLIANT 111APPLICATION 1Fluorescent LampElectronic Ballast Charger and Switch-mode power supplies 22\n0.1. Size:440K 1\n3dd13005md.pdf \nNPN HIGH VOLTAGE FAST-SWITCHING NPN POWER TRANSISTORR3DD13005MD MAIN CHARACTERISTICS Package IC 4AVCEO 400VPC(TO-220HF) 35WPC(TO-220) 75W APPLICATIONS Energy-saving ligh Electronic ballasts High frequency switching power supply \n0.3. Size:311K motorola\nmje13005.pdf \nOrder this documentMOTOROLAby MJE13005/DSEMICONDUCTOR TECHNICAL DATA*MJE13005*Motorola Preferred DeviceDesigner's Data Sheet4 AMPERESWITCHMODE SeriesNPN SILICONPOWER TRANSISTORNPN Silicon Power Transistors400 VOLTSThese devices are designed for highvoltage, highspeed power switching 75 WATTSinductive circuits where fall time is critical. They are particula\nDatasheet: WNT2F04 , WPT2F42 , WPT2N41 , WPT2F06 , WPT2E33 , WPT2F30 , WPT2N32 , WPT2N31 , D209L , 13007 , 13009 , 13001-0 , 13001-2 , 13001-A , 13003AD , 13003B , 13005A . \nHistory: WPT2N31 | WPT2N32 | WPT2F06 | WPT2N41 \nKeywords - 13005 transistor datasheet\n13005 cross reference\n13005 equivalent finder\n13005 lookup\n13005 substitution\n13005 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO220",
+      "maxCollectorCurrent": 4,
+      "maxCollectorEmitterVoltage": 400,
+      "maxCollectorBaseVoltage": 700,
+      "maxEmitterBaseVoltage": 9,
+      "maxPowerDissipation": 65,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 5,
+      "hFE": 15,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO220",
+        "Collector Power Dissipation": "65W",
+        "Collector-Base Voltage": "700V",
+        "Collector-Emitter Voltage": "400V",
+        "Emitter-Base Voltage": "9V",
+        "Collector Current": "4A",
+        "Current Gain (hFE)": "15",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "5MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "jdsemi (114K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=13005.pdf&dire=_jdsemi"
+        },
+        {
+          "name": "1 (440K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=3dd13005md.pdf&dire=_1"
+        },
+        {
+          "name": "motorola (311K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=mje13005.pdf&dire=_motorola"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "WNT2F04",
+          "name": "WNT2F04",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13005",
+          "manufacturer": "Various",
+          "href": "/component/WNT2F04"
+        },
+        {
+          "id": "WPT2F42",
+          "name": "WPT2F42",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13005",
+          "manufacturer": "Various",
+          "href": "/component/WPT2F42"
+        },
+        {
+          "id": "WPT2N41",
+          "name": "WPT2N41",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13005",
+          "manufacturer": "Various",
+          "href": "/component/WPT2N41"
+        },
+        {
+          "id": "WPT2F06",
+          "name": "WPT2F06",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13005",
+          "manufacturer": "Various",
+          "href": "/component/WPT2F06"
+        },
+        {
+          "id": "WPT2E33",
+          "name": "WPT2E33",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13005",
+          "manufacturer": "Various",
+          "href": "/component/WPT2E33"
+        },
+        {
+          "id": "WPT2F30",
+          "name": "WPT2F30",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13005",
+          "manufacturer": "Various",
+          "href": "/component/WPT2F30"
+        },
+        {
+          "id": "WPT2N32",
+          "name": "WPT2N32",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13005",
+          "manufacturer": "Various",
+          "href": "/component/WPT2N32"
+        },
+        {
+          "id": "WPT2N31",
+          "name": "WPT2N31",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13005",
+          "manufacturer": "Various",
+          "href": "/component/WPT2N31"
+        }
+      ],
+      "href": "/component/13005"
+    },
+    {
+      "id": "2SC2625",
+      "name": "2SC2625",
+      "type": "NPN Transistor",
+      "description": "O218 \n- BJT Cross-Reference Search\n2SC2625 Datasheet (PDF)\n..2. Size:174K cn sptech\n2sc2625.pdf \nSPTECH Product SpecificationSPTECH Silicon NPN Power Transistor 2SC2625DESCRIPTIONHigh Collector-Emitter Breakdown Voltage-: V = 400V(Min)(BR)CEOHigh Switching SpeedHigh ReliabilityAPPLICATIONSSwitching regulatorsUltrasonic generatorsHigh frequency invertersGeneral purpose power amplifiersABSOLUTE MAXIMUM RATINGS(T =25)aSYMBOL PARAMETER VALUE UNIT\n..3. Size:216K inchange semiconductor\n2sc2625.pdf \nINCHANGE Semiconductorisc Silicon NPN Power Transistor 2SC2625DESCRIPTIONHigh Collector-Emitter Breakdown Voltage-: V = 400V(Min)(BR)CEOMinimum Lot-to-Lot variations for robust deviceperformance and reliable operationAPPLICATIONSSwitching regulatorsUltrasonic generatorsHigh frequency invertersGeneral purpose power amplifiersABSOLUTE MAXIMUM RATINGS(T =25\n0.1. Size:238K nell\n2sc2625b.pdf \nRoHS 2SC2625B RoHS SEMICONDUCTORNell High Power ProductsSilicon NPN triple diffusion planar transistor(High voltage switching transistor)10A/400V/80W15.60.44.80.29.62.00.13.20,1TO-3P(B)23FEATURES+0.2+0.20.651.05-0.1-0.1 High-speed switching High collector to base voltage VCBO5.450.1 5.450.11.4 Satisfactory linearity of foward cur\nDatasheet: 2SC262 , 2SC2620 , 2SC2621 , 2SC2621C , 2SC2621D , 2SC2621E , 2SC2623 , 2SC2624 , A1013 , 2SC2626 , 2SC2627 , 2SC2628 , 2SC2629 , 2SC263 , 2SC2630 , 2SC2631 , 2SC2632 . \nKeywords - 2SC2625 transistor datasheet\n2SC2625 cross reference\n2SC2625 equivalent finder\n2SC2625 lookup\n2SC2625 substitution\n2SC2625 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO218",
+      "maxCollectorCurrent": 10,
+      "maxCollectorBaseVoltage": 450,
+      "maxEmitterBaseVoltage": 7,
+      "maxPowerDissipation": 80,
+      "maxJunctionTemperature": 150,
+      "hFE": 10,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO218",
+        "Collector Power Dissipation": "80W",
+        "Collector-Base Voltage": "450V",
+        "Collector-Emitter Voltage": "N/A",
+        "Emitter-Base Voltage": "7V",
+        "Collector Current": "10A",
+        "Current Gain (hFE)": "10",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "cn sptech (174K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc2625.pdf&dire=_cn_sptech"
+        },
+        {
+          "name": "inchange semiconductor (216K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc2625.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "nell (238K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc2625b.pdf&dire=_nell"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SC262",
+          "name": "2SC262",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2625",
+          "manufacturer": "Various",
+          "href": "/component/2SC262"
+        },
+        {
+          "id": "2SC2620",
+          "name": "2SC2620",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2625",
+          "manufacturer": "Various",
+          "href": "/component/2SC2620"
+        },
+        {
+          "id": "2SC2621",
+          "name": "2SC2621",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2625",
+          "manufacturer": "Various",
+          "href": "/component/2SC2621"
+        },
+        {
+          "id": "2SC2621C",
+          "name": "2SC2621C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2625",
+          "manufacturer": "Various",
+          "href": "/component/2SC2621C"
+        },
+        {
+          "id": "2SC2621D",
+          "name": "2SC2621D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2625",
+          "manufacturer": "Various",
+          "href": "/component/2SC2621D"
+        },
+        {
+          "id": "2SC2621E",
+          "name": "2SC2621E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2625",
+          "manufacturer": "Various",
+          "href": "/component/2SC2621E"
+        },
+        {
+          "id": "2SC2623",
+          "name": "2SC2623",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2625",
+          "manufacturer": "Various",
+          "href": "/component/2SC2623"
+        },
+        {
+          "id": "2SC2624",
+          "name": "2SC2624",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2625",
+          "manufacturer": "Various",
+          "href": "/component/2SC2624"
+        },
+        {
+          "id": "2SC2626",
+          "name": "2SC2626",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2625",
+          "manufacturer": "Various",
+          "href": "/component/2SC2626"
+        },
+        {
+          "id": "2SC2627",
+          "name": "2SC2627",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2625",
+          "manufacturer": "Various",
+          "href": "/component/2SC2627"
+        },
+        {
+          "id": "2SC2628",
+          "name": "2SC2628",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2625",
+          "manufacturer": "Various",
+          "href": "/component/2SC2628"
+        },
+        {
+          "id": "2SC2629",
+          "name": "2SC2629",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2625",
+          "manufacturer": "Various",
+          "href": "/component/2SC2629"
+        },
+        {
+          "id": "2SC263",
+          "name": "2SC263",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2625",
+          "manufacturer": "Various",
+          "href": "/component/2SC263"
+        },
+        {
+          "id": "2SC2630",
+          "name": "2SC2630",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2625",
+          "manufacturer": "Various",
+          "href": "/component/2SC2630"
+        },
+        {
+          "id": "2SC2631",
+          "name": "2SC2631",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2625",
+          "manufacturer": "Various",
+          "href": "/component/2SC2631"
+        },
+        {
+          "id": "2SC2632",
+          "name": "2SC2632",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2625",
+          "manufacturer": "Various",
+          "href": "/component/2SC2632"
+        }
+      ],
+      "href": "/component/2SC2625"
+    },
+    {
+      "id": "13001-0",
+      "name": "13001-0",
+      "type": "NPN Transistor",
+      "description": "O92T \n- BJT Cross-Reference Search\n13001-0 Datasheet (PDF)\n..1. Size:105K jdsemi\n13001-0.pdf \nR13001-0 www.jdsemi.cn Bipolar Junction Transistor ShenZhen Jingdao Electronic Co.,Ltd. Si NPN RoHS COMPLIANT 111APPLICATION 1Fluorescent LampCharger and Switch-mode power supplies 222FEATURES 2\n8.1. Size:191K utc\nmje13001-p.pdf \nUNISONIC TECHNOLOGIES CO., LTD MJE13001-P NPN SILICON TRANSISTOR NPN SILICON POWER TRANSISTOR FEATURES * Collector-base voltage: V(BR)CBO=600V * Collector current: IC=0.2A ORDERING INFORMATION Ordering Number Pin Assignment Package Packing Lead Free Halogen Free 1 2 3 MJE13001-PL-x-T92-B MJE13001-PG-x-T92-B TO-92 B C E Tape Box MJE13001-PL-x-T92-K MJE13001-PG-x-T92-K\n8.2. Size:107K jdsemi\n13001-a.pdf \nR13001-A www.jdsemi.cn Bipolar Junction Transistor ShenZhen Jingdao Electronic Co.,Ltd. Si NPN RoHS COMPLIANT 111APPLICATION 1Fluorescent LampCharger and Switch-mode power supplies 222FEATURES 2\n8.3. Size:109K jdsemi\n13001-2.pdf \nR13001-2 www.jdsemi.cn Bipolar Junction Transistor ShenZhen Jingdao Electronic Co.,Ltd. Si NPN RoHS COMPLIANT 111APPLICATION 1Fluorescent LampCharger and Switch-mode power supplies 222FEATURES 2\nDatasheet: WPT2F06 , WPT2E33 , WPT2F30 , WPT2N32 , WPT2N31 , 13005 , 13007 , 13009 , A1013 , 13001-2 , 13001-A , 13003AD , 13003B , 13005A , 13005AD , 13005ADL , 13005D . \nHistory: 2SC2625 \nKeywords - 13001-0 transistor datasheet\n13001-0 cross reference\n13001-0 equivalent finder\n13001-0 lookup\n13001-0 substitution\n13001-0 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO92T",
+      "maxCollectorCurrent": 0.4,
+      "maxCollectorEmitterVoltage": 400,
+      "maxCollectorBaseVoltage": 700,
+      "maxEmitterBaseVoltage": 9,
+      "maxPowerDissipation": 0.8,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 5,
+      "hFE": 15,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO92T",
+        "Collector Power Dissipation": "0.8W",
+        "Collector-Base Voltage": "700V",
+        "Collector-Emitter Voltage": "400V",
+        "Emitter-Base Voltage": "9V",
+        "Collector Current": "0.4A",
+        "Current Gain (hFE)": "15",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "5MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "jdsemi (105K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=13001-0.pdf&dire=_jdsemi"
+        },
+        {
+          "name": "utc (191K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=mje13001-p.pdf&dire=_utc"
+        },
+        {
+          "name": "jdsemi (107K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=13001-a.pdf&dire=_jdsemi"
+        },
+        {
+          "name": "jdsemi (109K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=13001-2.pdf&dire=_jdsemi"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "WPT2F06",
+          "name": "WPT2F06",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13001-0",
+          "manufacturer": "Various",
+          "href": "/component/WPT2F06"
+        },
+        {
+          "id": "WPT2E33",
+          "name": "WPT2E33",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13001-0",
+          "manufacturer": "Various",
+          "href": "/component/WPT2E33"
+        },
+        {
+          "id": "WPT2F30",
+          "name": "WPT2F30",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13001-0",
+          "manufacturer": "Various",
+          "href": "/component/WPT2F30"
+        },
+        {
+          "id": "WPT2N32",
+          "name": "WPT2N32",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13001-0",
+          "manufacturer": "Various",
+          "href": "/component/WPT2N32"
+        },
+        {
+          "id": "WPT2N31",
+          "name": "WPT2N31",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 13001-0",
+          "manufacturer": "Various",
+          "href": "/component/WPT2N31"
+        }
+      ],
+      "href": "/component/13001-0"
+    },
+    {
+      "id": "2SC2065",
+      "name": "2SC2065",
+      "type": "NPN Transistor",
+      "description": "O128 \n- BJT Cross-Reference Search\n2SC2065 Datasheet (PDF)\n8.3. Size:70K toshiba\n2sc2068.pdf \nThis Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer \nDatasheet: 2SC2057 , 2SC2058 , 2SC2059 , 2SC206 , 2SC2060 , 2SC2061 , 2SC2062 , 2SC2063 , 2SA1943 , 2SC2066 , 2SC2067 , 2SC2068 , 2SC2069 , 2SC207 , 2SC2070 , 2SC2071 , 2SC2073 . \nHistory: 2SC2066 \nKeywords - 2SC2065 transistor datasheet\n2SC2065 cross reference\n2SC2065 equivalent finder\n2SC2065 lookup\n2SC2065 substitution\n2SC2065 replacement",
+      "manufacturer": "This Material Copyrighted By Its Respective Manufacturer \nDatasheet",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO128",
+      "maxCollectorCurrent": 0.25,
+      "maxCollectorEmitterVoltage": 18,
+      "maxCollectorBaseVoltage": 35,
+      "maxEmitterBaseVoltage": 3,
+      "maxPowerDissipation": 6,
+      "maxJunctionTemperature": 200,
+      "transitionFrequency": 3200,
+      "collectorCapacitance": 2,
+      "hFE": 20,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO128",
+        "Collector Power Dissipation": "6W",
+        "Collector-Base Voltage": "35V",
+        "Collector-Emitter Voltage": "18V",
+        "Emitter-Base Voltage": "3V",
+        "Collector Current": "0.25A",
+        "Current Gain (hFE)": "20",
+        "Junction Temperature": "200°C",
+        "Transition Frequency": "3200MHz",
+        "Collector Capacitance": "2pF"
+      },
+      "datasheets": [
+        {
+          "name": "toshiba (70K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc2068.pdf&dire=_toshiba"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SC2057",
+          "name": "2SC2057",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2065",
+          "manufacturer": "Various",
+          "href": "/component/2SC2057"
+        },
+        {
+          "id": "2SC2058",
+          "name": "2SC2058",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2065",
+          "manufacturer": "Various",
+          "href": "/component/2SC2058"
+        },
+        {
+          "id": "2SC2059",
+          "name": "2SC2059",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2065",
+          "manufacturer": "Various",
+          "href": "/component/2SC2059"
+        },
+        {
+          "id": "2SC206",
+          "name": "2SC206",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2065",
+          "manufacturer": "Various",
+          "href": "/component/2SC206"
+        },
+        {
+          "id": "2SC2060",
+          "name": "2SC2060",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2065",
+          "manufacturer": "Various",
+          "href": "/component/2SC2060"
+        },
+        {
+          "id": "2SC2061",
+          "name": "2SC2061",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2065",
+          "manufacturer": "Various",
+          "href": "/component/2SC2061"
+        },
+        {
+          "id": "2SC2062",
+          "name": "2SC2062",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2065",
+          "manufacturer": "Various",
+          "href": "/component/2SC2062"
+        },
+        {
+          "id": "2SC2063",
+          "name": "2SC2063",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2065",
+          "manufacturer": "Various",
+          "href": "/component/2SC2063"
+        },
+        {
+          "id": "2SA1943",
+          "name": "2SA1943",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2065",
+          "manufacturer": "Various",
+          "href": "/component/2SA1943"
+        },
+        {
+          "id": "2SC2066",
+          "name": "2SC2066",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2065",
+          "manufacturer": "Various",
+          "href": "/component/2SC2066"
+        },
+        {
+          "id": "2SC2067",
+          "name": "2SC2067",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2065",
+          "manufacturer": "Various",
+          "href": "/component/2SC2067"
+        },
+        {
+          "id": "2SC2068",
+          "name": "2SC2068",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2065",
+          "manufacturer": "Various",
+          "href": "/component/2SC2068"
+        },
+        {
+          "id": "2SC2069",
+          "name": "2SC2069",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2065",
+          "manufacturer": "Various",
+          "href": "/component/2SC2069"
+        },
+        {
+          "id": "2SC207",
+          "name": "2SC207",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2065",
+          "manufacturer": "Various",
+          "href": "/component/2SC207"
+        },
+        {
+          "id": "2SC2070",
+          "name": "2SC2070",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2065",
+          "manufacturer": "Various",
+          "href": "/component/2SC2070"
+        },
+        {
+          "id": "2SC2071",
+          "name": "2SC2071",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2065",
+          "manufacturer": "Various",
+          "href": "/component/2SC2071"
+        },
+        {
+          "id": "2SC2073",
+          "name": "2SC2073",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2065",
+          "manufacturer": "Various",
+          "href": "/component/2SC2073"
+        }
+      ],
+      "href": "/component/2SC2065"
+    },
+    {
+      "id": "2SC2066",
+      "name": "2SC2066",
+      "type": "NPN Transistor",
+      "description": "O128 \n- BJT Cross-Reference Search\n2SC2066 Datasheet (PDF)\n8.3. Size:70K toshiba\n2sc2068.pdf \nThis Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer \nDatasheet: 2SC2058 , 2SC2059 , 2SC206 , 2SC2060 , 2SC2061 , 2SC2062 , 2SC2063 , 2SC2065 , TIP42C , 2SC2067 , 2SC2068 , 2SC2069 , 2SC207 , 2SC2070 , 2SC2071 , 2SC2073 , 2SC2075 . \nKeywords - 2SC2066 transistor datasheet\n2SC2066 cross reference\n2SC2066 equivalent finder\n2SC2066 lookup\n2SC2066 substitution\n2SC2066 replacement",
+      "manufacturer": "This Material Copyrighted By Its Respective Manufacturer \nDatasheet",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO128",
+      "maxCollectorCurrent": 0.45,
+      "maxCollectorEmitterVoltage": 18,
+      "maxCollectorBaseVoltage": 35,
+      "maxEmitterBaseVoltage": 3,
+      "maxPowerDissipation": 7,
+      "maxJunctionTemperature": 200,
+      "transitionFrequency": 2000,
+      "collectorCapacitance": 3.5,
+      "hFE": 15,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO128",
+        "Collector Power Dissipation": "7W",
+        "Collector-Base Voltage": "35V",
+        "Collector-Emitter Voltage": "18V",
+        "Emitter-Base Voltage": "3V",
+        "Collector Current": "0.45A",
+        "Current Gain (hFE)": "15",
+        "Junction Temperature": "200°C",
+        "Transition Frequency": "2000MHz",
+        "Collector Capacitance": "3.5pF"
+      },
+      "datasheets": [
+        {
+          "name": "toshiba (70K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc2068.pdf&dire=_toshiba"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SC2058",
+          "name": "2SC2058",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2066",
+          "manufacturer": "Various",
+          "href": "/component/2SC2058"
+        },
+        {
+          "id": "2SC2059",
+          "name": "2SC2059",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2066",
+          "manufacturer": "Various",
+          "href": "/component/2SC2059"
+        },
+        {
+          "id": "2SC206",
+          "name": "2SC206",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2066",
+          "manufacturer": "Various",
+          "href": "/component/2SC206"
+        },
+        {
+          "id": "2SC2060",
+          "name": "2SC2060",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2066",
+          "manufacturer": "Various",
+          "href": "/component/2SC2060"
+        },
+        {
+          "id": "2SC2061",
+          "name": "2SC2061",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2066",
+          "manufacturer": "Various",
+          "href": "/component/2SC2061"
+        },
+        {
+          "id": "2SC2062",
+          "name": "2SC2062",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2066",
+          "manufacturer": "Various",
+          "href": "/component/2SC2062"
+        },
+        {
+          "id": "2SC2063",
+          "name": "2SC2063",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2066",
+          "manufacturer": "Various",
+          "href": "/component/2SC2063"
+        },
+        {
+          "id": "2SC2065",
+          "name": "2SC2065",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2066",
+          "manufacturer": "Various",
+          "href": "/component/2SC2065"
+        },
+        {
+          "id": "TIP42C",
+          "name": "TIP42C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2066",
+          "manufacturer": "Various",
+          "href": "/component/TIP42C"
+        },
+        {
+          "id": "2SC2067",
+          "name": "2SC2067",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2066",
+          "manufacturer": "Various",
+          "href": "/component/2SC2067"
+        },
+        {
+          "id": "2SC2068",
+          "name": "2SC2068",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2066",
+          "manufacturer": "Various",
+          "href": "/component/2SC2068"
+        },
+        {
+          "id": "2SC2069",
+          "name": "2SC2069",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2066",
+          "manufacturer": "Various",
+          "href": "/component/2SC2069"
+        },
+        {
+          "id": "2SC207",
+          "name": "2SC207",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2066",
+          "manufacturer": "Various",
+          "href": "/component/2SC207"
+        },
+        {
+          "id": "2SC2070",
+          "name": "2SC2070",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2066",
+          "manufacturer": "Various",
+          "href": "/component/2SC2070"
+        },
+        {
+          "id": "2SC2071",
+          "name": "2SC2071",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2066",
+          "manufacturer": "Various",
+          "href": "/component/2SC2071"
+        },
+        {
+          "id": "2SC2073",
+          "name": "2SC2073",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2066",
+          "manufacturer": "Various",
+          "href": "/component/2SC2073"
+        },
+        {
+          "id": "2SC2075",
+          "name": "2SC2075",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2066",
+          "manufacturer": "Various",
+          "href": "/component/2SC2075"
+        }
+      ],
+      "href": "/component/2SC2066"
+    },
+    {
+      "id": "2SC2067",
+      "name": "2SC2067",
+      "type": "NPN Transistor",
+      "description": "O92 \n- BJT Cross-Reference Search\n2SC2067 Datasheet (PDF)\n8.3. Size:70K toshiba\n2sc2068.pdf \nThis Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer \nDatasheet: 2SC2059 , 2SC206 , 2SC2060 , 2SC2061 , 2SC2062 , 2SC2063 , 2SC2065 , 2SC2066 , 2SD718 , 2SC2068 , 2SC2069 , 2SC207 , 2SC2070 , 2SC2071 , 2SC2073 , 2SC2075 , 2SC2076 . \nHistory: 2SC2065 | 2SC2066 \nKeywords - 2SC2067 transistor datasheet\n2SC2067 cross reference\n2SC2067 equivalent finder\n2SC2067 lookup\n2SC2067 substitution\n2SC2067 replacement",
+      "manufacturer": "This Material Copyrighted By Its Respective Manufacturer \nDatasheet",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 1,
+      "maxCollectorEmitterVoltage": 35,
+      "maxCollectorBaseVoltage": 35,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.5,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 50,
+      "collectorCapacitance": 50,
+      "hFE": 100,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.5W",
+        "Collector-Base Voltage": "35V",
+        "Collector-Emitter Voltage": "35V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "1A",
+        "Current Gain (hFE)": "100",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "50MHz",
+        "Collector Capacitance": "50pF"
+      },
+      "datasheets": [
+        {
+          "name": "toshiba (70K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc2068.pdf&dire=_toshiba"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SC2059",
+          "name": "2SC2059",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2067",
+          "manufacturer": "Various",
+          "href": "/component/2SC2059"
+        },
+        {
+          "id": "2SC206",
+          "name": "2SC206",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2067",
+          "manufacturer": "Various",
+          "href": "/component/2SC206"
+        },
+        {
+          "id": "2SC2060",
+          "name": "2SC2060",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2067",
+          "manufacturer": "Various",
+          "href": "/component/2SC2060"
+        },
+        {
+          "id": "2SC2061",
+          "name": "2SC2061",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2067",
+          "manufacturer": "Various",
+          "href": "/component/2SC2061"
+        },
+        {
+          "id": "2SC2062",
+          "name": "2SC2062",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2067",
+          "manufacturer": "Various",
+          "href": "/component/2SC2062"
+        },
+        {
+          "id": "2SC2063",
+          "name": "2SC2063",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2067",
+          "manufacturer": "Various",
+          "href": "/component/2SC2063"
+        },
+        {
+          "id": "2SC2065",
+          "name": "2SC2065",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2067",
+          "manufacturer": "Various",
+          "href": "/component/2SC2065"
+        },
+        {
+          "id": "2SC2066",
+          "name": "2SC2066",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2067",
+          "manufacturer": "Various",
+          "href": "/component/2SC2066"
+        },
+        {
+          "id": "2SD718",
+          "name": "2SD718",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2067",
+          "manufacturer": "Various",
+          "href": "/component/2SD718"
+        },
+        {
+          "id": "2SC2068",
+          "name": "2SC2068",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2067",
+          "manufacturer": "Various",
+          "href": "/component/2SC2068"
+        },
+        {
+          "id": "2SC2069",
+          "name": "2SC2069",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2067",
+          "manufacturer": "Various",
+          "href": "/component/2SC2069"
+        },
+        {
+          "id": "2SC207",
+          "name": "2SC207",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2067",
+          "manufacturer": "Various",
+          "href": "/component/2SC207"
+        },
+        {
+          "id": "2SC2070",
+          "name": "2SC2070",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2067",
+          "manufacturer": "Various",
+          "href": "/component/2SC2070"
+        },
+        {
+          "id": "2SC2071",
+          "name": "2SC2071",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2067",
+          "manufacturer": "Various",
+          "href": "/component/2SC2071"
+        },
+        {
+          "id": "2SC2073",
+          "name": "2SC2073",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2067",
+          "manufacturer": "Various",
+          "href": "/component/2SC2073"
+        },
+        {
+          "id": "2SC2075",
+          "name": "2SC2075",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2067",
+          "manufacturer": "Various",
+          "href": "/component/2SC2075"
+        },
+        {
+          "id": "2SC2076",
+          "name": "2SC2076",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2067",
+          "manufacturer": "Various",
+          "href": "/component/2SC2076"
+        }
+      ],
+      "href": "/component/2SC2067"
+    },
+    {
+      "id": "2SC2068",
+      "name": "2SC2068",
+      "type": "NPN Transistor",
+      "description": "O202 \n- BJT Cross-Reference Search\n2SC2068 Datasheet (PDF)\n..1. Size:70K toshiba\n2sc2068.pdf \nThis Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer \nDatasheet: 2SC206 , 2SC2060 , 2SC2061 , 2SC2062 , 2SC2063 , 2SC2065 , 2SC2066 , 2SC2067 , 13009 , 2SC2069 , 2SC207 , 2SC2070 , 2SC2071 , 2SC2073 , 2SC2075 , 2SC2076 , 2SC2078 . \nHistory: 2SC2067 | 2SC2065 | 2SC2066 \nKeywords - 2SC2068 transistor datasheet\n2SC2068 cross reference\n2SC2068 equivalent finder\n2SC2068 lookup\n2SC2068 substitution\n2SC2068 replacement",
+      "manufacturer": "This Material Copyrighted By Its Respective Manufacturer \nDatasheet",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO202",
+      "maxCollectorCurrent": 0.05,
+      "maxCollectorEmitterVoltage": 300,
+      "maxCollectorBaseVoltage": 300,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 1.5,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 75,
+      "collectorCapacitance": 4,
+      "hFE": 30,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO202",
+        "Collector Power Dissipation": "1.5W",
+        "Collector-Base Voltage": "300V",
+        "Collector-Emitter Voltage": "300V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.05A",
+        "Current Gain (hFE)": "30",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "75MHz",
+        "Collector Capacitance": "4pF"
+      },
+      "datasheets": [
+        {
+          "name": "toshiba (70K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc2068.pdf&dire=_toshiba"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SC206",
+          "name": "2SC206",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2068",
+          "manufacturer": "Various",
+          "href": "/component/2SC206"
+        },
+        {
+          "id": "2SC2060",
+          "name": "2SC2060",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2068",
+          "manufacturer": "Various",
+          "href": "/component/2SC2060"
+        },
+        {
+          "id": "2SC2061",
+          "name": "2SC2061",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2068",
+          "manufacturer": "Various",
+          "href": "/component/2SC2061"
+        },
+        {
+          "id": "2SC2062",
+          "name": "2SC2062",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2068",
+          "manufacturer": "Various",
+          "href": "/component/2SC2062"
+        },
+        {
+          "id": "2SC2063",
+          "name": "2SC2063",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2068",
+          "manufacturer": "Various",
+          "href": "/component/2SC2063"
+        },
+        {
+          "id": "2SC2065",
+          "name": "2SC2065",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2068",
+          "manufacturer": "Various",
+          "href": "/component/2SC2065"
+        },
+        {
+          "id": "2SC2066",
+          "name": "2SC2066",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2068",
+          "manufacturer": "Various",
+          "href": "/component/2SC2066"
+        },
+        {
+          "id": "2SC2067",
+          "name": "2SC2067",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2068",
+          "manufacturer": "Various",
+          "href": "/component/2SC2067"
+        },
+        {
+          "id": "2SC2069",
+          "name": "2SC2069",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2068",
+          "manufacturer": "Various",
+          "href": "/component/2SC2069"
+        },
+        {
+          "id": "2SC207",
+          "name": "2SC207",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2068",
+          "manufacturer": "Various",
+          "href": "/component/2SC207"
+        },
+        {
+          "id": "2SC2070",
+          "name": "2SC2070",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2068",
+          "manufacturer": "Various",
+          "href": "/component/2SC2070"
+        },
+        {
+          "id": "2SC2071",
+          "name": "2SC2071",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2068",
+          "manufacturer": "Various",
+          "href": "/component/2SC2071"
+        },
+        {
+          "id": "2SC2073",
+          "name": "2SC2073",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2068",
+          "manufacturer": "Various",
+          "href": "/component/2SC2073"
+        },
+        {
+          "id": "2SC2075",
+          "name": "2SC2075",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2068",
+          "manufacturer": "Various",
+          "href": "/component/2SC2075"
+        },
+        {
+          "id": "2SC2076",
+          "name": "2SC2076",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2068",
+          "manufacturer": "Various",
+          "href": "/component/2SC2076"
+        },
+        {
+          "id": "2SC2078",
+          "name": "2SC2078",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2068",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078"
+        }
+      ],
+      "href": "/component/2SC2068"
+    }
+  ]
+}

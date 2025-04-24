@@ -1,0 +1,1207 @@
+{
+  "components": [
+    {
+      "id": "BC557AP",
+      "name": "BC557AP",
+      "type": "PNP Transistor",
+      "description": "O92 \n- BJT Cross-Reference Search\nBC557AP Datasheet (PDF)\n8.2. Size:81K onsemi\nbc556b bc557a-b-c bc558b.pdf \nBC556B, BC557A, B, C,BC558BAmplifier TransistorsPNP Siliconhttp://onsemi.comFeatures Pb-Free Packages are Available*COLLECTOR1MAXIMUM RATINGS 2BASERating Symbol Value UnitCollector - Emitter Voltage VCEO Vdc3BC556 -65EMITTERBC557 -45BC558 -30Collector - Base Voltage VCBO VdcBC556 -80BC557 -50BC558 -30TO-92Emitter - Base Voltage VEBO -5.0 Vdc CASE\nDatasheet: BC556 , BC556A , BC556AP , BC556B , BC556BP , BC556VI , BC557 , BC557A , A940 , BC557B , BC557BP , BC557C , BC557VI , BC558 , BC558A , BC558AP , BC558B . \nHistory: BC556VI | BC556B | BC556A \nKeywords - BC557AP transistor datasheet\nBC557AP cross reference\nBC557AP equivalent finder\nBC557AP lookup\nBC557AP substitution\nBC557AP replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.1,
+      "maxCollectorEmitterVoltage": 45,
+      "maxCollectorBaseVoltage": 50,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.5,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 75,
+      "collectorCapacitance": 7,
+      "hFE": 125,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.5W",
+        "Collector-Base Voltage": "50V",
+        "Collector-Emitter Voltage": "45V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.1A",
+        "Current Gain (hFE)": "125",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "75MHz",
+        "Collector Capacitance": "7pF"
+      },
+      "datasheets": [],
+      "equivalents": [],
+      "href": "/component/BC557AP"
+    },
+    {
+      "id": "2N3905CSM",
+      "name": "2N3905CSM",
+      "type": "PNP Transistor",
+      "description": "SYMBOL VALUE UNITSCollector Emi",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "LCC3",
+      "maxCollectorCurrent": 0.2,
+      "maxCollectorEmitterVoltage": 25,
+      "maxCollectorBaseVoltage": 40,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.31,
+      "maxJunctionTemperature": 135,
+      "transitionFrequency": 200,
+      "collectorCapacitance": 5,
+      "hFE": 100,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "LCC3",
+        "Collector Power Dissipation": "0.31W",
+        "Collector-Base Voltage": "40V",
+        "Collector-Emitter Voltage": "25V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.2A",
+        "Current Gain (hFE)": "100",
+        "Junction Temperature": "135°C",
+        "Transition Frequency": "200MHz",
+        "Collector Capacitance": "5pF"
+      },
+      "datasheets": [
+        {
+          "name": "fairchild semi (62K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2n3905.pdf&dire=_fairchild_semi"
+        }
+      ],
+      "equivalents": [],
+      "href": "/component/2N3905CSM"
+    },
+    {
+      "id": "2SC1815",
+      "name": "2SC1815",
+      "type": "NPN Transistor",
+      "description": "O92 \n- BJT Cross-Reference Search\n2SC1815 Datasheet (PDF)\n..1. Size:272K toshiba\n2sc1815.pdf \n2SC1815 TOSHIBA Transistor Silicon NPN Epitaxial Type (PCT process) 2SC1815 Audio Frequency General Purpose Amplifier Applications Unit: mmDriver Stage Amplifier Applications High voltage and high current: VCEO = 50 V (min), IC = 150 mA (max) Excellent hFE linearity: hFE (2) = 100 (typ.) at VCE = 6 V, IC = 150 mA : hFE (IC = 0.1 mA)/hFE (IC = 2 mA) = 0.95 (typ.) \n..2. Size:235K utc\n2sc1815.pdf \nUNISONIC TECHNOLOGIES CO., LTD 2SC1815 NPN SILICON TRANSISTOR AUDIO FREQUENCY AMPLIFIER HIGH FREQUENCY OSC NPN TRANSISTOR FEATURES * Collector-Emitter voltage: BV =50V CEO* Collector current up to 150mA * High h linearity FE* Complimentary to UTC 2SA1015 SYMBOL ORDERING INFORMATION Ordering Number Pin Assignment Package Packing Lead Free Halogen \n..3. Size:186K jiangsu\n2sc1815.pdf \n2S Equivalent Circuit \n..4. Size:1213K htsemi\n2sc1815.pdf \n2SC1815TRANSISTOR (NPN) SOT-23 FEATURES Power dissipation MARKING : 2SC1815=HF 1. BASE 2. EMITTER 3. COLLECTOR MAXIMUM RATINGS (TA=25 unless otherwise noted) Symbol Parameter Value UnitsVCBO Collector-Base Voltage 60 VVCEO Collector-Emitter Voltage 50 V VEBO Emitter-Base Voltage 5 V IC Collector Current -Continuous 150 mA PC Collector Power Dissipation 200 mW \nDatasheet: 2SC180H , 2SC181 , 2SC1810 , 2SC1811 , 2SC1811-1 , 2SC1811-2 , 2SC1812 , 2SC1813 , C5198 , 2SC1815BL , 2SC1815GR , 2SC1815LB , 2SC1815LG , 2SC1815LO , 2SC1815LY , 2SC1815O , 2SC1815Y . \nHistory: BC556VI | BC556B | BC556A \nKeywords - 2SC1815 transistor datasheet\n2SC1815 cross reference\n2SC1815 equivalent finder\n2SC1815 lookup\n2SC1815 substitution\n2SC1815 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.15,
+      "maxCollectorEmitterVoltage": 50,
+      "maxCollectorBaseVoltage": 60,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.4,
+      "maxJunctionTemperature": 175,
+      "transitionFrequency": 80,
+      "collectorCapacitance": 3.5,
+      "hFE": 70,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.4W",
+        "Collector-Base Voltage": "60V",
+        "Collector-Emitter Voltage": "50V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.15A",
+        "Current Gain (hFE)": "70",
+        "Junction Temperature": "175°C",
+        "Transition Frequency": "80MHz",
+        "Collector Capacitance": "3.5pF"
+      },
+      "datasheets": [
+        {
+          "name": "toshiba (272K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc1815.pdf&dire=_toshiba"
+        },
+        {
+          "name": "utc (235K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc1815.pdf&dire=_utc"
+        },
+        {
+          "name": "jiangsu (186K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc1815.pdf&dire=_jiangsu"
+        },
+        {
+          "name": "htsemi (1213K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc1815.pdf&dire=_htsemi"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SC180H",
+          "name": "2SC180H",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC1815",
+          "manufacturer": "Various",
+          "href": "/component/2SC180H"
+        },
+        {
+          "id": "2SC181",
+          "name": "2SC181",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC1815",
+          "manufacturer": "Various",
+          "href": "/component/2SC181"
+        },
+        {
+          "id": "2SC1810",
+          "name": "2SC1810",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC1815",
+          "manufacturer": "Various",
+          "href": "/component/2SC1810"
+        },
+        {
+          "id": "2SC1811",
+          "name": "2SC1811",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC1815",
+          "manufacturer": "Various",
+          "href": "/component/2SC1811"
+        },
+        {
+          "id": "2SC1811",
+          "name": "2SC1811",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC1815",
+          "manufacturer": "Various",
+          "href": "/component/2SC1811"
+        },
+        {
+          "id": "2SC1811",
+          "name": "2SC1811",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC1815",
+          "manufacturer": "Various",
+          "href": "/component/2SC1811"
+        },
+        {
+          "id": "2SC1812",
+          "name": "2SC1812",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC1815",
+          "manufacturer": "Various",
+          "href": "/component/2SC1812"
+        },
+        {
+          "id": "2SC1813",
+          "name": "2SC1813",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC1815",
+          "manufacturer": "Various",
+          "href": "/component/2SC1813"
+        },
+        {
+          "id": "2SC1815BL",
+          "name": "2SC1815BL",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC1815",
+          "manufacturer": "Various",
+          "href": "/component/2SC1815BL"
+        },
+        {
+          "id": "2SC1815GR",
+          "name": "2SC1815GR",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC1815",
+          "manufacturer": "Various",
+          "href": "/component/2SC1815GR"
+        },
+        {
+          "id": "2SC1815LB",
+          "name": "2SC1815LB",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC1815",
+          "manufacturer": "Various",
+          "href": "/component/2SC1815LB"
+        },
+        {
+          "id": "2SC1815LG",
+          "name": "2SC1815LG",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC1815",
+          "manufacturer": "Various",
+          "href": "/component/2SC1815LG"
+        },
+        {
+          "id": "2SC1815LO",
+          "name": "2SC1815LO",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC1815",
+          "manufacturer": "Various",
+          "href": "/component/2SC1815LO"
+        },
+        {
+          "id": "2SC1815LY",
+          "name": "2SC1815LY",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC1815",
+          "manufacturer": "Various",
+          "href": "/component/2SC1815LY"
+        },
+        {
+          "id": "2SC1815O",
+          "name": "2SC1815O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC1815",
+          "manufacturer": "Various",
+          "href": "/component/2SC1815O"
+        },
+        {
+          "id": "2SC1815Y",
+          "name": "2SC1815Y",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC1815",
+          "manufacturer": "Various",
+          "href": "/component/2SC1815Y"
+        }
+      ],
+      "href": "/component/2SC1815"
+    },
+    {
+      "id": "2N3906CSM",
+      "name": "2N3906CSM",
+      "type": "PNP Transistor",
+      "description": "Low voltage (max. 40 V).1 collector2 baseAPPLICATIONS3 emitter High-spe\n8.3. Size:61K st\n2n3906.pdf \n2N3906SMALL SIGNAL PNP TRANSISTORPRELIMINARY DATAOrdering Code Marking Package / Shipment2N3906 2N3906 TO-92 / Bulk2N3906-AP 2N3906 TO-92 / Ammopack SILICON EPITAXIAL PLANAR NPNTRANSISTOR TO-92 PACKAGE SUITABLE FORTHROUGH-HOLE PCB ASSEMBLY THE NPN COMPLEMENTARY TYPE IS2N3904TO-92 TO-92APPLICATIONS Bulk Ammopack WELL SUITABLE FOR TV AND HOMEAPPLIANCE EQUIPMENT",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "LCC3",
+      "maxCollectorCurrent": 0.2,
+      "maxCollectorEmitterVoltage": 40,
+      "maxCollectorBaseVoltage": 40,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.31,
+      "maxJunctionTemperature": 135,
+      "transitionFrequency": 200,
+      "collectorCapacitance": 5,
+      "hFE": 100,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "LCC3",
+        "Collector Power Dissipation": "0.31W",
+        "Collector-Base Voltage": "40V",
+        "Collector-Emitter Voltage": "40V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.2A",
+        "Current Gain (hFE)": "100",
+        "Junction Temperature": "135°C",
+        "Transition Frequency": "200MHz",
+        "Collector Capacitance": "5pF"
+      },
+      "datasheets": [
+        {
+          "name": "kec (76K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2n3906c.pdf&dire=_kec"
+        },
+        {
+          "name": "st (61K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2n3906.pdf&dire=_st"
+        }
+      ],
+      "equivalents": [],
+      "href": "/component/2N3906CSM"
+    },
+    {
+      "id": "2N3907",
+      "name": "2N3907",
+      "type": "NPN Transistor",
+      "description": "Low voltage (max. 40 V).1 collector2 baseAPPLICATIONS3 emitter High-spe\n9.4. Size:52K philips\n2n3906 3.pdf",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO77",
+      "maxCollectorCurrent": 0.03,
+      "maxCollectorEmitterVoltage": 45,
+      "maxCollectorBaseVoltage": 60,
+      "maxEmitterBaseVoltage": 6,
+      "maxPowerDissipation": 0.6,
+      "maxJunctionTemperature": 200,
+      "transitionFrequency": 60,
+      "collectorCapacitance": 6,
+      "hFE": 60,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO77",
+        "Collector Power Dissipation": "0.6W",
+        "Collector-Base Voltage": "60V",
+        "Collector-Emitter Voltage": "45V",
+        "Emitter-Base Voltage": "6V",
+        "Collector Current": "0.03A",
+        "Current Gain (hFE)": "60",
+        "Junction Temperature": "200°C",
+        "Transition Frequency": "60MHz",
+        "Collector Capacitance": "6pF"
+      },
+      "datasheets": [],
+      "equivalents": [],
+      "href": "/component/2N3907"
+    },
+    {
+      "id": "2N391",
+      "name": "2N391",
+      "type": "PNP Transistor",
+      "description": "O3 \n- BJT Cross-Reference Search\n2N391 Datasheet (PDF)\n0.1. Size:11K semelab\n2n3918.pdf \n2N3918Dimensions in mm (inches). Bipolar NPN Device in a Hermetically sealed TO3 25.15 (0.99)6.35 (0.25) 26.67 (1.05)9.15 (0.36)Metal Package. 10.67 (0.42)11.18 (0.44) 1.52 (0.06)3.43 (0.135)1 2 Bipolar NPN Device. 3VCEO = 40V (case)3.84 (0.151)4.09 (0.161)7.92 (0.312) IC = 2A 12.70 (0.50) All Semelab hermetically sealed products can be processed in ac\nDatasheet: 2N3904CSM , 2N3904DCSM , 2N3905 , 2N3905CSM , 2N3906 , 2N3906CSM , 2N3907 , 2N3908 , A1013 , 2N3910 , 2N3911 , 2N3912 , 2N3913 , 2N3914 , 2N3915 , 2N3916 , 2N3917 . \nHistory: 2N3906CSM | BC556VI | BC556B | BC556A \nKeywords - 2N391 transistor datasheet\n2N391 cross reference\n2N391 equivalent finder\n2N391 lookup\n2N391 substitution\n2N391 replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Ge",
+      "package": "TO3",
+      "maxCollectorCurrent": 5,
+      "maxCollectorEmitterVoltage": 40,
+      "maxCollectorBaseVoltage": 50,
+      "maxEmitterBaseVoltage": 20,
+      "maxPowerDissipation": 45,
+      "maxJunctionTemperature": 85,
+      "hFE": 30,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Ge",
+        "Package": "TO3",
+        "Collector Power Dissipation": "45W",
+        "Collector-Base Voltage": "50V",
+        "Collector-Emitter Voltage": "40V",
+        "Emitter-Base Voltage": "20V",
+        "Collector Current": "5A",
+        "Current Gain (hFE)": "30",
+        "Junction Temperature": "85°C",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "semelab (11K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2n3918.pdf&dire=_semelab"
+        }
+      ],
+      "equivalents": [],
+      "href": "/component/2N391"
+    },
+    {
+      "id": "2N3908",
+      "name": "2N3908",
+      "type": "NPN Transistor",
+      "description": "Low voltage (max. 40 V).1 collector2 baseAPPLICATIONS3 emitter High-spe\n9.4. Size:52K philips\n2n3906 3.pdf",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO77",
+      "maxCollectorCurrent": 0.03,
+      "maxCollectorEmitterVoltage": 60,
+      "maxCollectorBaseVoltage": 60,
+      "maxEmitterBaseVoltage": 6,
+      "maxPowerDissipation": 0.6,
+      "maxJunctionTemperature": 200,
+      "transitionFrequency": 80,
+      "collectorCapacitance": 6,
+      "hFE": 100,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO77",
+        "Collector Power Dissipation": "0.6W",
+        "Collector-Base Voltage": "60V",
+        "Collector-Emitter Voltage": "60V",
+        "Emitter-Base Voltage": "6V",
+        "Collector Current": "0.03A",
+        "Current Gain (hFE)": "100",
+        "Junction Temperature": "200°C",
+        "Transition Frequency": "80MHz",
+        "Collector Capacitance": "6pF"
+      },
+      "datasheets": [],
+      "equivalents": [
+        {
+          "id": "2SC2625",
+          "name": "2SC2625",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2N3908",
+          "manufacturer": "Various",
+          "href": "/component/2SC2625"
+        }
+      ],
+      "href": "/component/2N3908"
+    },
+    {
+      "id": "2N3910",
+      "name": "2N3910",
+      "type": "PNP Transistor",
+      "description": "O46 \n- BJT Cross-Reference Search\n2N3910 Datasheet (PDF)\n9.1. Size:11K semelab\n2n3918.pdf \n2N3918Dimensions in mm (inches). Bipolar NPN Device in a Hermetically sealed TO3 25.15 (0.99)6.35 (0.25) 26.67 (1.05)9.15 (0.36)Metal Package. 10.67 (0.42)11.18 (0.44) 1.52 (0.06)3.43 (0.135)1 2 Bipolar NPN Device. 3VCEO = 40V (case)3.84 (0.151)4.09 (0.161)7.92 (0.312) IC = 2A 12.70 (0.50) All Semelab hermetically sealed products can be processed in ac\nDatasheet: 2N3904DCSM , 2N3905 , 2N3905CSM , 2N3906 , 2N3906CSM , 2N3907 , 2N3908 , 2N391 , C3198 , 2N3911 , 2N3912 , 2N3913 , 2N3914 , 2N3915 , 2N3916 , 2N3917 , 2N3918 . \nHistory: 2N391 | 2N3906CSM | BC556VI | BC556B | BC556A \nKeywords - 2N3910 transistor datasheet\n2N3910 cross reference\n2N3910 equivalent finder\n2N3910 lookup\n2N3910 substitution\n2N3910 replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TO46",
+      "maxCollectorCurrent": 0.4,
+      "maxCollectorEmitterVoltage": 50,
+      "maxCollectorBaseVoltage": 60,
+      "maxPowerDissipation": 0.5,
+      "maxJunctionTemperature": 200,
+      "transitionFrequency": 4,
+      "collectorCapacitance": 8,
+      "hFE": 40,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TO46",
+        "Collector Power Dissipation": "0.5W",
+        "Collector-Base Voltage": "60V",
+        "Collector-Emitter Voltage": "50V",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "0.4A",
+        "Current Gain (hFE)": "40",
+        "Junction Temperature": "200°C",
+        "Transition Frequency": "4MHz",
+        "Collector Capacitance": "8pF"
+      },
+      "datasheets": [
+        {
+          "name": "semelab (11K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2n3918.pdf&dire=_semelab"
+        }
+      ],
+      "equivalents": [],
+      "href": "/component/2N3910"
+    },
+    {
+      "id": "2N3911",
+      "name": "2N3911",
+      "type": "PNP Transistor",
+      "description": "O46 \n- BJT Cross-Reference Search\n2N3911 Datasheet (PDF)\n9.1. Size:11K semelab\n2n3918.pdf \n2N3918Dimensions in mm (inches). Bipolar NPN Device in a Hermetically sealed TO3 25.15 (0.99)6.35 (0.25) 26.67 (1.05)9.15 (0.36)Metal Package. 10.67 (0.42)11.18 (0.44) 1.52 (0.06)3.43 (0.135)1 2 Bipolar NPN Device. 3VCEO = 40V (case)3.84 (0.151)4.09 (0.161)7.92 (0.312) IC = 2A 12.70 (0.50) All Semelab hermetically sealed products can be processed in ac\nDatasheet: 2N3905 , 2N3905CSM , 2N3906 , 2N3906CSM , 2N3907 , 2N3908 , 2N391 , 2N3910 , BC558 , 2N3912 , 2N3913 , 2N3914 , 2N3915 , 2N3916 , 2N3917 , 2N3918 , 2N3919 . \nKeywords - 2N3911 transistor datasheet\n2N3911 cross reference\n2N3911 equivalent finder\n2N3911 lookup\n2N3911 substitution\n2N3911 replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TO46",
+      "maxCollectorCurrent": 0.2,
+      "maxCollectorEmitterVoltage": 40,
+      "maxCollectorBaseVoltage": 60,
+      "maxPowerDissipation": 0.5,
+      "maxJunctionTemperature": 200,
+      "transitionFrequency": 8,
+      "collectorCapacitance": 8,
+      "hFE": 60,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TO46",
+        "Collector Power Dissipation": "0.5W",
+        "Collector-Base Voltage": "60V",
+        "Collector-Emitter Voltage": "40V",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "0.2A",
+        "Current Gain (hFE)": "60",
+        "Junction Temperature": "200°C",
+        "Transition Frequency": "8MHz",
+        "Collector Capacitance": "8pF"
+      },
+      "datasheets": [
+        {
+          "name": "semelab (11K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2n3918.pdf&dire=_semelab"
+        }
+      ],
+      "equivalents": [],
+      "href": "/component/2N3911"
+    },
+    {
+      "id": "2N3912",
+      "name": "2N3912",
+      "type": "PNP Transistor",
+      "description": "O46 \n- BJT Cross-Reference Search\n2N3912 Datasheet (PDF)\n9.1. Size:11K semelab\n2n3918.pdf \n2N3918Dimensions in mm (inches). Bipolar NPN Device in a Hermetically sealed TO3 25.15 (0.99)6.35 (0.25) 26.67 (1.05)9.15 (0.36)Metal Package. 10.67 (0.42)11.18 (0.44) 1.52 (0.06)3.43 (0.135)1 2 Bipolar NPN Device. 3VCEO = 40V (case)3.84 (0.151)4.09 (0.161)7.92 (0.312) IC = 2A 12.70 (0.50) All Semelab hermetically sealed products can be processed in ac\nDatasheet: 2N3905CSM , 2N3906 , 2N3906CSM , 2N3907 , 2N3908 , 2N391 , 2N3910 , 2N3911 , BD135 , 2N3913 , 2N3914 , 2N3915 , 2N3916 , 2N3917 , 2N3918 , 2N3919 , 2N392 . \nHistory: 2N3911 \nKeywords - 2N3912 transistor datasheet\n2N3912 cross reference\n2N3912 equivalent finder\n2N3912 lookup\n2N3912 substitution\n2N3912 replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TO46",
+      "maxCollectorCurrent": 0.2,
+      "maxCollectorEmitterVoltage": 30,
+      "maxCollectorBaseVoltage": 60,
+      "maxPowerDissipation": 0.5,
+      "maxJunctionTemperature": 200,
+      "transitionFrequency": 10,
+      "collectorCapacitance": 8,
+      "hFE": 90,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TO46",
+        "Collector Power Dissipation": "0.5W",
+        "Collector-Base Voltage": "60V",
+        "Collector-Emitter Voltage": "30V",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "0.2A",
+        "Current Gain (hFE)": "90",
+        "Junction Temperature": "200°C",
+        "Transition Frequency": "10MHz",
+        "Collector Capacitance": "8pF"
+      },
+      "datasheets": [
+        {
+          "name": "semelab (11K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2n3918.pdf&dire=_semelab"
+        }
+      ],
+      "equivalents": [],
+      "href": "/component/2N3912"
+    },
+    {
+      "id": "2N3913",
+      "name": "2N3913",
+      "type": "PNP Transistor",
+      "description": "O18 \n- BJT Cross-Reference Search\n2N3913 Datasheet (PDF)\n9.1. Size:11K semelab\n2n3918.pdf \n2N3918Dimensions in mm (inches). Bipolar NPN Device in a Hermetically sealed TO3 25.15 (0.99)6.35 (0.25) 26.67 (1.05)9.15 (0.36)Metal Package. 10.67 (0.42)11.18 (0.44) 1.52 (0.06)3.43 (0.135)1 2 Bipolar NPN Device. 3VCEO = 40V (case)3.84 (0.151)4.09 (0.161)7.92 (0.312) IC = 2A 12.70 (0.50) All Semelab hermetically sealed products can be processed in ac\nDatasheet: 2N3906 , 2N3906CSM , 2N3907 , 2N3908 , 2N391 , 2N3910 , 2N3911 , 2N3912 , 2SC2383Y , 2N3914 , 2N3915 , 2N3916 , 2N3917 , 2N3918 , 2N3919 , 2N392 , 2N3920 . \nHistory: 2N3912 | 2N3911 \nKeywords - 2N3913 transistor datasheet\n2N3913 cross reference\n2N3913 equivalent finder\n2N3913 lookup\n2N3913 substitution\n2N3913 replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TO18",
+      "maxCollectorCurrent": 0.2,
+      "maxCollectorEmitterVoltage": 50,
+      "maxCollectorBaseVoltage": 60,
+      "maxPowerDissipation": 0.4,
+      "maxJunctionTemperature": 200,
+      "transitionFrequency": 4,
+      "collectorCapacitance": 8,
+      "hFE": 40,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TO18",
+        "Collector Power Dissipation": "0.4W",
+        "Collector-Base Voltage": "60V",
+        "Collector-Emitter Voltage": "50V",
+        "Emitter-Base Voltage": "N/A",
+        "Collector Current": "0.2A",
+        "Current Gain (hFE)": "40",
+        "Junction Temperature": "200°C",
+        "Transition Frequency": "4MHz",
+        "Collector Capacitance": "8pF"
+      },
+      "datasheets": [
+        {
+          "name": "semelab (11K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2n3918.pdf&dire=_semelab"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SC2383Y",
+          "name": "2SC2383Y",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2N3913",
+          "manufacturer": "Various",
+          "href": "/component/2SC2383Y"
+        }
+      ],
+      "href": "/component/2N3913"
+    },
+    {
+      "id": "2N3902",
+      "name": "2N3902",
+      "type": "NPN Transistor",
+      "description": "O3 \n- BJT Cross-Reference Search\n2N3902 Datasheet (PDF)\n..1. Size:158K bocasemi\n2n3902.pdf \nBoca Semiconductor Corp. (BSC)http://www.bocasemi.comhttp://www.bocasemi.comhttp://www.bocasemi.comhttp://www.bocasemi.com\n..2. Size:176K aeroflex\n2n3902 2n5157.pdf \nNPN High Power Silicon Transistors2N3902 & 2N5157Features Available in JAN, JANTX, and JANTXV per MIL-PRF-19500/371 TO-3 (TO-204AA) PackageMaximum RatingsRatings Symbol 2N3902 2N5157 UnitsCollector - Emitter Voltage VCEO 400 500 VdcEmitter - Base Voltage VEBO5.0 6.0 VdcCollector - Base Voltage VCBO 7.0 VdcBase Current IB 2.0 AdcCollector Current IC 3.5 AdcTotal\n..3. Size:185K inchange semiconductor\n2n3902.pdf \nisc Silicon NPN Power Transistor 2N3902DESCRIPTIONExcellent Safe Operating AreaLow Collector-Emitter Saturation Voltage100% avalanche testedMinimum Lot-to-Lot variations for robust device performanceand reliable operation.APPLICATIONSDesigned for general-purpose switching and amplifierapplicationsABSOLUTE MAXIMUM RATINGS(T =25)aSYMBOL PARAMETER VALUE UNITV\n0.1. Size:811K no\n2n3902t3.pdf \nThe documentation and process conversion measures necessary to comply with this document INCH-POUND shall be completed by 13 February 2014. MIL-PRF-19500/371H 13 December 2013 SUPERSEDING MIL-PRF-19500/371G 28 January 2009 PERFORMANCE SPECIFICATION SHEET SEMICONDUCTOR DEVICE, TRANSISTOR, NPN, SILICON, HIGH POWER, TYPES 2N3902, 2N3902T1, 2N3902T3, 2N5157, 2N5157T1, AND\nDatasheet: 2N389-1 , 2N389A , 2N389A-1 , 2N38A , 2N39 , 2N3900 , 2N3900A , 2N3901 , 2SD2499 , 2N3903 , 2N3904 , 2N3904CSM , 2N3904DCSM , 2N3905 , 2N3905CSM , 2N3906 , 2N3906CSM . \nHistory: 2N3901 \nKeywords - 2N3902 transistor datasheet\n2N3902 cross reference\n2N3902 equivalent finder\n2N3902 lookup\n2N3902 substitution\n2N3902 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO3",
+      "maxCollectorCurrent": 3.5,
+      "maxCollectorEmitterVoltage": 325,
+      "maxCollectorBaseVoltage": 700,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 100,
+      "maxJunctionTemperature": 200,
+      "transitionFrequency": 2.8,
+      "collectorCapacitance": 150,
+      "hFE": 30,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO3",
+        "Collector Power Dissipation": "100W",
+        "Collector-Base Voltage": "700V",
+        "Collector-Emitter Voltage": "325V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "3.5A",
+        "Current Gain (hFE)": "30",
+        "Junction Temperature": "200°C",
+        "Transition Frequency": "2.8MHz",
+        "Collector Capacitance": "150pF"
+      },
+      "datasheets": [
+        {
+          "name": "bocasemi (158K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2n3902.pdf&dire=_bocasemi"
+        },
+        {
+          "name": "inchange semiconductor (185K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2n3902.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "no (811K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2n3902t3.pdf&dire=_no"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD2499",
+          "name": "2SD2499",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2N3902",
+          "manufacturer": "Various",
+          "href": "/component/2SD2499"
+        }
+      ],
+      "href": "/component/2N3902"
+    },
+    {
+      "id": "2N3901",
+      "name": "2N3901",
+      "type": "NPN Transistor",
+      "description": "Low voltage (max. 40 V).1 collector2 baseAPPLICATIONS3 emitter High-spe",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.1,
+      "maxCollectorEmitterVoltage": 18,
+      "maxCollectorBaseVoltage": 18,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.2,
+      "maxJunctionTemperature": 125,
+      "collectorCapacitance": 12,
+      "hFE": 350,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.2W",
+        "Collector-Base Voltage": "18V",
+        "Collector-Emitter Voltage": "18V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.1A",
+        "Current Gain (hFE)": "350",
+        "Junction Temperature": "125°C",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "12pF"
+      },
+      "datasheets": [],
+      "equivalents": [],
+      "href": "/component/2N3901"
+    },
+    {
+      "id": "2N3904CSM",
+      "name": "2N3904CSM",
+      "type": "NPN Transistor",
+      "description": "Low voltage (max. 40 V).1 collector2 baseAPPLICATIONS3 emitter High-spe\n8.3. Size:60K st\n2n3904.pdf \n2N3904SMALL SIGNAL NPN TRANSISTORPRELIMINARY DATAOrdering Code Marking Package / Shipment2N3904 2N3904 TO-92 / Bulk2N3904-AP 2N3904 TO-92 / Ammopack SILICON EPITAXIAL PLANAR NPNTRANSISTOR TO-92 PACKAGE SUITABLE FORTHROUGH-HOLE PCB ASSEMBLY THE PNP COMPLEMENTARY TYPE IS2N3906TO-92 TO-92APPLICATIONS Bulk Ammopack WELL SUITABLE FOR TV AND HOMEAPPLIANCE EQUIPMENT",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "LCC3",
+      "maxCollectorCurrent": 0.2,
+      "maxCollectorEmitterVoltage": 40,
+      "maxCollectorBaseVoltage": 60,
+      "maxEmitterBaseVoltage": 6,
+      "maxPowerDissipation": 0.31,
+      "maxJunctionTemperature": 135,
+      "transitionFrequency": 300,
+      "collectorCapacitance": 4,
+      "hFE": 100,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "LCC3",
+        "Collector Power Dissipation": "0.31W",
+        "Collector-Base Voltage": "60V",
+        "Collector-Emitter Voltage": "40V",
+        "Emitter-Base Voltage": "6V",
+        "Collector Current": "0.2A",
+        "Current Gain (hFE)": "100",
+        "Junction Temperature": "135°C",
+        "Transition Frequency": "300MHz",
+        "Collector Capacitance": "4pF"
+      },
+      "datasheets": [
+        {
+          "name": "kec (73K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2n3904c.pdf&dire=_kec"
+        },
+        {
+          "name": "st (60K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2n3904.pdf&dire=_st"
+        }
+      ],
+      "equivalents": [],
+      "href": "/component/2N3904CSM"
+    },
+    {
+      "id": "2N3903",
+      "name": "2N3903",
+      "type": "NPN Transistor",
+      "description": "O92 \n- BJT Cross-Reference Search\n2N3903 Datasheet (PDF)\n..1. Size:212K motorola\n2n3903 2n3904.pdf \nMOTOROLAOrder this documentSEMICONDUCTOR TECHNICAL DATAby 2N3903/DGeneral Purpose Transistors2N3903NPN Silicon*2N3904*Motorola Preferred DeviceCOLLECTOR32BASE1EMITTER123MAXIMUM RATINGSCASE 2904, STYLE 1Rating Symbol Value UnitTO92 (TO226AA)CollectorEmitter Voltage VCEO 40 VdcCollectorBase Voltage VCBO 60 VdcEmitterBase Voltage \n..2. Size:578K fairchild semi\n2n3903.pdf \n2N3903C TO-92BENPN General Purpose AmplifierThis device is designed for use as general purpose amplifiersand switches requiring collector currents to 100 mA. Absolute Maximum Ratings* TA = 25C unless otherwise notedSymbol Parameter Value UnitsVCEO Collector-Emitter Voltage 40 VV Collector-Base Voltage 60 VCBOVEBO Emitter-Base Voltage 6.0 VIC Collector Current - Conti\n..3. Size:86K samsung\n2n3903.pdf \n2N3903S/S TRCD-ROM(Edition.1.1) This Data Sheet is subject to change without notice. (C) 1994 Samsung ElectronicsPrinted in Korea.Page : 1 (2N3903)2N3903S/S TRCD-ROM(Edition.1.1) This Data Sheet is subject to change without notice. (C) 1994 Samsung ElectronicsPrinted in Korea.Page : 2 (2N3903)\n..4. Size:66K central\n2n3903 2n3904.pdf \n145 Adams Avenue, Hauppauge, NY 11788 USATel: (631) 435-1110 Fax: (631) 435-1824\nDatasheet: 2N389A , 2N389A-1 , 2N38A , 2N39 , 2N3900 , 2N3900A , 2N3901 , 2N3902 , TSB145 , 2N3904 , 2N3904CSM , 2N3904DCSM , 2N3905 , 2N3905CSM , 2N3906 , 2N3906CSM , 2N3907 . \nHistory: 2N3902 | 2N3901 \nKeywords - 2N3903 transistor datasheet\n2N3903 cross reference\n2N3903 equivalent finder\n2N3903 lookup\n2N3903 substitution\n2N3903 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.2,
+      "maxCollectorEmitterVoltage": 40,
+      "maxCollectorBaseVoltage": 60,
+      "maxEmitterBaseVoltage": 6,
+      "maxPowerDissipation": 0.31,
+      "maxJunctionTemperature": 135,
+      "transitionFrequency": 250,
+      "collectorCapacitance": 4,
+      "hFE": 50,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.31W",
+        "Collector-Base Voltage": "60V",
+        "Collector-Emitter Voltage": "40V",
+        "Emitter-Base Voltage": "6V",
+        "Collector Current": "0.2A",
+        "Current Gain (hFE)": "50",
+        "Junction Temperature": "135°C",
+        "Transition Frequency": "250MHz",
+        "Collector Capacitance": "4pF"
+      },
+      "datasheets": [
+        {
+          "name": "fairchild semi (578K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2n3903.pdf&dire=_fairchild_semi"
+        },
+        {
+          "name": "samsung (86K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2n3903.pdf&dire=_samsung"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "TSB145",
+          "name": "TSB145",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2N3903",
+          "manufacturer": "Various",
+          "href": "/component/TSB145"
+        }
+      ],
+      "href": "/component/2N3903"
+    },
+    {
+      "id": "2N3904DCSM",
+      "name": "2N3904DCSM",
+      "type": "NPN Transistor",
+      "description": "Low voltage (max. 40 V).1 collector2 baseAPPLICATIONS3 emitter High-spe\n8.3. Size:60K st\n2n3904.pdf \n2N3904SMALL SIGNAL NPN TRANSISTORPRELIMINARY DATAOrdering Code Marking Package / Shipment2N3904 2N3904 TO-92 / Bulk2N3904-AP 2N3904 TO-92 / Ammopack SILICON EPITAXIAL PLANAR NPNTRANSISTOR TO-92 PACKAGE SUITABLE FORTHROUGH-HOLE PCB ASSEMBLY THE PNP COMPLEMENTARY TYPE IS2N3906TO-92 TO-92APPLICATIONS Bulk Ammopack WELL SUITABLE FOR TV AND HOMEAPPLIANCE EQUIPMENT\n8.4. Size:169K fairchild semi\n2n3904.pdf",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "LCC2",
+      "maxCollectorCurrent": 0.2,
+      "maxCollectorEmitterVoltage": 40,
+      "maxCollectorBaseVoltage": 60,
+      "maxEmitterBaseVoltage": 6,
+      "maxPowerDissipation": 0.31,
+      "maxJunctionTemperature": 135,
+      "transitionFrequency": 300,
+      "collectorCapacitance": 4,
+      "hFE": 100,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "LCC2",
+        "Collector Power Dissipation": "0.31W",
+        "Collector-Base Voltage": "60V",
+        "Collector-Emitter Voltage": "40V",
+        "Emitter-Base Voltage": "6V",
+        "Collector Current": "0.2A",
+        "Current Gain (hFE)": "100",
+        "Junction Temperature": "135°C",
+        "Transition Frequency": "300MHz",
+        "Collector Capacitance": "4pF"
+      },
+      "datasheets": [
+        {
+          "name": "st (60K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2n3904.pdf&dire=_st"
+        },
+        {
+          "name": "fairchild semi (169K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2n3904.pdf&dire=_fairchild_semi"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "TIP31",
+          "name": "TIP31",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2N3904DCSM",
+          "manufacturer": "Various",
+          "href": "/component/TIP31"
+        }
+      ],
+      "href": "/component/2N3904DCSM"
+    },
+    {
+      "id": "2N3905",
+      "name": "2N3905",
+      "type": "PNP Transistor",
+      "description": "SYMBOL VALUE UNITSCollector Emi",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.2,
+      "maxCollectorEmitterVoltage": 40,
+      "maxCollectorBaseVoltage": 40,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.31,
+      "maxJunctionTemperature": 135,
+      "transitionFrequency": 200,
+      "collectorCapacitance": 5,
+      "hFE": 50,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.31W",
+        "Collector-Base Voltage": "40V",
+        "Collector-Emitter Voltage": "40V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.2A",
+        "Current Gain (hFE)": "50",
+        "Junction Temperature": "135°C",
+        "Transition Frequency": "200MHz",
+        "Collector Capacitance": "5pF"
+      },
+      "datasheets": [
+        {
+          "name": "fairchild semi (62K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2n3905.pdf&dire=_fairchild_semi"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "TIP42",
+          "name": "TIP42",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for 2N3905",
+          "manufacturer": "Various",
+          "href": "/component/TIP42"
+        }
+      ],
+      "href": "/component/2N3905"
+    },
+    {
+      "id": "PXT8550",
+      "name": "PXT8550",
+      "type": "PNP Transistor",
+      "description": "OT89 \n- BJT Cross-Reference Search\nPXT8550 Datasheet (PDF)\n..1. Size:627K jiangsu\npxt8550.pdf \nJIANGSU CHANGJIANG ELECTRONICS TECHNOLOGY CO.,LTD SOT-89-3L Plastic-Encapsulate Transistors SOT-89-3L PXT8550 TRANSISTOR (PNP) 1. BASE FEATURES Compliment to PXT8050 2. COLLECTOR MARKING: Y2 3. EMITTER MAXIMUM RATINGS (Ta=25 unless otherwise noted) Symbol Parameter Value UnitVCBO Collector-Base Voltage -40 V VCEO Collector-Emitter Voltage -25 V VEBO Emitter-Bas\n..2. Size:477K htsemi\npxt8550.pdf \nPXT8 550TRANSISTOR(PNP) SOT-89 FEATURES 1. BASE Compliment to PXT8050 1 2. COLLECTOR MARKING: Y2 2 MAXIMUM RATINGS (TA=25 unless otherwise noted) 3. EMITTER 3 Symbol Parameter Value Units VCBO Collector-Base Voltage -40 V VCEO Collector-Emitter Voltage -25 V VEBO Emitter-Base Voltage -5 V IC Collector Current -Continuous -1.5 A PC Collector Power Dissipati\n..3. Size:232K lge\npxt8550.pdf \nPXT8550 SOT-89 Transistor(NPN)1. BASE SOT-892. COLLECTOR 1 4.6B4.42 1.61.83. EMITTER 1.41.43 2.64.25Features2.43.75 Compliment to PXT8050 0.8MIN0.530.400.480.442x)MARKING: Y2 0.13 B0.35 0.371.53.0MAXIMUM RATINGS (TA=25 unless otherwise noted) Dimensions in inches and (millimeters)Symbol Parameter Value UnitsVCBO Colle\n..4. Size:559K galaxy\npxt8550.pdf \nProduction specification PLASTIC-ENCAPSULATE TRANSISTORS PXT8550 FEATURES Commplimentray to PXT8050 PbLead-free SOT-89 ORDERING INFORMATION Type No. Marking Package Code PXT8550 8550 SOT-89 MAXIMUM RATING @ Ta=25 unless otherwise specified Symbol Parameter ValueUnit Collector-Base Voltage VCBO -40 VCollector-Emitter Voltage VCEO -25 VEmitter-Base Vol\nDatasheet: M8050 , M8550 , MMBT589 , MMBTA44 , MMBTA94 , PXT3904 , PXT3906 , PXT8050 , TIP3055 , S8050 , S8550 , S9012 , S9013 , S9013W , S9014 , S9014W , S9015 . \nKeywords - PXT8550 transistor datasheet\nPXT8550 cross reference\nPXT8550 equivalent finder\nPXT8550 lookup\nPXT8550 substitution\nPXT8550 replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "SOT89",
+      "maxCollectorCurrent": 1.5,
+      "maxCollectorEmitterVoltage": 25,
+      "maxCollectorBaseVoltage": 40,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.5,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 100,
+      "collectorCapacitance": 20,
+      "hFE": 85,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "SOT89",
+        "Collector Power Dissipation": "0.5W",
+        "Collector-Base Voltage": "40V",
+        "Collector-Emitter Voltage": "25V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "1.5A",
+        "Current Gain (hFE)": "85",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "100MHz",
+        "Collector Capacitance": "20pF"
+      },
+      "datasheets": [
+        {
+          "name": "jiangsu (627K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=pxt8550.pdf&dire=_jiangsu"
+        },
+        {
+          "name": "htsemi (477K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=pxt8550.pdf&dire=_htsemi"
+        },
+        {
+          "name": "lge (232K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=pxt8550.pdf&dire=_lge"
+        },
+        {
+          "name": "galaxy (559K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=pxt8550.pdf&dire=_galaxy"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "MMBT589",
+          "name": "MMBT589",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for PXT8550",
+          "manufacturer": "Various",
+          "href": "/component/MMBT589"
+        },
+        {
+          "id": "MMBTA44",
+          "name": "MMBTA44",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for PXT8550",
+          "manufacturer": "Various",
+          "href": "/component/MMBTA44"
+        },
+        {
+          "id": "MMBTA94",
+          "name": "MMBTA94",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for PXT8550",
+          "manufacturer": "Various",
+          "href": "/component/MMBTA94"
+        },
+        {
+          "id": "PXT3904",
+          "name": "PXT3904",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for PXT8550",
+          "manufacturer": "Various",
+          "href": "/component/PXT3904"
+        },
+        {
+          "id": "PXT3906",
+          "name": "PXT3906",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for PXT8550",
+          "manufacturer": "Various",
+          "href": "/component/PXT3906"
+        },
+        {
+          "id": "PXT8050",
+          "name": "PXT8050",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for PXT8550",
+          "manufacturer": "Various",
+          "href": "/component/PXT8050"
+        },
+        {
+          "id": "TIP3055",
+          "name": "TIP3055",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for PXT8550",
+          "manufacturer": "Various",
+          "href": "/component/TIP3055"
+        }
+      ],
+      "href": "/component/PXT8550"
+    },
+    {
+      "id": "S9012",
+      "name": "S9012",
+      "type": "PNP Transistor",
+      "description": "OT23 \n- BJT Cross-Reference Search\nS9012 Datasheet (PDF)\n..1. Size:233K secos\ns9012.pdf \nS9012PNP SiliconElektronische Bauelemente General Purpose TransistorRoHS Compliant ProductA suffix of \"-C\" specifies halogen & lead-freeSOT-23FEATURESCollectorDim Min Max33A 2.800 3.040B 1.200 1.400Power dissipation 11C 0.890 1.1102BasePCM : 0.3 WD 0.370 0.500Collector CurrentG 1.780 2.0402ICM : - 0.5 A AEmitterH 0.013 0.100LCollector-base v\n..2. Size:248K jiangsu\ns9012.pdf \nTRANSISTOR (PNP) 1. EMITTER 2. BASE 3. COLLECTOR Equivalent Circuit XXX \n..3. Size:984K htsemi\ns9012.pdf \nS901 2SOT-23 TRANSISTOR(PNP)FEATURES 1. BASE Complementary to S9013 2. EMITTER Excellent hFE linearity 3. COLLECTOR MARKING: 2T1 MAXIMUM RATINGS (TA=25 unless otherwise noted) Symbol Parameter Value UnitsVCBO -40 VCollector-Base Voltage VCEO -25 VCollector-Emitter Voltage VEBO Emitter-Base Voltage -5 VIC Collector Current -Continuous -500 mA PC Collect\n..4. Size:240K gsme\ns9012.pdf \nGuilin Strong Micro-Electronics Co.,Ltd.Guilin Strong Micro-Electronics Co.,Ltd.Guilin Strong Micro-Electronics Co.,Ltd.GM9012FEATURESFEATURES FEATURESExcellent HFE Linearity HFE hFE(2)=25(Min.) at VCE=6V,Ic=400mA.Complementary to GM9013 GM9013 MAXIMUM RATINGS (Ta=25 )MAXIMUM RATIN\nDatasheet: MMBTA44 , MMBTA94 , PXT3904 , PXT3906 , PXT8050 , PXT8550 , S8050 , S8550 , TIP122 , S9013 , S9013W , S9014 , S9014W , S9015 , S9015W , S9018 , S9018W . \nHistory: PXT8550 \nKeywords - S9012 transistor datasheet\nS9012 cross reference\nS9012 equivalent finder\nS9012 lookup\nS9012 substitution\nS9012 replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "SOT23",
+      "maxCollectorCurrent": 0.5,
+      "maxCollectorEmitterVoltage": 25,
+      "maxCollectorBaseVoltage": 40,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.3,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 150,
+      "collectorCapacitance": 5,
+      "hFE": 120,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "SOT23",
+        "Collector Power Dissipation": "0.3W",
+        "Collector-Base Voltage": "40V",
+        "Collector-Emitter Voltage": "25V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.5A",
+        "Current Gain (hFE)": "120",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "150MHz",
+        "Collector Capacitance": "5pF"
+      },
+      "datasheets": [
+        {
+          "name": "secos (233K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=s9012.pdf&dire=_secos"
+        },
+        {
+          "name": "jiangsu (248K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=s9012.pdf&dire=_jiangsu"
+        },
+        {
+          "name": "htsemi (984K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=s9012.pdf&dire=_htsemi"
+        },
+        {
+          "name": "gsme (240K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=s9012.pdf&dire=_gsme"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "MMBTA44",
+          "name": "MMBTA44",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for S9012",
+          "manufacturer": "Various",
+          "href": "/component/MMBTA44"
+        },
+        {
+          "id": "MMBTA94",
+          "name": "MMBTA94",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for S9012",
+          "manufacturer": "Various",
+          "href": "/component/MMBTA94"
+        },
+        {
+          "id": "PXT3904",
+          "name": "PXT3904",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for S9012",
+          "manufacturer": "Various",
+          "href": "/component/PXT3904"
+        },
+        {
+          "id": "PXT3906",
+          "name": "PXT3906",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for S9012",
+          "manufacturer": "Various",
+          "href": "/component/PXT3906"
+        },
+        {
+          "id": "PXT8050",
+          "name": "PXT8050",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for S9012",
+          "manufacturer": "Various",
+          "href": "/component/PXT8050"
+        },
+        {
+          "id": "PXT8550",
+          "name": "PXT8550",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for S9012",
+          "manufacturer": "Various",
+          "href": "/component/PXT8550"
+        },
+        {
+          "id": "TIP122",
+          "name": "TIP122",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for S9012",
+          "manufacturer": "Various",
+          "href": "/component/TIP122"
+        }
+      ],
+      "href": "/component/S9012"
+    },
+    {
+      "id": "S9013W",
+      "name": "S9013W",
+      "type": "NPN Transistor",
+      "description": "OT323 \n- BJT Cross-Reference Search\nS9013W Datasheet (PDF)\n..1. Size:54K secos\ns9013w.pdf \nS9013W 0.5A , 40V NPN Plastic Encapsulated Transistor Elektronische Bauelemente RoHS Compliant Product A suffix of -C specifies halogen & lead-free FEATURES SOT-323 High Collector Current Excellent HFE Linearity AL33CLASSIFICATION OF hFE Top View C B11 2Product-Rank S9013W-L S9013W-H S9013W-J 2K ERange 120~200 200~350 300~400 DMarking Code J3 \n..2. Size:925K jiangsu\ns9013w.pdf \nJIANGSU CHANGJIANG ELECTRONICS TECHNOLOGY CO., LTD J C T SOT-323 Plastic-Encapsulate Transistors S9013W TRANSISTOR (NPN) SOT323 FEATURES High Collector Current Excellent HFE Linearity MAXIMUM RATINGS (Ta=25 unless otherwise noted) Symbol Parameter Value Unit 1. BASE V Collector-Base Voltage 40 V CBO2. EMITTER V Collector-Emitter Voltage 25 V CEO3. C\n..3. Size:431K htsemi\ns9013w.pdf \nS901 3WTRANSISTOR(NPN)SOT323 FEATURES High Collector Current Excellent HFE Linearity MAXIMUM RATINGS (Ta=25 unless otherwise noted) Symbol Parameter Value Unit 1. BASE V Collector-Base Voltage 40 V CBO2. EMITTER V Collector-Emitter Voltage 25 V CEO3. COLLECTOR V Emitter-Base Voltage 5 V EBOIC Collector Current 500 mA P Collector Power Dissipatio\n..4. Size:865K cn cbi\ns9013w.pdf \nSOT-323 Plastic-Encapsulate Transistors S9013W TRANSISTOR (NPN) SOT323 FEATURES High Collector Current Excellent HFE Linearity MAXIMUM RATINGS (Ta=25 unless otherwise noted) Symbol Parameter Value Unit 1. BASE V Collector-Base Voltage 40 V CBO2. EMITTER V Collector-Emitter Voltage 25 V CEO3. COLLECTOR V Emitter-Base Voltage 5 V EBOIC Collector Cu\nDatasheet: PXT3904 , PXT3906 , PXT8050 , PXT8550 , S8050 , S8550 , S9012 , S9013 , D882 , S9014 , S9014W , S9015 , S9015W , S9018 , S9018W , SS8550B , STD123S . \nHistory: S9012 | PXT8550 \nKeywords - S9013W transistor datasheet\nS9013W cross reference\nS9013W equivalent finder\nS9013W lookup\nS9013W substitution\nS9013W replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "SOT323",
+      "maxCollectorCurrent": 0.5,
+      "maxCollectorEmitterVoltage": 25,
+      "maxCollectorBaseVoltage": 40,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.2,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 150,
+      "collectorCapacitance": 8,
+      "hFE": 120,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "SOT323",
+        "Collector Power Dissipation": "0.2W",
+        "Collector-Base Voltage": "40V",
+        "Collector-Emitter Voltage": "25V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.5A",
+        "Current Gain (hFE)": "120",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "150MHz",
+        "Collector Capacitance": "8pF"
+      },
+      "datasheets": [
+        {
+          "name": "secos (54K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=s9013w.pdf&dire=_secos"
+        },
+        {
+          "name": "jiangsu (925K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=s9013w.pdf&dire=_jiangsu"
+        },
+        {
+          "name": "htsemi (431K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=s9013w.pdf&dire=_htsemi"
+        },
+        {
+          "name": "cn cbi (865K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=s9013w.pdf&dire=_cn_cbi"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "PXT3904",
+          "name": "PXT3904",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for S9013W",
+          "manufacturer": "Various",
+          "href": "/component/PXT3904"
+        },
+        {
+          "id": "PXT3906",
+          "name": "PXT3906",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for S9013W",
+          "manufacturer": "Various",
+          "href": "/component/PXT3906"
+        },
+        {
+          "id": "PXT8050",
+          "name": "PXT8050",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for S9013W",
+          "manufacturer": "Various",
+          "href": "/component/PXT8050"
+        },
+        {
+          "id": "PXT8550",
+          "name": "PXT8550",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for S9013W",
+          "manufacturer": "Various",
+          "href": "/component/PXT8550"
+        },
+        {
+          "id": "STD123S",
+          "name": "STD123S",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for S9013W",
+          "manufacturer": "Various",
+          "href": "/component/STD123S"
+        }
+      ],
+      "href": "/component/S9013W"
+    }
+  ]
+}

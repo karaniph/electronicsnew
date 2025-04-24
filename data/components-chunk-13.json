@@ -1,0 +1,3517 @@
+{
+  "components": [
+    {
+      "id": "2SC2069",
+      "name": "2SC2069",
+      "type": "NPN Transistor",
+      "description": "O18 \n- BJT Cross-Reference Search\n2SC2069 Datasheet (PDF)\n8.3. Size:70K toshiba\n2sc2068.pdf \nThis Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer \nDatasheet: 2SC2060 , 2SC2061 , 2SC2062 , 2SC2063 , 2SC2065 , 2SC2066 , 2SC2067 , 2SC2068 , 2SC2073 , 2SC207 , 2SC2070 , 2SC2071 , 2SC2073 , 2SC2075 , 2SC2076 , 2SC2078 , 2SC2078B . \nHistory: 2SC2068 | 2SC2067 | 2SC2065 | 2SC2066 \nKeywords - 2SC2069 transistor datasheet\n2SC2069 cross reference\n2SC2069 equivalent finder\n2SC2069 lookup\n2SC2069 substitution\n2SC2069 replacement",
+      "manufacturer": "This Material Copyrighted By Its Respective Manufacturer \nDatasheet",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO18",
+      "maxCollectorCurrent": 0.05,
+      "maxCollectorEmitterVoltage": 17,
+      "maxCollectorBaseVoltage": 20,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.35,
+      "maxJunctionTemperature": 175,
+      "hFE": 80,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO18",
+        "Collector Power Dissipation": "0.35W",
+        "Collector-Base Voltage": "20V",
+        "Collector-Emitter Voltage": "17V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.05A",
+        "Current Gain (hFE)": "80",
+        "Junction Temperature": "175°C",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "toshiba (70K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc2068.pdf&dire=_toshiba"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SC2060",
+          "name": "2SC2060",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2069",
+          "manufacturer": "Various",
+          "href": "/component/2SC2060"
+        },
+        {
+          "id": "2SC2061",
+          "name": "2SC2061",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2069",
+          "manufacturer": "Various",
+          "href": "/component/2SC2061"
+        },
+        {
+          "id": "2SC2062",
+          "name": "2SC2062",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2069",
+          "manufacturer": "Various",
+          "href": "/component/2SC2062"
+        },
+        {
+          "id": "2SC2063",
+          "name": "2SC2063",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2069",
+          "manufacturer": "Various",
+          "href": "/component/2SC2063"
+        },
+        {
+          "id": "2SC2065",
+          "name": "2SC2065",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2069",
+          "manufacturer": "Various",
+          "href": "/component/2SC2065"
+        },
+        {
+          "id": "2SC2066",
+          "name": "2SC2066",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2069",
+          "manufacturer": "Various",
+          "href": "/component/2SC2066"
+        },
+        {
+          "id": "2SC2067",
+          "name": "2SC2067",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2069",
+          "manufacturer": "Various",
+          "href": "/component/2SC2067"
+        },
+        {
+          "id": "2SC2068",
+          "name": "2SC2068",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2069",
+          "manufacturer": "Various",
+          "href": "/component/2SC2068"
+        },
+        {
+          "id": "2SC2073",
+          "name": "2SC2073",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2069",
+          "manufacturer": "Various",
+          "href": "/component/2SC2073"
+        },
+        {
+          "id": "2SC207",
+          "name": "2SC207",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2069",
+          "manufacturer": "Various",
+          "href": "/component/2SC207"
+        },
+        {
+          "id": "2SC2070",
+          "name": "2SC2070",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2069",
+          "manufacturer": "Various",
+          "href": "/component/2SC2070"
+        },
+        {
+          "id": "2SC2071",
+          "name": "2SC2071",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2069",
+          "manufacturer": "Various",
+          "href": "/component/2SC2071"
+        },
+        {
+          "id": "2SC2073",
+          "name": "2SC2073",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2069",
+          "manufacturer": "Various",
+          "href": "/component/2SC2073"
+        },
+        {
+          "id": "2SC2075",
+          "name": "2SC2075",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2069",
+          "manufacturer": "Various",
+          "href": "/component/2SC2075"
+        },
+        {
+          "id": "2SC2076",
+          "name": "2SC2076",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2069",
+          "manufacturer": "Various",
+          "href": "/component/2SC2076"
+        },
+        {
+          "id": "2SC2078",
+          "name": "2SC2078",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2069",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078"
+        },
+        {
+          "id": "2SC2078B",
+          "name": "2SC2078B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2069",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078B"
+        }
+      ],
+      "href": "/component/2SC2069"
+    },
+    {
+      "id": "2SC2078D",
+      "name": "2SC2078D",
+      "type": "NPN Transistor",
+      "description": "Collector-Emitter Voltage- :VCER= 75V(Min) ;RBE=150 Collector Current- :IC=3A APPLICATIONS 27MHz RF Power Amplifier Applications ABSOLUTE MAXIMUM RATINGS(Ta=25) SYMBOL PARAMETER VALUE UNITVCBO Collector-Base Voltage 80 V VCER Collector-Emitter Voltage RBE=15",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO220",
+      "maxCollectorCurrent": 3,
+      "maxCollectorEmitterVoltage": 75,
+      "maxCollectorBaseVoltage": 80,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 10,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 100,
+      "collectorCapacitance": 70,
+      "hFE": 60,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO220",
+        "Collector Power Dissipation": "10W",
+        "Collector-Base Voltage": "80V",
+        "Collector-Emitter Voltage": "75V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "3A",
+        "Current Gain (hFE)": "60",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "100MHz",
+        "Collector Capacitance": "70pF"
+      },
+      "datasheets": [
+        {
+          "name": "sanyo (111K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc2078.pdf&dire=_sanyo"
+        },
+        {
+          "name": "inchange semiconductor (239K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc2078.pdf&dire=_inchange_semiconductor"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SC2070",
+          "name": "2SC2070",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078D",
+          "manufacturer": "Various",
+          "href": "/component/2SC2070"
+        },
+        {
+          "id": "2SC2071",
+          "name": "2SC2071",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078D",
+          "manufacturer": "Various",
+          "href": "/component/2SC2071"
+        },
+        {
+          "id": "2SC2073",
+          "name": "2SC2073",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078D",
+          "manufacturer": "Various",
+          "href": "/component/2SC2073"
+        },
+        {
+          "id": "2SC2075",
+          "name": "2SC2075",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078D",
+          "manufacturer": "Various",
+          "href": "/component/2SC2075"
+        },
+        {
+          "id": "2SC2076",
+          "name": "2SC2076",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078D",
+          "manufacturer": "Various",
+          "href": "/component/2SC2076"
+        },
+        {
+          "id": "2SC2078",
+          "name": "2SC2078",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078D",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078"
+        },
+        {
+          "id": "2SC2078B",
+          "name": "2SC2078B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078D",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078B"
+        },
+        {
+          "id": "2SC2078C",
+          "name": "2SC2078C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078D",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078C"
+        },
+        {
+          "id": "2SC2078E",
+          "name": "2SC2078E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078D",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078E"
+        },
+        {
+          "id": "2SC2079",
+          "name": "2SC2079",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078D",
+          "manufacturer": "Various",
+          "href": "/component/2SC2079"
+        },
+        {
+          "id": "2SC208",
+          "name": "2SC208",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078D",
+          "manufacturer": "Various",
+          "href": "/component/2SC208"
+        },
+        {
+          "id": "2SC2080",
+          "name": "2SC2080",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078D",
+          "manufacturer": "Various",
+          "href": "/component/2SC2080"
+        },
+        {
+          "id": "2SC2081",
+          "name": "2SC2081",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078D",
+          "manufacturer": "Various",
+          "href": "/component/2SC2081"
+        },
+        {
+          "id": "2SC2082",
+          "name": "2SC2082",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078D",
+          "manufacturer": "Various",
+          "href": "/component/2SC2082"
+        },
+        {
+          "id": "2SC2083",
+          "name": "2SC2083",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078D",
+          "manufacturer": "Various",
+          "href": "/component/2SC2083"
+        },
+        {
+          "id": "2SC2085",
+          "name": "2SC2085",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078D",
+          "manufacturer": "Various",
+          "href": "/component/2SC2085"
+        }
+      ],
+      "href": "/component/2SC2078D"
+    },
+    {
+      "id": "2SC207",
+      "name": "2SC207",
+      "type": "NPN Transistor",
+      "description": "O72 \n- BJT Cross-Reference Search\n2SC207 Datasheet (PDF)\n0.1. Size:152K toshiba\n2sc2075.pdf \nThis Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer \n0.3. Size:111K sanyo\n2sc2078.pdf \nOrdering number:EN462ENPN Epitaxial Planar Silicon Transistor2SC207827MHz RF Power Amplifier ApplicationsPackage Dimensionsunit:mm2010C[2SC2078]1 : BaseJEDEC : TO-220AB2 : CollectorEIAJ : SC-463 : EmitterSpecificationsAbsolute Maximum Ratings at Ta = 25CParameter Symbol Conditions Ratings UnitCollector-to-Base Voltage VCBO 80 VCollector-to-Emitter Voltage VCE\nDatasheet: 2SC2061 , 2SC2062 , 2SC2063 , 2SC2065 , 2SC2066 , 2SC2067 , 2SC2068 , 2SC2069 , BC337 , 2SC2070 , 2SC2071 , 2SC2073 , 2SC2075 , 2SC2076 , 2SC2078 , 2SC2078B , 2SC2078C . \nHistory: 2SC2068 | 2SC2067 | 2SC2065 | 2SC2066 \nKeywords - 2SC207 transistor datasheet\n2SC207 cross reference\n2SC207 equivalent finder\n2SC207 lookup\n2SC207 substitution\n2SC207 replacement",
+      "manufacturer": "This Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer \n0",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO72",
+      "maxCollectorCurrent": 0.025,
+      "maxCollectorBaseVoltage": 20,
+      "maxEmitterBaseVoltage": 3,
+      "maxPowerDissipation": 0.2,
+      "maxJunctionTemperature": 175,
+      "transitionFrequency": 400,
+      "hFE": 40,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO72",
+        "Collector Power Dissipation": "0.2W",
+        "Collector-Base Voltage": "20V",
+        "Collector-Emitter Voltage": "N/A",
+        "Emitter-Base Voltage": "3V",
+        "Collector Current": "0.025A",
+        "Current Gain (hFE)": "40",
+        "Junction Temperature": "175°C",
+        "Transition Frequency": "400MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "toshiba (152K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc2075.pdf&dire=_toshiba"
+        },
+        {
+          "name": "sanyo (111K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc2078.pdf&dire=_sanyo"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SC2061",
+          "name": "2SC2061",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC207",
+          "manufacturer": "Various",
+          "href": "/component/2SC2061"
+        },
+        {
+          "id": "2SC2062",
+          "name": "2SC2062",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC207",
+          "manufacturer": "Various",
+          "href": "/component/2SC2062"
+        },
+        {
+          "id": "2SC2063",
+          "name": "2SC2063",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC207",
+          "manufacturer": "Various",
+          "href": "/component/2SC2063"
+        },
+        {
+          "id": "2SC2065",
+          "name": "2SC2065",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC207",
+          "manufacturer": "Various",
+          "href": "/component/2SC2065"
+        },
+        {
+          "id": "2SC2066",
+          "name": "2SC2066",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC207",
+          "manufacturer": "Various",
+          "href": "/component/2SC2066"
+        },
+        {
+          "id": "2SC2067",
+          "name": "2SC2067",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC207",
+          "manufacturer": "Various",
+          "href": "/component/2SC2067"
+        },
+        {
+          "id": "2SC2068",
+          "name": "2SC2068",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC207",
+          "manufacturer": "Various",
+          "href": "/component/2SC2068"
+        },
+        {
+          "id": "2SC2069",
+          "name": "2SC2069",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC207",
+          "manufacturer": "Various",
+          "href": "/component/2SC2069"
+        },
+        {
+          "id": "2SC2070",
+          "name": "2SC2070",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC207",
+          "manufacturer": "Various",
+          "href": "/component/2SC2070"
+        },
+        {
+          "id": "2SC2071",
+          "name": "2SC2071",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC207",
+          "manufacturer": "Various",
+          "href": "/component/2SC2071"
+        },
+        {
+          "id": "2SC2073",
+          "name": "2SC2073",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC207",
+          "manufacturer": "Various",
+          "href": "/component/2SC2073"
+        },
+        {
+          "id": "2SC2075",
+          "name": "2SC2075",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC207",
+          "manufacturer": "Various",
+          "href": "/component/2SC2075"
+        },
+        {
+          "id": "2SC2076",
+          "name": "2SC2076",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC207",
+          "manufacturer": "Various",
+          "href": "/component/2SC2076"
+        },
+        {
+          "id": "2SC2078",
+          "name": "2SC2078",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC207",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078"
+        },
+        {
+          "id": "2SC2078B",
+          "name": "2SC2078B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC207",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078B"
+        },
+        {
+          "id": "2SC2078C",
+          "name": "2SC2078C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC207",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078C"
+        }
+      ],
+      "href": "/component/2SC207"
+    },
+    {
+      "id": "2SC2078E",
+      "name": "2SC2078E",
+      "type": "NPN Transistor",
+      "description": "Collector-Emitter Voltage- :VCER= 75V(Min) ;RBE=150 Collector Current- :IC=3A APPLICATIONS 27MHz RF Power Amplifier Applications ABSOLUTE MAXIMUM RATINGS(Ta=25) SYMBOL PARAMETER VALUE UNITVCBO Collector-Base Voltage 80 V VCER Collector-Emitter Voltage RBE=15",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO220",
+      "maxCollectorCurrent": 3,
+      "maxCollectorEmitterVoltage": 75,
+      "maxCollectorBaseVoltage": 80,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 10,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 100,
+      "collectorCapacitance": 70,
+      "hFE": 100,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO220",
+        "Collector Power Dissipation": "10W",
+        "Collector-Base Voltage": "80V",
+        "Collector-Emitter Voltage": "75V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "3A",
+        "Current Gain (hFE)": "100",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "100MHz",
+        "Collector Capacitance": "70pF"
+      },
+      "datasheets": [
+        {
+          "name": "sanyo (111K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc2078.pdf&dire=_sanyo"
+        },
+        {
+          "name": "inchange semiconductor (239K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc2078.pdf&dire=_inchange_semiconductor"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SC2071",
+          "name": "2SC2071",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078E",
+          "manufacturer": "Various",
+          "href": "/component/2SC2071"
+        },
+        {
+          "id": "2SC2073",
+          "name": "2SC2073",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078E",
+          "manufacturer": "Various",
+          "href": "/component/2SC2073"
+        },
+        {
+          "id": "2SC2075",
+          "name": "2SC2075",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078E",
+          "manufacturer": "Various",
+          "href": "/component/2SC2075"
+        },
+        {
+          "id": "2SC2076",
+          "name": "2SC2076",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078E",
+          "manufacturer": "Various",
+          "href": "/component/2SC2076"
+        },
+        {
+          "id": "2SC2078",
+          "name": "2SC2078",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078E",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078"
+        },
+        {
+          "id": "2SC2078B",
+          "name": "2SC2078B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078E",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078B"
+        },
+        {
+          "id": "2SC2078C",
+          "name": "2SC2078C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078E",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078C"
+        },
+        {
+          "id": "2SC2078D",
+          "name": "2SC2078D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078E",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078D"
+        },
+        {
+          "id": "2SC2079",
+          "name": "2SC2079",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078E",
+          "manufacturer": "Various",
+          "href": "/component/2SC2079"
+        },
+        {
+          "id": "2SC208",
+          "name": "2SC208",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078E",
+          "manufacturer": "Various",
+          "href": "/component/2SC208"
+        },
+        {
+          "id": "2SC2080",
+          "name": "2SC2080",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078E",
+          "manufacturer": "Various",
+          "href": "/component/2SC2080"
+        },
+        {
+          "id": "2SC2081",
+          "name": "2SC2081",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078E",
+          "manufacturer": "Various",
+          "href": "/component/2SC2081"
+        },
+        {
+          "id": "2SC2082",
+          "name": "2SC2082",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078E",
+          "manufacturer": "Various",
+          "href": "/component/2SC2082"
+        },
+        {
+          "id": "2SC2083",
+          "name": "2SC2083",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078E",
+          "manufacturer": "Various",
+          "href": "/component/2SC2083"
+        },
+        {
+          "id": "2SC2085",
+          "name": "2SC2085",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078E",
+          "manufacturer": "Various",
+          "href": "/component/2SC2085"
+        },
+        {
+          "id": "2SC2086",
+          "name": "2SC2086",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078E",
+          "manufacturer": "Various",
+          "href": "/component/2SC2086"
+        }
+      ],
+      "href": "/component/2SC2078E"
+    },
+    {
+      "id": "2SC2070",
+      "name": "2SC2070",
+      "type": "NPN Transistor",
+      "description": "O18 \n- BJT Cross-Reference Search\n2SC2070 Datasheet (PDF)\n8.1. Size:152K toshiba\n2sc2075.pdf \nThis Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer \n8.3. Size:111K sanyo\n2sc2078.pdf \nOrdering number:EN462ENPN Epitaxial Planar Silicon Transistor2SC207827MHz RF Power Amplifier ApplicationsPackage Dimensionsunit:mm2010C[2SC2078]1 : BaseJEDEC : TO-220AB2 : CollectorEIAJ : SC-463 : EmitterSpecificationsAbsolute Maximum Ratings at Ta = 25CParameter Symbol Conditions Ratings UnitCollector-to-Base Voltage VCBO 80 VCollector-to-Emitter Voltage VCE\nDatasheet: 2SC2062 , 2SC2063 , 2SC2065 , 2SC2066 , 2SC2067 , 2SC2068 , 2SC2069 , 2SC207 , 2SD1047 , 2SC2071 , 2SC2073 , 2SC2075 , 2SC2076 , 2SC2078 , 2SC2078B , 2SC2078C , 2SC2078D . \nKeywords - 2SC2070 transistor datasheet\n2SC2070 cross reference\n2SC2070 equivalent finder\n2SC2070 lookup\n2SC2070 substitution\n2SC2070 replacement",
+      "manufacturer": "This Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer \n8",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO18",
+      "maxCollectorCurrent": 0.05,
+      "maxCollectorEmitterVoltage": 32,
+      "maxCollectorBaseVoltage": 40,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.3,
+      "maxJunctionTemperature": 175,
+      "hFE": 70,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO18",
+        "Collector Power Dissipation": "0.3W",
+        "Collector-Base Voltage": "40V",
+        "Collector-Emitter Voltage": "32V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.05A",
+        "Current Gain (hFE)": "70",
+        "Junction Temperature": "175°C",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "toshiba (152K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc2075.pdf&dire=_toshiba"
+        },
+        {
+          "name": "sanyo (111K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc2078.pdf&dire=_sanyo"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SC2062",
+          "name": "2SC2062",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2070",
+          "manufacturer": "Various",
+          "href": "/component/2SC2062"
+        },
+        {
+          "id": "2SC2063",
+          "name": "2SC2063",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2070",
+          "manufacturer": "Various",
+          "href": "/component/2SC2063"
+        },
+        {
+          "id": "2SC2065",
+          "name": "2SC2065",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2070",
+          "manufacturer": "Various",
+          "href": "/component/2SC2065"
+        },
+        {
+          "id": "2SC2066",
+          "name": "2SC2066",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2070",
+          "manufacturer": "Various",
+          "href": "/component/2SC2066"
+        },
+        {
+          "id": "2SC2067",
+          "name": "2SC2067",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2070",
+          "manufacturer": "Various",
+          "href": "/component/2SC2067"
+        },
+        {
+          "id": "2SC2068",
+          "name": "2SC2068",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2070",
+          "manufacturer": "Various",
+          "href": "/component/2SC2068"
+        },
+        {
+          "id": "2SC2069",
+          "name": "2SC2069",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2070",
+          "manufacturer": "Various",
+          "href": "/component/2SC2069"
+        },
+        {
+          "id": "2SC207",
+          "name": "2SC207",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2070",
+          "manufacturer": "Various",
+          "href": "/component/2SC207"
+        },
+        {
+          "id": "2SD1047",
+          "name": "2SD1047",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2070",
+          "manufacturer": "Various",
+          "href": "/component/2SD1047"
+        },
+        {
+          "id": "2SC2071",
+          "name": "2SC2071",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2070",
+          "manufacturer": "Various",
+          "href": "/component/2SC2071"
+        },
+        {
+          "id": "2SC2073",
+          "name": "2SC2073",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2070",
+          "manufacturer": "Various",
+          "href": "/component/2SC2073"
+        },
+        {
+          "id": "2SC2075",
+          "name": "2SC2075",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2070",
+          "manufacturer": "Various",
+          "href": "/component/2SC2075"
+        },
+        {
+          "id": "2SC2076",
+          "name": "2SC2076",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2070",
+          "manufacturer": "Various",
+          "href": "/component/2SC2076"
+        },
+        {
+          "id": "2SC2078",
+          "name": "2SC2078",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2070",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078"
+        },
+        {
+          "id": "2SC2078B",
+          "name": "2SC2078B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2070",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078B"
+        },
+        {
+          "id": "2SC2078C",
+          "name": "2SC2078C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2070",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078C"
+        },
+        {
+          "id": "2SC2078D",
+          "name": "2SC2078D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2070",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078D"
+        }
+      ],
+      "href": "/component/2SC2070"
+    },
+    {
+      "id": "2SC2079",
+      "name": "2SC2079",
+      "type": "NPN Transistor",
+      "description": "28-2 \n- BJT Cross-Reference Search\n2SC2079 Datasheet (PDF)\n8.1. Size:152K toshiba\n2sc2075.pdf \nThis Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer \n8.3. Size:111K sanyo\n2sc2078.pdf \nOrdering number:EN462ENPN Epitaxial Planar Silicon Transistor2SC207827MHz RF Power Amplifier ApplicationsPackage Dimensionsunit:mm2010C[2SC2078]1 : BaseJEDEC : TO-220AB2 : CollectorEIAJ : SC-463 : EmitterSpecificationsAbsolute Maximum Ratings at Ta = 25CParameter Symbol Conditions Ratings UnitCollector-to-Base Voltage VCBO 80 VCollector-to-Emitter Voltage VCE\nDatasheet: 2SC2073 , 2SC2075 , 2SC2076 , 2SC2078 , 2SC2078B , 2SC2078C , 2SC2078D , 2SC2078E , MJE340 , 2SC208 , 2SC2080 , 2SC2081 , 2SC2082 , 2SC2083 , 2SC2085 , 2SC2086 , 2SC2087 . \nHistory: 2SC2078E | 2SC2070 \nKeywords - 2SC2079 transistor datasheet\n2SC2079 cross reference\n2SC2079 equivalent finder\n2SC2079 lookup\n2SC2079 substitution\n2SC2079 replacement",
+      "manufacturer": "This Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer \n8",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "X28-2",
+      "maxCollectorCurrent": 0.7,
+      "maxCollectorEmitterVoltage": 80,
+      "maxCollectorBaseVoltage": 100,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 1,
+      "maxJunctionTemperature": 125,
+      "transitionFrequency": 50,
+      "collectorCapacitance": 20,
+      "hFE": 320,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "X28-2",
+        "Collector Power Dissipation": "1W",
+        "Collector-Base Voltage": "100V",
+        "Collector-Emitter Voltage": "80V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.7A",
+        "Current Gain (hFE)": "320",
+        "Junction Temperature": "125°C",
+        "Transition Frequency": "50MHz",
+        "Collector Capacitance": "20pF"
+      },
+      "datasheets": [
+        {
+          "name": "toshiba (152K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc2075.pdf&dire=_toshiba"
+        },
+        {
+          "name": "sanyo (111K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc2078.pdf&dire=_sanyo"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SC2073",
+          "name": "2SC2073",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2079",
+          "manufacturer": "Various",
+          "href": "/component/2SC2073"
+        },
+        {
+          "id": "2SC2075",
+          "name": "2SC2075",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2079",
+          "manufacturer": "Various",
+          "href": "/component/2SC2075"
+        },
+        {
+          "id": "2SC2076",
+          "name": "2SC2076",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2079",
+          "manufacturer": "Various",
+          "href": "/component/2SC2076"
+        },
+        {
+          "id": "2SC2078",
+          "name": "2SC2078",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2079",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078"
+        },
+        {
+          "id": "2SC2078B",
+          "name": "2SC2078B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2079",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078B"
+        },
+        {
+          "id": "2SC2078C",
+          "name": "2SC2078C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2079",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078C"
+        },
+        {
+          "id": "2SC2078D",
+          "name": "2SC2078D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2079",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078D"
+        },
+        {
+          "id": "2SC2078E",
+          "name": "2SC2078E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2079",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078E"
+        },
+        {
+          "id": "MJE340",
+          "name": "MJE340",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2079",
+          "manufacturer": "Various",
+          "href": "/component/MJE340"
+        },
+        {
+          "id": "2SC208",
+          "name": "2SC208",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2079",
+          "manufacturer": "Various",
+          "href": "/component/2SC208"
+        },
+        {
+          "id": "2SC2080",
+          "name": "2SC2080",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2079",
+          "manufacturer": "Various",
+          "href": "/component/2SC2080"
+        },
+        {
+          "id": "2SC2081",
+          "name": "2SC2081",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2079",
+          "manufacturer": "Various",
+          "href": "/component/2SC2081"
+        },
+        {
+          "id": "2SC2082",
+          "name": "2SC2082",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2079",
+          "manufacturer": "Various",
+          "href": "/component/2SC2082"
+        },
+        {
+          "id": "2SC2083",
+          "name": "2SC2083",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2079",
+          "manufacturer": "Various",
+          "href": "/component/2SC2083"
+        },
+        {
+          "id": "2SC2085",
+          "name": "2SC2085",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2079",
+          "manufacturer": "Various",
+          "href": "/component/2SC2085"
+        },
+        {
+          "id": "2SC2086",
+          "name": "2SC2086",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2079",
+          "manufacturer": "Various",
+          "href": "/component/2SC2086"
+        },
+        {
+          "id": "2SC2087",
+          "name": "2SC2087",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2079",
+          "manufacturer": "Various",
+          "href": "/component/2SC2087"
+        }
+      ],
+      "href": "/component/2SC2079"
+    },
+    {
+      "id": "2SC2071",
+      "name": "2SC2071",
+      "type": "NPN Transistor",
+      "description": "O126 \n- BJT Cross-Reference Search\n2SC2071 Datasheet (PDF)\n8.1. Size:152K toshiba\n2sc2075.pdf \nThis Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer \n8.3. Size:111K sanyo\n2sc2078.pdf \nOrdering number:EN462ENPN Epitaxial Planar Silicon Transistor2SC207827MHz RF Power Amplifier ApplicationsPackage Dimensionsunit:mm2010C[2SC2078]1 : BaseJEDEC : TO-220AB2 : CollectorEIAJ : SC-463 : EmitterSpecificationsAbsolute Maximum Ratings at Ta = 25CParameter Symbol Conditions Ratings UnitCollector-to-Base Voltage VCBO 80 VCollector-to-Emitter Voltage VCE\nDatasheet: 2SC2063 , 2SC2065 , 2SC2066 , 2SC2067 , 2SC2068 , 2SC2069 , 2SC207 , 2SC2070 , BC557 , 2SC2073 , 2SC2075 , 2SC2076 , 2SC2078 , 2SC2078B , 2SC2078C , 2SC2078D , 2SC2078E . \nHistory: 2SC2079 | 2SC2078E | 2SC2070 \nKeywords - 2SC2071 transistor datasheet\n2SC2071 cross reference\n2SC2071 equivalent finder\n2SC2071 lookup\n2SC2071 substitution\n2SC2071 replacement",
+      "manufacturer": "This Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer \n8",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO126",
+      "maxCollectorCurrent": 0.05,
+      "maxCollectorEmitterVoltage": 220,
+      "maxCollectorBaseVoltage": 250,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 1,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 50,
+      "collectorCapacitance": 2,
+      "hFE": 150,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO126",
+        "Collector Power Dissipation": "1W",
+        "Collector-Base Voltage": "250V",
+        "Collector-Emitter Voltage": "220V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.05A",
+        "Current Gain (hFE)": "150",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "50MHz",
+        "Collector Capacitance": "2pF"
+      },
+      "datasheets": [
+        {
+          "name": "toshiba (152K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc2075.pdf&dire=_toshiba"
+        },
+        {
+          "name": "sanyo (111K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc2078.pdf&dire=_sanyo"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SC2063",
+          "name": "2SC2063",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2071",
+          "manufacturer": "Various",
+          "href": "/component/2SC2063"
+        },
+        {
+          "id": "2SC2065",
+          "name": "2SC2065",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2071",
+          "manufacturer": "Various",
+          "href": "/component/2SC2065"
+        },
+        {
+          "id": "2SC2066",
+          "name": "2SC2066",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2071",
+          "manufacturer": "Various",
+          "href": "/component/2SC2066"
+        },
+        {
+          "id": "2SC2067",
+          "name": "2SC2067",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2071",
+          "manufacturer": "Various",
+          "href": "/component/2SC2067"
+        },
+        {
+          "id": "2SC2068",
+          "name": "2SC2068",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2071",
+          "manufacturer": "Various",
+          "href": "/component/2SC2068"
+        },
+        {
+          "id": "2SC2069",
+          "name": "2SC2069",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2071",
+          "manufacturer": "Various",
+          "href": "/component/2SC2069"
+        },
+        {
+          "id": "2SC207",
+          "name": "2SC207",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2071",
+          "manufacturer": "Various",
+          "href": "/component/2SC207"
+        },
+        {
+          "id": "2SC2070",
+          "name": "2SC2070",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2071",
+          "manufacturer": "Various",
+          "href": "/component/2SC2070"
+        },
+        {
+          "id": "2SC2073",
+          "name": "2SC2073",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2071",
+          "manufacturer": "Various",
+          "href": "/component/2SC2073"
+        },
+        {
+          "id": "2SC2075",
+          "name": "2SC2075",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2071",
+          "manufacturer": "Various",
+          "href": "/component/2SC2075"
+        },
+        {
+          "id": "2SC2076",
+          "name": "2SC2076",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2071",
+          "manufacturer": "Various",
+          "href": "/component/2SC2076"
+        },
+        {
+          "id": "2SC2078",
+          "name": "2SC2078",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2071",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078"
+        },
+        {
+          "id": "2SC2078B",
+          "name": "2SC2078B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2071",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078B"
+        },
+        {
+          "id": "2SC2078C",
+          "name": "2SC2078C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2071",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078C"
+        },
+        {
+          "id": "2SC2078D",
+          "name": "2SC2078D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2071",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078D"
+        },
+        {
+          "id": "2SC2078E",
+          "name": "2SC2078E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2071",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078E"
+        }
+      ],
+      "href": "/component/2SC2071"
+    },
+    {
+      "id": "2SC2075",
+      "name": "2SC2075",
+      "type": "NPN Transistor",
+      "description": "O220 \n- BJT Cross-Reference Search\n2SC2075 Datasheet (PDF)\n..1. Size:152K toshiba\n2sc2075.pdf \nThis Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer \n..2. Size:192K inchange semiconductor\n2sc2075.pdf \nisc Silicon NPN Power Transistor 2SC2075DESCRIPTIONHigh transition frequencyWide area of safe operationMinimum Lot-to-Lot variations for robust deviceperformance and reliable operationAPPLICATIONS27MHz Power Amplifier ApplicationsRecommended for output stage applicationof AM 4W transmitterABSOLUTE MAXIMUM RATINGS(T =25)aSYMBOL PARAMETER VALUE UNITV Collect\n8.2. Size:111K sanyo\n2sc2078.pdf \nOrdering number:EN462ENPN Epitaxial Planar Silicon Transistor2SC207827MHz RF Power Amplifier ApplicationsPackage Dimensionsunit:mm2010C[2SC2078]1 : BaseJEDEC : TO-220AB2 : CollectorEIAJ : SC-463 : EmitterSpecificationsAbsolute Maximum Ratings at Ta = 25CParameter Symbol Conditions Ratings UnitCollector-to-Base Voltage VCBO 80 VCollector-to-Emitter Voltage VCE\nDatasheet: 2SC2066 , 2SC2067 , 2SC2068 , 2SC2069 , 2SC207 , 2SC2070 , 2SC2071 , 2SC2073 , S8050 , 2SC2076 , 2SC2078 , 2SC2078B , 2SC2078C , 2SC2078D , 2SC2078E , 2SC2079 , 2SC208 . \nHistory: 2SC2071 | 2SC2079 | 2SC2078E | 2SC2070 \nKeywords - 2SC2075 transistor datasheet\n2SC2075 cross reference\n2SC2075 equivalent finder\n2SC2075 lookup\n2SC2075 substitution\n2SC2075 replacement",
+      "manufacturer": "This Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO220",
+      "maxCollectorCurrent": 4,
+      "maxCollectorBaseVoltage": 80,
+      "maxEmitterBaseVoltage": 4,
+      "maxPowerDissipation": 10,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 50,
+      "collectorCapacitance": 40,
+      "hFE": 25,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO220",
+        "Collector Power Dissipation": "10W",
+        "Collector-Base Voltage": "80V",
+        "Collector-Emitter Voltage": "N/A",
+        "Emitter-Base Voltage": "4V",
+        "Collector Current": "4A",
+        "Current Gain (hFE)": "25",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "50MHz",
+        "Collector Capacitance": "40pF"
+      },
+      "datasheets": [
+        {
+          "name": "toshiba (152K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc2075.pdf&dire=_toshiba"
+        },
+        {
+          "name": "inchange semiconductor (192K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc2075.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "sanyo (111K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc2078.pdf&dire=_sanyo"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SC2066",
+          "name": "2SC2066",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2075",
+          "manufacturer": "Various",
+          "href": "/component/2SC2066"
+        },
+        {
+          "id": "2SC2067",
+          "name": "2SC2067",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2075",
+          "manufacturer": "Various",
+          "href": "/component/2SC2067"
+        },
+        {
+          "id": "2SC2068",
+          "name": "2SC2068",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2075",
+          "manufacturer": "Various",
+          "href": "/component/2SC2068"
+        },
+        {
+          "id": "2SC2069",
+          "name": "2SC2069",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2075",
+          "manufacturer": "Various",
+          "href": "/component/2SC2069"
+        },
+        {
+          "id": "2SC207",
+          "name": "2SC207",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2075",
+          "manufacturer": "Various",
+          "href": "/component/2SC207"
+        },
+        {
+          "id": "2SC2070",
+          "name": "2SC2070",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2075",
+          "manufacturer": "Various",
+          "href": "/component/2SC2070"
+        },
+        {
+          "id": "2SC2071",
+          "name": "2SC2071",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2075",
+          "manufacturer": "Various",
+          "href": "/component/2SC2071"
+        },
+        {
+          "id": "2SC2073",
+          "name": "2SC2073",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2075",
+          "manufacturer": "Various",
+          "href": "/component/2SC2073"
+        },
+        {
+          "id": "2SC2076",
+          "name": "2SC2076",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2075",
+          "manufacturer": "Various",
+          "href": "/component/2SC2076"
+        },
+        {
+          "id": "2SC2078",
+          "name": "2SC2078",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2075",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078"
+        },
+        {
+          "id": "2SC2078B",
+          "name": "2SC2078B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2075",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078B"
+        },
+        {
+          "id": "2SC2078C",
+          "name": "2SC2078C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2075",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078C"
+        },
+        {
+          "id": "2SC2078D",
+          "name": "2SC2078D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2075",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078D"
+        },
+        {
+          "id": "2SC2078E",
+          "name": "2SC2078E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2075",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078E"
+        },
+        {
+          "id": "2SC2079",
+          "name": "2SC2079",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2075",
+          "manufacturer": "Various",
+          "href": "/component/2SC2079"
+        },
+        {
+          "id": "2SC208",
+          "name": "2SC208",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2075",
+          "manufacturer": "Various",
+          "href": "/component/2SC208"
+        }
+      ],
+      "href": "/component/2SC2075"
+    },
+    {
+      "id": "2SC2076",
+      "name": "2SC2076",
+      "type": "NPN Transistor",
+      "description": "O92 \n- BJT Cross-Reference Search\n2SC2076 Datasheet (PDF)\n8.1. Size:152K toshiba\n2sc2075.pdf \nThis Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer \n8.3. Size:111K sanyo\n2sc2078.pdf \nOrdering number:EN462ENPN Epitaxial Planar Silicon Transistor2SC207827MHz RF Power Amplifier ApplicationsPackage Dimensionsunit:mm2010C[2SC2078]1 : BaseJEDEC : TO-220AB2 : CollectorEIAJ : SC-463 : EmitterSpecificationsAbsolute Maximum Ratings at Ta = 25CParameter Symbol Conditions Ratings UnitCollector-to-Base Voltage VCBO 80 VCollector-to-Emitter Voltage VCE\nDatasheet: 2SC2067 , 2SC2068 , 2SC2069 , 2SC207 , 2SC2070 , 2SC2071 , 2SC2073 , 2SC2075 , 2SC4793 , 2SC2078 , 2SC2078B , 2SC2078C , 2SC2078D , 2SC2078E , 2SC2079 , 2SC208 , 2SC2080 . \nHistory: 2SC2073 | 2SC2075 | 2SC2071 | 2SC2079 | 2SC2078E | 2SC2070 \nKeywords - 2SC2076 transistor datasheet\n2SC2076 cross reference\n2SC2076 equivalent finder\n2SC2076 lookup\n2SC2076 substitution\n2SC2076 replacement",
+      "manufacturer": "This Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer \n8",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.02,
+      "maxCollectorEmitterVoltage": 30,
+      "maxCollectorBaseVoltage": 35,
+      "maxEmitterBaseVoltage": 4,
+      "maxPowerDissipation": 0.2,
+      "maxJunctionTemperature": 125,
+      "transitionFrequency": 75,
+      "collectorCapacitance": 2.5,
+      "hFE": 80,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.2W",
+        "Collector-Base Voltage": "35V",
+        "Collector-Emitter Voltage": "30V",
+        "Emitter-Base Voltage": "4V",
+        "Collector Current": "0.02A",
+        "Current Gain (hFE)": "80",
+        "Junction Temperature": "125°C",
+        "Transition Frequency": "75MHz",
+        "Collector Capacitance": "2.5pF"
+      },
+      "datasheets": [
+        {
+          "name": "toshiba (152K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc2075.pdf&dire=_toshiba"
+        },
+        {
+          "name": "sanyo (111K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc2078.pdf&dire=_sanyo"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SC2067",
+          "name": "2SC2067",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2076",
+          "manufacturer": "Various",
+          "href": "/component/2SC2067"
+        },
+        {
+          "id": "2SC2068",
+          "name": "2SC2068",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2076",
+          "manufacturer": "Various",
+          "href": "/component/2SC2068"
+        },
+        {
+          "id": "2SC2069",
+          "name": "2SC2069",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2076",
+          "manufacturer": "Various",
+          "href": "/component/2SC2069"
+        },
+        {
+          "id": "2SC207",
+          "name": "2SC207",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2076",
+          "manufacturer": "Various",
+          "href": "/component/2SC207"
+        },
+        {
+          "id": "2SC2070",
+          "name": "2SC2070",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2076",
+          "manufacturer": "Various",
+          "href": "/component/2SC2070"
+        },
+        {
+          "id": "2SC2071",
+          "name": "2SC2071",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2076",
+          "manufacturer": "Various",
+          "href": "/component/2SC2071"
+        },
+        {
+          "id": "2SC2073",
+          "name": "2SC2073",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2076",
+          "manufacturer": "Various",
+          "href": "/component/2SC2073"
+        },
+        {
+          "id": "2SC2075",
+          "name": "2SC2075",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2076",
+          "manufacturer": "Various",
+          "href": "/component/2SC2075"
+        },
+        {
+          "id": "2SC4793",
+          "name": "2SC4793",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2076",
+          "manufacturer": "Various",
+          "href": "/component/2SC4793"
+        },
+        {
+          "id": "2SC2078",
+          "name": "2SC2078",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2076",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078"
+        },
+        {
+          "id": "2SC2078B",
+          "name": "2SC2078B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2076",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078B"
+        },
+        {
+          "id": "2SC2078C",
+          "name": "2SC2078C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2076",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078C"
+        },
+        {
+          "id": "2SC2078D",
+          "name": "2SC2078D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2076",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078D"
+        },
+        {
+          "id": "2SC2078E",
+          "name": "2SC2078E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2076",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078E"
+        },
+        {
+          "id": "2SC2079",
+          "name": "2SC2079",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2076",
+          "manufacturer": "Various",
+          "href": "/component/2SC2079"
+        },
+        {
+          "id": "2SC208",
+          "name": "2SC208",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2076",
+          "manufacturer": "Various",
+          "href": "/component/2SC208"
+        },
+        {
+          "id": "2SC2080",
+          "name": "2SC2080",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2076",
+          "manufacturer": "Various",
+          "href": "/component/2SC2080"
+        }
+      ],
+      "href": "/component/2SC2076"
+    },
+    {
+      "id": "2SC2078",
+      "name": "2SC2078",
+      "type": "NPN Transistor",
+      "description": "Collector-Emitter Voltage- :VCER= 75V(Min) ;RBE=150 Collector Current- :IC=3A APPLICATIONS 27MHz RF Power Amplifier Applications ABSOLUTE MAXIMUM RATINGS(Ta=25) SYMBOL PARAMETER VALUE UNITVCBO Collector-Base Voltage 80 V VCER Collector-Emitter Voltage RBE=15\n0.1. Size:521K slkor\n2sc2078b 2sc1815c 2sc1815d 2sc1815e.pdf \n2SC2078Silicon NPN POWER TRANSISTORDESCRIPTIONB FSEATINGT PLANEC 4Designed primarily for SSB linear powerTSamplifier applicationsAQ1 2 3HFEATURESUKZ Specified 12.5V, 27MHz CharacteristicsL PO = 4W PEPV ft = 200 MHzSTYLE 1:RGPIN 1. BASE2. COLLECTORJD3. EMITTERN4. COLLECTORDIMENSIONSUNIT A B C D F G H J K L N Q R\n8.1. Size:152K toshiba\n2sc2075.pdf",
+      "manufacturer": "This Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer \nDatasheet",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO220",
+      "maxCollectorCurrent": 3,
+      "maxCollectorEmitterVoltage": 75,
+      "maxCollectorBaseVoltage": 80,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 10,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 100,
+      "collectorCapacitance": 70,
+      "hFE": 25,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO220",
+        "Collector Power Dissipation": "10W",
+        "Collector-Base Voltage": "80V",
+        "Collector-Emitter Voltage": "75V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "3A",
+        "Current Gain (hFE)": "25",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "100MHz",
+        "Collector Capacitance": "70pF"
+      },
+      "datasheets": [
+        {
+          "name": "sanyo (111K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc2078.pdf&dire=_sanyo"
+        },
+        {
+          "name": "inchange semiconductor (239K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc2078.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "toshiba (152K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc2075.pdf&dire=_toshiba"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SC2068",
+          "name": "2SC2068",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078",
+          "manufacturer": "Various",
+          "href": "/component/2SC2068"
+        },
+        {
+          "id": "2SC2069",
+          "name": "2SC2069",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078",
+          "manufacturer": "Various",
+          "href": "/component/2SC2069"
+        },
+        {
+          "id": "2SC207",
+          "name": "2SC207",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078",
+          "manufacturer": "Various",
+          "href": "/component/2SC207"
+        },
+        {
+          "id": "2SC2070",
+          "name": "2SC2070",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078",
+          "manufacturer": "Various",
+          "href": "/component/2SC2070"
+        },
+        {
+          "id": "2SC2071",
+          "name": "2SC2071",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078",
+          "manufacturer": "Various",
+          "href": "/component/2SC2071"
+        },
+        {
+          "id": "2SC2073",
+          "name": "2SC2073",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078",
+          "manufacturer": "Various",
+          "href": "/component/2SC2073"
+        },
+        {
+          "id": "2SC2075",
+          "name": "2SC2075",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078",
+          "manufacturer": "Various",
+          "href": "/component/2SC2075"
+        },
+        {
+          "id": "2SC2076",
+          "name": "2SC2076",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078",
+          "manufacturer": "Various",
+          "href": "/component/2SC2076"
+        },
+        {
+          "id": "2SC2078B",
+          "name": "2SC2078B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078B"
+        },
+        {
+          "id": "2SC2078C",
+          "name": "2SC2078C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078C"
+        },
+        {
+          "id": "2SC2078D",
+          "name": "2SC2078D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078D"
+        },
+        {
+          "id": "2SC2078E",
+          "name": "2SC2078E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078E"
+        },
+        {
+          "id": "2SC2079",
+          "name": "2SC2079",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078",
+          "manufacturer": "Various",
+          "href": "/component/2SC2079"
+        },
+        {
+          "id": "2SC208",
+          "name": "2SC208",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078",
+          "manufacturer": "Various",
+          "href": "/component/2SC208"
+        },
+        {
+          "id": "2SC2080",
+          "name": "2SC2080",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078",
+          "manufacturer": "Various",
+          "href": "/component/2SC2080"
+        },
+        {
+          "id": "2SC2081",
+          "name": "2SC2081",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078",
+          "manufacturer": "Various",
+          "href": "/component/2SC2081"
+        }
+      ],
+      "href": "/component/2SC2078"
+    },
+    {
+      "id": "2SC2078B",
+      "name": "2SC2078B",
+      "type": "NPN Transistor",
+      "description": "Collector-Emitter Voltage- :VCER= 75V(Min) ;RBE=150 Collector Current- :IC=3A APPLICATIONS 27MHz RF Power Amplifier Applications ABSOLUTE MAXIMUM RATINGS(Ta=25) SYMBOL PARAMETER VALUE UNITVCBO Collector-Base Voltage 80 V VCER Collector-Emitter Voltage RBE=15\n8.1. Size:152K toshiba\n2sc2075.pdf",
+      "manufacturer": "This Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer This Material Copyrighted By Its Respective Manufacturer \nDatasheet",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO220",
+      "maxCollectorCurrent": 3,
+      "maxCollectorEmitterVoltage": 75,
+      "maxCollectorBaseVoltage": 80,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 10,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 100,
+      "collectorCapacitance": 70,
+      "hFE": 25,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO220",
+        "Collector Power Dissipation": "10W",
+        "Collector-Base Voltage": "80V",
+        "Collector-Emitter Voltage": "75V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "3A",
+        "Current Gain (hFE)": "25",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "100MHz",
+        "Collector Capacitance": "70pF"
+      },
+      "datasheets": [
+        {
+          "name": "sanyo (111K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc2078.pdf&dire=_sanyo"
+        },
+        {
+          "name": "inchange semiconductor (239K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc2078.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "toshiba (152K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc2075.pdf&dire=_toshiba"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SC2069",
+          "name": "2SC2069",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078B",
+          "manufacturer": "Various",
+          "href": "/component/2SC2069"
+        },
+        {
+          "id": "2SC207",
+          "name": "2SC207",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078B",
+          "manufacturer": "Various",
+          "href": "/component/2SC207"
+        },
+        {
+          "id": "2SC2070",
+          "name": "2SC2070",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078B",
+          "manufacturer": "Various",
+          "href": "/component/2SC2070"
+        },
+        {
+          "id": "2SC2071",
+          "name": "2SC2071",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078B",
+          "manufacturer": "Various",
+          "href": "/component/2SC2071"
+        },
+        {
+          "id": "2SC2073",
+          "name": "2SC2073",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078B",
+          "manufacturer": "Various",
+          "href": "/component/2SC2073"
+        },
+        {
+          "id": "2SC2075",
+          "name": "2SC2075",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078B",
+          "manufacturer": "Various",
+          "href": "/component/2SC2075"
+        },
+        {
+          "id": "2SC2076",
+          "name": "2SC2076",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078B",
+          "manufacturer": "Various",
+          "href": "/component/2SC2076"
+        },
+        {
+          "id": "2SC2078",
+          "name": "2SC2078",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078B",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078"
+        },
+        {
+          "id": "2SC2078C",
+          "name": "2SC2078C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078B",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078C"
+        },
+        {
+          "id": "2SC2078D",
+          "name": "2SC2078D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078B",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078D"
+        },
+        {
+          "id": "2SC2078E",
+          "name": "2SC2078E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078B",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078E"
+        },
+        {
+          "id": "2SC2079",
+          "name": "2SC2079",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078B",
+          "manufacturer": "Various",
+          "href": "/component/2SC2079"
+        },
+        {
+          "id": "2SC208",
+          "name": "2SC208",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078B",
+          "manufacturer": "Various",
+          "href": "/component/2SC208"
+        },
+        {
+          "id": "2SC2080",
+          "name": "2SC2080",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078B",
+          "manufacturer": "Various",
+          "href": "/component/2SC2080"
+        },
+        {
+          "id": "2SC2081",
+          "name": "2SC2081",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078B",
+          "manufacturer": "Various",
+          "href": "/component/2SC2081"
+        },
+        {
+          "id": "2SC2082",
+          "name": "2SC2082",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078B",
+          "manufacturer": "Various",
+          "href": "/component/2SC2082"
+        }
+      ],
+      "href": "/component/2SC2078B"
+    },
+    {
+      "id": "2SC2078C",
+      "name": "2SC2078C",
+      "type": "NPN Transistor",
+      "description": "Collector-Emitter Voltage- :VCER= 75V(Min) ;RBE=150 Collector Current- :IC=3A APPLICATIONS 27MHz RF Power Amplifier Applications ABSOLUTE MAXIMUM RATINGS(Ta=25) SYMBOL PARAMETER VALUE UNITVCBO Collector-Base Voltage 80 V VCER Collector-Emitter Voltage RBE=15",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO220",
+      "maxCollectorCurrent": 3,
+      "maxCollectorEmitterVoltage": 75,
+      "maxCollectorBaseVoltage": 80,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 10,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 100,
+      "collectorCapacitance": 70,
+      "hFE": 40,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO220",
+        "Collector Power Dissipation": "10W",
+        "Collector-Base Voltage": "80V",
+        "Collector-Emitter Voltage": "75V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "3A",
+        "Current Gain (hFE)": "40",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "100MHz",
+        "Collector Capacitance": "70pF"
+      },
+      "datasheets": [
+        {
+          "name": "sanyo (111K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc2078.pdf&dire=_sanyo"
+        },
+        {
+          "name": "inchange semiconductor (239K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc2078.pdf&dire=_inchange_semiconductor"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SC207",
+          "name": "2SC207",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078C",
+          "manufacturer": "Various",
+          "href": "/component/2SC207"
+        },
+        {
+          "id": "2SC2070",
+          "name": "2SC2070",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078C",
+          "manufacturer": "Various",
+          "href": "/component/2SC2070"
+        },
+        {
+          "id": "2SC2071",
+          "name": "2SC2071",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078C",
+          "manufacturer": "Various",
+          "href": "/component/2SC2071"
+        },
+        {
+          "id": "2SC2073",
+          "name": "2SC2073",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078C",
+          "manufacturer": "Various",
+          "href": "/component/2SC2073"
+        },
+        {
+          "id": "2SC2075",
+          "name": "2SC2075",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078C",
+          "manufacturer": "Various",
+          "href": "/component/2SC2075"
+        },
+        {
+          "id": "2SC2076",
+          "name": "2SC2076",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078C",
+          "manufacturer": "Various",
+          "href": "/component/2SC2076"
+        },
+        {
+          "id": "2SC2078",
+          "name": "2SC2078",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078C",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078"
+        },
+        {
+          "id": "2SC2078B",
+          "name": "2SC2078B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078C",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078B"
+        },
+        {
+          "id": "2SC2078D",
+          "name": "2SC2078D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078C",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078D"
+        },
+        {
+          "id": "2SC2078E",
+          "name": "2SC2078E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078C",
+          "manufacturer": "Various",
+          "href": "/component/2SC2078E"
+        },
+        {
+          "id": "2SC2079",
+          "name": "2SC2079",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078C",
+          "manufacturer": "Various",
+          "href": "/component/2SC2079"
+        },
+        {
+          "id": "2SC208",
+          "name": "2SC208",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078C",
+          "manufacturer": "Various",
+          "href": "/component/2SC208"
+        },
+        {
+          "id": "2SC2080",
+          "name": "2SC2080",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078C",
+          "manufacturer": "Various",
+          "href": "/component/2SC2080"
+        },
+        {
+          "id": "2SC2081",
+          "name": "2SC2081",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078C",
+          "manufacturer": "Various",
+          "href": "/component/2SC2081"
+        },
+        {
+          "id": "2SC2082",
+          "name": "2SC2082",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078C",
+          "manufacturer": "Various",
+          "href": "/component/2SC2082"
+        },
+        {
+          "id": "2SC2083",
+          "name": "2SC2083",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC2078C",
+          "manufacturer": "Various",
+          "href": "/component/2SC2083"
+        }
+      ],
+      "href": "/component/2SC2078C"
+    },
+    {
+      "id": "BC332",
+      "name": "BC332",
+      "type": "NPN Transistor",
+      "description": "O92 \n- BJT Cross-Reference Search\nBC332 Datasheet (PDF)\nNO PDF!\nDatasheet: 2SB858B , 2SB858C , 2SB858D , 2SB859 , 2SB859B , 2SB859C , 2SB86 , 2SB860 , 2SC2625 , 2SB861B , 2SB861C , 2SB862 , 2SB863 , 2SB863O , 2SB863R , 2SB864 , 2SB865 . \nKeywords - BC332 transistor datasheet\nBC332 cross reference\nBC332 equivalent finder\nBC332 lookup\nBC332 substitution\nBC332 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.03,
+      "maxCollectorEmitterVoltage": 45,
+      "maxCollectorBaseVoltage": 45,
+      "maxEmitterBaseVoltage": 6,
+      "maxPowerDissipation": 0.25,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 100,
+      "collectorCapacitance": 6,
+      "hFE": 100,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.25W",
+        "Collector-Base Voltage": "45V",
+        "Collector-Emitter Voltage": "45V",
+        "Emitter-Base Voltage": "6V",
+        "Collector Current": "0.03A",
+        "Current Gain (hFE)": "100",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "100MHz",
+        "Collector Capacitance": "6pF"
+      },
+      "datasheets": [],
+      "equivalents": [
+        {
+          "id": "2SB858B",
+          "name": "2SB858B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332",
+          "manufacturer": "Various",
+          "href": "/component/2SB858B"
+        },
+        {
+          "id": "2SB858C",
+          "name": "2SB858C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332",
+          "manufacturer": "Various",
+          "href": "/component/2SB858C"
+        },
+        {
+          "id": "2SB858D",
+          "name": "2SB858D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332",
+          "manufacturer": "Various",
+          "href": "/component/2SB858D"
+        },
+        {
+          "id": "2SB859",
+          "name": "2SB859",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332",
+          "manufacturer": "Various",
+          "href": "/component/2SB859"
+        },
+        {
+          "id": "2SB859B",
+          "name": "2SB859B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332",
+          "manufacturer": "Various",
+          "href": "/component/2SB859B"
+        },
+        {
+          "id": "2SB859C",
+          "name": "2SB859C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332",
+          "manufacturer": "Various",
+          "href": "/component/2SB859C"
+        },
+        {
+          "id": "2SB86",
+          "name": "2SB86",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332",
+          "manufacturer": "Various",
+          "href": "/component/2SB86"
+        },
+        {
+          "id": "2SB860",
+          "name": "2SB860",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332",
+          "manufacturer": "Various",
+          "href": "/component/2SB860"
+        },
+        {
+          "id": "2SC2625",
+          "name": "2SC2625",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332",
+          "manufacturer": "Various",
+          "href": "/component/2SC2625"
+        },
+        {
+          "id": "2SB861B",
+          "name": "2SB861B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332",
+          "manufacturer": "Various",
+          "href": "/component/2SB861B"
+        },
+        {
+          "id": "2SB861C",
+          "name": "2SB861C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332",
+          "manufacturer": "Various",
+          "href": "/component/2SB861C"
+        },
+        {
+          "id": "2SB862",
+          "name": "2SB862",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332",
+          "manufacturer": "Various",
+          "href": "/component/2SB862"
+        },
+        {
+          "id": "2SB863",
+          "name": "2SB863",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332",
+          "manufacturer": "Various",
+          "href": "/component/2SB863"
+        },
+        {
+          "id": "2SB863O",
+          "name": "2SB863O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332",
+          "manufacturer": "Various",
+          "href": "/component/2SB863O"
+        },
+        {
+          "id": "2SB863R",
+          "name": "2SB863R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332",
+          "manufacturer": "Various",
+          "href": "/component/2SB863R"
+        },
+        {
+          "id": "2SB864",
+          "name": "2SB864",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332",
+          "manufacturer": "Various",
+          "href": "/component/2SB864"
+        },
+        {
+          "id": "2SB865",
+          "name": "2SB865",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332",
+          "manufacturer": "Various",
+          "href": "/component/2SB865"
+        }
+      ],
+      "href": "/component/BC332"
+    },
+    {
+      "id": "BC332A",
+      "name": "BC332A",
+      "type": "NPN Transistor",
+      "description": "O92 \n- BJT Cross-Reference Search\nBC332A Datasheet (PDF)\nNO PDF!\nDatasheet: 2SB858B , 2SB858C , 2SB858D , 2SB859 , 2SB859B , 2SB859C , 2SB86 , 2SB860 , 2SC2625 , 2SB861B , 2SB861C , 2SB862 , 2SB863 , 2SB863O , 2SB863R , 2SB864 , 2SB865 . \nHistory: BC332 \nKeywords - BC332A transistor datasheet\nBC332A cross reference\nBC332A equivalent finder\nBC332A lookup\nBC332A substitution\nBC332A replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.03,
+      "maxCollectorEmitterVoltage": 45,
+      "maxCollectorBaseVoltage": 45,
+      "maxEmitterBaseVoltage": 6,
+      "maxPowerDissipation": 0.25,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 100,
+      "collectorCapacitance": 6,
+      "hFE": 100,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.25W",
+        "Collector-Base Voltage": "45V",
+        "Collector-Emitter Voltage": "45V",
+        "Emitter-Base Voltage": "6V",
+        "Collector Current": "0.03A",
+        "Current Gain (hFE)": "100",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "100MHz",
+        "Collector Capacitance": "6pF"
+      },
+      "datasheets": [],
+      "equivalents": [
+        {
+          "id": "2SB858B",
+          "name": "2SB858B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332A",
+          "manufacturer": "Various",
+          "href": "/component/2SB858B"
+        },
+        {
+          "id": "2SB858C",
+          "name": "2SB858C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332A",
+          "manufacturer": "Various",
+          "href": "/component/2SB858C"
+        },
+        {
+          "id": "2SB858D",
+          "name": "2SB858D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332A",
+          "manufacturer": "Various",
+          "href": "/component/2SB858D"
+        },
+        {
+          "id": "2SB859",
+          "name": "2SB859",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332A",
+          "manufacturer": "Various",
+          "href": "/component/2SB859"
+        },
+        {
+          "id": "2SB859B",
+          "name": "2SB859B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332A",
+          "manufacturer": "Various",
+          "href": "/component/2SB859B"
+        },
+        {
+          "id": "2SB859C",
+          "name": "2SB859C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332A",
+          "manufacturer": "Various",
+          "href": "/component/2SB859C"
+        },
+        {
+          "id": "2SB86",
+          "name": "2SB86",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332A",
+          "manufacturer": "Various",
+          "href": "/component/2SB86"
+        },
+        {
+          "id": "2SB860",
+          "name": "2SB860",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332A",
+          "manufacturer": "Various",
+          "href": "/component/2SB860"
+        },
+        {
+          "id": "2SC2625",
+          "name": "2SC2625",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332A",
+          "manufacturer": "Various",
+          "href": "/component/2SC2625"
+        },
+        {
+          "id": "2SB861B",
+          "name": "2SB861B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332A",
+          "manufacturer": "Various",
+          "href": "/component/2SB861B"
+        },
+        {
+          "id": "2SB861C",
+          "name": "2SB861C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332A",
+          "manufacturer": "Various",
+          "href": "/component/2SB861C"
+        },
+        {
+          "id": "2SB862",
+          "name": "2SB862",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332A",
+          "manufacturer": "Various",
+          "href": "/component/2SB862"
+        },
+        {
+          "id": "2SB863",
+          "name": "2SB863",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332A",
+          "manufacturer": "Various",
+          "href": "/component/2SB863"
+        },
+        {
+          "id": "2SB863O",
+          "name": "2SB863O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332A",
+          "manufacturer": "Various",
+          "href": "/component/2SB863O"
+        },
+        {
+          "id": "2SB863R",
+          "name": "2SB863R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332A",
+          "manufacturer": "Various",
+          "href": "/component/2SB863R"
+        },
+        {
+          "id": "2SB864",
+          "name": "2SB864",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332A",
+          "manufacturer": "Various",
+          "href": "/component/2SB864"
+        },
+        {
+          "id": "2SB865",
+          "name": "2SB865",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332A",
+          "manufacturer": "Various",
+          "href": "/component/2SB865"
+        }
+      ],
+      "href": "/component/BC332A"
+    },
+    {
+      "id": "BC332B",
+      "name": "BC332B",
+      "type": "NPN Transistor",
+      "description": "O92 \n- BJT Cross-Reference Search\nBC332B Datasheet (PDF)\nNO PDF!\nDatasheet: 2SB858B , 2SB858C , 2SB858D , 2SB859 , 2SB859B , 2SB859C , 2SB86 , 2SB860 , 2SC2625 , 2SB861B , 2SB861C , 2SB862 , 2SB863 , 2SB863O , 2SB863R , 2SB864 , 2SB865 . \nHistory: BC332 \nKeywords - BC332B transistor datasheet\nBC332B cross reference\nBC332B equivalent finder\nBC332B lookup\nBC332B substitution\nBC332B replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.03,
+      "maxCollectorEmitterVoltage": 45,
+      "maxCollectorBaseVoltage": 45,
+      "maxEmitterBaseVoltage": 6,
+      "maxPowerDissipation": 0.25,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 100,
+      "collectorCapacitance": 6,
+      "hFE": 100,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.25W",
+        "Collector-Base Voltage": "45V",
+        "Collector-Emitter Voltage": "45V",
+        "Emitter-Base Voltage": "6V",
+        "Collector Current": "0.03A",
+        "Current Gain (hFE)": "100",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "100MHz",
+        "Collector Capacitance": "6pF"
+      },
+      "datasheets": [],
+      "equivalents": [
+        {
+          "id": "2SB858B",
+          "name": "2SB858B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332B",
+          "manufacturer": "Various",
+          "href": "/component/2SB858B"
+        },
+        {
+          "id": "2SB858C",
+          "name": "2SB858C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332B",
+          "manufacturer": "Various",
+          "href": "/component/2SB858C"
+        },
+        {
+          "id": "2SB858D",
+          "name": "2SB858D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332B",
+          "manufacturer": "Various",
+          "href": "/component/2SB858D"
+        },
+        {
+          "id": "2SB859",
+          "name": "2SB859",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332B",
+          "manufacturer": "Various",
+          "href": "/component/2SB859"
+        },
+        {
+          "id": "2SB859B",
+          "name": "2SB859B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332B",
+          "manufacturer": "Various",
+          "href": "/component/2SB859B"
+        },
+        {
+          "id": "2SB859C",
+          "name": "2SB859C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332B",
+          "manufacturer": "Various",
+          "href": "/component/2SB859C"
+        },
+        {
+          "id": "2SB86",
+          "name": "2SB86",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332B",
+          "manufacturer": "Various",
+          "href": "/component/2SB86"
+        },
+        {
+          "id": "2SB860",
+          "name": "2SB860",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332B",
+          "manufacturer": "Various",
+          "href": "/component/2SB860"
+        },
+        {
+          "id": "2SC2625",
+          "name": "2SC2625",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332B",
+          "manufacturer": "Various",
+          "href": "/component/2SC2625"
+        },
+        {
+          "id": "2SB861B",
+          "name": "2SB861B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332B",
+          "manufacturer": "Various",
+          "href": "/component/2SB861B"
+        },
+        {
+          "id": "2SB861C",
+          "name": "2SB861C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332B",
+          "manufacturer": "Various",
+          "href": "/component/2SB861C"
+        },
+        {
+          "id": "2SB862",
+          "name": "2SB862",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332B",
+          "manufacturer": "Various",
+          "href": "/component/2SB862"
+        },
+        {
+          "id": "2SB863",
+          "name": "2SB863",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332B",
+          "manufacturer": "Various",
+          "href": "/component/2SB863"
+        },
+        {
+          "id": "2SB863O",
+          "name": "2SB863O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332B",
+          "manufacturer": "Various",
+          "href": "/component/2SB863O"
+        },
+        {
+          "id": "2SB863R",
+          "name": "2SB863R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332B",
+          "manufacturer": "Various",
+          "href": "/component/2SB863R"
+        },
+        {
+          "id": "2SB864",
+          "name": "2SB864",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332B",
+          "manufacturer": "Various",
+          "href": "/component/2SB864"
+        },
+        {
+          "id": "2SB865",
+          "name": "2SB865",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332B",
+          "manufacturer": "Various",
+          "href": "/component/2SB865"
+        }
+      ],
+      "href": "/component/BC332B"
+    },
+    {
+      "id": "BC332C",
+      "name": "BC332C",
+      "type": "NPN Transistor",
+      "description": "O92 \n- BJT Cross-Reference Search\nBC332C Datasheet (PDF)\nNO PDF!\nDatasheet: 2SB858B , 2SB858C , 2SB858D , 2SB859 , 2SB859B , 2SB859C , 2SB86 , 2SB860 , 2SC2625 , 2SB861B , 2SB861C , 2SB862 , 2SB863 , 2SB863O , 2SB863R , 2SB864 , 2SB865 . \nHistory: BC332 \nKeywords - BC332C transistor datasheet\nBC332C cross reference\nBC332C equivalent finder\nBC332C lookup\nBC332C substitution\nBC332C replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.03,
+      "maxCollectorEmitterVoltage": 45,
+      "maxCollectorBaseVoltage": 45,
+      "maxEmitterBaseVoltage": 6,
+      "maxPowerDissipation": 0.25,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 100,
+      "collectorCapacitance": 6,
+      "hFE": 100,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.25W",
+        "Collector-Base Voltage": "45V",
+        "Collector-Emitter Voltage": "45V",
+        "Emitter-Base Voltage": "6V",
+        "Collector Current": "0.03A",
+        "Current Gain (hFE)": "100",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "100MHz",
+        "Collector Capacitance": "6pF"
+      },
+      "datasheets": [],
+      "equivalents": [
+        {
+          "id": "2SB858B",
+          "name": "2SB858B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332C",
+          "manufacturer": "Various",
+          "href": "/component/2SB858B"
+        },
+        {
+          "id": "2SB858C",
+          "name": "2SB858C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332C",
+          "manufacturer": "Various",
+          "href": "/component/2SB858C"
+        },
+        {
+          "id": "2SB858D",
+          "name": "2SB858D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332C",
+          "manufacturer": "Various",
+          "href": "/component/2SB858D"
+        },
+        {
+          "id": "2SB859",
+          "name": "2SB859",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332C",
+          "manufacturer": "Various",
+          "href": "/component/2SB859"
+        },
+        {
+          "id": "2SB859B",
+          "name": "2SB859B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332C",
+          "manufacturer": "Various",
+          "href": "/component/2SB859B"
+        },
+        {
+          "id": "2SB859C",
+          "name": "2SB859C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332C",
+          "manufacturer": "Various",
+          "href": "/component/2SB859C"
+        },
+        {
+          "id": "2SB86",
+          "name": "2SB86",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332C",
+          "manufacturer": "Various",
+          "href": "/component/2SB86"
+        },
+        {
+          "id": "2SB860",
+          "name": "2SB860",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332C",
+          "manufacturer": "Various",
+          "href": "/component/2SB860"
+        },
+        {
+          "id": "2SC2625",
+          "name": "2SC2625",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332C",
+          "manufacturer": "Various",
+          "href": "/component/2SC2625"
+        },
+        {
+          "id": "2SB861B",
+          "name": "2SB861B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332C",
+          "manufacturer": "Various",
+          "href": "/component/2SB861B"
+        },
+        {
+          "id": "2SB861C",
+          "name": "2SB861C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332C",
+          "manufacturer": "Various",
+          "href": "/component/2SB861C"
+        },
+        {
+          "id": "2SB862",
+          "name": "2SB862",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332C",
+          "manufacturer": "Various",
+          "href": "/component/2SB862"
+        },
+        {
+          "id": "2SB863",
+          "name": "2SB863",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332C",
+          "manufacturer": "Various",
+          "href": "/component/2SB863"
+        },
+        {
+          "id": "2SB863O",
+          "name": "2SB863O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332C",
+          "manufacturer": "Various",
+          "href": "/component/2SB863O"
+        },
+        {
+          "id": "2SB863R",
+          "name": "2SB863R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332C",
+          "manufacturer": "Various",
+          "href": "/component/2SB863R"
+        },
+        {
+          "id": "2SB864",
+          "name": "2SB864",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332C",
+          "manufacturer": "Various",
+          "href": "/component/2SB864"
+        },
+        {
+          "id": "2SB865",
+          "name": "2SB865",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC332C",
+          "manufacturer": "Various",
+          "href": "/component/2SB865"
+        }
+      ],
+      "href": "/component/BC332C"
+    },
+    {
+      "id": "BC333",
+      "name": "BC333",
+      "type": "NPN Transistor",
+      "description": "O92 \n- BJT Cross-Reference Search\nBC333 Datasheet (PDF)\nNO PDF!\nDatasheet: 2SB858B , 2SB858C , 2SB858D , 2SB859 , 2SB859B , 2SB859C , 2SB86 , 2SB860 , 2SC2625 , 2SB861B , 2SB861C , 2SB862 , 2SB863 , 2SB863O , 2SB863R , 2SB864 , 2SB865 . \nHistory: BC332C | BC332 \nKeywords - BC333 transistor datasheet\nBC333 cross reference\nBC333 equivalent finder\nBC333 lookup\nBC333 substitution\nBC333 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.05,
+      "maxCollectorEmitterVoltage": 25,
+      "maxCollectorBaseVoltage": 25,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.31,
+      "maxJunctionTemperature": 135,
+      "transitionFrequency": 50,
+      "collectorCapacitance": 4,
+      "hFE": 100,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.31W",
+        "Collector-Base Voltage": "25V",
+        "Collector-Emitter Voltage": "25V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.05A",
+        "Current Gain (hFE)": "100",
+        "Junction Temperature": "135°C",
+        "Transition Frequency": "50MHz",
+        "Collector Capacitance": "4pF"
+      },
+      "datasheets": [],
+      "equivalents": [
+        {
+          "id": "2SB858B",
+          "name": "2SB858B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC333",
+          "manufacturer": "Various",
+          "href": "/component/2SB858B"
+        },
+        {
+          "id": "2SB858C",
+          "name": "2SB858C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC333",
+          "manufacturer": "Various",
+          "href": "/component/2SB858C"
+        },
+        {
+          "id": "2SB858D",
+          "name": "2SB858D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC333",
+          "manufacturer": "Various",
+          "href": "/component/2SB858D"
+        },
+        {
+          "id": "2SB859",
+          "name": "2SB859",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC333",
+          "manufacturer": "Various",
+          "href": "/component/2SB859"
+        },
+        {
+          "id": "2SB859B",
+          "name": "2SB859B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC333",
+          "manufacturer": "Various",
+          "href": "/component/2SB859B"
+        },
+        {
+          "id": "2SB859C",
+          "name": "2SB859C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC333",
+          "manufacturer": "Various",
+          "href": "/component/2SB859C"
+        },
+        {
+          "id": "2SB86",
+          "name": "2SB86",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC333",
+          "manufacturer": "Various",
+          "href": "/component/2SB86"
+        },
+        {
+          "id": "2SB860",
+          "name": "2SB860",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC333",
+          "manufacturer": "Various",
+          "href": "/component/2SB860"
+        },
+        {
+          "id": "2SC2625",
+          "name": "2SC2625",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC333",
+          "manufacturer": "Various",
+          "href": "/component/2SC2625"
+        },
+        {
+          "id": "2SB861B",
+          "name": "2SB861B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC333",
+          "manufacturer": "Various",
+          "href": "/component/2SB861B"
+        },
+        {
+          "id": "2SB861C",
+          "name": "2SB861C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC333",
+          "manufacturer": "Various",
+          "href": "/component/2SB861C"
+        },
+        {
+          "id": "2SB862",
+          "name": "2SB862",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC333",
+          "manufacturer": "Various",
+          "href": "/component/2SB862"
+        },
+        {
+          "id": "2SB863",
+          "name": "2SB863",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC333",
+          "manufacturer": "Various",
+          "href": "/component/2SB863"
+        },
+        {
+          "id": "2SB863O",
+          "name": "2SB863O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC333",
+          "manufacturer": "Various",
+          "href": "/component/2SB863O"
+        },
+        {
+          "id": "2SB863R",
+          "name": "2SB863R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC333",
+          "manufacturer": "Various",
+          "href": "/component/2SB863R"
+        },
+        {
+          "id": "2SB864",
+          "name": "2SB864",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC333",
+          "manufacturer": "Various",
+          "href": "/component/2SB864"
+        },
+        {
+          "id": "2SB865",
+          "name": "2SB865",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC333",
+          "manufacturer": "Various",
+          "href": "/component/2SB865"
+        }
+      ],
+      "href": "/component/BC333"
+    },
+    {
+      "id": "BC334",
+      "name": "BC334",
+      "type": "PNP Transistor",
+      "description": "O92 \n- BJT Cross-Reference Search\nBC334 Datasheet (PDF)\nNO PDF!\nDatasheet: 2SB858B , 2SB858C , 2SB858D , 2SB859 , 2SB859B , 2SB859C , 2SB86 , 2SB860 , 2SC2625 , 2SB861B , 2SB861C , 2SB862 , 2SB863 , 2SB863O , 2SB863R , 2SB864 , 2SB865 . \nHistory: BC333 | BC332C | BC332 \nKeywords - BC334 transistor datasheet\nBC334 cross reference\nBC334 equivalent finder\nBC334 lookup\nBC334 substitution\nBC334 replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.05,
+      "maxCollectorEmitterVoltage": 25,
+      "maxCollectorBaseVoltage": 25,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.31,
+      "maxJunctionTemperature": 135,
+      "transitionFrequency": 50,
+      "collectorCapacitance": 4,
+      "hFE": 100,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.31W",
+        "Collector-Base Voltage": "25V",
+        "Collector-Emitter Voltage": "25V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.05A",
+        "Current Gain (hFE)": "100",
+        "Junction Temperature": "135°C",
+        "Transition Frequency": "50MHz",
+        "Collector Capacitance": "4pF"
+      },
+      "datasheets": [],
+      "equivalents": [
+        {
+          "id": "2SB858B",
+          "name": "2SB858B",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC334",
+          "manufacturer": "Various",
+          "href": "/component/2SB858B"
+        },
+        {
+          "id": "2SB858C",
+          "name": "2SB858C",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC334",
+          "manufacturer": "Various",
+          "href": "/component/2SB858C"
+        },
+        {
+          "id": "2SB858D",
+          "name": "2SB858D",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC334",
+          "manufacturer": "Various",
+          "href": "/component/2SB858D"
+        },
+        {
+          "id": "2SB859",
+          "name": "2SB859",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC334",
+          "manufacturer": "Various",
+          "href": "/component/2SB859"
+        },
+        {
+          "id": "2SB859B",
+          "name": "2SB859B",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC334",
+          "manufacturer": "Various",
+          "href": "/component/2SB859B"
+        },
+        {
+          "id": "2SB859C",
+          "name": "2SB859C",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC334",
+          "manufacturer": "Various",
+          "href": "/component/2SB859C"
+        },
+        {
+          "id": "2SB86",
+          "name": "2SB86",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC334",
+          "manufacturer": "Various",
+          "href": "/component/2SB86"
+        },
+        {
+          "id": "2SB860",
+          "name": "2SB860",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC334",
+          "manufacturer": "Various",
+          "href": "/component/2SB860"
+        },
+        {
+          "id": "2SC2625",
+          "name": "2SC2625",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC334",
+          "manufacturer": "Various",
+          "href": "/component/2SC2625"
+        },
+        {
+          "id": "2SB861B",
+          "name": "2SB861B",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC334",
+          "manufacturer": "Various",
+          "href": "/component/2SB861B"
+        },
+        {
+          "id": "2SB861C",
+          "name": "2SB861C",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC334",
+          "manufacturer": "Various",
+          "href": "/component/2SB861C"
+        },
+        {
+          "id": "2SB862",
+          "name": "2SB862",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC334",
+          "manufacturer": "Various",
+          "href": "/component/2SB862"
+        },
+        {
+          "id": "2SB863",
+          "name": "2SB863",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC334",
+          "manufacturer": "Various",
+          "href": "/component/2SB863"
+        },
+        {
+          "id": "2SB863O",
+          "name": "2SB863O",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC334",
+          "manufacturer": "Various",
+          "href": "/component/2SB863O"
+        },
+        {
+          "id": "2SB863R",
+          "name": "2SB863R",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC334",
+          "manufacturer": "Various",
+          "href": "/component/2SB863R"
+        },
+        {
+          "id": "2SB864",
+          "name": "2SB864",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC334",
+          "manufacturer": "Various",
+          "href": "/component/2SB864"
+        },
+        {
+          "id": "2SB865",
+          "name": "2SB865",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC334",
+          "manufacturer": "Various",
+          "href": "/component/2SB865"
+        }
+      ],
+      "href": "/component/BC334"
+    },
+    {
+      "id": "BC335",
+      "name": "BC335",
+      "type": "NPN Transistor",
+      "description": "O92 \n- BJT Cross-Reference Search\nBC335 Datasheet (PDF)\nNO PDF!\nDatasheet: 2SB858B , 2SB858C , 2SB858D , 2SB859 , 2SB859B , 2SB859C , 2SB86 , 2SB860 , 2SC2625 , 2SB861B , 2SB861C , 2SB862 , 2SB863 , 2SB863O , 2SB863R , 2SB864 , 2SB865 . \nHistory: BC334 | BC333 | BC332C | BC332 \nKeywords - BC335 transistor datasheet\nBC335 cross reference\nBC335 equivalent finder\nBC335 lookup\nBC335 substitution\nBC335 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.05,
+      "maxCollectorEmitterVoltage": 25,
+      "maxCollectorBaseVoltage": 25,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.31,
+      "maxJunctionTemperature": 135,
+      "transitionFrequency": 50,
+      "collectorCapacitance": 4,
+      "hFE": 100,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.31W",
+        "Collector-Base Voltage": "25V",
+        "Collector-Emitter Voltage": "25V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.05A",
+        "Current Gain (hFE)": "100",
+        "Junction Temperature": "135°C",
+        "Transition Frequency": "50MHz",
+        "Collector Capacitance": "4pF"
+      },
+      "datasheets": [],
+      "equivalents": [
+        {
+          "id": "2SB858B",
+          "name": "2SB858B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC335",
+          "manufacturer": "Various",
+          "href": "/component/2SB858B"
+        },
+        {
+          "id": "2SB858C",
+          "name": "2SB858C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC335",
+          "manufacturer": "Various",
+          "href": "/component/2SB858C"
+        },
+        {
+          "id": "2SB858D",
+          "name": "2SB858D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC335",
+          "manufacturer": "Various",
+          "href": "/component/2SB858D"
+        },
+        {
+          "id": "2SB859",
+          "name": "2SB859",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC335",
+          "manufacturer": "Various",
+          "href": "/component/2SB859"
+        },
+        {
+          "id": "2SB859B",
+          "name": "2SB859B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC335",
+          "manufacturer": "Various",
+          "href": "/component/2SB859B"
+        },
+        {
+          "id": "2SB859C",
+          "name": "2SB859C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC335",
+          "manufacturer": "Various",
+          "href": "/component/2SB859C"
+        },
+        {
+          "id": "2SB86",
+          "name": "2SB86",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC335",
+          "manufacturer": "Various",
+          "href": "/component/2SB86"
+        },
+        {
+          "id": "2SB860",
+          "name": "2SB860",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC335",
+          "manufacturer": "Various",
+          "href": "/component/2SB860"
+        },
+        {
+          "id": "2SC2625",
+          "name": "2SC2625",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC335",
+          "manufacturer": "Various",
+          "href": "/component/2SC2625"
+        },
+        {
+          "id": "2SB861B",
+          "name": "2SB861B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC335",
+          "manufacturer": "Various",
+          "href": "/component/2SB861B"
+        },
+        {
+          "id": "2SB861C",
+          "name": "2SB861C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC335",
+          "manufacturer": "Various",
+          "href": "/component/2SB861C"
+        },
+        {
+          "id": "2SB862",
+          "name": "2SB862",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC335",
+          "manufacturer": "Various",
+          "href": "/component/2SB862"
+        },
+        {
+          "id": "2SB863",
+          "name": "2SB863",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC335",
+          "manufacturer": "Various",
+          "href": "/component/2SB863"
+        },
+        {
+          "id": "2SB863O",
+          "name": "2SB863O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC335",
+          "manufacturer": "Various",
+          "href": "/component/2SB863O"
+        },
+        {
+          "id": "2SB863R",
+          "name": "2SB863R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC335",
+          "manufacturer": "Various",
+          "href": "/component/2SB863R"
+        },
+        {
+          "id": "2SB864",
+          "name": "2SB864",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC335",
+          "manufacturer": "Various",
+          "href": "/component/2SB864"
+        },
+        {
+          "id": "2SB865",
+          "name": "2SB865",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC335",
+          "manufacturer": "Various",
+          "href": "/component/2SB865"
+        }
+      ],
+      "href": "/component/BC335"
+    },
+    {
+      "id": "D209L",
+      "name": "D209L",
+      "type": "NPN Transistor",
+      "description": "O-3PN \n- BJT Cross-Reference Search\nD209L Datasheet (PDF)\n0.1. Size:1353K jilin sino\n3dd209l.pdf \nNPN HIGH VOLTAGE FAST-SWITCHING NPN POWER TRANSISTOR R 3DD209L MAIN CHARACTERISTICS Package I 12A CV 400V CEOP C 120W APPLICATIONS Energy-saving light Electronic ballasts High frequency switching power supply \n0.2. Size:212K inchange semiconductor\n3dd209l.pdf \nisc Silicon NPN Power Transistor 3DD209LDESCRIPTIONHigh breakdown voltageHigh switching speedHigh current capabilityMinimum Lot-to-Lot variations for robust deviceperformance and reliable operationAPPLICATIONSEnergy-saving lightElectronic ballastsHigh frequency switching power supplyHigh frequency power transformABSOLUTE MAXIMUM RATINGS(T =25)aSYMB\nDatasheet: 2SB858B , 2SB858C , 2SB858D , 2SB859 , 2SB859B , 2SB859C , 2SB86 , 2SB860 , 2SC2625 , 2SB861B , 2SB861C , 2SB862 , 2SB863 , 2SB863O , 2SB863R , 2SB864 , 2SB865 . \nHistory: BC335 | BC334 | BC333 | BC332C | BC332 \nKeywords - D209L transistor datasheet\nD209L cross reference\nD209L equivalent finder\nD209L lookup\nD209L substitution\nD209L replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO-3PN",
+      "maxCollectorCurrent": 12,
+      "maxCollectorEmitterVoltage": 400,
+      "maxCollectorBaseVoltage": 700,
+      "maxEmitterBaseVoltage": 9,
+      "maxPowerDissipation": 100,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 5,
+      "hFE": 8,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO-3PN",
+        "Collector Power Dissipation": "100W",
+        "Collector-Base Voltage": "700V",
+        "Collector-Emitter Voltage": "400V",
+        "Emitter-Base Voltage": "9V",
+        "Collector Current": "12A",
+        "Current Gain (hFE)": "8",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "5MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "jilin sino (1353K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=3dd209l.pdf&dire=_jilin_sino"
+        },
+        {
+          "name": "inchange semiconductor (212K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=3dd209l.pdf&dire=_inchange_semiconductor"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SB858B",
+          "name": "2SB858B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for D209L",
+          "manufacturer": "Various",
+          "href": "/component/2SB858B"
+        },
+        {
+          "id": "2SB858C",
+          "name": "2SB858C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for D209L",
+          "manufacturer": "Various",
+          "href": "/component/2SB858C"
+        },
+        {
+          "id": "2SB858D",
+          "name": "2SB858D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for D209L",
+          "manufacturer": "Various",
+          "href": "/component/2SB858D"
+        },
+        {
+          "id": "2SB859",
+          "name": "2SB859",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for D209L",
+          "manufacturer": "Various",
+          "href": "/component/2SB859"
+        },
+        {
+          "id": "2SB859B",
+          "name": "2SB859B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for D209L",
+          "manufacturer": "Various",
+          "href": "/component/2SB859B"
+        },
+        {
+          "id": "2SB859C",
+          "name": "2SB859C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for D209L",
+          "manufacturer": "Various",
+          "href": "/component/2SB859C"
+        },
+        {
+          "id": "2SB86",
+          "name": "2SB86",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for D209L",
+          "manufacturer": "Various",
+          "href": "/component/2SB86"
+        },
+        {
+          "id": "2SB860",
+          "name": "2SB860",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for D209L",
+          "manufacturer": "Various",
+          "href": "/component/2SB860"
+        },
+        {
+          "id": "2SC2625",
+          "name": "2SC2625",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for D209L",
+          "manufacturer": "Various",
+          "href": "/component/2SC2625"
+        },
+        {
+          "id": "2SB861B",
+          "name": "2SB861B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for D209L",
+          "manufacturer": "Various",
+          "href": "/component/2SB861B"
+        },
+        {
+          "id": "2SB861C",
+          "name": "2SB861C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for D209L",
+          "manufacturer": "Various",
+          "href": "/component/2SB861C"
+        },
+        {
+          "id": "2SB862",
+          "name": "2SB862",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for D209L",
+          "manufacturer": "Various",
+          "href": "/component/2SB862"
+        },
+        {
+          "id": "2SB863",
+          "name": "2SB863",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for D209L",
+          "manufacturer": "Various",
+          "href": "/component/2SB863"
+        },
+        {
+          "id": "2SB863O",
+          "name": "2SB863O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for D209L",
+          "manufacturer": "Various",
+          "href": "/component/2SB863O"
+        },
+        {
+          "id": "2SB863R",
+          "name": "2SB863R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for D209L",
+          "manufacturer": "Various",
+          "href": "/component/2SB863R"
+        },
+        {
+          "id": "2SB864",
+          "name": "2SB864",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for D209L",
+          "manufacturer": "Various",
+          "href": "/component/2SB864"
+        },
+        {
+          "id": "2SB865",
+          "name": "2SB865",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for D209L",
+          "manufacturer": "Various",
+          "href": "/component/2SB865"
+        }
+      ],
+      "href": "/component/D209L"
+    }
+  ]
+}

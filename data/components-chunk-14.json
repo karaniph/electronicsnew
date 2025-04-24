@@ -1,0 +1,2540 @@
+{
+  "components": [
+    {
+      "id": "BC336",
+      "name": "BC336",
+      "type": "PNP Transistor",
+      "description": "O92 \n- BJT Cross-Reference Search\nBC336 Datasheet (PDF)\nNO PDF!\nDatasheet: 2SB858B , 2SB858C , 2SB858D , 2SB859 , 2SB859B , 2SB859C , 2SB86 , 2SB860 , 2SC2625 , 2SB861B , 2SB861C , 2SB862 , 2SB863 , 2SB863O , 2SB863R , 2SB864 , 2SB865 . \nHistory: BC335 | BC334 | BC333 | BC332C | BC332 \nKeywords - BC336 transistor datasheet\nBC336 cross reference\nBC336 equivalent finder\nBC336 lookup\nBC336 substitution\nBC336 replacement",
+      "manufacturer": "Various",
+      "polarity": "PNP",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.05,
+      "maxCollectorEmitterVoltage": 25,
+      "maxCollectorBaseVoltage": 25,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.31,
+      "maxJunctionTemperature": 135,
+      "transitionFrequency": 50,
+      "collectorCapacitance": 4,
+      "hFE": 100,
+      "specs": {
+        "Polarity": "PNP",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.31W",
+        "Collector-Base Voltage": "25V",
+        "Collector-Emitter Voltage": "25V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.05A",
+        "Current Gain (hFE)": "100",
+        "Junction Temperature": "135°C",
+        "Transition Frequency": "50MHz",
+        "Collector Capacitance": "4pF"
+      },
+      "datasheets": [],
+      "equivalents": [
+        {
+          "id": "2SB858B",
+          "name": "2SB858B",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC336",
+          "manufacturer": "Various",
+          "href": "/component/2SB858B"
+        },
+        {
+          "id": "2SB858C",
+          "name": "2SB858C",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC336",
+          "manufacturer": "Various",
+          "href": "/component/2SB858C"
+        },
+        {
+          "id": "2SB858D",
+          "name": "2SB858D",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC336",
+          "manufacturer": "Various",
+          "href": "/component/2SB858D"
+        },
+        {
+          "id": "2SB859",
+          "name": "2SB859",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC336",
+          "manufacturer": "Various",
+          "href": "/component/2SB859"
+        },
+        {
+          "id": "2SB859B",
+          "name": "2SB859B",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC336",
+          "manufacturer": "Various",
+          "href": "/component/2SB859B"
+        },
+        {
+          "id": "2SB859C",
+          "name": "2SB859C",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC336",
+          "manufacturer": "Various",
+          "href": "/component/2SB859C"
+        },
+        {
+          "id": "2SB86",
+          "name": "2SB86",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC336",
+          "manufacturer": "Various",
+          "href": "/component/2SB86"
+        },
+        {
+          "id": "2SB860",
+          "name": "2SB860",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC336",
+          "manufacturer": "Various",
+          "href": "/component/2SB860"
+        },
+        {
+          "id": "2SC2625",
+          "name": "2SC2625",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC336",
+          "manufacturer": "Various",
+          "href": "/component/2SC2625"
+        },
+        {
+          "id": "2SB861B",
+          "name": "2SB861B",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC336",
+          "manufacturer": "Various",
+          "href": "/component/2SB861B"
+        },
+        {
+          "id": "2SB861C",
+          "name": "2SB861C",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC336",
+          "manufacturer": "Various",
+          "href": "/component/2SB861C"
+        },
+        {
+          "id": "2SB862",
+          "name": "2SB862",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC336",
+          "manufacturer": "Various",
+          "href": "/component/2SB862"
+        },
+        {
+          "id": "2SB863",
+          "name": "2SB863",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC336",
+          "manufacturer": "Various",
+          "href": "/component/2SB863"
+        },
+        {
+          "id": "2SB863O",
+          "name": "2SB863O",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC336",
+          "manufacturer": "Various",
+          "href": "/component/2SB863O"
+        },
+        {
+          "id": "2SB863R",
+          "name": "2SB863R",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC336",
+          "manufacturer": "Various",
+          "href": "/component/2SB863R"
+        },
+        {
+          "id": "2SB864",
+          "name": "2SB864",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC336",
+          "manufacturer": "Various",
+          "href": "/component/2SB864"
+        },
+        {
+          "id": "2SB865",
+          "name": "2SB865",
+          "type": "PNP Transistor",
+          "description": "Potential equivalent for BC336",
+          "manufacturer": "Various",
+          "href": "/component/2SB865"
+        }
+      ],
+      "href": "/component/BC336"
+    },
+    {
+      "id": "BC337-01",
+      "name": "BC337-01",
+      "type": "NPN Transistor",
+      "description": "O92 \n- BJT Cross-Reference Search\nBC337-01 Datasheet (PDF)\n8.1. Size:66K st\nbc337-25 bc337-40.pdf \nBC337-25BC337-40SMALL SIGNAL NPN TRANSISTORSPRELIMINARY DATAOrdering Code Marking Package / ShipmentBC337-25 BC337-25 TO-92 / BulkBC337-25-AP BC337-25 TO-92 / AmmopackBC337-40 BC337-40 TO-92 / BulkBC337-40-AP BC337-40 TO-92 / Ammopack SILICON EPITAXIAL PLANAR NPNTRANSISTORS TO-92 PACKAGE SUITABLE FORTHROUGH-HOLE PCB ASSEMBLYTO-92 TO-92 THE PNP COMPLEMENTARY TYPES\n8.2. Size:15K fairchild semi\nbc337-16 bc337-25.pdf \nBC337-16BC337-25E TO-92BCNPN General Purpose AmplifierThis device is designed for use as general purpose amplifiersand switches requiring collector currents to 500 mA. Sourced fromProcess 12. See TN3019A for characteristics.Absolute Maximum Ratings* TA = 25C unless otherwise notedSymbol Parameter Value UnitsVCEO Collector-Emitter Voltage 45 VVCES Collector-Base Voltage\n8.4. Size:65K central\nbc337-a bc338.pdf \n145 Adams Avenue, Hauppauge, NY 11788 USATel: (631) 435-1110 Fax: (631) 435-1824\nDatasheet: 2SB858B , 2SB858C , 2SB858D , 2SB859 , 2SB859B , 2SB859C , 2SB86 , 2SB860 , 2SC2625 , 2SB861B , 2SB861C , 2SB862 , 2SB863 , 2SB863O , 2SB863R , 2SB864 , 2SB865 . \nHistory: BC336 | BC335 | BC334 | BC333 | BC332C | BC332 \nKeywords - BC337-01 transistor datasheet\nBC337-01 cross reference\nBC337-01 equivalent finder\nBC337-01 lookup\nBC337-01 substitution\nBC337-01 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.5,
+      "maxCollectorEmitterVoltage": 45,
+      "maxCollectorBaseVoltage": 45,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.4,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 60,
+      "collectorCapacitance": 20,
+      "hFE": 100,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.4W",
+        "Collector-Base Voltage": "45V",
+        "Collector-Emitter Voltage": "45V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.5A",
+        "Current Gain (hFE)": "100",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "60MHz",
+        "Collector Capacitance": "20pF"
+      },
+      "datasheets": [],
+      "equivalents": [
+        {
+          "id": "2SB858B",
+          "name": "2SB858B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC337-01",
+          "manufacturer": "Various",
+          "href": "/component/2SB858B"
+        },
+        {
+          "id": "2SB858C",
+          "name": "2SB858C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC337-01",
+          "manufacturer": "Various",
+          "href": "/component/2SB858C"
+        },
+        {
+          "id": "2SB858D",
+          "name": "2SB858D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC337-01",
+          "manufacturer": "Various",
+          "href": "/component/2SB858D"
+        },
+        {
+          "id": "2SB859",
+          "name": "2SB859",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC337-01",
+          "manufacturer": "Various",
+          "href": "/component/2SB859"
+        },
+        {
+          "id": "2SB859B",
+          "name": "2SB859B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC337-01",
+          "manufacturer": "Various",
+          "href": "/component/2SB859B"
+        },
+        {
+          "id": "2SB859C",
+          "name": "2SB859C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC337-01",
+          "manufacturer": "Various",
+          "href": "/component/2SB859C"
+        },
+        {
+          "id": "2SB86",
+          "name": "2SB86",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC337-01",
+          "manufacturer": "Various",
+          "href": "/component/2SB86"
+        },
+        {
+          "id": "2SB860",
+          "name": "2SB860",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC337-01",
+          "manufacturer": "Various",
+          "href": "/component/2SB860"
+        },
+        {
+          "id": "2SC2625",
+          "name": "2SC2625",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC337-01",
+          "manufacturer": "Various",
+          "href": "/component/2SC2625"
+        },
+        {
+          "id": "2SB861B",
+          "name": "2SB861B",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC337-01",
+          "manufacturer": "Various",
+          "href": "/component/2SB861B"
+        },
+        {
+          "id": "2SB861C",
+          "name": "2SB861C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC337-01",
+          "manufacturer": "Various",
+          "href": "/component/2SB861C"
+        },
+        {
+          "id": "2SB862",
+          "name": "2SB862",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC337-01",
+          "manufacturer": "Various",
+          "href": "/component/2SB862"
+        },
+        {
+          "id": "2SB863",
+          "name": "2SB863",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC337-01",
+          "manufacturer": "Various",
+          "href": "/component/2SB863"
+        },
+        {
+          "id": "2SB863O",
+          "name": "2SB863O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC337-01",
+          "manufacturer": "Various",
+          "href": "/component/2SB863O"
+        },
+        {
+          "id": "2SB863R",
+          "name": "2SB863R",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC337-01",
+          "manufacturer": "Various",
+          "href": "/component/2SB863R"
+        },
+        {
+          "id": "2SB864",
+          "name": "2SB864",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC337-01",
+          "manufacturer": "Various",
+          "href": "/component/2SB864"
+        },
+        {
+          "id": "2SB865",
+          "name": "2SB865",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC337-01",
+          "manufacturer": "Various",
+          "href": "/component/2SB865"
+        }
+      ],
+      "href": "/component/BC337-01"
+    },
+    {
+      "id": "BC337-10",
+      "name": "BC337-10",
+      "type": "NPN Transistor",
+      "description": "O92 \n- BJT Cross-Reference Search\nBC337-10 Datasheet (PDF)\n7.1. Size:15K fairchild semi\nbc337-16 bc337-25.pdf \nBC337-16BC337-25E TO-92BCNPN General Purpose AmplifierThis device is designed for use as general purpose amplifiersand switches requiring collector currents to 500 mA. Sourced fromProcess 12. See TN3019A for characteristics.Absolute Maximum Ratings* TA = 25C unless otherwise notedSymbol Parameter Value UnitsVCEO Collector-Emitter Voltage 45 VVCES Collector-Base Voltage\n7.3. Size:88K diodes\nbc337-16bk bc337-25bk bc337-40bk bc338-16bk bc338-25bk bc338-40bk.pdf \nBC337-xBK / BC338-xBKBC337-xBK / BC338-xBKGeneral Purpose Si-Epitaxial Planar TransistorsNPN NPNSi-Epitaxial Planar-Transistoren fr universellen EinsatzVersion 2010-05-270.1 Power dissipation 625 mW4.6VerlustleistungPlastic case TO-92Kunststoffgehuse (10D3)Weight approx. Gewicht ca. 0.18 gPlastic material has UL classification 94V-0C B EGehusematerial UL9\n7.4. Size:234K mcc\nbc337-16-25-40 bc338-16-25-40.pdf \nMCCBC337-16/25/40TM Micro Commercial Components20736 Marilla Street ChatsworthMicro Commercial ComponentsBC338-16/25/40CA 91311Phone: (818) 701-4933Fax: (818) 701-4939FeaturesNPN Capable of 0.625Watts of Power Dissipation. Collector-current 0.8A Plastic-Encapsulate Collector-base Voltage :VCBO=50V(BC337) , VCBO=30V(BC338) Transistors Lead Free Fin\nDatasheet: BC332B , BC332C , BC333 , BC334 , BC335 , BC336 , BC337 , BC337-01 , 2SC2625 , BC337-16 , BC337-25 , BC337-40 , BC337A-16 , BC337A-25 , BC337AP , BC337BP , BC337BPL . \nKeywords - BC337-10 transistor datasheet\nBC337-10 cross reference\nBC337-10 equivalent finder\nBC337-10 lookup\nBC337-10 substitution\nBC337-10 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 1,
+      "maxCollectorEmitterVoltage": 45,
+      "maxCollectorBaseVoltage": 50,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.5,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 50,
+      "collectorCapacitance": 24,
+      "hFE": 67,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.5W",
+        "Collector-Base Voltage": "50V",
+        "Collector-Emitter Voltage": "45V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "1A",
+        "Current Gain (hFE)": "67",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "50MHz",
+        "Collector Capacitance": "24pF"
+      },
+      "datasheets": [],
+      "equivalents": [
+        {
+          "id": "2SC2625",
+          "name": "2SC2625",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC337-10",
+          "manufacturer": "Various",
+          "href": "/component/2SC2625"
+        }
+      ],
+      "href": "/component/BC337-10"
+    },
+    {
+      "id": "BC337-16",
+      "name": "BC337-16",
+      "type": "NPN Transistor",
+      "description": "O92 \n- BJT Cross-Reference Search\nBC337-16 Datasheet (PDF)\n..1. Size:15K fairchild semi\nbc337-16 bc337-25.pdf \nBC337-16BC337-25E TO-92BCNPN General Purpose AmplifierThis device is designed for use as general purpose amplifiersand switches requiring collector currents to 500 mA. Sourced fromProcess 12. See TN3019A for characteristics.Absolute Maximum Ratings* TA = 25C unless otherwise notedSymbol Parameter Value UnitsVCEO Collector-Emitter Voltage 45 VVCES Collector-Base Voltage\n0.1. Size:88K diodes\nbc337-16bk bc337-25bk bc337-40bk bc338-16bk bc338-25bk bc338-40bk.pdf \nBC337-xBK / BC338-xBKBC337-xBK / BC338-xBKGeneral Purpose Si-Epitaxial Planar TransistorsNPN NPNSi-Epitaxial Planar-Transistoren fr universellen EinsatzVersion 2010-05-270.1 Power dissipation 625 mW4.6VerlustleistungPlastic case TO-92Kunststoffgehuse (10D3)Weight approx. Gewicht ca. 0.18 gPlastic material has UL classification 94V-0C B EGehusematerial UL9\n0.2. Size:234K mcc\nbc337-16-25-40 bc338-16-25-40.pdf \nMCCBC337-16/25/40TM Micro Commercial Components20736 Marilla Street ChatsworthMicro Commercial ComponentsBC338-16/25/40CA 91311Phone: (818) 701-4933Fax: (818) 701-4939FeaturesNPN Capable of 0.625Watts of Power Dissipation. Collector-current 0.8A Plastic-Encapsulate Collector-base Voltage :VCBO=50V(BC337) , VCBO=30V(BC338) Transistors Lead Free Fin\nDatasheet: BC332C , BC333 , BC334 , BC335 , BC336 , BC337 , BC337-01 , BC337-10 , A1013 , BC337-25 , BC337-40 , BC337A-16 , BC337A-25 , BC337AP , BC337BP , BC337BPL , BC337CP . \nHistory: BC337-10 \nKeywords - BC337-16 transistor datasheet\nBC337-16 cross reference\nBC337-16 equivalent finder\nBC337-16 lookup\nBC337-16 substitution\nBC337-16 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.8,
+      "maxCollectorEmitterVoltage": 45,
+      "maxCollectorBaseVoltage": 50,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.36,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 60,
+      "collectorCapacitance": 20,
+      "hFE": 100,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.36W",
+        "Collector-Base Voltage": "50V",
+        "Collector-Emitter Voltage": "45V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.8A",
+        "Current Gain (hFE)": "100",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "60MHz",
+        "Collector Capacitance": "20pF"
+      },
+      "datasheets": [],
+      "equivalents": [],
+      "href": "/component/BC337-16"
+    },
+    {
+      "id": "BC337-25",
+      "name": "BC337-25",
+      "type": "NPN Transistor",
+      "description": "O92 \n- BJT Cross-Reference Search\nBC337-25 Datasheet (PDF)\n..1. Size:66K st\nbc337-25 bc337-40.pdf \nBC337-25BC337-40SMALL SIGNAL NPN TRANSISTORSPRELIMINARY DATAOrdering Code Marking Package / ShipmentBC337-25 BC337-25 TO-92 / BulkBC337-25-AP BC337-25 TO-92 / AmmopackBC337-40 BC337-40 TO-92 / BulkBC337-40-AP BC337-40 TO-92 / Ammopack SILICON EPITAXIAL PLANAR NPNTRANSISTORS TO-92 PACKAGE SUITABLE FORTHROUGH-HOLE PCB ASSEMBLYTO-92 TO-92 THE PNP COMPLEMENTARY TYPES\n..2. Size:15K fairchild semi\nbc337-16 bc337-25.pdf \nBC337-16BC337-25E TO-92BCNPN General Purpose AmplifierThis device is designed for use as general purpose amplifiersand switches requiring collector currents to 500 mA. Sourced fromProcess 12. See TN3019A for characteristics.Absolute Maximum Ratings* TA = 25C unless otherwise notedSymbol Parameter Value UnitsVCEO Collector-Emitter Voltage 45 VVCES Collector-Base Voltage\n0.1. Size:88K diodes\nbc337-16bk bc337-25bk bc337-40bk bc338-16bk bc338-25bk bc338-40bk.pdf \nBC337-xBK / BC338-xBKBC337-xBK / BC338-xBKGeneral Purpose Si-Epitaxial Planar TransistorsNPN NPNSi-Epitaxial Planar-Transistoren fr universellen EinsatzVersion 2010-05-270.1 Power dissipation 625 mW4.6VerlustleistungPlastic case TO-92Kunststoffgehuse (10D3)Weight approx. Gewicht ca. 0.18 gPlastic material has UL classification 94V-0C B EGehusematerial UL9\nDatasheet: BC333 , BC334 , BC335 , BC336 , BC337 , BC337-01 , BC337-10 , BC337-16 , C3198 , BC337-40 , BC337A-16 , BC337A-25 , BC337AP , BC337BP , BC337BPL , BC337CP , BC337P . \nHistory: BC337-10 \nKeywords - BC337-25 transistor datasheet\nBC337-25 cross reference\nBC337-25 equivalent finder\nBC337-25 lookup\nBC337-25 substitution\nBC337-25 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.8,
+      "maxCollectorEmitterVoltage": 45,
+      "maxCollectorBaseVoltage": 50,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.36,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 60,
+      "collectorCapacitance": 20,
+      "hFE": 160,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.36W",
+        "Collector-Base Voltage": "50V",
+        "Collector-Emitter Voltage": "45V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.8A",
+        "Current Gain (hFE)": "160",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "60MHz",
+        "Collector Capacitance": "20pF"
+      },
+      "datasheets": [],
+      "equivalents": [],
+      "href": "/component/BC337-25"
+    },
+    {
+      "id": "BC337-40",
+      "name": "BC337-40",
+      "type": "NPN Transistor",
+      "description": "O92 \n- BJT Cross-Reference Search\nBC337-40 Datasheet (PDF)\n..1. Size:66K st\nbc337-25 bc337-40.pdf \nBC337-25BC337-40SMALL SIGNAL NPN TRANSISTORSPRELIMINARY DATAOrdering Code Marking Package / ShipmentBC337-25 BC337-25 TO-92 / BulkBC337-25-AP BC337-25 TO-92 / AmmopackBC337-40 BC337-40 TO-92 / BulkBC337-40-AP BC337-40 TO-92 / Ammopack SILICON EPITAXIAL PLANAR NPNTRANSISTORS TO-92 PACKAGE SUITABLE FORTHROUGH-HOLE PCB ASSEMBLYTO-92 TO-92 THE PNP COMPLEMENTARY TYPES\n0.1. Size:88K diodes\nbc337-16bk bc337-25bk bc337-40bk bc338-16bk bc338-25bk bc338-40bk.pdf \nBC337-xBK / BC338-xBKBC337-xBK / BC338-xBKGeneral Purpose Si-Epitaxial Planar TransistorsNPN NPNSi-Epitaxial Planar-Transistoren fr universellen EinsatzVersion 2010-05-270.1 Power dissipation 625 mW4.6VerlustleistungPlastic case TO-92Kunststoffgehuse (10D3)Weight approx. Gewicht ca. 0.18 gPlastic material has UL classification 94V-0C B EGehusematerial UL9\n8.1. Size:15K fairchild semi\nbc337-16 bc337-25.pdf \nBC337-16BC337-25E TO-92BCNPN General Purpose AmplifierThis device is designed for use as general purpose amplifiersand switches requiring collector currents to 500 mA. Sourced fromProcess 12. See TN3019A for characteristics.Absolute Maximum Ratings* TA = 25C unless otherwise notedSymbol Parameter Value UnitsVCEO Collector-Emitter Voltage 45 VVCES Collector-Base Voltage\nDatasheet: BC334 , BC335 , BC336 , BC337 , BC337-01 , BC337-10 , BC337-16 , BC337-25 , BC558 , BC337A-16 , BC337A-25 , BC337AP , BC337BP , BC337BPL , BC337CP , BC337P , BC337PL . \nHistory: BC337-16 | BC337-10 \nKeywords - BC337-40 transistor datasheet\nBC337-40 cross reference\nBC337-40 equivalent finder\nBC337-40 lookup\nBC337-40 substitution\nBC337-40 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.8,
+      "maxCollectorEmitterVoltage": 45,
+      "maxCollectorBaseVoltage": 50,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.36,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 60,
+      "collectorCapacitance": 20,
+      "hFE": 250,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.36W",
+        "Collector-Base Voltage": "50V",
+        "Collector-Emitter Voltage": "45V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.8A",
+        "Current Gain (hFE)": "250",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "60MHz",
+        "Collector Capacitance": "20pF"
+      },
+      "datasheets": [],
+      "equivalents": [],
+      "href": "/component/BC337-40"
+    },
+    {
+      "id": "BC337A-16",
+      "name": "BC337A-16",
+      "type": "NPN Transistor",
+      "description": "Low voltage (max. 45 V).1 emitter2 baseAPPLICATIONS3 collector\n9.3. Size:236K philips",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.8,
+      "maxCollectorEmitterVoltage": 60,
+      "maxCollectorBaseVoltage": 60,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.625,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 100,
+      "collectorCapacitance": 18,
+      "hFE": 160,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.625W",
+        "Collector-Base Voltage": "60V",
+        "Collector-Emitter Voltage": "60V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.8A",
+        "Current Gain (hFE)": "160",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "100MHz",
+        "Collector Capacitance": "18pF"
+      },
+      "datasheets": [],
+      "equivalents": [],
+      "href": "/component/BC337A-16"
+    },
+    {
+      "id": "BC337A-25",
+      "name": "BC337A-25",
+      "type": "NPN Transistor",
+      "description": "Low voltage (max. 45 V).1 emitter2 baseAPPLICATIONS3 collector\n9.3. Size:236K philips",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.8,
+      "maxCollectorEmitterVoltage": 60,
+      "maxCollectorBaseVoltage": 60,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.625,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 100,
+      "collectorCapacitance": 18,
+      "hFE": 250,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.625W",
+        "Collector-Base Voltage": "60V",
+        "Collector-Emitter Voltage": "60V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.8A",
+        "Current Gain (hFE)": "250",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "100MHz",
+        "Collector Capacitance": "18pF"
+      },
+      "datasheets": [],
+      "equivalents": [
+        {
+          "id": "2SC2383Y",
+          "name": "2SC2383Y",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC337A-25",
+          "manufacturer": "Various",
+          "href": "/component/2SC2383Y"
+        }
+      ],
+      "href": "/component/BC337A-25"
+    },
+    {
+      "id": "BC337AP",
+      "name": "BC337AP",
+      "type": "NPN Transistor",
+      "description": "Low voltage (max. 45 V).1 emitter2 baseAPPLICATIONS3 collector\n9.3. Size:236K philips",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 0.8,
+      "maxCollectorEmitterVoltage": 45,
+      "maxCollectorBaseVoltage": 50,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.36,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 60,
+      "collectorCapacitance": 20,
+      "hFE": 100,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.36W",
+        "Collector-Base Voltage": "50V",
+        "Collector-Emitter Voltage": "45V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.8A",
+        "Current Gain (hFE)": "100",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "60MHz",
+        "Collector Capacitance": "20pF"
+      },
+      "datasheets": [],
+      "equivalents": [
+        {
+          "id": "2SC2655",
+          "name": "2SC2655",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for BC337AP",
+          "manufacturer": "Various",
+          "href": "/component/2SC2655"
+        }
+      ],
+      "href": "/component/BC337AP"
+    },
+    {
+      "id": "2SD1042",
+      "name": "2SD1042",
+      "type": "NPN Transistor",
+      "description": "O3 \n- BJT Cross-Reference Search\n2SD1042 Datasheet (PDF)\n8.1. Size:185K st\n2sd1047.pdf \n2SD1047High power NPN epitaxial planar bipolar transistorFeatures High breakdown voltage VCEO = 140 V Typical ft = 20 MHz Fully characterized at 125 oCApplication Power supply 321DescriptionTO-3PThe device is a NPN transistor manufactured using new BiT-LA (Bipolar transistor for linear amplifier) technology. The resulting transistor shows good gain line\n8.2. Size:239K sanyo\n2sb815 2sd1048.pdf \nOrdering number : ENN694F2SB815 / 2SD1048PNP / NPN Epitaxial Planar Silicon Transistors2SB815 / 2SD1048General-Purpose AF Amplifier ApplicationsFeaturesPackage Dimensions Ultrasmall package allows miniaturizationunit : mmin end products.2018B Large current capacity (IC=0.7A) and low-saturation[2SB815 / 2SD1048]voltage.0.40.1630 to 0.11 0.95 0.95 21.9\n8.3. Size:30K sanyo\n2sb817p 2sd1047p 2sd1047p.pdf \nOrdering number : ENN65722SB817P / 2SD1047P2SB817P : PNP Epitaxial Planar Silicon Transistor2SD1047P : NPN Triple Diffused Planar Silicon Transistor2SB817P / 2SD1047P140V / 12A, AF80W Output ApplicationsFeaturesPackage Dimensions Capable of being mounted easily because of one- unit : mmpoint fixing type plastic molded package (Inter-2022Achangeable with TO-3).[2SB817P\n8.4. Size:21K sanyo\n2sd1048.pdf \nOrdering number : ENN694F2SB815 / 2SD1048PNP / NPN Epitaxial Planar Silicon Transistors2SB815 / 2SD1048General-Purpose AF Amplifier ApplicationsFeaturesPackage Dimensions Ultrasmall package allows miniaturizationunit : mmin end products.2018B Large current capacity (IC=0.7A) and low-saturation[2SB815 / 2SD1048]voltage.0.40.1630 to 0.11 0.95 0.95 21.9\nDatasheet: 2SD1036 , 2SD1037 , 2SD1038 , 2SD1039 , 2SD104 , 2SD1040 , 2SD1040A , 2SD1041 , 2SC2482 , 2SD1043 , 2SD1044 , 2SD1044A , 2SD1045 , 2SD1046 , 2SD1046D , 2SD1046E , 2SD1047 . \nKeywords - 2SD1042 transistor datasheet\n2SD1042 cross reference\n2SD1042 equivalent finder\n2SD1042 lookup\n2SD1042 substitution\n2SD1042 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO3",
+      "maxCollectorCurrent": 40,
+      "maxCollectorEmitterVoltage": 120,
+      "maxCollectorBaseVoltage": 150,
+      "maxEmitterBaseVoltage": 100,
+      "maxPowerDissipation": 180,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 1,
+      "hFE": 35,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO3",
+        "Collector Power Dissipation": "180W",
+        "Collector-Base Voltage": "150V",
+        "Collector-Emitter Voltage": "120V",
+        "Emitter-Base Voltage": "100V",
+        "Collector Current": "40A",
+        "Current Gain (hFE)": "35",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "1MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "st (185K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd1047.pdf&dire=_st"
+        },
+        {
+          "name": "sanyo (21K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd1048.pdf&dire=_sanyo"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD1036",
+          "name": "2SD1036",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1042",
+          "manufacturer": "Various",
+          "href": "/component/2SD1036"
+        },
+        {
+          "id": "2SD1037",
+          "name": "2SD1037",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1042",
+          "manufacturer": "Various",
+          "href": "/component/2SD1037"
+        },
+        {
+          "id": "2SD1038",
+          "name": "2SD1038",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1042",
+          "manufacturer": "Various",
+          "href": "/component/2SD1038"
+        },
+        {
+          "id": "2SD1039",
+          "name": "2SD1039",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1042",
+          "manufacturer": "Various",
+          "href": "/component/2SD1039"
+        },
+        {
+          "id": "2SD104",
+          "name": "2SD104",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1042",
+          "manufacturer": "Various",
+          "href": "/component/2SD104"
+        },
+        {
+          "id": "2SD1040",
+          "name": "2SD1040",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1042",
+          "manufacturer": "Various",
+          "href": "/component/2SD1040"
+        },
+        {
+          "id": "2SD1040A",
+          "name": "2SD1040A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1042",
+          "manufacturer": "Various",
+          "href": "/component/2SD1040A"
+        },
+        {
+          "id": "2SD1041",
+          "name": "2SD1041",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1042",
+          "manufacturer": "Various",
+          "href": "/component/2SD1041"
+        },
+        {
+          "id": "2SC2482",
+          "name": "2SC2482",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1042",
+          "manufacturer": "Various",
+          "href": "/component/2SC2482"
+        },
+        {
+          "id": "2SD1043",
+          "name": "2SD1043",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1042",
+          "manufacturer": "Various",
+          "href": "/component/2SD1043"
+        },
+        {
+          "id": "2SD1044",
+          "name": "2SD1044",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1042",
+          "manufacturer": "Various",
+          "href": "/component/2SD1044"
+        },
+        {
+          "id": "2SD1044A",
+          "name": "2SD1044A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1042",
+          "manufacturer": "Various",
+          "href": "/component/2SD1044A"
+        },
+        {
+          "id": "2SD1045",
+          "name": "2SD1045",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1042",
+          "manufacturer": "Various",
+          "href": "/component/2SD1045"
+        },
+        {
+          "id": "2SD1046",
+          "name": "2SD1046",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1042",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046"
+        },
+        {
+          "id": "2SD1046D",
+          "name": "2SD1046D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1042",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046D"
+        },
+        {
+          "id": "2SD1046E",
+          "name": "2SD1046E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1042",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046E"
+        },
+        {
+          "id": "2SD1047",
+          "name": "2SD1047",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1042",
+          "manufacturer": "Various",
+          "href": "/component/2SD1047"
+        }
+      ],
+      "href": "/component/2SD1042"
+    },
+    {
+      "id": "2SD1043",
+      "name": "2SD1043",
+      "type": "NPN Transistor",
+      "description": "O3 \n- BJT Cross-Reference Search\n2SD1043 Datasheet (PDF)\n8.1. Size:185K st\n2sd1047.pdf \n2SD1047High power NPN epitaxial planar bipolar transistorFeatures High breakdown voltage VCEO = 140 V Typical ft = 20 MHz Fully characterized at 125 oCApplication Power supply 321DescriptionTO-3PThe device is a NPN transistor manufactured using new BiT-LA (Bipolar transistor for linear amplifier) technology. The resulting transistor shows good gain line\n8.2. Size:239K sanyo\n2sb815 2sd1048.pdf \nOrdering number : ENN694F2SB815 / 2SD1048PNP / NPN Epitaxial Planar Silicon Transistors2SB815 / 2SD1048General-Purpose AF Amplifier ApplicationsFeaturesPackage Dimensions Ultrasmall package allows miniaturizationunit : mmin end products.2018B Large current capacity (IC=0.7A) and low-saturation[2SB815 / 2SD1048]voltage.0.40.1630 to 0.11 0.95 0.95 21.9\n8.3. Size:30K sanyo\n2sb817p 2sd1047p 2sd1047p.pdf \nOrdering number : ENN65722SB817P / 2SD1047P2SB817P : PNP Epitaxial Planar Silicon Transistor2SD1047P : NPN Triple Diffused Planar Silicon Transistor2SB817P / 2SD1047P140V / 12A, AF80W Output ApplicationsFeaturesPackage Dimensions Capable of being mounted easily because of one- unit : mmpoint fixing type plastic molded package (Inter-2022Achangeable with TO-3).[2SB817P\n8.4. Size:21K sanyo\n2sd1048.pdf \nOrdering number : ENN694F2SB815 / 2SD1048PNP / NPN Epitaxial Planar Silicon Transistors2SB815 / 2SD1048General-Purpose AF Amplifier ApplicationsFeaturesPackage Dimensions Ultrasmall package allows miniaturizationunit : mmin end products.2018B Large current capacity (IC=0.7A) and low-saturation[2SB815 / 2SD1048]voltage.0.40.1630 to 0.11 0.95 0.95 21.9\nDatasheet: 2SD1037 , 2SD1038 , 2SD1039 , 2SD104 , 2SD1040 , 2SD1040A , 2SD1041 , 2SD1042 , BF422 , 2SD1044 , 2SD1044A , 2SD1045 , 2SD1046 , 2SD1046D , 2SD1046E , 2SD1047 , 2SD1047O . \nHistory: 2SD1042 \nKeywords - 2SD1043 transistor datasheet\n2SD1043 cross reference\n2SD1043 equivalent finder\n2SD1043 lookup\n2SD1043 substitution\n2SD1043 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO3",
+      "maxCollectorCurrent": 5,
+      "maxCollectorBaseVoltage": 430,
+      "maxEmitterBaseVoltage": 10,
+      "maxPowerDissipation": 80,
+      "maxJunctionTemperature": 150,
+      "hFE": 1000,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO3",
+        "Collector Power Dissipation": "80W",
+        "Collector-Base Voltage": "430V",
+        "Collector-Emitter Voltage": "N/A",
+        "Emitter-Base Voltage": "10V",
+        "Collector Current": "5A",
+        "Current Gain (hFE)": "1000",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "st (185K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd1047.pdf&dire=_st"
+        },
+        {
+          "name": "sanyo (21K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd1048.pdf&dire=_sanyo"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD1037",
+          "name": "2SD1037",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1043",
+          "manufacturer": "Various",
+          "href": "/component/2SD1037"
+        },
+        {
+          "id": "2SD1038",
+          "name": "2SD1038",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1043",
+          "manufacturer": "Various",
+          "href": "/component/2SD1038"
+        },
+        {
+          "id": "2SD1039",
+          "name": "2SD1039",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1043",
+          "manufacturer": "Various",
+          "href": "/component/2SD1039"
+        },
+        {
+          "id": "2SD104",
+          "name": "2SD104",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1043",
+          "manufacturer": "Various",
+          "href": "/component/2SD104"
+        },
+        {
+          "id": "2SD1040",
+          "name": "2SD1040",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1043",
+          "manufacturer": "Various",
+          "href": "/component/2SD1040"
+        },
+        {
+          "id": "2SD1040A",
+          "name": "2SD1040A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1043",
+          "manufacturer": "Various",
+          "href": "/component/2SD1040A"
+        },
+        {
+          "id": "2SD1041",
+          "name": "2SD1041",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1043",
+          "manufacturer": "Various",
+          "href": "/component/2SD1041"
+        },
+        {
+          "id": "2SD1042",
+          "name": "2SD1042",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1043",
+          "manufacturer": "Various",
+          "href": "/component/2SD1042"
+        },
+        {
+          "id": "2SD1044",
+          "name": "2SD1044",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1043",
+          "manufacturer": "Various",
+          "href": "/component/2SD1044"
+        },
+        {
+          "id": "2SD1044A",
+          "name": "2SD1044A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1043",
+          "manufacturer": "Various",
+          "href": "/component/2SD1044A"
+        },
+        {
+          "id": "2SD1045",
+          "name": "2SD1045",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1043",
+          "manufacturer": "Various",
+          "href": "/component/2SD1045"
+        },
+        {
+          "id": "2SD1046",
+          "name": "2SD1046",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1043",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046"
+        },
+        {
+          "id": "2SD1046D",
+          "name": "2SD1046D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1043",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046D"
+        },
+        {
+          "id": "2SD1046E",
+          "name": "2SD1046E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1043",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046E"
+        },
+        {
+          "id": "2SD1047",
+          "name": "2SD1047",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1043",
+          "manufacturer": "Various",
+          "href": "/component/2SD1047"
+        },
+        {
+          "id": "2SD1047O",
+          "name": "2SD1047O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1043",
+          "manufacturer": "Various",
+          "href": "/component/2SD1047O"
+        }
+      ],
+      "href": "/component/2SD1043"
+    },
+    {
+      "id": "2SD1044",
+      "name": "2SD1044",
+      "type": "NPN Transistor",
+      "description": "OP3 \n- BJT Cross-Reference Search\n2SD1044 Datasheet (PDF)\n..1. Size:219K inchange semiconductor\n2sd1044.pdf \nisc Silicon NPN Darlington Power Transistor 2SD1044DESCRIPTIONHigh DC Current Gain: h = 700(Min.)@ I = 1A, V = 4VFE C CEHigh Collector-Emitter Breakdown Voltage-: V = 80V(Min)(BR) CEOWide Area of Safe OperationMinimum Lot-to-Lot variations for robust deviceperformance and reliable operationAPPLICATIONSDesigned for high power amplifier applications.ABSOLUTE MA\n8.1. Size:185K st\n2sd1047.pdf \n2SD1047High power NPN epitaxial planar bipolar transistorFeatures High breakdown voltage VCEO = 140 V Typical ft = 20 MHz Fully characterized at 125 oCApplication Power supply 321DescriptionTO-3PThe device is a NPN transistor manufactured using new BiT-LA (Bipolar transistor for linear amplifier) technology. The resulting transistor shows good gain line\n8.2. Size:239K sanyo\n2sb815 2sd1048.pdf \nOrdering number : ENN694F2SB815 / 2SD1048PNP / NPN Epitaxial Planar Silicon Transistors2SB815 / 2SD1048General-Purpose AF Amplifier ApplicationsFeaturesPackage Dimensions Ultrasmall package allows miniaturizationunit : mmin end products.2018B Large current capacity (IC=0.7A) and low-saturation[2SB815 / 2SD1048]voltage.0.40.1630 to 0.11 0.95 0.95 21.9\n8.3. Size:30K sanyo\n2sb817p 2sd1047p 2sd1047p.pdf \nOrdering number : ENN65722SB817P / 2SD1047P2SB817P : PNP Epitaxial Planar Silicon Transistor2SD1047P : NPN Triple Diffused Planar Silicon Transistor2SB817P / 2SD1047P140V / 12A, AF80W Output ApplicationsFeaturesPackage Dimensions Capable of being mounted easily because of one- unit : mmpoint fixing type plastic molded package (Inter-2022Achangeable with TO-3).[2SB817P\nDatasheet: 2SD1038 , 2SD1039 , 2SD104 , 2SD1040 , 2SD1040A , 2SD1041 , 2SD1042 , 2SD1043 , 2222A , 2SD1044A , 2SD1045 , 2SD1046 , 2SD1046D , 2SD1046E , 2SD1047 , 2SD1047O , 2SD1048 . \nHistory: 2SD1043 | 2SD1042 \nKeywords - 2SD1044 transistor datasheet\n2SD1044 cross reference\n2SD1044 equivalent finder\n2SD1044 lookup\n2SD1044 substitution\n2SD1044 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TOP3",
+      "maxCollectorCurrent": 6,
+      "maxCollectorBaseVoltage": 100,
+      "maxEmitterBaseVoltage": 6,
+      "maxPowerDissipation": 60,
+      "maxJunctionTemperature": 150,
+      "hFE": 700,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TOP3",
+        "Collector Power Dissipation": "60W",
+        "Collector-Base Voltage": "100V",
+        "Collector-Emitter Voltage": "N/A",
+        "Emitter-Base Voltage": "6V",
+        "Collector Current": "6A",
+        "Current Gain (hFE)": "700",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "inchange semiconductor (219K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd1044.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "st (185K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd1047.pdf&dire=_st"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD1038",
+          "name": "2SD1038",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1044",
+          "manufacturer": "Various",
+          "href": "/component/2SD1038"
+        },
+        {
+          "id": "2SD1039",
+          "name": "2SD1039",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1044",
+          "manufacturer": "Various",
+          "href": "/component/2SD1039"
+        },
+        {
+          "id": "2SD104",
+          "name": "2SD104",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1044",
+          "manufacturer": "Various",
+          "href": "/component/2SD104"
+        },
+        {
+          "id": "2SD1040",
+          "name": "2SD1040",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1044",
+          "manufacturer": "Various",
+          "href": "/component/2SD1040"
+        },
+        {
+          "id": "2SD1040A",
+          "name": "2SD1040A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1044",
+          "manufacturer": "Various",
+          "href": "/component/2SD1040A"
+        },
+        {
+          "id": "2SD1041",
+          "name": "2SD1041",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1044",
+          "manufacturer": "Various",
+          "href": "/component/2SD1041"
+        },
+        {
+          "id": "2SD1042",
+          "name": "2SD1042",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1044",
+          "manufacturer": "Various",
+          "href": "/component/2SD1042"
+        },
+        {
+          "id": "2SD1043",
+          "name": "2SD1043",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1044",
+          "manufacturer": "Various",
+          "href": "/component/2SD1043"
+        },
+        {
+          "id": "2SD1044A",
+          "name": "2SD1044A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1044",
+          "manufacturer": "Various",
+          "href": "/component/2SD1044A"
+        },
+        {
+          "id": "2SD1045",
+          "name": "2SD1045",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1044",
+          "manufacturer": "Various",
+          "href": "/component/2SD1045"
+        },
+        {
+          "id": "2SD1046",
+          "name": "2SD1046",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1044",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046"
+        },
+        {
+          "id": "2SD1046D",
+          "name": "2SD1046D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1044",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046D"
+        },
+        {
+          "id": "2SD1046E",
+          "name": "2SD1046E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1044",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046E"
+        },
+        {
+          "id": "2SD1047",
+          "name": "2SD1047",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1044",
+          "manufacturer": "Various",
+          "href": "/component/2SD1047"
+        },
+        {
+          "id": "2SD1047O",
+          "name": "2SD1047O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1044",
+          "manufacturer": "Various",
+          "href": "/component/2SD1047O"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1044",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        }
+      ],
+      "href": "/component/2SD1044"
+    },
+    {
+      "id": "2SD1044A",
+      "name": "2SD1044A",
+      "type": "NPN Transistor",
+      "description": "OP3 \n- BJT Cross-Reference Search\n2SD1044A Datasheet (PDF)\n7.1. Size:219K inchange semiconductor\n2sd1044.pdf \nisc Silicon NPN Darlington Power Transistor 2SD1044DESCRIPTIONHigh DC Current Gain: h = 700(Min.)@ I = 1A, V = 4VFE C CEHigh Collector-Emitter Breakdown Voltage-: V = 80V(Min)(BR) CEOWide Area of Safe OperationMinimum Lot-to-Lot variations for robust deviceperformance and reliable operationAPPLICATIONSDesigned for high power amplifier applications.ABSOLUTE MA\n8.1. Size:185K st\n2sd1047.pdf \n2SD1047High power NPN epitaxial planar bipolar transistorFeatures High breakdown voltage VCEO = 140 V Typical ft = 20 MHz Fully characterized at 125 oCApplication Power supply 321DescriptionTO-3PThe device is a NPN transistor manufactured using new BiT-LA (Bipolar transistor for linear amplifier) technology. The resulting transistor shows good gain line\n8.2. Size:239K sanyo\n2sb815 2sd1048.pdf \nOrdering number : ENN694F2SB815 / 2SD1048PNP / NPN Epitaxial Planar Silicon Transistors2SB815 / 2SD1048General-Purpose AF Amplifier ApplicationsFeaturesPackage Dimensions Ultrasmall package allows miniaturizationunit : mmin end products.2018B Large current capacity (IC=0.7A) and low-saturation[2SB815 / 2SD1048]voltage.0.40.1630 to 0.11 0.95 0.95 21.9\n8.3. Size:30K sanyo\n2sb817p 2sd1047p 2sd1047p.pdf \nOrdering number : ENN65722SB817P / 2SD1047P2SB817P : PNP Epitaxial Planar Silicon Transistor2SD1047P : NPN Triple Diffused Planar Silicon Transistor2SB817P / 2SD1047P140V / 12A, AF80W Output ApplicationsFeaturesPackage Dimensions Capable of being mounted easily because of one- unit : mmpoint fixing type plastic molded package (Inter-2022Achangeable with TO-3).[2SB817P\nDatasheet: 2SD1039 , 2SD104 , 2SD1040 , 2SD1040A , 2SD1041 , 2SD1042 , 2SD1043 , 2SD1044 , BC547 , 2SD1045 , 2SD1046 , 2SD1046D , 2SD1046E , 2SD1047 , 2SD1047O , 2SD1048 , 2SD1048-6 . \nHistory: 2SD1044 | 2SD1043 | 2SD1042 \nKeywords - 2SD1044A transistor datasheet\n2SD1044A cross reference\n2SD1044A equivalent finder\n2SD1044A lookup\n2SD1044A substitution\n2SD1044A replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TOP3",
+      "maxCollectorCurrent": 6,
+      "maxCollectorBaseVoltage": 170,
+      "maxEmitterBaseVoltage": 6,
+      "maxPowerDissipation": 60,
+      "maxJunctionTemperature": 150,
+      "hFE": 700,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TOP3",
+        "Collector Power Dissipation": "60W",
+        "Collector-Base Voltage": "170V",
+        "Collector-Emitter Voltage": "N/A",
+        "Emitter-Base Voltage": "6V",
+        "Collector Current": "6A",
+        "Current Gain (hFE)": "700",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "inchange semiconductor (219K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd1044.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "st (185K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd1047.pdf&dire=_st"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD1039",
+          "name": "2SD1039",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1044A",
+          "manufacturer": "Various",
+          "href": "/component/2SD1039"
+        },
+        {
+          "id": "2SD104",
+          "name": "2SD104",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1044A",
+          "manufacturer": "Various",
+          "href": "/component/2SD104"
+        },
+        {
+          "id": "2SD1040",
+          "name": "2SD1040",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1044A",
+          "manufacturer": "Various",
+          "href": "/component/2SD1040"
+        },
+        {
+          "id": "2SD1040A",
+          "name": "2SD1040A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1044A",
+          "manufacturer": "Various",
+          "href": "/component/2SD1040A"
+        },
+        {
+          "id": "2SD1041",
+          "name": "2SD1041",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1044A",
+          "manufacturer": "Various",
+          "href": "/component/2SD1041"
+        },
+        {
+          "id": "2SD1042",
+          "name": "2SD1042",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1044A",
+          "manufacturer": "Various",
+          "href": "/component/2SD1042"
+        },
+        {
+          "id": "2SD1043",
+          "name": "2SD1043",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1044A",
+          "manufacturer": "Various",
+          "href": "/component/2SD1043"
+        },
+        {
+          "id": "2SD1044",
+          "name": "2SD1044",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1044A",
+          "manufacturer": "Various",
+          "href": "/component/2SD1044"
+        },
+        {
+          "id": "2SD1045",
+          "name": "2SD1045",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1044A",
+          "manufacturer": "Various",
+          "href": "/component/2SD1045"
+        },
+        {
+          "id": "2SD1046",
+          "name": "2SD1046",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1044A",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046"
+        },
+        {
+          "id": "2SD1046D",
+          "name": "2SD1046D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1044A",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046D"
+        },
+        {
+          "id": "2SD1046E",
+          "name": "2SD1046E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1044A",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046E"
+        },
+        {
+          "id": "2SD1047",
+          "name": "2SD1047",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1044A",
+          "manufacturer": "Various",
+          "href": "/component/2SD1047"
+        },
+        {
+          "id": "2SD1047O",
+          "name": "2SD1047O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1044A",
+          "manufacturer": "Various",
+          "href": "/component/2SD1047O"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1044A",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1044A",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        }
+      ],
+      "href": "/component/2SD1044A"
+    },
+    {
+      "id": "2SD1045",
+      "name": "2SD1045",
+      "type": "NPN Transistor",
+      "description": "O92 \n- BJT Cross-Reference Search\n2SD1045 Datasheet (PDF)\n8.1. Size:185K st\n2sd1047.pdf \n2SD1047High power NPN epitaxial planar bipolar transistorFeatures High breakdown voltage VCEO = 140 V Typical ft = 20 MHz Fully characterized at 125 oCApplication Power supply 321DescriptionTO-3PThe device is a NPN transistor manufactured using new BiT-LA (Bipolar transistor for linear amplifier) technology. The resulting transistor shows good gain line\n8.2. Size:239K sanyo\n2sb815 2sd1048.pdf \nOrdering number : ENN694F2SB815 / 2SD1048PNP / NPN Epitaxial Planar Silicon Transistors2SB815 / 2SD1048General-Purpose AF Amplifier ApplicationsFeaturesPackage Dimensions Ultrasmall package allows miniaturizationunit : mmin end products.2018B Large current capacity (IC=0.7A) and low-saturation[2SB815 / 2SD1048]voltage.0.40.1630 to 0.11 0.95 0.95 21.9\n8.3. Size:30K sanyo\n2sb817p 2sd1047p 2sd1047p.pdf \nOrdering number : ENN65722SB817P / 2SD1047P2SB817P : PNP Epitaxial Planar Silicon Transistor2SD1047P : NPN Triple Diffused Planar Silicon Transistor2SB817P / 2SD1047P140V / 12A, AF80W Output ApplicationsFeaturesPackage Dimensions Capable of being mounted easily because of one- unit : mmpoint fixing type plastic molded package (Inter-2022Achangeable with TO-3).[2SB817P\n8.4. Size:21K sanyo\n2sd1048.pdf \nOrdering number : ENN694F2SB815 / 2SD1048PNP / NPN Epitaxial Planar Silicon Transistors2SB815 / 2SD1048General-Purpose AF Amplifier ApplicationsFeaturesPackage Dimensions Ultrasmall package allows miniaturizationunit : mmin end products.2018B Large current capacity (IC=0.7A) and low-saturation[2SB815 / 2SD1048]voltage.0.40.1630 to 0.11 0.95 0.95 21.9\nDatasheet: 2SD104 , 2SD1040 , 2SD1040A , 2SD1041 , 2SD1042 , 2SD1043 , 2SD1044 , 2SD1044A , 2SC5200 , 2SD1046 , 2SD1046D , 2SD1046E , 2SD1047 , 2SD1047O , 2SD1048 , 2SD1048-6 , 2SD1048-7 . \nHistory: 2SD1044 | 2SD1043 | 2SD1042 \nKeywords - 2SD1045 transistor datasheet\n2SD1045 cross reference\n2SD1045 equivalent finder\n2SD1045 lookup\n2SD1045 substitution\n2SD1045 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 3,
+      "maxCollectorBaseVoltage": 30,
+      "maxEmitterBaseVoltage": 6,
+      "maxPowerDissipation": 0.9,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 100,
+      "collectorCapacitance": 30,
+      "hFE": 160,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.9W",
+        "Collector-Base Voltage": "30V",
+        "Collector-Emitter Voltage": "N/A",
+        "Emitter-Base Voltage": "6V",
+        "Collector Current": "3A",
+        "Current Gain (hFE)": "160",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "100MHz",
+        "Collector Capacitance": "30pF"
+      },
+      "datasheets": [
+        {
+          "name": "st (185K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd1047.pdf&dire=_st"
+        },
+        {
+          "name": "sanyo (21K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd1048.pdf&dire=_sanyo"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD104",
+          "name": "2SD104",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1045",
+          "manufacturer": "Various",
+          "href": "/component/2SD104"
+        },
+        {
+          "id": "2SD1040",
+          "name": "2SD1040",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1045",
+          "manufacturer": "Various",
+          "href": "/component/2SD1040"
+        },
+        {
+          "id": "2SD1040A",
+          "name": "2SD1040A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1045",
+          "manufacturer": "Various",
+          "href": "/component/2SD1040A"
+        },
+        {
+          "id": "2SD1041",
+          "name": "2SD1041",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1045",
+          "manufacturer": "Various",
+          "href": "/component/2SD1041"
+        },
+        {
+          "id": "2SD1042",
+          "name": "2SD1042",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1045",
+          "manufacturer": "Various",
+          "href": "/component/2SD1042"
+        },
+        {
+          "id": "2SD1043",
+          "name": "2SD1043",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1045",
+          "manufacturer": "Various",
+          "href": "/component/2SD1043"
+        },
+        {
+          "id": "2SD1044",
+          "name": "2SD1044",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1045",
+          "manufacturer": "Various",
+          "href": "/component/2SD1044"
+        },
+        {
+          "id": "2SD1044A",
+          "name": "2SD1044A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1045",
+          "manufacturer": "Various",
+          "href": "/component/2SD1044A"
+        },
+        {
+          "id": "2SC5200",
+          "name": "2SC5200",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1045",
+          "manufacturer": "Various",
+          "href": "/component/2SC5200"
+        },
+        {
+          "id": "2SD1046",
+          "name": "2SD1046",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1045",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046"
+        },
+        {
+          "id": "2SD1046D",
+          "name": "2SD1046D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1045",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046D"
+        },
+        {
+          "id": "2SD1046E",
+          "name": "2SD1046E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1045",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046E"
+        },
+        {
+          "id": "2SD1047",
+          "name": "2SD1047",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1045",
+          "manufacturer": "Various",
+          "href": "/component/2SD1047"
+        },
+        {
+          "id": "2SD1047O",
+          "name": "2SD1047O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1045",
+          "manufacturer": "Various",
+          "href": "/component/2SD1047O"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1045",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1045",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1045",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        }
+      ],
+      "href": "/component/2SD1045"
+    },
+    {
+      "id": "2SD1046",
+      "name": "2SD1046",
+      "type": "NPN Transistor",
+      "description": "O247 \n- BJT Cross-Reference Search\n2SD1046 Datasheet (PDF)\n..1. Size:115K sanyo\n2sd1046.pdf \nOrdering number:677DPNP/NPN Epitaxial Planar Silicon Transistors2SB816/2SD1046For LF Power Amplifier, 50W OutputLarge Power Switching ApplicationsFeatures Package Dimensions Capable of being mounted easily because of one-unit:mmpoint fixing type plastic molded package (Inter-2022Achangeable with TO-3).[2SB816/2SD1046] Wide ASO because of built-in ballast resistance\n..2. Size:221K inchange semiconductor\n2sd1046.pdf \nINCHANGE Semiconductorisc Silicon NPN Power Transistor 2SD1046DESCRIPTIONCollector-Emitter Breakdown Voltage-: V = 120V(Min)(BR)CEOGood Linearity of hFEHigh Current CapabilityWide Area of Safe OperationComplement to Type 2SB816Minimum Lot-to-Lot variations for robust deviceperformance and reliable operationAPPLICATIONSFor LF power amplifier, 50W output \n8.1. Size:185K st\n2sd1047.pdf \n2SD1047High power NPN epitaxial planar bipolar transistorFeatures High breakdown voltage VCEO = 140 V Typical ft = 20 MHz Fully characterized at 125 oCApplication Power supply 321DescriptionTO-3PThe device is a NPN transistor manufactured using new BiT-LA (Bipolar transistor for linear amplifier) technology. The resulting transistor shows good gain line\n8.2. Size:239K sanyo\n2sb815 2sd1048.pdf \nOrdering number : ENN694F2SB815 / 2SD1048PNP / NPN Epitaxial Planar Silicon Transistors2SB815 / 2SD1048General-Purpose AF Amplifier ApplicationsFeaturesPackage Dimensions Ultrasmall package allows miniaturizationunit : mmin end products.2018B Large current capacity (IC=0.7A) and low-saturation[2SB815 / 2SD1048]voltage.0.40.1630 to 0.11 0.95 0.95 21.9\nDatasheet: 2SD1040 , 2SD1040A , 2SD1041 , 2SD1042 , 2SD1043 , 2SD1044 , 2SD1044A , 2SD1045 , BD777 , 2SD1046D , 2SD1046E , 2SD1047 , 2SD1047O , 2SD1048 , 2SD1048-6 , 2SD1048-7 , 2SD1048-8 . \nHistory: 2SD1044A | 2SD1044 | 2SD1043 | 2SD1042 \nKeywords - 2SD1046 transistor datasheet\n2SD1046 cross reference\n2SD1046 equivalent finder\n2SD1046 lookup\n2SD1046 substitution\n2SD1046 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO247",
+      "maxCollectorCurrent": 8,
+      "maxCollectorEmitterVoltage": 120,
+      "maxCollectorBaseVoltage": 150,
+      "maxEmitterBaseVoltage": 6,
+      "maxPowerDissipation": 80,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 15,
+      "collectorCapacitance": 160,
+      "hFE": 60,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO247",
+        "Collector Power Dissipation": "80W",
+        "Collector-Base Voltage": "150V",
+        "Collector-Emitter Voltage": "120V",
+        "Emitter-Base Voltage": "6V",
+        "Collector Current": "8A",
+        "Current Gain (hFE)": "60",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "15MHz",
+        "Collector Capacitance": "160pF"
+      },
+      "datasheets": [
+        {
+          "name": "sanyo (115K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd1046.pdf&dire=_sanyo"
+        },
+        {
+          "name": "inchange semiconductor (221K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd1046.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "st (185K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd1047.pdf&dire=_st"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD1040",
+          "name": "2SD1040",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046",
+          "manufacturer": "Various",
+          "href": "/component/2SD1040"
+        },
+        {
+          "id": "2SD1040A",
+          "name": "2SD1040A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046",
+          "manufacturer": "Various",
+          "href": "/component/2SD1040A"
+        },
+        {
+          "id": "2SD1041",
+          "name": "2SD1041",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046",
+          "manufacturer": "Various",
+          "href": "/component/2SD1041"
+        },
+        {
+          "id": "2SD1042",
+          "name": "2SD1042",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046",
+          "manufacturer": "Various",
+          "href": "/component/2SD1042"
+        },
+        {
+          "id": "2SD1043",
+          "name": "2SD1043",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046",
+          "manufacturer": "Various",
+          "href": "/component/2SD1043"
+        },
+        {
+          "id": "2SD1044",
+          "name": "2SD1044",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046",
+          "manufacturer": "Various",
+          "href": "/component/2SD1044"
+        },
+        {
+          "id": "2SD1044A",
+          "name": "2SD1044A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046",
+          "manufacturer": "Various",
+          "href": "/component/2SD1044A"
+        },
+        {
+          "id": "2SD1045",
+          "name": "2SD1045",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046",
+          "manufacturer": "Various",
+          "href": "/component/2SD1045"
+        },
+        {
+          "id": "2SD1046D",
+          "name": "2SD1046D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046D"
+        },
+        {
+          "id": "2SD1046E",
+          "name": "2SD1046E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046E"
+        },
+        {
+          "id": "2SD1047",
+          "name": "2SD1047",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046",
+          "manufacturer": "Various",
+          "href": "/component/2SD1047"
+        },
+        {
+          "id": "2SD1047O",
+          "name": "2SD1047O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046",
+          "manufacturer": "Various",
+          "href": "/component/2SD1047O"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        }
+      ],
+      "href": "/component/2SD1046"
+    },
+    {
+      "id": "2SD1046D",
+      "name": "2SD1046D",
+      "type": "NPN Transistor",
+      "description": "O247 \n- BJT Cross-Reference Search\n2SD1046D Datasheet (PDF)\n7.1. Size:115K sanyo\n2sd1046.pdf \nOrdering number:677DPNP/NPN Epitaxial Planar Silicon Transistors2SB816/2SD1046For LF Power Amplifier, 50W OutputLarge Power Switching ApplicationsFeatures Package Dimensions Capable of being mounted easily because of one-unit:mmpoint fixing type plastic molded package (Inter-2022Achangeable with TO-3).[2SB816/2SD1046] Wide ASO because of built-in ballast resistance\n7.2. Size:221K inchange semiconductor\n2sd1046.pdf \nINCHANGE Semiconductorisc Silicon NPN Power Transistor 2SD1046DESCRIPTIONCollector-Emitter Breakdown Voltage-: V = 120V(Min)(BR)CEOGood Linearity of hFEHigh Current CapabilityWide Area of Safe OperationComplement to Type 2SB816Minimum Lot-to-Lot variations for robust deviceperformance and reliable operationAPPLICATIONSFor LF power amplifier, 50W output \n8.1. Size:185K st\n2sd1047.pdf \n2SD1047High power NPN epitaxial planar bipolar transistorFeatures High breakdown voltage VCEO = 140 V Typical ft = 20 MHz Fully characterized at 125 oCApplication Power supply 321DescriptionTO-3PThe device is a NPN transistor manufactured using new BiT-LA (Bipolar transistor for linear amplifier) technology. The resulting transistor shows good gain line\n8.2. Size:239K sanyo\n2sb815 2sd1048.pdf \nOrdering number : ENN694F2SB815 / 2SD1048PNP / NPN Epitaxial Planar Silicon Transistors2SB815 / 2SD1048General-Purpose AF Amplifier ApplicationsFeaturesPackage Dimensions Ultrasmall package allows miniaturizationunit : mmin end products.2018B Large current capacity (IC=0.7A) and low-saturation[2SB815 / 2SD1048]voltage.0.40.1630 to 0.11 0.95 0.95 21.9\nDatasheet: 2SD1040A , 2SD1041 , 2SD1042 , 2SD1043 , 2SD1044 , 2SD1044A , 2SD1045 , 2SD1046 , BD139 , 2SD1046E , 2SD1047 , 2SD1047O , 2SD1048 , 2SD1048-6 , 2SD1048-7 , 2SD1048-8 , 2SD1049 . \nHistory: 2SD1046 | 2SD1044A | 2SD1044 | 2SD1043 | 2SD1042 \nKeywords - 2SD1046D transistor datasheet\n2SD1046D cross reference\n2SD1046D equivalent finder\n2SD1046D lookup\n2SD1046D substitution\n2SD1046D replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO247",
+      "maxCollectorCurrent": 8,
+      "maxCollectorEmitterVoltage": 120,
+      "maxCollectorBaseVoltage": 150,
+      "maxEmitterBaseVoltage": 6,
+      "maxPowerDissipation": 80,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 15,
+      "collectorCapacitance": 160,
+      "hFE": 60,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO247",
+        "Collector Power Dissipation": "80W",
+        "Collector-Base Voltage": "150V",
+        "Collector-Emitter Voltage": "120V",
+        "Emitter-Base Voltage": "6V",
+        "Collector Current": "8A",
+        "Current Gain (hFE)": "60",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "15MHz",
+        "Collector Capacitance": "160pF"
+      },
+      "datasheets": [
+        {
+          "name": "sanyo (115K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd1046.pdf&dire=_sanyo"
+        },
+        {
+          "name": "inchange semiconductor (221K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd1046.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "st (185K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd1047.pdf&dire=_st"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD1040A",
+          "name": "2SD1040A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046D",
+          "manufacturer": "Various",
+          "href": "/component/2SD1040A"
+        },
+        {
+          "id": "2SD1041",
+          "name": "2SD1041",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046D",
+          "manufacturer": "Various",
+          "href": "/component/2SD1041"
+        },
+        {
+          "id": "2SD1042",
+          "name": "2SD1042",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046D",
+          "manufacturer": "Various",
+          "href": "/component/2SD1042"
+        },
+        {
+          "id": "2SD1043",
+          "name": "2SD1043",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046D",
+          "manufacturer": "Various",
+          "href": "/component/2SD1043"
+        },
+        {
+          "id": "2SD1044",
+          "name": "2SD1044",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046D",
+          "manufacturer": "Various",
+          "href": "/component/2SD1044"
+        },
+        {
+          "id": "2SD1044A",
+          "name": "2SD1044A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046D",
+          "manufacturer": "Various",
+          "href": "/component/2SD1044A"
+        },
+        {
+          "id": "2SD1045",
+          "name": "2SD1045",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046D",
+          "manufacturer": "Various",
+          "href": "/component/2SD1045"
+        },
+        {
+          "id": "2SD1046",
+          "name": "2SD1046",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046D",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046"
+        },
+        {
+          "id": "2SD1046E",
+          "name": "2SD1046E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046D",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046E"
+        },
+        {
+          "id": "2SD1047",
+          "name": "2SD1047",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046D",
+          "manufacturer": "Various",
+          "href": "/component/2SD1047"
+        },
+        {
+          "id": "2SD1047O",
+          "name": "2SD1047O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046D",
+          "manufacturer": "Various",
+          "href": "/component/2SD1047O"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046D",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046D",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046D",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046D",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1049",
+          "name": "2SD1049",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046D",
+          "manufacturer": "Various",
+          "href": "/component/2SD1049"
+        }
+      ],
+      "href": "/component/2SD1046D"
+    },
+    {
+      "id": "2SD1046E",
+      "name": "2SD1046E",
+      "type": "NPN Transistor",
+      "description": "O247 \n- BJT Cross-Reference Search\n2SD1046E Datasheet (PDF)\n7.1. Size:115K sanyo\n2sd1046.pdf \nOrdering number:677DPNP/NPN Epitaxial Planar Silicon Transistors2SB816/2SD1046For LF Power Amplifier, 50W OutputLarge Power Switching ApplicationsFeatures Package Dimensions Capable of being mounted easily because of one-unit:mmpoint fixing type plastic molded package (Inter-2022Achangeable with TO-3).[2SB816/2SD1046] Wide ASO because of built-in ballast resistance\n7.2. Size:221K inchange semiconductor\n2sd1046.pdf \nINCHANGE Semiconductorisc Silicon NPN Power Transistor 2SD1046DESCRIPTIONCollector-Emitter Breakdown Voltage-: V = 120V(Min)(BR)CEOGood Linearity of hFEHigh Current CapabilityWide Area of Safe OperationComplement to Type 2SB816Minimum Lot-to-Lot variations for robust deviceperformance and reliable operationAPPLICATIONSFor LF power amplifier, 50W output \n8.1. Size:185K st\n2sd1047.pdf \n2SD1047High power NPN epitaxial planar bipolar transistorFeatures High breakdown voltage VCEO = 140 V Typical ft = 20 MHz Fully characterized at 125 oCApplication Power supply 321DescriptionTO-3PThe device is a NPN transistor manufactured using new BiT-LA (Bipolar transistor for linear amplifier) technology. The resulting transistor shows good gain line\n8.2. Size:239K sanyo\n2sb815 2sd1048.pdf \nOrdering number : ENN694F2SB815 / 2SD1048PNP / NPN Epitaxial Planar Silicon Transistors2SB815 / 2SD1048General-Purpose AF Amplifier ApplicationsFeaturesPackage Dimensions Ultrasmall package allows miniaturizationunit : mmin end products.2018B Large current capacity (IC=0.7A) and low-saturation[2SB815 / 2SD1048]voltage.0.40.1630 to 0.11 0.95 0.95 21.9\nDatasheet: 2SD1041 , 2SD1042 , 2SD1043 , 2SD1044 , 2SD1044A , 2SD1045 , 2SD1046 , 2SD1046D , TIP41C , 2SD1047 , 2SD1047O , 2SD1048 , 2SD1048-6 , 2SD1048-7 , 2SD1048-8 , 2SD1049 , 2SD105 . \nHistory: 2SD1046 | 2SD1044A | 2SD1044 | 2SD1043 | 2SD1042 \nKeywords - 2SD1046E transistor datasheet\n2SD1046E cross reference\n2SD1046E equivalent finder\n2SD1046E lookup\n2SD1046E substitution\n2SD1046E replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO247",
+      "maxCollectorCurrent": 8,
+      "maxCollectorEmitterVoltage": 120,
+      "maxCollectorBaseVoltage": 150,
+      "maxEmitterBaseVoltage": 6,
+      "maxPowerDissipation": 80,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 15,
+      "collectorCapacitance": 160,
+      "hFE": 100,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO247",
+        "Collector Power Dissipation": "80W",
+        "Collector-Base Voltage": "150V",
+        "Collector-Emitter Voltage": "120V",
+        "Emitter-Base Voltage": "6V",
+        "Collector Current": "8A",
+        "Current Gain (hFE)": "100",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "15MHz",
+        "Collector Capacitance": "160pF"
+      },
+      "datasheets": [
+        {
+          "name": "sanyo (115K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd1046.pdf&dire=_sanyo"
+        },
+        {
+          "name": "inchange semiconductor (221K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd1046.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "st (185K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd1047.pdf&dire=_st"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD1041",
+          "name": "2SD1041",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046E",
+          "manufacturer": "Various",
+          "href": "/component/2SD1041"
+        },
+        {
+          "id": "2SD1042",
+          "name": "2SD1042",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046E",
+          "manufacturer": "Various",
+          "href": "/component/2SD1042"
+        },
+        {
+          "id": "2SD1043",
+          "name": "2SD1043",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046E",
+          "manufacturer": "Various",
+          "href": "/component/2SD1043"
+        },
+        {
+          "id": "2SD1044",
+          "name": "2SD1044",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046E",
+          "manufacturer": "Various",
+          "href": "/component/2SD1044"
+        },
+        {
+          "id": "2SD1044A",
+          "name": "2SD1044A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046E",
+          "manufacturer": "Various",
+          "href": "/component/2SD1044A"
+        },
+        {
+          "id": "2SD1045",
+          "name": "2SD1045",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046E",
+          "manufacturer": "Various",
+          "href": "/component/2SD1045"
+        },
+        {
+          "id": "2SD1046",
+          "name": "2SD1046",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046E",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046"
+        },
+        {
+          "id": "2SD1046D",
+          "name": "2SD1046D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046E",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046D"
+        },
+        {
+          "id": "TIP41C",
+          "name": "TIP41C",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046E",
+          "manufacturer": "Various",
+          "href": "/component/TIP41C"
+        },
+        {
+          "id": "2SD1047",
+          "name": "2SD1047",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046E",
+          "manufacturer": "Various",
+          "href": "/component/2SD1047"
+        },
+        {
+          "id": "2SD1047O",
+          "name": "2SD1047O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046E",
+          "manufacturer": "Various",
+          "href": "/component/2SD1047O"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046E",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046E",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046E",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046E",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1049",
+          "name": "2SD1049",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046E",
+          "manufacturer": "Various",
+          "href": "/component/2SD1049"
+        },
+        {
+          "id": "2SD105",
+          "name": "2SD105",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1046E",
+          "manufacturer": "Various",
+          "href": "/component/2SD105"
+        }
+      ],
+      "href": "/component/2SD1046E"
+    },
+    {
+      "id": "2SD1047O",
+      "name": "2SD1047O",
+      "type": "NPN Transistor",
+      "description": "OP3 \n- BJT Cross-Reference Search\n2SD1047O Datasheet (PDF)\n7.1. Size:185K st\n2sd1047.pdf \n2SD1047High power NPN epitaxial planar bipolar transistorFeatures High breakdown voltage VCEO = 140 V Typical ft = 20 MHz Fully characterized at 125 oCApplication Power supply 321DescriptionTO-3PThe device is a NPN transistor manufactured using new BiT-LA (Bipolar transistor for linear amplifier) technology. The resulting transistor shows good gain line\n7.2. Size:30K sanyo\n2sb817p 2sd1047p 2sd1047p.pdf \nOrdering number : ENN65722SB817P / 2SD1047P2SB817P : PNP Epitaxial Planar Silicon Transistor2SD1047P : NPN Triple Diffused Planar Silicon Transistor2SB817P / 2SD1047P140V / 12A, AF80W Output ApplicationsFeaturesPackage Dimensions Capable of being mounted easily because of one- unit : mmpoint fixing type plastic molded package (Inter-2022Achangeable with TO-3).[2SB817P\n7.3. Size:125K sanyo\n2sd1047 2sd1047e.pdf \nOrdering number:680FPNP Epitaxial Planar Silicon TransistorsNPN Triple Diffused Planar Silicon Transistors2SB817/2SD1047140V/12A AF 60W Output ApplicationsFeatures Package Dimensions Capable of being mounted easily because of one-unit:mmpoint fixing type plastic molded package (Inter-2022Achangeable with TO-3).[2SB817/2SD1047] Wide ASO because of on-chip ballast re\n7.4. Size:445K sanken-ele\n2sb817c 2sd1047c.pdf \nOrdering number : ENN69872SB817C/2SD1047CPNP Epitaxial Planar Silicon TransistorNPN Triple Diffused Planar Silicon Transistor2SB817C/2SD1047C140V / 12A, AF 80W Output ApplicationsFeatures Package Dimensions Large current capacitance. unit : mm Wide ASO and high durability against breakdown. 2022A Adoption of MBIT process.[2SB817C/2SD1047C]15.63.24.814.02.0\nDatasheet: 2SD1043 , 2SD1044 , 2SD1044A , 2SD1045 , 2SD1046 , 2SD1046D , 2SD1046E , 2SD1047 , 2N5551 , 2SD1048 , 2SD1048-6 , 2SD1048-7 , 2SD1048-8 , 2SD1049 , 2SD105 , 2SD1050 , 2SD1051 . \nHistory: 2SD1046E | 2SD1046 | 2SD1044A | 2SD1044 | 2SD1043 | 2SD1042 \nKeywords - 2SD1047O transistor datasheet\n2SD1047O cross reference\n2SD1047O equivalent finder\n2SD1047O lookup\n2SD1047O substitution\n2SD1047O replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TOP3",
+      "maxCollectorCurrent": 12,
+      "maxCollectorEmitterVoltage": 140,
+      "maxCollectorBaseVoltage": 160,
+      "maxEmitterBaseVoltage": 6,
+      "maxPowerDissipation": 100,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 15,
+      "collectorCapacitance": 210,
+      "hFE": 60,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TOP3",
+        "Collector Power Dissipation": "100W",
+        "Collector-Base Voltage": "160V",
+        "Collector-Emitter Voltage": "140V",
+        "Emitter-Base Voltage": "6V",
+        "Collector Current": "12A",
+        "Current Gain (hFE)": "60",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "15MHz",
+        "Collector Capacitance": "210pF"
+      },
+      "datasheets": [
+        {
+          "name": "st (185K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd1047.pdf&dire=_st"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD1043",
+          "name": "2SD1043",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1047O",
+          "manufacturer": "Various",
+          "href": "/component/2SD1043"
+        },
+        {
+          "id": "2SD1044",
+          "name": "2SD1044",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1047O",
+          "manufacturer": "Various",
+          "href": "/component/2SD1044"
+        },
+        {
+          "id": "2SD1044A",
+          "name": "2SD1044A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1047O",
+          "manufacturer": "Various",
+          "href": "/component/2SD1044A"
+        },
+        {
+          "id": "2SD1045",
+          "name": "2SD1045",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1047O",
+          "manufacturer": "Various",
+          "href": "/component/2SD1045"
+        },
+        {
+          "id": "2SD1046",
+          "name": "2SD1046",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1047O",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046"
+        },
+        {
+          "id": "2SD1046D",
+          "name": "2SD1046D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1047O",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046D"
+        },
+        {
+          "id": "2SD1046E",
+          "name": "2SD1046E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1047O",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046E"
+        },
+        {
+          "id": "2SD1047",
+          "name": "2SD1047",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1047O",
+          "manufacturer": "Various",
+          "href": "/component/2SD1047"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1047O",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1047O",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1047O",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1047O",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1049",
+          "name": "2SD1049",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1047O",
+          "manufacturer": "Various",
+          "href": "/component/2SD1049"
+        },
+        {
+          "id": "2SD105",
+          "name": "2SD105",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1047O",
+          "manufacturer": "Various",
+          "href": "/component/2SD105"
+        },
+        {
+          "id": "2SD1050",
+          "name": "2SD1050",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1047O",
+          "manufacturer": "Various",
+          "href": "/component/2SD1050"
+        },
+        {
+          "id": "2SD1051",
+          "name": "2SD1051",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1047O",
+          "manufacturer": "Various",
+          "href": "/component/2SD1051"
+        }
+      ],
+      "href": "/component/2SD1047O"
+    },
+    {
+      "id": "2SD1048",
+      "name": "2SD1048",
+      "type": "NPN Transistor",
+      "description": "O236 \n- BJT Cross-Reference Search\n2SD1048 Datasheet (PDF)\n..1. Size:239K sanyo\n2sb815 2sd1048.pdf \nOrdering number : ENN694F2SB815 / 2SD1048PNP / NPN Epitaxial Planar Silicon Transistors2SB815 / 2SD1048General-Purpose AF Amplifier ApplicationsFeaturesPackage Dimensions Ultrasmall package allows miniaturizationunit : mmin end products.2018B Large current capacity (IC=0.7A) and low-saturation[2SB815 / 2SD1048]voltage.0.40.1630 to 0.11 0.95 0.95 21.9\n..2. Size:21K sanyo\n2sd1048.pdf \nOrdering number : ENN694F2SB815 / 2SD1048PNP / NPN Epitaxial Planar Silicon Transistors2SB815 / 2SD1048General-Purpose AF Amplifier ApplicationsFeaturesPackage Dimensions Ultrasmall package allows miniaturizationunit : mmin end products.2018B Large current capacity (IC=0.7A) and low-saturation[2SB815 / 2SD1048]voltage.0.40.1630 to 0.11 0.95 0.95 21.9\n..3. Size:190K onsemi\n2sb815 2sd1048.pdf \nOrdering number : EN694H2SB815/2SD1048Bipolar Transistorhttp://onsemi.com() () ( ) ( )15V, 0.7A, Low VCE sat , PNP NPN Single CPFeatures Ultrasmall package allows miniaturization in end products Large current capacity (IC=0.7A) and low-saturation voltage( ): 2SB815Specifications Absolute Maximum Ratings at Ta=25CParameter Symbol Conditions Ratings UnitCol\n..4. Size:705K kexin\n2sd1048.pdf \nSMD Type TransistorsNPN Transistors2SD1048SOT-23Unit: mm+0.12.9 -0.1+0.10.4-0.13 Features Large current capacity (IC=0.7A) and low-saturation voltage. Complimentary to 2SB8151 2+0.1+0.050.95 -0.1 0.1 -0.01+0.11.9 -0.11.Base2.Emitter3.collector Absolute Maximum Ratings Ta = 25Parameter Symbol Rating Unit Collector - Base Voltage VC\nDatasheet: 2SD1044 , 2SD1044A , 2SD1045 , 2SD1046 , 2SD1046D , 2SD1046E , 2SD1047 , 2SD1047O , C1815 , 2SD1048-6 , 2SD1048-7 , 2SD1048-8 , 2SD1049 , 2SD105 , 2SD1050 , 2SD1051 , 2SD1052 . \nHistory: 2SD1046E | 2SD1046 | 2SD1044A | 2SD1044 | 2SD1043 | 2SD1042 \nKeywords - 2SD1048 transistor datasheet\n2SD1048 cross reference\n2SD1048 equivalent finder\n2SD1048 lookup\n2SD1048 substitution\n2SD1048 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO236",
+      "maxCollectorCurrent": 0.7,
+      "maxCollectorEmitterVoltage": 15,
+      "maxCollectorBaseVoltage": 20,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.2,
+      "maxJunctionTemperature": 125,
+      "transitionFrequency": 250,
+      "collectorCapacitance": 8,
+      "hFE": 200,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO236",
+        "Collector Power Dissipation": "0.2W",
+        "Collector-Base Voltage": "20V",
+        "Collector-Emitter Voltage": "15V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.7A",
+        "Current Gain (hFE)": "200",
+        "Junction Temperature": "125°C",
+        "Transition Frequency": "250MHz",
+        "Collector Capacitance": "8pF"
+      },
+      "datasheets": [
+        {
+          "name": "sanyo (21K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd1048.pdf&dire=_sanyo"
+        },
+        {
+          "name": "kexin (705K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd1048.pdf&dire=_kexin"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD1044",
+          "name": "2SD1044",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048",
+          "manufacturer": "Various",
+          "href": "/component/2SD1044"
+        },
+        {
+          "id": "2SD1044A",
+          "name": "2SD1044A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048",
+          "manufacturer": "Various",
+          "href": "/component/2SD1044A"
+        },
+        {
+          "id": "2SD1045",
+          "name": "2SD1045",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048",
+          "manufacturer": "Various",
+          "href": "/component/2SD1045"
+        },
+        {
+          "id": "2SD1046",
+          "name": "2SD1046",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046"
+        },
+        {
+          "id": "2SD1046D",
+          "name": "2SD1046D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046D"
+        },
+        {
+          "id": "2SD1046E",
+          "name": "2SD1046E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046E"
+        },
+        {
+          "id": "2SD1047",
+          "name": "2SD1047",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048",
+          "manufacturer": "Various",
+          "href": "/component/2SD1047"
+        },
+        {
+          "id": "2SD1047O",
+          "name": "2SD1047O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048",
+          "manufacturer": "Various",
+          "href": "/component/2SD1047O"
+        },
+        {
+          "id": "2SD1049",
+          "name": "2SD1049",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048",
+          "manufacturer": "Various",
+          "href": "/component/2SD1049"
+        },
+        {
+          "id": "2SD105",
+          "name": "2SD105",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048",
+          "manufacturer": "Various",
+          "href": "/component/2SD105"
+        },
+        {
+          "id": "2SD1050",
+          "name": "2SD1050",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048",
+          "manufacturer": "Various",
+          "href": "/component/2SD1050"
+        },
+        {
+          "id": "2SD1051",
+          "name": "2SD1051",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048",
+          "manufacturer": "Various",
+          "href": "/component/2SD1051"
+        },
+        {
+          "id": "2SD1052",
+          "name": "2SD1052",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048",
+          "manufacturer": "Various",
+          "href": "/component/2SD1052"
+        }
+      ],
+      "href": "/component/2SD1048"
+    },
+    {
+      "id": "2SD1048-6",
+      "name": "2SD1048-6",
+      "type": "NPN Transistor",
+      "description": "O236 \n- BJT Cross-Reference Search\n2SD1048-6 Datasheet (PDF)\n7.1. Size:239K sanyo\n2sb815 2sd1048.pdf \nOrdering number : ENN694F2SB815 / 2SD1048PNP / NPN Epitaxial Planar Silicon Transistors2SB815 / 2SD1048General-Purpose AF Amplifier ApplicationsFeaturesPackage Dimensions Ultrasmall package allows miniaturizationunit : mmin end products.2018B Large current capacity (IC=0.7A) and low-saturation[2SB815 / 2SD1048]voltage.0.40.1630 to 0.11 0.95 0.95 21.9\n7.2. Size:21K sanyo\n2sd1048.pdf \nOrdering number : ENN694F2SB815 / 2SD1048PNP / NPN Epitaxial Planar Silicon Transistors2SB815 / 2SD1048General-Purpose AF Amplifier ApplicationsFeaturesPackage Dimensions Ultrasmall package allows miniaturizationunit : mmin end products.2018B Large current capacity (IC=0.7A) and low-saturation[2SB815 / 2SD1048]voltage.0.40.1630 to 0.11 0.95 0.95 21.9\n7.3. Size:190K onsemi\n2sb815 2sd1048.pdf \nOrdering number : EN694H2SB815/2SD1048Bipolar Transistorhttp://onsemi.com() () ( ) ( )15V, 0.7A, Low VCE sat , PNP NPN Single CPFeatures Ultrasmall package allows miniaturization in end products Large current capacity (IC=0.7A) and low-saturation voltage( ): 2SB815Specifications Absolute Maximum Ratings at Ta=25CParameter Symbol Conditions Ratings UnitCol\n7.4. Size:705K kexin\n2sd1048.pdf \nSMD Type TransistorsNPN Transistors2SD1048SOT-23Unit: mm+0.12.9 -0.1+0.10.4-0.13 Features Large current capacity (IC=0.7A) and low-saturation voltage. Complimentary to 2SB8151 2+0.1+0.050.95 -0.1 0.1 -0.01+0.11.9 -0.11.Base2.Emitter3.collector Absolute Maximum Ratings Ta = 25Parameter Symbol Rating Unit Collector - Base Voltage VC\nDatasheet: 2SD1044A , 2SD1045 , 2SD1046 , 2SD1046D , 2SD1046E , 2SD1047 , 2SD1047O , 2SD1048 , 2N3055 , 2SD1048-7 , 2SD1048-8 , 2SD1049 , 2SD105 , 2SD1050 , 2SD1051 , 2SD1052 , 2SD1052A . \nHistory: 2SD1046E | 2SD1046 | 2SD1044A | 2SD1044 | 2SD1043 | 2SD1042 \nKeywords - 2SD1048-6 transistor datasheet\n2SD1048-6 cross reference\n2SD1048-6 equivalent finder\n2SD1048-6 lookup\n2SD1048-6 substitution\n2SD1048-6 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO236",
+      "maxCollectorCurrent": 0.7,
+      "maxCollectorEmitterVoltage": 15,
+      "maxCollectorBaseVoltage": 20,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 0.2,
+      "maxJunctionTemperature": 125,
+      "transitionFrequency": 250,
+      "collectorCapacitance": 8,
+      "hFE": 200,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO236",
+        "Collector Power Dissipation": "0.2W",
+        "Collector-Base Voltage": "20V",
+        "Collector-Emitter Voltage": "15V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "0.7A",
+        "Current Gain (hFE)": "200",
+        "Junction Temperature": "125°C",
+        "Transition Frequency": "250MHz",
+        "Collector Capacitance": "8pF"
+      },
+      "datasheets": [
+        {
+          "name": "sanyo (21K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd1048.pdf&dire=_sanyo"
+        },
+        {
+          "name": "kexin (705K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sd1048.pdf&dire=_kexin"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SD1044A",
+          "name": "2SD1044A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-6",
+          "manufacturer": "Various",
+          "href": "/component/2SD1044A"
+        },
+        {
+          "id": "2SD1045",
+          "name": "2SD1045",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-6",
+          "manufacturer": "Various",
+          "href": "/component/2SD1045"
+        },
+        {
+          "id": "2SD1046",
+          "name": "2SD1046",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-6",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046"
+        },
+        {
+          "id": "2SD1046D",
+          "name": "2SD1046D",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-6",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046D"
+        },
+        {
+          "id": "2SD1046E",
+          "name": "2SD1046E",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-6",
+          "manufacturer": "Various",
+          "href": "/component/2SD1046E"
+        },
+        {
+          "id": "2SD1047",
+          "name": "2SD1047",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-6",
+          "manufacturer": "Various",
+          "href": "/component/2SD1047"
+        },
+        {
+          "id": "2SD1047O",
+          "name": "2SD1047O",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-6",
+          "manufacturer": "Various",
+          "href": "/component/2SD1047O"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-6",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-6",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1048",
+          "name": "2SD1048",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-6",
+          "manufacturer": "Various",
+          "href": "/component/2SD1048"
+        },
+        {
+          "id": "2SD1049",
+          "name": "2SD1049",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-6",
+          "manufacturer": "Various",
+          "href": "/component/2SD1049"
+        },
+        {
+          "id": "2SD105",
+          "name": "2SD105",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-6",
+          "manufacturer": "Various",
+          "href": "/component/2SD105"
+        },
+        {
+          "id": "2SD1050",
+          "name": "2SD1050",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-6",
+          "manufacturer": "Various",
+          "href": "/component/2SD1050"
+        },
+        {
+          "id": "2SD1051",
+          "name": "2SD1051",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-6",
+          "manufacturer": "Various",
+          "href": "/component/2SD1051"
+        },
+        {
+          "id": "2SD1052",
+          "name": "2SD1052",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-6",
+          "manufacturer": "Various",
+          "href": "/component/2SD1052"
+        },
+        {
+          "id": "2SD1052A",
+          "name": "2SD1052A",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SD1048-6",
+          "manufacturer": "Various",
+          "href": "/component/2SD1052A"
+        }
+      ],
+      "href": "/component/2SD1048-6"
+    }
+  ]
+}

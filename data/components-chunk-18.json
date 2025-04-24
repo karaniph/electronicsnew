@@ -1,0 +1,1091 @@
+{
+  "components": [
+    {
+      "id": "2SC4764",
+      "name": "2SC4764",
+      "type": "NPN Transistor",
+      "description": "With TO-3P(H)IS package High speed High voltage Low saturation voltage Bult-in damper type APPLICATIONS Horizontal deflection output for medium resolution display PINNING PIN DESCRIPTION1 Base 2 Collector3 EmitterFig.1 simplified outline (TO-3P(H)IS) and symbol Abs\n..2. Size:192K inchange semiconductor\n2sc4764.pdf",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "ISOWATT218",
+      "maxCollectorCurrent": 6,
+      "maxCollectorEmitterVoltage": 600,
+      "maxCollectorBaseVoltage": 1500,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 50,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 1,
+      "collectorCapacitance": 250,
+      "hFE": 8,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "ISOWATT218",
+        "Collector Power Dissipation": "50W",
+        "Collector-Base Voltage": "1500V",
+        "Collector-Emitter Voltage": "600V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "6A",
+        "Current Gain (hFE)": "8",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "1MHz",
+        "Collector Capacitance": "250pF"
+      },
+      "datasheets": [
+        {
+          "name": "jmnic (103K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc4764.pdf&dire=_jmnic"
+        },
+        {
+          "name": "inchange semiconductor (192K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc4764.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "sanyo (100K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc4769.pdf&dire=_sanyo"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SC4757",
+          "name": "2SC4757",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4764",
+          "manufacturer": "Various",
+          "href": "/component/2SC4757"
+        },
+        {
+          "id": "2SC4758",
+          "name": "2SC4758",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4764",
+          "manufacturer": "Various",
+          "href": "/component/2SC4758"
+        },
+        {
+          "id": "2SC4759",
+          "name": "2SC4759",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4764",
+          "manufacturer": "Various",
+          "href": "/component/2SC4759"
+        },
+        {
+          "id": "2SC476",
+          "name": "2SC476",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4764",
+          "manufacturer": "Various",
+          "href": "/component/2SC476"
+        },
+        {
+          "id": "2SC4760",
+          "name": "2SC4760",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4764",
+          "manufacturer": "Various",
+          "href": "/component/2SC4760"
+        },
+        {
+          "id": "2SC4761",
+          "name": "2SC4761",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4764",
+          "manufacturer": "Various",
+          "href": "/component/2SC4761"
+        },
+        {
+          "id": "2SC4762",
+          "name": "2SC4762",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4764",
+          "manufacturer": "Various",
+          "href": "/component/2SC4762"
+        },
+        {
+          "id": "2SC4763",
+          "name": "2SC4763",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4764",
+          "manufacturer": "Various",
+          "href": "/component/2SC4763"
+        },
+        {
+          "id": "TSB145",
+          "name": "TSB145",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4764",
+          "manufacturer": "Various",
+          "href": "/component/TSB145"
+        },
+        {
+          "id": "2SC4765",
+          "name": "2SC4765",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4764",
+          "manufacturer": "Various",
+          "href": "/component/2SC4765"
+        },
+        {
+          "id": "2SC4766",
+          "name": "2SC4766",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4764",
+          "manufacturer": "Various",
+          "href": "/component/2SC4766"
+        },
+        {
+          "id": "2SC477",
+          "name": "2SC477",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4764",
+          "manufacturer": "Various",
+          "href": "/component/2SC477"
+        },
+        {
+          "id": "2SC478",
+          "name": "2SC478",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4764",
+          "manufacturer": "Various",
+          "href": "/component/2SC478"
+        },
+        {
+          "id": "2SC4781",
+          "name": "2SC4781",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4764",
+          "manufacturer": "Various",
+          "href": "/component/2SC4781"
+        },
+        {
+          "id": "2SC4789",
+          "name": "2SC4789",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4764",
+          "manufacturer": "Various",
+          "href": "/component/2SC4789"
+        },
+        {
+          "id": "2SC479",
+          "name": "2SC479",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4764",
+          "manufacturer": "Various",
+          "href": "/component/2SC479"
+        },
+        {
+          "id": "2SC4793",
+          "name": "2SC4793",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4764",
+          "manufacturer": "Various",
+          "href": "/component/2SC4793"
+        }
+      ],
+      "href": "/component/2SC4764"
+    },
+    {
+      "id": "2SC4766",
+      "name": "2SC4766",
+      "type": "NPN Transistor",
+      "description": "With TO-3P(H)IS package High speed High voltage Low saturation voltage Bult-in damper type APPLICATIONS Horizontal deflection output for medium resolution display PINNING PIN DESCRIPTION1 Base 2 Collector3 EmitterFig.1 simplified outline (TO-3P(H)IS) and symbol Abs",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "ISOWATT218",
+      "maxCollectorCurrent": 6,
+      "maxCollectorEmitterVoltage": 600,
+      "maxCollectorBaseVoltage": 1700,
+      "maxEmitterBaseVoltage": 5,
+      "maxPowerDissipation": 50,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 1,
+      "collectorCapacitance": 70,
+      "hFE": 200,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "ISOWATT218",
+        "Collector Power Dissipation": "50W",
+        "Collector-Base Voltage": "1700V",
+        "Collector-Emitter Voltage": "600V",
+        "Emitter-Base Voltage": "5V",
+        "Collector Current": "6A",
+        "Current Gain (hFE)": "200",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "1MHz",
+        "Collector Capacitance": "70pF"
+      },
+      "datasheets": [
+        {
+          "name": "inchange semiconductor (192K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc4766.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "sanyo (100K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc4769.pdf&dire=_sanyo"
+        },
+        {
+          "name": "jmnic (103K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc4764.pdf&dire=_jmnic"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SC4759",
+          "name": "2SC4759",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4766",
+          "manufacturer": "Various",
+          "href": "/component/2SC4759"
+        },
+        {
+          "id": "2SC476",
+          "name": "2SC476",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4766",
+          "manufacturer": "Various",
+          "href": "/component/2SC476"
+        },
+        {
+          "id": "2SC4760",
+          "name": "2SC4760",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4766",
+          "manufacturer": "Various",
+          "href": "/component/2SC4760"
+        },
+        {
+          "id": "2SC4761",
+          "name": "2SC4761",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4766",
+          "manufacturer": "Various",
+          "href": "/component/2SC4761"
+        },
+        {
+          "id": "2SC4762",
+          "name": "2SC4762",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4766",
+          "manufacturer": "Various",
+          "href": "/component/2SC4762"
+        },
+        {
+          "id": "2SC4763",
+          "name": "2SC4763",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4766",
+          "manufacturer": "Various",
+          "href": "/component/2SC4763"
+        },
+        {
+          "id": "2SC4764",
+          "name": "2SC4764",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4766",
+          "manufacturer": "Various",
+          "href": "/component/2SC4764"
+        },
+        {
+          "id": "2SC4765",
+          "name": "2SC4765",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4766",
+          "manufacturer": "Various",
+          "href": "/component/2SC4765"
+        },
+        {
+          "id": "2SC477",
+          "name": "2SC477",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4766",
+          "manufacturer": "Various",
+          "href": "/component/2SC477"
+        },
+        {
+          "id": "2SC478",
+          "name": "2SC478",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4766",
+          "manufacturer": "Various",
+          "href": "/component/2SC478"
+        },
+        {
+          "id": "2SC4781",
+          "name": "2SC4781",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4766",
+          "manufacturer": "Various",
+          "href": "/component/2SC4781"
+        },
+        {
+          "id": "2SC4789",
+          "name": "2SC4789",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4766",
+          "manufacturer": "Various",
+          "href": "/component/2SC4789"
+        },
+        {
+          "id": "2SC479",
+          "name": "2SC479",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4766",
+          "manufacturer": "Various",
+          "href": "/component/2SC479"
+        },
+        {
+          "id": "2SC4793",
+          "name": "2SC4793",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4766",
+          "manufacturer": "Various",
+          "href": "/component/2SC4793"
+        },
+        {
+          "id": "2SC4796",
+          "name": "2SC4796",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4766",
+          "manufacturer": "Various",
+          "href": "/component/2SC4796"
+        },
+        {
+          "id": "2SC4797",
+          "name": "2SC4797",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4766",
+          "manufacturer": "Various",
+          "href": "/component/2SC4797"
+        }
+      ],
+      "href": "/component/2SC4766"
+    },
+    {
+      "id": "2SC477",
+      "name": "2SC477",
+      "type": "NPN Transistor",
+      "description": "O72 \n- BJT Cross-Reference Search\n2SC477 Datasheet (PDF)\n0.1. Size:98K sanyo\n2sc4770.pdf \nOrdering number:EN3666ANPN Triple Diffused Planar Silicon Transistor2SC4770Ultrahigh-Definition Color DisplayHorizontal Deflection Output ApplicationsFeatures Package Dimensions High speed (tf=100ns typ).unit:mm High breakdown voltage (VCBO=1500V).2039D High reliability (Adoption of HVP process).[2SC4770] Adoption of MBIT process.16.05.63.43.12.82\n0.2. Size:76K rohm\n2sc4774 2sc4713k.pdf \n2SC4774 / 2SC4713K Transistors High frequency amplifier transistor, RF switching (6V, 50mA) 2SC4774 / 2SC4713K Features 2SC47741) Very low output-on resistance (Ron). 2) Low capacitance. 1.252.1 Absolute maximum ratings (Ta=25C) Parameter Symbol Limits UnitCollector-base voltage VCBO 12 VCollector-emitter voltage VCEO 6 V0.1Min.Emitter-base voltage VEBO 3 VE\n0.3. Size:1405K rohm\n2sc4774.pdf \n2SC4774DatasheetHigh frequency amplifier transistor, RF switching (6V, 50mA)lOutlinel SOT-323 Parameter Value SC-70 VCEO6VIC50mAUMT3 lFeatures lInner circuitl l1)Very Low output-on resistance (Ron).2)Low capacitance.lApplicationlHIGH FREQUENCY AMPLIFIER \n0.4. Size:234K utc\n2sc4774.pdf \nUNISONIC TECHNOLOGIES CO., LTD 2SC4774 NPN SILICON TRANSISTOR HIGH FREQUENCY AMPLIFIER TRANSISTOR, RF SWITCHING (6V, 50mA) FEATURES * Very low output-on resistance (RON). * Low capacitance. ORDERING INFORMATION Order Number Pin Assignment Package Packing Lead Free Halogen Free 1 2 32SC4774L-AL3-R 2SC4774G-AL3-R SOT-323 E B C Tape Reel MARKING C47L: Lead Free\nDatasheet: 2SC476 , 2SC4760 , 2SC4761 , 2SC4762 , 2SC4763 , 2SC4764 , 2SC4765 , 2SC4766 , TIP31 , 2SC478 , 2SC4781 , 2SC4789 , 2SC479 , 2SC4793 , 2SC4796 , 2SC4797 , 2SC479H . \nHistory: 2SC4765 | 2SC4764 \nKeywords - 2SC477 transistor datasheet\n2SC477 cross reference\n2SC477 equivalent finder\n2SC477 lookup\n2SC477 substitution\n2SC477 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO72",
+      "maxCollectorCurrent": 0.03,
+      "maxCollectorEmitterVoltage": 32,
+      "maxCollectorBaseVoltage": 32,
+      "maxEmitterBaseVoltage": 4,
+      "maxPowerDissipation": 0.145,
+      "maxJunctionTemperature": 175,
+      "transitionFrequency": 95,
+      "hFE": 80,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO72",
+        "Collector Power Dissipation": "0.145W",
+        "Collector-Base Voltage": "32V",
+        "Collector-Emitter Voltage": "32V",
+        "Emitter-Base Voltage": "4V",
+        "Collector Current": "0.03A",
+        "Current Gain (hFE)": "80",
+        "Junction Temperature": "175°C",
+        "Transition Frequency": "95MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "sanyo (98K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc4770.pdf&dire=_sanyo"
+        },
+        {
+          "name": "rohm (1405K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc4774.pdf&dire=_rohm"
+        },
+        {
+          "name": "utc (234K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc4774.pdf&dire=_utc"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SC476",
+          "name": "2SC476",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC477",
+          "manufacturer": "Various",
+          "href": "/component/2SC476"
+        },
+        {
+          "id": "2SC4760",
+          "name": "2SC4760",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC477",
+          "manufacturer": "Various",
+          "href": "/component/2SC4760"
+        },
+        {
+          "id": "2SC4761",
+          "name": "2SC4761",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC477",
+          "manufacturer": "Various",
+          "href": "/component/2SC4761"
+        },
+        {
+          "id": "2SC4762",
+          "name": "2SC4762",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC477",
+          "manufacturer": "Various",
+          "href": "/component/2SC4762"
+        },
+        {
+          "id": "2SC4763",
+          "name": "2SC4763",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC477",
+          "manufacturer": "Various",
+          "href": "/component/2SC4763"
+        },
+        {
+          "id": "2SC4764",
+          "name": "2SC4764",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC477",
+          "manufacturer": "Various",
+          "href": "/component/2SC4764"
+        },
+        {
+          "id": "2SC4765",
+          "name": "2SC4765",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC477",
+          "manufacturer": "Various",
+          "href": "/component/2SC4765"
+        },
+        {
+          "id": "2SC4766",
+          "name": "2SC4766",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC477",
+          "manufacturer": "Various",
+          "href": "/component/2SC4766"
+        },
+        {
+          "id": "TIP31",
+          "name": "TIP31",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC477",
+          "manufacturer": "Various",
+          "href": "/component/TIP31"
+        },
+        {
+          "id": "2SC478",
+          "name": "2SC478",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC477",
+          "manufacturer": "Various",
+          "href": "/component/2SC478"
+        },
+        {
+          "id": "2SC4781",
+          "name": "2SC4781",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC477",
+          "manufacturer": "Various",
+          "href": "/component/2SC4781"
+        },
+        {
+          "id": "2SC4789",
+          "name": "2SC4789",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC477",
+          "manufacturer": "Various",
+          "href": "/component/2SC4789"
+        },
+        {
+          "id": "2SC479",
+          "name": "2SC479",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC477",
+          "manufacturer": "Various",
+          "href": "/component/2SC479"
+        },
+        {
+          "id": "2SC4793",
+          "name": "2SC4793",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC477",
+          "manufacturer": "Various",
+          "href": "/component/2SC4793"
+        },
+        {
+          "id": "2SC4796",
+          "name": "2SC4796",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC477",
+          "manufacturer": "Various",
+          "href": "/component/2SC4796"
+        },
+        {
+          "id": "2SC4797",
+          "name": "2SC4797",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC477",
+          "manufacturer": "Various",
+          "href": "/component/2SC4797"
+        },
+        {
+          "id": "2SC479H",
+          "name": "2SC479H",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC477",
+          "manufacturer": "Various",
+          "href": "/component/2SC479H"
+        }
+      ],
+      "href": "/component/2SC477"
+    },
+    {
+      "id": "2SC478",
+      "name": "2SC478",
+      "type": "NPN Transistor",
+      "description": "O18 \n- BJT Cross-Reference Search\n2SC478 Datasheet (PDF)\n0.2. Size:37K nec\n2sc4783.pdf \nDATA SHEETNPN SILICON EPITAXIAL TRANSISTOR2SC4783NPN SILICON EPITAXIAL TRANSISTORDESCRIPTIONPACKAGE DRAWING (Unit: mm) The 2SC4783 is NPN silicon epitaxial transistor.0.3 0.05 0.1+0.10.05FEATURES High DC current gain: hFE2 = 200 TYP. High voltage: VCEO = 50 V30 to 0.1ABSOLUTE MAXIMUM RATINGS (TA = 25C)2 1Collector to Base Voltage VCBO 60 V0.2+0.1\n0.3. Size:40K panasonic\n2sc4787.pdf \nTransistor2SC4787Silicon NPN epitaxial planer typeFor intermediate frequency amplificationUnit: mm6.9 0.1 1.05 2.5 0.1 0.05 (1.45)0.7 4.00.8FeaturesHigh transition frequency fT.Satisfactory linearity of forward current transfer ratio hFE.0.65 max.Allowing supply with the radial taping.+0.1 0.450.052.5 0.5 2.5 0.5Absolute Maximum Ratings (Ta=25C)\n0.4. Size:44K panasonic\n2sc4787 e.pdf \nTransistor2SC4787Silicon NPN epitaxial planer typeFor intermediate frequency amplificationUnit: mm6.9 0.1 1.05 2.5 0.1 0.05 (1.45)0.7 4.00.8FeaturesHigh transition frequency fT.Satisfactory linearity of forward current transfer ratio hFE.0.65 max.Allowing supply with the radial taping.+0.1 0.450.052.5 0.5 2.5 0.5Absolute Maximum Ratings (Ta=25C)\nDatasheet: 2SC4760 , 2SC4761 , 2SC4762 , 2SC4763 , 2SC4764 , 2SC4765 , 2SC4766 , 2SC477 , TIP42 , 2SC4781 , 2SC4789 , 2SC479 , 2SC4793 , 2SC4796 , 2SC4797 , 2SC479H , 2SC48 . \nHistory: 2SC4765 | 2SC4764 \nKeywords - 2SC478 transistor datasheet\n2SC478 cross reference\n2SC478 equivalent finder\n2SC478 lookup\n2SC478 substitution\n2SC478 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO18",
+      "maxCollectorCurrent": 0.12,
+      "maxCollectorEmitterVoltage": 25,
+      "maxCollectorBaseVoltage": 50,
+      "maxEmitterBaseVoltage": 1,
+      "maxPowerDissipation": 0.3,
+      "maxJunctionTemperature": 200,
+      "transitionFrequency": 100,
+      "collectorCapacitance": 8,
+      "hFE": 20,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO18",
+        "Collector Power Dissipation": "0.3W",
+        "Collector-Base Voltage": "50V",
+        "Collector-Emitter Voltage": "25V",
+        "Emitter-Base Voltage": "1V",
+        "Collector Current": "0.12A",
+        "Current Gain (hFE)": "20",
+        "Junction Temperature": "200°C",
+        "Transition Frequency": "100MHz",
+        "Collector Capacitance": "8pF"
+      },
+      "datasheets": [
+        {
+          "name": "nec (37K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc4783.pdf&dire=_nec"
+        },
+        {
+          "name": "panasonic (40K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc4787.pdf&dire=_panasonic"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SC4760",
+          "name": "2SC4760",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC478",
+          "manufacturer": "Various",
+          "href": "/component/2SC4760"
+        },
+        {
+          "id": "2SC4761",
+          "name": "2SC4761",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC478",
+          "manufacturer": "Various",
+          "href": "/component/2SC4761"
+        },
+        {
+          "id": "2SC4762",
+          "name": "2SC4762",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC478",
+          "manufacturer": "Various",
+          "href": "/component/2SC4762"
+        },
+        {
+          "id": "2SC4763",
+          "name": "2SC4763",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC478",
+          "manufacturer": "Various",
+          "href": "/component/2SC4763"
+        },
+        {
+          "id": "2SC4764",
+          "name": "2SC4764",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC478",
+          "manufacturer": "Various",
+          "href": "/component/2SC4764"
+        },
+        {
+          "id": "2SC4765",
+          "name": "2SC4765",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC478",
+          "manufacturer": "Various",
+          "href": "/component/2SC4765"
+        },
+        {
+          "id": "2SC4766",
+          "name": "2SC4766",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC478",
+          "manufacturer": "Various",
+          "href": "/component/2SC4766"
+        },
+        {
+          "id": "2SC477",
+          "name": "2SC477",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC478",
+          "manufacturer": "Various",
+          "href": "/component/2SC477"
+        },
+        {
+          "id": "TIP42",
+          "name": "TIP42",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC478",
+          "manufacturer": "Various",
+          "href": "/component/TIP42"
+        },
+        {
+          "id": "2SC4781",
+          "name": "2SC4781",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC478",
+          "manufacturer": "Various",
+          "href": "/component/2SC4781"
+        },
+        {
+          "id": "2SC4789",
+          "name": "2SC4789",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC478",
+          "manufacturer": "Various",
+          "href": "/component/2SC4789"
+        },
+        {
+          "id": "2SC479",
+          "name": "2SC479",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC478",
+          "manufacturer": "Various",
+          "href": "/component/2SC479"
+        },
+        {
+          "id": "2SC4793",
+          "name": "2SC4793",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC478",
+          "manufacturer": "Various",
+          "href": "/component/2SC4793"
+        },
+        {
+          "id": "2SC4796",
+          "name": "2SC4796",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC478",
+          "manufacturer": "Various",
+          "href": "/component/2SC4796"
+        },
+        {
+          "id": "2SC4797",
+          "name": "2SC4797",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC478",
+          "manufacturer": "Various",
+          "href": "/component/2SC4797"
+        },
+        {
+          "id": "2SC479H",
+          "name": "2SC479H",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC478",
+          "manufacturer": "Various",
+          "href": "/component/2SC479H"
+        },
+        {
+          "id": "2SC48",
+          "name": "2SC48",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC478",
+          "manufacturer": "Various",
+          "href": "/component/2SC48"
+        }
+      ],
+      "href": "/component/2SC478"
+    },
+    {
+      "id": "2SC4789",
+      "name": "2SC4789",
+      "type": "NPN Transistor",
+      "description": "O3PL \n- BJT Cross-Reference Search\n2SC4789 Datasheet (PDF)\n..1. Size:20K hitachi\n2sc4789.pdf \n2SC4789Silicon NPN Triple DiffusedApplication TO3PLCharacter Display Horizontal Deflection OutputFeatures High speed switching time: 0.5 s max High breakdown voltage, high current:VCBO = 1500 V, IC = 25 A Suitable for large size CRT Display1. Base2. Collector13. Emitter23Absolute Maximum Ratings (Ta = 25C)Item Symbol Rating Unit\n..2. Size:186K inchange semiconductor\n2sc4789.pdf \nisc Product Specificationisc Silicon NPN Power Transistor 2SC4789DESCRIPTIONSilicon NPN triple diffusedHigh Switching SpeedHigh Breakdown VoltageHigh speed switching time100% avalanche testedMinimum Lot-to-Lot variations for robust deviceperformance and reliable operationAPPLICATIONSCharacter display horizontal deffection outputSuitable for large size CRT\n8.2. Size:37K nec\n2sc4783.pdf \nDATA SHEETNPN SILICON EPITAXIAL TRANSISTOR2SC4783NPN SILICON EPITAXIAL TRANSISTORDESCRIPTIONPACKAGE DRAWING (Unit: mm) The 2SC4783 is NPN silicon epitaxial transistor.0.3 0.05 0.1+0.10.05FEATURES High DC current gain: hFE2 = 200 TYP. High voltage: VCEO = 50 V30 to 0.1ABSOLUTE MAXIMUM RATINGS (TA = 25C)2 1Collector to Base Voltage VCBO 60 V0.2+0.1\nDatasheet: 2SC4762 , 2SC4763 , 2SC4764 , 2SC4765 , 2SC4766 , 2SC477 , 2SC478 , 2SC4781 , 2SC1815 , 2SC479 , 2SC4793 , 2SC4796 , 2SC4797 , 2SC479H , 2SC48 , 2SC480 , 2SC4806 . \nHistory: 2SC4781 | 2SC4766 | 2SC4765 | 2SC4764 \nKeywords - 2SC4789 transistor datasheet\n2SC4789 cross reference\n2SC4789 equivalent finder\n2SC4789 lookup\n2SC4789 substitution\n2SC4789 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO3PL",
+      "maxCollectorCurrent": 25,
+      "maxCollectorEmitterVoltage": 800,
+      "maxCollectorBaseVoltage": 1500,
+      "maxEmitterBaseVoltage": 6,
+      "maxPowerDissipation": 150,
+      "maxJunctionTemperature": 150,
+      "hFE": 10,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO3PL",
+        "Collector Power Dissipation": "150W",
+        "Collector-Base Voltage": "1500V",
+        "Collector-Emitter Voltage": "800V",
+        "Emitter-Base Voltage": "6V",
+        "Collector Current": "25A",
+        "Current Gain (hFE)": "10",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "N/A",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "hitachi (20K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc4789.pdf&dire=_hitachi"
+        },
+        {
+          "name": "inchange semiconductor (186K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc4789.pdf&dire=_inchange_semiconductor"
+        },
+        {
+          "name": "nec (37K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc4783.pdf&dire=_nec"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SC4762",
+          "name": "2SC4762",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4789",
+          "manufacturer": "Various",
+          "href": "/component/2SC4762"
+        },
+        {
+          "id": "2SC4763",
+          "name": "2SC4763",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4789",
+          "manufacturer": "Various",
+          "href": "/component/2SC4763"
+        },
+        {
+          "id": "2SC4764",
+          "name": "2SC4764",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4789",
+          "manufacturer": "Various",
+          "href": "/component/2SC4764"
+        },
+        {
+          "id": "2SC4765",
+          "name": "2SC4765",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4789",
+          "manufacturer": "Various",
+          "href": "/component/2SC4765"
+        },
+        {
+          "id": "2SC4766",
+          "name": "2SC4766",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4789",
+          "manufacturer": "Various",
+          "href": "/component/2SC4766"
+        },
+        {
+          "id": "2SC477",
+          "name": "2SC477",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4789",
+          "manufacturer": "Various",
+          "href": "/component/2SC477"
+        },
+        {
+          "id": "2SC478",
+          "name": "2SC478",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4789",
+          "manufacturer": "Various",
+          "href": "/component/2SC478"
+        },
+        {
+          "id": "2SC4781",
+          "name": "2SC4781",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4789",
+          "manufacturer": "Various",
+          "href": "/component/2SC4781"
+        },
+        {
+          "id": "2SC1815",
+          "name": "2SC1815",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4789",
+          "manufacturer": "Various",
+          "href": "/component/2SC1815"
+        },
+        {
+          "id": "2SC479",
+          "name": "2SC479",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4789",
+          "manufacturer": "Various",
+          "href": "/component/2SC479"
+        },
+        {
+          "id": "2SC4793",
+          "name": "2SC4793",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4789",
+          "manufacturer": "Various",
+          "href": "/component/2SC4793"
+        },
+        {
+          "id": "2SC4796",
+          "name": "2SC4796",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4789",
+          "manufacturer": "Various",
+          "href": "/component/2SC4796"
+        },
+        {
+          "id": "2SC4797",
+          "name": "2SC4797",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4789",
+          "manufacturer": "Various",
+          "href": "/component/2SC4797"
+        },
+        {
+          "id": "2SC479H",
+          "name": "2SC479H",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4789",
+          "manufacturer": "Various",
+          "href": "/component/2SC479H"
+        },
+        {
+          "id": "2SC48",
+          "name": "2SC48",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4789",
+          "manufacturer": "Various",
+          "href": "/component/2SC48"
+        },
+        {
+          "id": "2SC480",
+          "name": "2SC480",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4789",
+          "manufacturer": "Various",
+          "href": "/component/2SC480"
+        },
+        {
+          "id": "2SC4806",
+          "name": "2SC4806",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4789",
+          "manufacturer": "Various",
+          "href": "/component/2SC4806"
+        }
+      ],
+      "href": "/component/2SC4789"
+    },
+    {
+      "id": "2SC4781",
+      "name": "2SC4781",
+      "type": "NPN Transistor",
+      "description": "O92 \n- BJT Cross-Reference Search\n2SC4781 Datasheet (PDF)\n8.1. Size:37K nec\n2sc4783.pdf \nDATA SHEETNPN SILICON EPITAXIAL TRANSISTOR2SC4783NPN SILICON EPITAXIAL TRANSISTORDESCRIPTIONPACKAGE DRAWING (Unit: mm) The 2SC4783 is NPN silicon epitaxial transistor.0.3 0.05 0.1+0.10.05FEATURES High DC current gain: hFE2 = 200 TYP. High voltage: VCEO = 50 V30 to 0.1ABSOLUTE MAXIMUM RATINGS (TA = 25C)2 1Collector to Base Voltage VCBO 60 V0.2+0.1\n8.2. Size:40K panasonic\n2sc4787.pdf \nTransistor2SC4787Silicon NPN epitaxial planer typeFor intermediate frequency amplificationUnit: mm6.9 0.1 1.05 2.5 0.1 0.05 (1.45)0.7 4.00.8FeaturesHigh transition frequency fT.Satisfactory linearity of forward current transfer ratio hFE.0.65 max.Allowing supply with the radial taping.+0.1 0.450.052.5 0.5 2.5 0.5Absolute Maximum Ratings (Ta=25C)\n8.3. Size:44K panasonic\n2sc4787 e.pdf \nTransistor2SC4787Silicon NPN epitaxial planer typeFor intermediate frequency amplificationUnit: mm6.9 0.1 1.05 2.5 0.1 0.05 (1.45)0.7 4.00.8FeaturesHigh transition frequency fT.Satisfactory linearity of forward current transfer ratio hFE.0.65 max.Allowing supply with the radial taping.+0.1 0.450.052.5 0.5 2.5 0.5Absolute Maximum Ratings (Ta=25C)\nDatasheet: 2SC4761 , 2SC4762 , 2SC4763 , 2SC4764 , 2SC4765 , 2SC4766 , 2SC477 , 2SC478 , 9014 , 2SC4789 , 2SC479 , 2SC4793 , 2SC4796 , 2SC4797 , 2SC479H , 2SC48 , 2SC480 . \nHistory: 2SC4766 | 2SC4765 | 2SC4764 \nKeywords - 2SC4781 transistor datasheet\n2SC4781 cross reference\n2SC4781 equivalent finder\n2SC4781 lookup\n2SC4781 substitution\n2SC4781 replacement",
+      "manufacturer": "Various",
+      "polarity": "NPN",
+      "material": "Si",
+      "package": "TO92",
+      "maxCollectorCurrent": 4,
+      "maxCollectorEmitterVoltage": 30,
+      "maxCollectorBaseVoltage": 30,
+      "maxEmitterBaseVoltage": 10,
+      "maxPowerDissipation": 0.9,
+      "maxJunctionTemperature": 150,
+      "transitionFrequency": 170,
+      "specs": {
+        "Polarity": "NPN",
+        "Material": "Si",
+        "Package": "TO92",
+        "Collector Power Dissipation": "0.9W",
+        "Collector-Base Voltage": "30V",
+        "Collector-Emitter Voltage": "30V",
+        "Emitter-Base Voltage": "10V",
+        "Collector Current": "4A",
+        "Current Gain (hFE)": "N/A",
+        "Junction Temperature": "150°C",
+        "Transition Frequency": "170MHz",
+        "Collector Capacitance": "N/A"
+      },
+      "datasheets": [
+        {
+          "name": "nec (37K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc4783.pdf&dire=_nec"
+        },
+        {
+          "name": "panasonic (40K)",
+          "url": "https://alltransistors.com/adv/pdfview.php?doc=2sc4787.pdf&dire=_panasonic"
+        }
+      ],
+      "equivalents": [
+        {
+          "id": "2SC4761",
+          "name": "2SC4761",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4781",
+          "manufacturer": "Various",
+          "href": "/component/2SC4761"
+        },
+        {
+          "id": "2SC4762",
+          "name": "2SC4762",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4781",
+          "manufacturer": "Various",
+          "href": "/component/2SC4762"
+        },
+        {
+          "id": "2SC4763",
+          "name": "2SC4763",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4781",
+          "manufacturer": "Various",
+          "href": "/component/2SC4763"
+        },
+        {
+          "id": "2SC4764",
+          "name": "2SC4764",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4781",
+          "manufacturer": "Various",
+          "href": "/component/2SC4764"
+        },
+        {
+          "id": "2SC4765",
+          "name": "2SC4765",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4781",
+          "manufacturer": "Various",
+          "href": "/component/2SC4765"
+        },
+        {
+          "id": "2SC4766",
+          "name": "2SC4766",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4781",
+          "manufacturer": "Various",
+          "href": "/component/2SC4766"
+        },
+        {
+          "id": "2SC477",
+          "name": "2SC477",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4781",
+          "manufacturer": "Various",
+          "href": "/component/2SC477"
+        },
+        {
+          "id": "2SC478",
+          "name": "2SC478",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4781",
+          "manufacturer": "Various",
+          "href": "/component/2SC478"
+        },
+        {
+          "id": "2SC4789",
+          "name": "2SC4789",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4781",
+          "manufacturer": "Various",
+          "href": "/component/2SC4789"
+        },
+        {
+          "id": "2SC479",
+          "name": "2SC479",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4781",
+          "manufacturer": "Various",
+          "href": "/component/2SC479"
+        },
+        {
+          "id": "2SC4793",
+          "name": "2SC4793",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4781",
+          "manufacturer": "Various",
+          "href": "/component/2SC4793"
+        },
+        {
+          "id": "2SC4796",
+          "name": "2SC4796",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4781",
+          "manufacturer": "Various",
+          "href": "/component/2SC4796"
+        },
+        {
+          "id": "2SC4797",
+          "name": "2SC4797",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4781",
+          "manufacturer": "Various",
+          "href": "/component/2SC4797"
+        },
+        {
+          "id": "2SC479H",
+          "name": "2SC479H",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4781",
+          "manufacturer": "Various",
+          "href": "/component/2SC479H"
+        },
+        {
+          "id": "2SC48",
+          "name": "2SC48",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4781",
+          "manufacturer": "Various",
+          "href": "/component/2SC48"
+        },
+        {
+          "id": "2SC480",
+          "name": "2SC480",
+          "type": "NPN Transistor",
+          "description": "Potential equivalent for 2SC4781",
+          "manufacturer": "Various",
+          "href": "/component/2SC480"
+        }
+      ],
+      "href": "/component/2SC4781"
+    }
+  ]
+}
