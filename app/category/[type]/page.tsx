@@ -4,6 +4,7 @@ import { loadComponents } from "@/lib/component-data"
 import type { Metadata } from "next"
 import Script from "next/script"
 import { getComponentIcon } from "@/components/icons/electronic-icons"
+import { notFound } from "next/navigation";
 
 type Props = {
   params: { type: string }
@@ -58,6 +59,11 @@ const getCategoryInfo = (type: string) => {
 }
 
 export default async function CategoryPage({ params, searchParams }: Props) {
+  // Deny-list for forbidden categories
+  const denyList = ["capacitor", "capacitors", "resistor", "resistors", "diode", "diodes"];
+  if (denyList.includes(params.type.toLowerCase())) {
+    notFound();
+  }
   const page = Number.parseInt(searchParams.page || "1", 10)
   const pageSize = 12
 
