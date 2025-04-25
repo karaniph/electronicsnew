@@ -1,37 +1,79 @@
-import type { Metadata } from "next"
-import Link from "next/link"
+import type { Metadata } from "next";
+import { useState } from "react";
+import combinedComponents from "./combined_components.json";
 
 export const metadata: Metadata = {
   title: "Equivalent Component Finder | Electronic Components Database | ElectronicHub",
   description:
     "Find equivalent and replacement electronic components. Our tool helps you identify compatible alternatives for transistors, MOSFETs, ICs, and more.",
+};
+
+function searchComponents(query: string) {
+  if (!query) return [];
+  const lower = query.toLowerCase();
+  return combinedComponents.filter((comp: any) =>
+    comp.name.toLowerCase().includes(lower) ||
+    comp.partNumber.toLowerCase().includes(lower)
+  );
 }
 
 export default function EquivalentsPage() {
+  const [query, setQuery] = useState("");
+  const results = searchComponents(query);
+
   return (
     <main className="min-h-screen py-12 px-4">
       <div className="max-w-7xl mx-auto">
         <h1 className="text-3xl font-bold mb-6">Equivalent Component Finder</h1>
         <p className="text-gray-500 mb-8">
-          Find equivalent and replacement electronic components. Our tool helps you identify compatible alternatives for
-          your projects.
+          Find equivalent and replacement electronic components. Search by part name or number to see all specs and equivalent parts.
         </p>
 
         <div className="bg-white rounded-2xl p-8 border border-gray-200 mb-8">
-          <h2 className="text-xl font-bold mb-4">Coming Soon</h2>
-          <p className="text-gray-500">
-            We're currently building our equivalent component finder tool. Check back soon for a comprehensive database
-            of component equivalents.
-          </p>
+          <input
+            type="text"
+            className="w-full px-4 py-2 border rounded mb-6"
+            placeholder="Enter part name or number..."
+            value={query}
+            onChange={e => setQuery(e.target.value)}
+          />
+          {query && (
+            <div>
+              <p className="text-sm text-gray-600 mb-2">{results.length} result(s) found</p>
+              <div className="overflow-x-auto">
+                <table className="min-w-full border text-xs">
+                  <thead>
+                    <tr>
+                      <th className="border px-2 py-1">Name</th>
+                      <th className="border px-2 py-1">Part Number</th>
+                      <th className="border px-2 py-1">Category</th>
+                      <th className="border px-2 py-1">Description</th>
+                      <th className="border px-2 py-1">Specs</th>
+                      <th className="border px-2 py-1">Equivalents</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {results.map((comp: any) => (
+                      <tr key={comp.id}>
+                        <td className="border px-2 py-1">{comp.name}</td>
+                        <td className="border px-2 py-1">{comp.partNumber}</td>
+                        <td className="border px-2 py-1">{comp.category}</td>
+                        <td className="border px-2 py-1">{comp.description}</td>
+                        <td className="border px-2 py-1 whitespace-pre-wrap">
+                          {Object.entries(comp.keySpecs || {}).map(([k, v]) => `${k}: ${v}`).join("\n")}
+                        </td>
+                        <td className="border px-2 py-1 whitespace-pre-wrap">
+                          {(comp.equivalents || []).map((eq: any) => eq.partNumber).join(", ")}
+                        </td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          )}
         </div>
-
-        <Link
-          href="/search"
-          className="bg-black text-white px-6 py-3 rounded-full font-medium hover:bg-gray-800 transition-colors inline-block"
-        >
-          Search for Components
-        </Link>
       </div>
     </main>
-  )
+  );
 }
