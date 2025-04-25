@@ -58,9 +58,9 @@ const getCategoryInfo = (type: string) => {
   )
 }
 
+const denyList = ["capacitor", "capacitors", "resistor", "resistors", "diode", "diodes"];
+
 export default async function CategoryPage({ params, searchParams }: Props) {
-  // Deny-list for forbidden categories
-  const denyList = ["capacitor", "capacitors", "resistor", "resistors", "diode", "diodes"];
   if (denyList.includes(params.type.toLowerCase())) {
     notFound();
   }
