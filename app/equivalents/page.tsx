@@ -1,25 +1,13 @@
-import type { Metadata } from "next";
+"use client";
 import { useState } from "react";
 import combinedComponents from "./combined_components.json";
 
-export const metadata: Metadata = {
-  title: "Equivalent Component Finder | Electronic Components Database | ElectronicHub",
-  description:
-    "Find equivalent and replacement electronic components. Our tool helps you identify compatible alternatives for transistors, MOSFETs, ICs, and more.",
-};
-
-function searchComponents(query: string) {
-  if (!query) return [];
-  const lower = query.toLowerCase();
-  return combinedComponents.filter((comp: any) =>
-    comp.name.toLowerCase().includes(lower) ||
-    comp.partNumber.toLowerCase().includes(lower)
-  );
-}
-
 export default function EquivalentsPage() {
   const [query, setQuery] = useState("");
-  const results = searchComponents(query);
+  const results = !query ? [] : combinedComponents.filter((comp: any) =>
+    comp.name.toLowerCase().includes(query.toLowerCase()) ||
+    comp.partNumber.toLowerCase().includes(query.toLowerCase())
+  );
 
   return (
     <main className="min-h-screen py-12 px-4">
@@ -28,7 +16,6 @@ export default function EquivalentsPage() {
         <p className="text-gray-500 mb-8">
           Find equivalent and replacement electronic components. Search by part name or number to see all specs and equivalent parts.
         </p>
-
         <div className="bg-white rounded-2xl p-8 border border-gray-200 mb-8">
           <input
             type="text"
