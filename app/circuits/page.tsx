@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { useSession } from "next-auth/react";
+// import { useSession } from "next-auth/react";
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
@@ -9,42 +9,42 @@ import { Badge } from "@/components/ui/badge";
 import Link from "next/link";
 
 // Premium check component
-function PremiumCheck({ children, showFreeContent = true }) {
-  const { data: session, status } = useSession();
-  const isPremium = session?.user?.subscriptionTier === "premium";
-  
-  if (status === "loading") {
-    return (
-      <div className="text-center py-12">
-        <p>Loading...</p>
-      </div>
-    );
-  }
-  
-  if (!session) {
-    return (
-      <div className="text-center py-12">
-        <h2 className="text-2xl font-bold mb-4">Sign in Required</h2>
-        <p className="mb-6">Please sign in to access circuit templates</p>
-        <Button asChild>
-          <Link href="/auth/signin">Sign In</Link>
-        </Button>
-      </div>
-    );
-  }
-  
-  if (!isPremium && !showFreeContent) {
-    return (
-      <div className="text-center py-12">
-        <h2 className="text-2xl font-bold mb-4">Premium Feature</h2>
-        <p className="mb-6">This content is available to premium subscribers only</p>
-        <Button asChild>
-          <Link href="/circuits/premium">Upgrade Now</Link>
-        </Button>
-      </div>
-    );
-  }
-  
+function PremiumCheck({ children }) {
+  // const { data: session, status } = useSession();
+  // const isPremium = session?.user?.subscriptionTier === "premium";
+
+  // if (status === "loading") {
+  //   return (
+  //     <div className="text-center py-12">
+  //       <p>Loading...</p>
+  //     </div>
+  //   );
+  // }
+
+  // if (!session) {
+  //   return (
+  //     <div className="text-center py-12">
+  //       <h2 className="text-2xl font-bold mb-4">Sign in Required</h2>
+  //       <p className="mb-6">Please sign in to access the circuits page</p>
+  //       <Button asChild>
+  //         <Link href="/auth/signin">Sign In</Link>
+  //       </Button>
+  //     </div>
+  //   );
+  // }
+
+  // if (!isPremium) {
+  //   return (
+  //     <div className="text-center py-12">
+  //       <h2 className="text-2xl font-bold mb-4">Premium Feature</h2>
+  //       <p className="mb-6">This page is available to premium subscribers</p>
+  //       <Button asChild>
+  //         <Link href="/circuits/premium">Upgrade Now</Link>
+  //       </Button>
+  //     </div>
+  //   );
+  // }
+
   return children;
 }
 
@@ -512,8 +512,8 @@ const premiumCircuitTemplates = {
 
 export default function CircuitTemplatesPage() {
   const [selectedCategory, setSelectedCategory] = useState("basic");
-  const { data: session } = useSession();
-  const isPremium = session?.user?.subscriptionTier === "premium";
+  // const { data: session } = useSession();
+  // const isPremium = session?.user?.subscriptionTier === "premium";
   
   // Combine free and premium templates based on user subscription
   const getTemplates = (category) => {
@@ -521,9 +521,9 @@ export default function CircuitTemplatesPage() {
     const premiumTemplatesForCategory = premiumCircuitTemplates[category] || [];
     
     // If user is premium, show all templates
-    if (isPremium) {
-      return [...freeTemplates, ...premiumTemplatesForCategory];
-    }
+    // if (isPremium) {
+    //   return [...freeTemplates, ...premiumTemplatesForCategory];
+    // }
     
     // If user is not premium, show only free templates and premium templates with a lock
     return [...freeTemplates, ...premiumTemplatesForCategory.map(template => ({
@@ -533,21 +533,21 @@ export default function CircuitTemplatesPage() {
   };
   
   // Handle premium upgrade
-  const handleUpgrade = async () => {
-    try {
-      const response = await fetch("/api/create-checkout", {
-        method: "POST",
-      });
+  // const handleUpgrade = async () => {
+  //   try {
+  //     const response = await fetch("/api/create-checkout", {
+  //       method: "POST",
+  //     });
       
-      const data = await response.json();
+  //     const data = await response.json();
       
-      if (data.url) {
-        window.location.href = data.url;
-      }
-    } catch (error) {
-      console.error("Error:", error);
-    }
-  };
+  //     if (data.url) {
+  //       window.location.href = data.url;
+  //     }
+  //   } catch (error) {
+  //     console.error("Error:", error);
+  //   }
+  // };
   
   return (
     <div className="container mx-auto py-12">
@@ -559,7 +559,7 @@ export default function CircuitTemplatesPage() {
           </p>
         </div>
         
-        {!isPremium && (
+        {/* !isPremium && (
           <div className="mt-4 md:mt-0">
             <Button onClick={handleUpgrade} className="bg-gradient-to-r from-purple-500 to-blue-500 hover:from-purple-600 hover:to-blue-600">
               Upgrade to Premium - $5.99
@@ -568,7 +568,7 @@ export default function CircuitTemplatesPage() {
               Unlock 40+ premium circuit designs
             </p>
           </div>
-        )}
+        ) */}
       </div>
       
       <PremiumCheck showFreeContent={true}>
@@ -593,7 +593,7 @@ export default function CircuitTemplatesPage() {
                         alt={template.name} 
                         className="h-full w-full object-contain p-4" 
                       />
-                      {(template.isPremium && !isPremium) && (
+                      {(template.isPremium && !false) && (
                         <div className="absolute inset-0 bg-black/50 flex items-center justify-center">
                           <div className="text-center">
                             <div className="bg-primary text-primary-foreground rounded-full p-2 inline-block mb-2">
@@ -625,8 +625,8 @@ export default function CircuitTemplatesPage() {
                       </ul>
                     </CardContent>
                     <CardFooter>
-                      {(template.isPremium && !isPremium) ? (
-                        <Button onClick={handleUpgrade} className="w-full">
+                      {(template.isPremium && !false) ? (
+                        <Button onClick={() => {}} className="w-full">
                           Unlock Premium Design
                         </Button>
                       ) : (
@@ -645,7 +645,7 @@ export default function CircuitTemplatesPage() {
         </Tabs>
       </PremiumCheck>
       
-      {!isPremium && (
+      {/* !isPremium && (
         <div className="mt-12 p-6 border rounded-lg bg-muted/50">
           <div className="flex flex-col md:flex-row items-center">
             <div className="md:w-2/3">
@@ -685,13 +685,13 @@ export default function CircuitTemplatesPage() {
             <div className="md:w-1/3 text-center">
               <div className="text-4xl font-bold mb-2">$5.99</div>
               <p className="text-muted-foreground mb-4">One-time payment</p>
-              <Button onClick={handleUpgrade} size="lg" className="w-full md:w-auto bg-gradient-to-r from-purple-500 to-blue-500 hover:from-purple-600 hover:to-blue-600">
+              <Button onClick={() => {}} size="lg" className="w-full md:w-auto bg-gradient-to-r from-purple-500 to-blue-500 hover:from-purple-600 hover:to-blue-600">
                 Upgrade to Premium
               </Button>
             </div>
           </div>
         </div>
-      )}
+      ) */}
     </div>
   );
 }

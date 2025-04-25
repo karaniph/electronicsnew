@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { useSession } from "next-auth/react";
+// import { useSession } from "next-auth/react";
 import { useParams } from "next/navigation";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
@@ -10,8 +10,8 @@ import Link from "next/link";
 
 // Premium check component
 function PremiumCheck({ children, showFreeContent = true, circuitId }) {
-  const { data: session, status } = useSession();
-  const isPremium = session?.user?.subscriptionTier === "premium";
+  // const { data: session, status } = useSession();
+  const isPremium = false; // session?.user?.subscriptionTier === "premium";
   
   // Check if this is a premium circuit
   const [isPremiumCircuit, setIsPremiumCircuit] = useState(false);
@@ -42,7 +42,7 @@ function PremiumCheck({ children, showFreeContent = true, circuitId }) {
     checkCircuitStatus();
   }, [circuitId]);
   
-  if (status === "loading") {
+  if (/*status === "loading"*/) {
     return (
       <div className="text-center py-12">
         <p>Loading...</p>
@@ -50,7 +50,7 @@ function PremiumCheck({ children, showFreeContent = true, circuitId }) {
     );
   }
   
-  if (!session) {
+  if (/*!session*/) {
     return (
       <div className="text-center py-12">
         <h2 className="text-2xl font-bold mb-4">Sign in Required</h2>
@@ -286,8 +286,8 @@ export default function CircuitDetailPage() {
   const params = useParams();
   const circuitId = params.id;
   const circuitData = getCircuitData(circuitId);
-  const { data: session } = useSession();
-  const isPremium = session?.user?.subscriptionTier === "premium";
+  // const { data: session } = useSession();
+  const isPremium = false; // session?.user?.subscriptionTier === "premium";
   
   // Handle premium upgrade
   const handleUpgrade = async () => {

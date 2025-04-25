@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { useSession } from "next-auth/react";
+// import { useSession } from "next-auth/react";
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
@@ -13,40 +13,40 @@ import Link from "next/link";
 
 // Premium check component
 function PremiumCheck({ children }) {
-  const { data: session, status } = useSession();
-  const isPremium = session?.user?.subscriptionTier === "premium";
+  // const { data: session, status } = useSession();
+  // const isPremium = session?.user?.subscriptionTier === "premium";
   
-  if (status === "loading") {
-    return (
-      <div className="text-center py-12">
-        <p>Loading...</p>
-      </div>
-    );
-  }
+  // if (status === "loading") {
+  //   return (
+  //     <div className="text-center py-12">
+  //       <p>Loading...</p>
+  //     </div>
+  //   );
+  // }
   
-  if (!session) {
-    return (
-      <div className="text-center py-12">
-        <h2 className="text-2xl font-bold mb-4">Sign in Required</h2>
-        <p className="mb-6">Please sign in to access the component selector tool</p>
-        <Button asChild>
-          <Link href="/auth/signin">Sign In</Link>
-        </Button>
-      </div>
-    );
-  }
+  // if (!session) {
+  //   return (
+  //     <div className="text-center py-12">
+  //       <h2 className="text-2xl font-bold mb-4">Sign in Required</h2>
+  //       <p className="mb-6">Please sign in to access the component selector tool</p>
+  //       <Button asChild>
+  //         <Link href="/auth/signin">Sign In</Link>
+  //       </Button>
+  //     </div>
+  //   );
+  // }
   
-  if (!isPremium) {
-    return (
-      <div className="text-center py-12">
-        <h2 className="text-2xl font-bold mb-4">Premium Feature</h2>
-        <p className="mb-6">The component selector tool is available to premium subscribers</p>
-        <Button asChild>
-          <Link href="/circuits/premium">Upgrade Now</Link>
-        </Button>
-      </div>
-    );
-  }
+  // if (!isPremium) {
+  //   return (
+  //     <div className="text-center py-12">
+  //       <h2 className="text-2xl font-bold mb-4">Premium Feature</h2>
+  //       <p className="mb-6">The component selector tool is available to premium subscribers</p>
+  //       <Button asChild>
+  //         <Link href="/circuits/premium">Upgrade Now</Link>
+  //       </Button>
+  //     </div>
+  //   );
+  // }
   
   return children;
 }
