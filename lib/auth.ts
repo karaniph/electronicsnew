@@ -1,13 +1,7 @@
 import { NextAuthOptions } from "next-auth";
 import CredentialsProvider from "next-auth/providers/credentials";
-import { PrismaAdapter } from "@auth/prisma-adapter";
-import { PrismaClient } from "@prisma/client";
-import bcrypt from "bcrypt";
-
-const prisma = new PrismaClient();
 
 export const authOptions: NextAuthOptions = {
-  adapter: PrismaAdapter(prisma),
   providers: [
     CredentialsProvider({
       name: "Credentials",
@@ -20,24 +14,12 @@ export const authOptions: NextAuthOptions = {
           return null;
         }
 
-        const user = await prisma.user.findUnique({
-          where: { email: credentials.email }
-        });
-        
-        if (!user) return null;
-        
-        const passwordMatch = await bcrypt.compare(
-          credentials.password,
-          user.password
-        );
-        
-        if (!passwordMatch) return null;
-        
+        // Always return a fake user for now
         return {
-          id: user.id,
-          email: user.email,
-          name: user.name,
-          subscriptionTier: user.subscriptionTier
+          id: 1,
+          email: credentials?.email,
+          name: "Fake User",
+          subscriptionTier: "free"
         };
       }
     })

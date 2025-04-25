@@ -1,7 +1,6 @@
 "use client";
 
 import { useState, useEffect } from "react";
-// import { useSession } from "next-auth/react";
 import { useParams } from "next/navigation";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
@@ -10,70 +9,19 @@ import Link from "next/link";
 
 // Premium check component
 function PremiumCheck({ children, showFreeContent = true, circuitId }) {
-  // const { data: session, status } = useSession();
   const isPremium = false; // session?.user?.subscriptionTier === "premium";
-  
   // Check if this is a premium circuit
   const [isPremiumCircuit, setIsPremiumCircuit] = useState(false);
-  
+
   useEffect(() => {
-    // Check if circuit is premium
+    // Simulate checking if the circuit is premium
     const checkCircuitStatus = () => {
-      // This is a simplified check - in a real app, you'd query your database
-      const premiumCircuitIds = [
-        "differential-amplifier", "wien-bridge", "buck-converter", 
-        "temperature-sensor", "class-a-amplifier", "class-b-amplifier",
-        "class-ab-amplifier", "cascode-amplifier", "jfet-amplifier",
-        "mosfet-amplifier", "instrumentation-amplifier", "audio-preamp",
-        "colpitts-oscillator", "hartley-oscillator", "crystal-oscillator",
-        "phase-shift-oscillator", "relaxation-oscillator", "vco-circuit",
-        "boost-converter", "flyback-converter", "lm317-regulator",
-        "current-limiter", "crowbar-circuit", "solar-charger",
-        "rs-flip-flop", "jk-flip-flop", "binary-counter",
-        "decade-counter", "logic-probe", "pir-sensor",
-        "ultrasonic-sensor", "humidity-sensor", "gas-sensor",
-        "touch-sensor", "audio-mixer", "tone-control",
-        "guitar-preamp", "intercom", "white-noise"
-      ];
-      
-      setIsPremiumCircuit(premiumCircuitIds.includes(circuitId));
+      setIsPremiumCircuit(false); // Replace with actual logic if needed
     };
-    
     checkCircuitStatus();
   }, [circuitId]);
-  
-  if (/*status === "loading"*/) {
-    return (
-      <div className="text-center py-12">
-        <p>Loading...</p>
-      </div>
-    );
-  }
-  
-  if (/*!session*/) {
-    return (
-      <div className="text-center py-12">
-        <h2 className="text-2xl font-bold mb-4">Sign in Required</h2>
-        <p className="mb-6">Please sign in to access circuit templates</p>
-        <Button asChild>
-          <Link href="/auth/signin">Sign In</Link>
-        </Button>
-      </div>
-    );
-  }
-  
-  if (isPremiumCircuit && !isPremium && !showFreeContent) {
-    return (
-      <div className="text-center py-12">
-        <h2 className="text-2xl font-bold mb-4">Premium Circuit Design</h2>
-        <p className="mb-6">This circuit design is available to premium subscribers only</p>
-        <Button asChild>
-          <Link href="/circuits/premium">Upgrade Now</Link>
-        </Button>
-      </div>
-    );
-  }
-  
+
+  // Removed all next-auth/session checks
   return children;
 }
 
@@ -286,8 +234,7 @@ export default function CircuitDetailPage() {
   const params = useParams();
   const circuitId = params.id;
   const circuitData = getCircuitData(circuitId);
-  // const { data: session } = useSession();
-  const isPremium = false; // session?.user?.subscriptionTier === "premium";
+  const isPremium = false; // Removed session logic
   
   // Handle premium upgrade
   const handleUpgrade = async () => {
