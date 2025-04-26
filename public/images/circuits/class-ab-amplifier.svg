@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="220" viewBox="0 0 400 220">
+  <rect width="400" height="220" fill="#fff"/>
+  <!-- Battery Vcc -->
+  <line x1="60" y1="40" x2="60" y2="60" stroke="#222" stroke-width="2"/>
+  <line x1="60" y1="40" x2="200" y2="40" stroke="#222" stroke-width="2"/>
+  <text x="65" y="32" font-size="12" fill="#222">Vcc</text>
+  <!-- Collector resistors Rc1, Rc2 -->
+  <polyline points="120,40 124,34 128,46 132,34 136,46 140,34 144,46 148,40" fill="none" stroke="#222" stroke-width="2"/>
+  <polyline points="280,40 284,34 288,46 292,34 296,46 300,34 304,46 308,40" fill="none" stroke="#222" stroke-width="2"/>
+  <!-- NPN Q1 (top) -->
+  <circle cx="150" cy="100" r="30" fill="none" stroke="#222" stroke-width="2"/>
+  <line x1="148" y1="40" x2="150" y2="70" stroke="#222" stroke-width="2"/>
+  <line x1="150" y1="70" x2="150" y2="130" stroke="#222" stroke-width="2"/>
+  <!-- PNP Q2 (bottom) -->
+  <circle cx="250" cy="160" r="30" fill="none" stroke="#222" stroke-width="2"/>
+  <line x1="308" y1="40" x2="250" y2="130" stroke="#222" stroke-width="2"/>
+  <line x1="250" y1="130" x2="250" y2="190" stroke="#222" stroke-width="2"/>
+  <!-- Output -->
+  <line x1="150" y1="130" x2="250" y2="130" stroke="#222" stroke-width="2"/>
+  <line x1="250" y1="130" x2="320" y2="130" stroke="#222" stroke-width="2"/>
+  <text x="325" y="135" font-size="12" fill="#222">OUT</text>
+  <!-- Input -->
+  <line x1="60" y1="100" x2="120" y2="100" stroke="#222" stroke-width="2"/>
+  <text x="35" y="105" font-size="12" fill="#222">IN</text>
+  <!-- Diodes for AB biasing -->
+  <rect x="185" y="120" width="10" height="10" rx="2" fill="#fff" stroke="#222" stroke-width="2"/>
+  <rect x="205" y="120" width="10" height="10" rx="2" fill="#fff" stroke="#222" stroke-width="2"/>
+  <text x="187" y="130" font-size="10" fill="#222">D1</text>
+  <text x="207" y="130" font-size="10" fill="#222">D2</text>
+  <!-- Ground -->
+  <line x1="250" y1="190" x2="250" y2="210" stroke="#222" stroke-width="2"/>
+  <line x1="246" y1="210" x2="254" y2="210" stroke="#222" stroke-width="2"/>
+  <line x1="248" y1="214" x2="252" y2="214" stroke="#222" stroke-width="2"/>
+  <line x1="249" y1="218" x2="251" y2="218" stroke="#222" stroke-width="2"/>
+  <!-- Labels -->
+  <text x="140" y="60" font-size="12" fill="#222">Q1 (NPN)</text>
+  <text x="240" y="180" font-size="12" fill="#222">Q2 (PNP)</text>
+  <text x="135" y="30" font-size="12" fill="#222">Rc1</text>
+  <text x="295" y="30" font-size="12" fill="#222">Rc2</text>
+</svg>
