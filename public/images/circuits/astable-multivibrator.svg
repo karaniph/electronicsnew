@@ -1,1 +1,51 @@
-https://upload.wikimedia.org/wikipedia/commons/7/7a/Astable-multivibrator-circuit.svg
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="220" viewBox="0 0 420 220">
+  <rect width="420" height="220" fill="#fff"/>
+  <!-- Battery Vcc -->
+  <line x1="60" y1="40" x2="60" y2="60" stroke="#222" stroke-width="2"/>
+  <line x1="60" y1="40" x2="360" y2="40" stroke="#222" stroke-width="2"/>
+  <text x="65" y="32" font-size="12" fill="#222">Vcc</text>
+  <!-- Collector resistors RC1, RC2 -->
+  <polyline points="120,40 124,34 128,46 132,34 136,46 140,34 144,46 148,40" fill="none" stroke="#222" stroke-width="2"/>
+  <polyline points="320,40 324,34 328,46 332,34 336,46 340,34 344,46 348,40" fill="none" stroke="#222" stroke-width="2"/>
+  <!-- Wires to collectors -->
+  <line x1="148" y1="40" x2="180" y2="60" stroke="#222" stroke-width="2"/>
+  <line x1="348" y1="40" x2="320" y2="60" stroke="#222" stroke-width="2"/>
+  <!-- NPN Q1 -->
+  <circle cx="180" cy="140" r="40" fill="none" stroke="#222" stroke-width="2"/>
+  <line x1="180" y1="60" x2="180" y2="100" stroke="#222" stroke-width="2"/>
+  <line x1="180" y1="100" x2="180" y2="180" stroke="#222" stroke-width="2"/>
+  <!-- NPN Q2 -->
+  <circle cx="320" cy="140" r="40" fill="none" stroke="#222" stroke-width="2"/>
+  <line x1="320" y1="60" x2="320" y2="100" stroke="#222" stroke-width="2"/>
+  <line x1="320" y1="100" x2="320" y2="180" stroke="#222" stroke-width="2"/>
+  <!-- Emitters to ground -->
+  <line x1="180" y1="180" x2="180" y2="200" stroke="#222" stroke-width="2"/>
+  <line x1="320" y1="180" x2="320" y2="200" stroke="#222" stroke-width="2"/>
+  <line x1="180" y1="200" x2="320" y2="200" stroke="#222" stroke-width="2"/>
+  <line x1="240" y1="200" x2="240" y2="210" stroke="#222" stroke-width="2"/>
+  <line x1="236" y1="210" x2="244" y2="210" stroke="#222" stroke-width="2"/>
+  <line x1="238" y1="214" x2="242" y2="214" stroke="#222" stroke-width="2"/>
+  <line x1="239" y1="218" x2="241" y2="218" stroke="#222" stroke-width="2"/>
+  <!-- Bases -->
+  <line x1="140" y1="140" x2="100" y2="140" stroke="#222" stroke-width="2"/>
+  <line x1="360" y1="140" x2="400" y2="140" stroke="#222" stroke-width="2"/>
+  <!-- Base resistors RB1, RB2 -->
+  <polyline points="100,140 104,134 108,146 112,134 116,146 120,134 124,146 128,140" fill="none" stroke="#222" stroke-width="2"/>
+  <polyline points="400,140 404,134 408,146 412,134 416,146 420,134 424,146 428,140" fill="none" stroke="#222" stroke-width="2"/>
+  <!-- Coupling capacitors C1, C2 -->
+  <rect x="128" y="132" width="8" height="16" rx="2" fill="#fff" stroke="#222" stroke-width="2"/>
+  <text x="132" y="150" font-size="10" fill="#222">C1</text>
+  <rect x="392" y="132" width="8" height="16" rx="2" fill="#fff" stroke="#222" stroke-width="2"/>
+  <text x="396" y="150" font-size="10" fill="#222">C2</text>
+  <!-- Coupling wires -->
+  <line x1="136" y1="140" x2="180" y2="100" stroke="#222" stroke-width="2"/>
+  <line x1="392" y1="140" x2="320" y2="100" stroke="#222" stroke-width="2"/>
+  <!-- Labels -->
+  <text x="120" y="30" font-size="12" fill="#222">RC1</text>
+  <text x="340" y="30" font-size="12" fill="#222">RC2</text>
+  <text x="110" y="170" font-size="12" fill="#222">Q1</text>
+  <text x="350" y="170" font-size="12" fill="#222">Q2</text>
+  <text x="90" y="120" font-size="12" fill="#222">RB1</text>
+  <text x="410" y="120" font-size="12" fill="#222">RB2</text>
+</svg>
