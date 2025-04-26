@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="160" viewBox="0 0 300 160">
+  <rect width="300" height="160" fill="#fff"/>
+  <!-- MUX block -->
+  <rect x="100" y="40" width="80" height="80" rx="10" fill="#fff" stroke="#222" stroke-width="2"/>
+  <text x="140" y="90" font-size="16" fill="#222">MUX</text>
+  <!-- Data inputs -->
+  <line x1="60" y1="60" x2="100" y2="60" stroke="#222" stroke-width="2"/>
+  <text x="40" y="65" font-size="12" fill="#222">D0</text>
+  <line x1="60" y1="100" x2="100" y2="100" stroke="#222" stroke-width="2"/>
+  <text x="40" y="105" font-size="12" fill="#222">D1</text>
+  <!-- Select line -->
+  <line x1="140" y1="130" x2="140" y2="120" stroke="#222" stroke-width="2"/>
+  <text x="125" y="150" font-size="12" fill="#222">S</text>
+  <!-- Output -->
+  <line x1="180" y1="80" x2="240" y2="80" stroke="#222" stroke-width="2"/>
+  <text x="245" y="85" font-size="12" fill="#222">OUT</text>
+</svg>
